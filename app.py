@@ -1,5 +1,5 @@
 import streamlit as st
-import openai
+from openai import OpenAI
 import os
 from dotenv import load_dotenv
 from pinecone import Pinecone
@@ -9,10 +9,9 @@ from langchain_openai import OpenAIEmbeddings
 load_dotenv()
 
 # Initialize OpenAI and Pinecone
-openai.api_key = os.getenv("OPENAI_API_KEY")
 pinecone_api_key = os.getenv("PINECONE_API_KEY")
 pc = Pinecone(api_key=pinecone_api_key)
-client = openai.Client()
+client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 # Specify your Pinecone index name
 index_name = "physical-therapy"
@@ -20,14 +19,16 @@ index = pc.Index(index_name)
 
 def generate_openai_response(prompt, temperature=0.7):
     """Generate a response using OpenAI based on the given prompt."""
-    response = client.chat.completions.create(
-        model="gpt-3.5-turbo",  # Adjust the model as necessary
-        messages=[{"role": "system", "content": "You are a helpful assistant."}, 
-                  {"role": "user", "content": prompt}],
-        temperature=temperature,
-        max_tokens=150
-    )
-    return response.choices[0].message.content.strip()
+    try:
+        response = client.chat.completions.create(model="gpt-3.5-turbo",  # You can change this to a different model if needed
+        messages=[
+            {"role": "system", "content": "You are an assistant designed to support physical therapists by offering quick access to information on possible diagnoses, suggesting appropriate tests for accurate diagnosis, highlighting important considerations during patient assessment, and serving as a database for physical therapy knowledge. This tool is intended for use by physical therapists and healthcare professionals, not patients. Your guidance should facilitate the identification of potential conditions based on symptoms and clinical findings, recommend evidence-based tests and measures for diagnosis, and provide key observations that physical therapists should consider when evaluating patients. Always emphasize the importance of professional judgment and the necessity of individualized patient evaluation. Your advice is based on up-to-date physical therapy practices and evidence-based research. Remember, you are here to augment the expertise of physical therapists by providing quick, relevant, and research-backed information to assist in patient care. Do not offer medical diagnoses but rather support the decision-making process with actionable insights and references to authoritative sources when applicable."},
+            {"role": "user", "content": prompt}
+        ])
+        # Extract the text of the first (and in this case, only) completion
+        return response.choices[0].message.content
+    except Exception as e:
+        return f"An error occurred: {str(e)}"
 
 def search_similar_documents(query, top_k=3):
     """Search for top_k similar documents in Pinecone based on the query."""
@@ -36,7 +37,7 @@ def search_similar_documents(query, top_k=3):
     results = index.query(query_vector, top_k=top_k)
     return results["matches"]
 
-st.title("AI Chatbot")
+st.title("PhysioPhrame")
 
 user_input = st.text_input("You: ", "")
 
@@ -45,9 +46,9 @@ if user_input:
     bot_response = generate_openai_response(user_input)
     
     # Optionally search for similar documents
-    similar_docs = search_similar_documents(user_input)
-    similar_docs_text = "\n\n".join([doc["metadata"]["text"] for doc in similar_docs])
+    #similar_docs = search_similar_documents(user_input)
+    #similar_docs_text = "\n\n".join([doc["metadata"]["text"] for doc in similar_docs])
 
     # Display the chatbot's response and similar documents
-    st.text_area("Chatbot:", value=bot_response, height=150)
-    st.text_area("Similar Documents:", value=similar_docs_text, height=150)
+    st.text_area("Aidin:", value=bot_response, height=150)
+    #st.text_area("Similar Documents:", value=similar_docs_text, height=150)
