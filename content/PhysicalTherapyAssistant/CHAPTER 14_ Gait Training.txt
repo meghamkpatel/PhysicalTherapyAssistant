@@ -1,0 +1,1150 @@
+
+
+
+Introduction to Physical Therapy and Patient Skills?
+
+CHAPTER 14: Gait Training
+
+
+
+CHAPTER OBJECTIVES
+At the completion of this chapter, the reader will be able to:
+1. Describe the various gait parameters
+2. Describe the characteristics of normal gait
+3. Discuss how to use the various pieces of pre ambulation equipment, including the tilt table and parallel bars
+4. Describe the various types of weight bearing status and the functions of each
+5. Describe the various methods to monitor weight bearing status
+6. Make a clinical decision as to which assistive device is the most appropriate for a patient
+7. Be able to fit a patient for an assistive device
+8. Discuss the importance of patient safety during gait or ambulation activities
+9. Provide training to the patient on how to use an assistive device during various transfers
+10. Teacher patient how to use an assistive device with varying gait patterns, during stair negotiation, and ambulation in the community
+OVERVIEW
+The lower kinetic chain has two main functions: to provide a stable base of support (BOS) in standing and to propel the body through space with gait. Whereas the objective in standing is to maintain a static equilibrium of forces, the objective with mobility is to create and control dynamic, unbalanced forces to produce movement.1 Gait is thus an example of controlled instability. It is not clear whether gait is learned or is preprogrammed at the spinal cord level. However, once mastered, gait allows us to move around our environment in an efficient manner, requiring little in the way of conscious thought, at least in familiar surroundings. Bipedal gait has allowed the arms and hands to be free for exploration of the environment. Although gait appears to be a simple process, it is prone to breakdown. Although individual gait patterns are characterized by significant variation, three essential requirements have been identified for locomotion: progression, postural control and adaptation2:
+Progression. Progression of the head, arms, and trunk is initiated and terminated in the brainstem through a spinal cord central pattern generator (CPG). The locomotor CPG produces self sustaining patterns of stereotype motor output resulting in gaitlike movements. The fall that occurs at the initiation of gait so that an individual must take the first step is controlled by the central nervous system (CNS).3 The CNS computes in advance the required size and direction of this fall toward the supporting foot. In addition, gait relies on the control of the limb movements by reflexes. Two such reflexes include the stretch reflex and the extensor thrust. The stretch reflex is involved in the extremes of joint motion, whereas the extensor thrust may facilitate the extensor muscles of the lower extremity during weight bearing.4 Both the CPG and the reflexes that mediate afferent input to the spinal cord are under the control of the brainstem and are therefore subconscious.5 This would tend to indicate that verbal coaching (i.e., feedback that is processed in the cortex) regarding an aberrant gait pattern might be less effective than a sensory input that will elicit a brainstem mediated postural response.1
+Postural control. Postural control is dynamically maintained to appropriately position the body for efficient gait.
+
+
+
+ Adaptation. Although central pattern generation occurs independent of sensory input, afferent information from the periphery can influence the central pattern. Adaptation is achieved by adjusting the central pattern generated to meet task demands and environmental demands.
+Gait, therefore, is generated grossly in the spinal cord and fine tuned from higher brain centers.1 In patients who have developed dysfunctional gait patterns, physical therapy can help to restore this exquisite evolutionary gift.6 Pain, weakness, and disease can all cause a disturbance in the normal rhythm of gait. However, except in obvious cases, abnormal gait does not always equate with impairment.
+Normal human gait involves a complex synchronization of the cardiopulmonary and neuromuscular systems. The energy required for gait is largely a factor of the health of the cardiopulmonary systems.
+Walking involves the alternating action of the two lower extremities. The walking pattern is studied as a gait cycle. The gait cycle is defined as the interval of time between any of the repetitive events of walking, such as from the point when the foot first contacts the ground, to the point when the same foot contacts the ground again.7 The gait cycle consists of two phases (Figure 14 1):
+FIGURE  14 1
+
+
+The gait cycle
+
+1. Stance. This phase constitutes approximately 60% to 65% of the gait cycle8,9 and describes the entire time the foot is in contact with the ground and the limb is bearing weight. The stance phase begins when the foot makes contact on the ground and concludes when the ipsilateral foot leaves the ground. The stance phase takes about 0.6 seconds at an average walking speed.
+2. Swing. The swing phase constitutes approximately 35% to 40% of the gait cycle8,9 and describes the phase when the foot is not in contact with the ground. The swing phase begins as the foot is lifted from the ground and ends when the ipsilateral foot makes contact with the ground again.7
+
+GAIT PARAMETERS
+A normal gait pattern is a factor of a number of parameters.
+
+Base (Step) Width
+
+
+
+The base width is the lateral distance between both feet. The normal BOS is considered to be between 5 and 10 cm (2 to 4 inches). The size of the BOS and its relation to the center of gravity (COG*) are important factors in the maintenance of balance and, thus, the stability of an object. The COG must be maintained over the BOS, if equilibrium is to be maintained. The BOS includes the part of the body in contact with the supporting surface and the intervening area.10 As the COG moves forward with each step, it briefly passes beyond the anterior margin of the BOS, resulting in a temporary loss of balance.10 This temporary loss of equilibrium is counteracted by the advancing foot at initial contact, which establishes a new BOS. Larger than normal bases of support are observed in individuals who have muscle imbalances of the lower limbs and trunk, as well as those who have problems with overall static dynamic balance.11 The base width should decrease to around zero with increased speed. If the base width decreases to a point below zero, crossover occurs, whereby one foot lands where the other should, and vice versa.12 Assistive devices, such as crutches or walkers, can be prescribed to increase the BOS and, therefore, enhance stability.
+*The COG of the body is located approximately at midline in the frontal plane and slightly anterior (5 cm or 2 inches) to the second sacral vertebra in the sagittal plane.
+Step Length
+
+Step length is measured as the distance between the same part of one foot on successive footprints (ipsilateral to the contralateral foot fall). The average step length is about 72 cm (28 inches). The measurement should be equal for both legs.
+Stride Length
+
+Stride length is the distance between successive points of foot to floor contact of the same foot. A stride is one full lower extremity cycle. Two step lengths added together make the stride length. The average stride length for normal individuals is 144 cm (56 inches).13
+Typically, the step and stride lengths do not vary more than a few centimeters between tall and short individuals. Men typically have longer step and stride lengths than women. Step and stride lengths decrease with age, pain, disease, and fatigue.14 They also decrease as the speed of gait increases.15 A decrease in step or stride length may also result from a forward head posture, a stiff hip, or a decrease in the availability of motion at the lumbar spine. The decrease in step and stride length that occurs with aging is thought to be the result of the increased likelihood of falling during the swing phase of ambulation, caused by diminished control of the hip musculature.16 This lack of control prevents the aged person from being able to intermittently lose and recover the same amount of balance that the younger adult can lose and recover.16
+Cadence
+
+Cadence is defined as the number of separate steps taken in a certain time. Normal cadence is between 90 and 120 steps per minute.17,18 The cadence of women is usually 6 to 9 steps per minute slower than that of men.14 Cadence is also affected by age, decreasing from the age of 4 to the age of 7 years, and then again in advancing years.19
+
+
+Velocity
+
+The primary determinants of gait velocity are the repetition rate (cadence), physical conditioning, and the length of the person's stride.13
+
+
+
+
+Vertical Ground Reaction Forces
+
+Newton's third law states that for every action there is an equal and opposite reaction. During gait, vertical ground reaction forces are created by a combination of gravity, body weight, and the firmness of the ground. Under normal conditions, we are mostly unaware of these forces. However, in the presence of joint inflammation or tissue injury, the significance of these forces becomes apparent. Vertical ground reaction force begins with an impact peak of less than body weight and then exceeds body weight at the end of the initial contact interval, dropping during midstance, and rising again to exceed body weight, reaching its highest peak during the terminal stance interval. Thus, there are two peaks of ground reaction force during the gait cycle: the first at maximum limb loading during the loading response, and the second during terminal stance.
+The ground reaction force vector is anterior to the hip joint at initial contact, then migrates progressively posteriorly until late stance, when the ground reaction force is posterior to the hip.29,30 Peak flexion torque occurs at initial contact but gradually declines, changing to an extension torque in midstance. The extension torque remains until terminal stance.29,30
+During the gait cycle, the tibiofemoral joint reaction force has two peaks, the first immediately following initial contact (two to three times body weight) and the second during preswing (three to four times body weight).31 Tibiofemoral joint reaction forces increase to five to six times body weight during running and stair climbing, and eight times body weight with downhill walking.31, 32 and 33
+It is well established that joint angles and ground reaction force components increase with walking speed.34 This is not surprising, because the dynamic force components must increase as the body is subject to increasing deceleration and acceleration forces when walking speed increases.
+
+
+Mediolateral Shear Forces
+
+Mediolateral shear in walking gait begins with an initial medial shear (occasionally lateral) after initial contact, followed by lateral shear for the remainder of the stance phase.29,30 At the end of the stance phase, the shear shifts to a medial direction because of propulsion forces.
+Anteroposterior Shear Forces
+
+Anteroposterior shear forces in gait begin with an anterior shear force at initial contact and the loading response intervals, and a posterior shear at the end of the terminal stance interval.
+CHARACTERISTICS OF NORMAL GAIT
+
+
+
+Much has been written about the criteria for normal and abnormal gait.7,9,21,29,36, 37, 38, 39, 40 and 41 Although the presence of symmetry in gait appears to be important, asymmetry in itself does not guarantee impairment. It must be remembered that the definition of what constitutes the so called normal gait is elusive. Unlike posture, which is a static event, gait is dynamic and as such is protean.
+
+Gait involves the displacement of body weight in a desired direction, using a coordinated effort between the joints of the trunk and extremities and the muscles that control or produce these motions. Any interference that alters this relationship may result in a deviation or disturbance of the normal gait pattern. This, in turn, may result in increased energy expenditure or functional impairment.
+Perry17 lists four priorities of normal gait:
+1. Stability of the weight bearing foot throughout the stance phase
+2. Clearance of the non weight bearing foot during the swing phase
+3. Appropriate prepositioning (during terminal swing) of the foot for the next gait cycle
+4. Adequate step length
+Gage19 added a fifth priority, energy conservation. The typical energy expended in normal gait (2.5 kcal/min) is less than twice that spent while sitting or standing (1.5 kcal/min).19
+Two dimensional kinetic data have revealed that approximately 85% of the energy for normal walking comes from the plantarflexors of the ankle, and 15% from the flexors of the hip.43 It has been proposed that the type of gait selected is based on metabolic energy considerations.44 Current commonly used parameters used to measure walking efficiency include oxygen consumption, heart rate, and comfortable speed of walking.45, 46 and 47 Economy of mobility is a measurement of submaximal oxygen uptake (submax VO2) for a given speed.48,49 A decline in functional performance may be evidenced
+by an increase in submax VO2 for walking.50 This change in economy of mobility may be indicative of an abnormal gait pattern.50 Some researchers
+have reported no gender differences for economy of mobility,51, 52 and 53 whereas others suggest that men are more economical or have lower energy costs than women at the same absolute work.54, 55 and 56 Age related declines in economy of mobility also have been reported in the literature, with differing results. Some researchers reported that older adults were less economical than younger adults while walking at various speeds.48,57,58 Conversely, economy of mobility appears to be unaffected by aging for individuals who maintain higher levels of physical activity.59, 60 and 61
+Some authors have claimed that a limb length discrepancy leads to mechanical and functional changes in gait62 and increased energy expenditure.63 Intervention has been advocated for discrepancies of less than 1 cm to discrepancies greater than 5 cm,62, 63 and 64 but the rationale for these recommendations has not been well defined, and the literature contains little substantive information regarding the functional significance of these discrepancies.65 For example, Gross found no noticeable functional or cosmetic problems in a study of 74 adults who had less than 2 cm of discrepancy and 35 marathon runners who had as much as 2.5 cm of discrepancy.64
+
+
+
+
+For gait to be efficient and to conserve energy, the COG must undergo minimal displacement:
+ Any displacement that elevates, depresses, or moves the COG beyond normal maximum excursion limits wastes energy.
+ Any abrupt or irregular movement will waste energy even when that movement does not exceed the normal maximum displacement limits of the COG.
+
+
+To minimize the energy costs of walking, the body uses a number of biomechanical mechanisms. In 1953, Saunders, Inman, and Eberhart68 proposed that six kinematic features the Six Determinants have the potential to reduce the energetic cost of human walking. The six determinants are68:
+ Lateral displacement of the pelvis: To avoid significant muscular and balancing demands, the pelvis shifts side to side (approximately 2.5 to 5 cm or 1 to 2 inches) during walking in order to center the weight of the body over the stance leg.69 If the lower extremities dropped directly vertical from the hip joint, the center of mass would be required to shift 3 to 4 inches to each side to be positioned effectively over the supporting foot. The combination of femoral varus and anatomical valgum at the knee permits a vertical tibial posture with both tibias in close proximity to each other. This narrows the walking base to 5 to 10 cm (2 to 4 inches) from heel center to heel center, thereby reducing the lateral shift required of the COG toward either side.
+ Pelvic rotation: The rotation of the pelvis normally occurs about a vertical axis in the transverse plane toward the weight bearing limb. The total pelvic rotation is approximately 4  to each side.19 Forward rotation of the pelvis on the swing side prevents an excessive drop in the body's COG. The pelvic rotation also results in a relative lengthening of the femur by lessening the angle of the femur with the floor, and thus step length, during the termination of the swing period.70
+ Vertical displacement of the pelvis: vertical pelvic shifting keeps the COG from moving superiorly and inferiorly more than 5 cm (2 inches) during normal gait. Because of the shift, the high point occurs during midstance, and the low point occurs during initial contact. The amount of vertical displacement of the pelvis may be accentuated in the presence of a leg length discrepancy, fusion of the knee, or hip abductor weakness, the last of which results in a Trendelenburg sign. The Trendelenburg sign is said to be positive if, when standing on one leg, the pelvis drops on the side opposite to the stance leg. The weakness is present on the side of the stance leg the gluteus medius is not able to maintain the COG on the side of the stance leg.
+Knee flexion in stance: Knee motion is intrinsically associated with foot and ankle motion. At initial contact, before the ankle moves into a plantarflexed position and thus is relatively more elevated, the knee is in relative extension. Responding to a plantarflexed posture at loading response, the knee flexes. Midstance knee flexion prevents an excessive rise in the body's COG during that period of the gait cycle. If not for the midstance knee flexion, the COG's rise during midstance would be larger, as would its total vertical displacement. Passing through midstance as the ankle remains stationary with the foot flat on the floor, the knee again reverses its direction to one of extension. As the heel comes off the floor in terminal stance, the heel begins to rise as the ankle plantarflexes, and the knee flexes. In preswing, as the forefoot rolls over the metatarsal heads, the heel elevates even more as further plantarflexion occurs and flexion of the knee increases.
+Ankle mechanism: For normal foot function and human ambulation the amount of ankle joint motion required is approximately 10  of
+
+
+
+dorsiflexion (to complete midstance and begin terminal stance) and 20  of plantarflexion (for full push off in preswing). At initial contact, the foot is in relative dorsiflexion due to the muscle action of the pretibial muscles and the triceps surae. This muscle action produces a relative lengthening of the leg, resulting in a smoothing of the pathway of the COG during stance phase.
+Foot mechanism: The controlled lever arm of the forefoot at preswing is particularly helpful as it rounds out the sharp downward reversal of the COG. Thus it does not reduce a peak displacement period of the COG as the earlier determinants did, but rather smooths the pathway. An adaptively shortened gastrocnemius muscle may produce movement impairment by restricting normal dorsiflexion of the ankle from occurring during the midstance to heel raise portion of the gait cycle. This motion is compensated for by increased pronation of the subtalar joint, increased internal rotation of the tibia, and resultant stresses to the knee joint complex.
+
+PRE AMBULATION EQUIPMENT
+Tilt Table
+A tilt table, which consists of a padded table with a footplate and restraint straps, can be considered a form of positioning. The tilt table is used to evaluate how a patient regulates his or her vital signs in response to simple stresses, including gravity, while being slowly tilted toward a vertical position (approximately 80 90 ) or down toward a horizontal position (0 ). The tilt table was originally designed to evaluate patients with fainting spells (syncope), but is now used for a wide variety of patient diagnoses including orthostatic hypotension, pulmonary ventilation dysfunction, dizziness, as well as for patients with weight bearing restrictions. The tilt table is contraindicated for use with patients who have unstable spinal cord injuries, unstable or erratic blood pressure, or poor cardiac responses to cardiovascular challenges. The speed with which the table is elevated is based on patient response, but it is usually elevated in increments of about 15  about every 15 to 20 minutes. Adverse reactions include excessive changes in blood pressure, heart rate, or oxygen saturation, or patient complaints of dizziness, nausea, and changes in the level of consciousness. A typical tilt table procedure follows.
+ The patient is transferred or asked to lie supine on the tilt table with his or her feet flat on the footplate, and is then secured by a series of straps or belts around the hips, knees, and trunk (Figure 14 2) based on the level of control that the patient has over the trunk and lower extremities.
+ Baseline data are recorded, including resting pulse rate, blood pressure, oxygen saturation, and subjective reports.
+ The table is raised up to a 15  to 30  angle, or in accordance with the physician's orders (Figure 14 3). The patient is maintained in this position for about 15 to 20 minutes while the baseline data are recorded. The table is lowered as indicated if there are negative changes in the patient's condition.
+ If the patient experienced no adverse effects at 15  to 30 , the tilt table is raised a further 15  to 30  (Figure 14 4). The amount of elevation and the time spent at each elevation depends on the patient's response and the plan of care. The amount of tilt used is based on the goal of the treatment. If the goal is for the patient to ambulate, the table is raised up to near vertical (Figure 14 5), and then to vertical.
+
+FIGURE  14 2
+
+Tilt table patient setup
+
+
+
+
+FIGURE  14 3
+
+
+Tilt table at approximately 30 
+
+
+FIGURE  14 4
+
+
+Tilt table at approximately 60 
+
+
+
+
+FIGURE  14 5
+
+Tilt table at approximately 80 
+
+At the end of the session, the tilt table is lowered to the horizontal position, the straps are removed, and the patient is transferred from the tilt table. Over a period of time, or series of sessions, the tilt table is raised farther while monitoring both vital signs and subjective reports.
+Parallel Bars
+Parallel bars can be used to provide maximum stability and security for patients during the beginning stages of ambulation or standing. The correct height of the bar should allow for 20  to 30  of elbow flexion while grasping on the bars approximately 4 to 6 inches in front of the body.
+
+The goal is to progress the patient out of the bars as quickly as possible to increase overall mobility and decrease dependence on the parallel bars.
+
+A typical sequence of gait training using the parallel bars follows.
+
+
+
+1. The patient is transported in a wheelchair to the end of the parallel bars, and the clinician makes sure that the patient is wearing a gait belt (Figure 14 6).
+2. The wheels of the wheelchair are locked (Figure 14 7).
+3. The leg rests of the wheelchair are removed (Figure 14 8).
+4. The patient is asked to place the hands on the armrests and to slide forward in the wheelchair (Figure 14 9).
+5. The patient is asked to lean forward in the chair and, when ready to stand, to push up from the arm rests (Figure 14 10). The patient should be instructed not to pull himself or herself up using the parallel bars.
+6. Once in a standing position, the patient is asked to grasp the parallel bars (Figure 14 11), and the clinician asks the patient how he or she feels (weak, dizzy, nauseated, etc.) (Figure 14 12) before proceeding. At this point, depending on the patient's status and ability, the clinician may choose to ask the patient to shift his or her body from side to side and forward and backward while maintaining the correct weight bearing status. In addition, the clinician may ask the patient to lift the hands from the bars to challenge the balance, or to step in place depending on the weight  bearing status. Parallel bars enable a patient to practice a particular gait pattern in a safe environment. If necessary, an appropriate assistive device can also be used by the patient within the parallel bars.
+7. The clinician adjusts his or her position to be able to grasp the gait belt and to provide manual cues for the patient (Figure 14 13). Whenever possible, the clinician should remain inside the bars with the patient to enhance control and safety. When the clinician and patient are both ready, the patient is asked to take a step (see Figure 14 13). The choice to stand in front of or behind the patient is based on whether the clinician wants to watch the patient's face and eyes for signs of distress or possible fainting, and whether the plan is for the patient to turn within the parallel bars.
+8. As the patient continues to take steps within the parallel bars, the clinician follows closely, asking questions about the patient's status (Figures 14  1 4, 14 15, 14 16 and 14 17).
+9. If the clinician decides that the patient is to turn within the parallel bars, the patient is asked to stand still, and then to turn in the chosen direction (Figures 14 18, 14 19 and 14 20) until he or she is facing the clinician. Turning within the bars involves asking the patient to turn toward the stronger side.
+10. Once the turn is completed, the clinician asks the patient how he or she is feeling (Figure 14 21). This is important after any turning activities as these can provoke dizziness.
+11. Once the patient reports having no problems, he or she is asked to begin walking toward the clinician (Figures 14 22, 14 23, 14 24 and 14 25).
+12. At the end of the parallel bars (Figure 14 26), the patient is again asked to turn (Figures 14 27 and 14 28), and a wheelchair is positioned appropriately.
+13. The patient is asked to shuffle backward until he or she can feel the seat of the wheelchair against the back of the legs (Figure 14 29). At this point, the patient is asked to reach back for the chair using the hands (Figure 14 30), and then to slowly lower himself or herself into the chair in a controlled manner (Figures 14 31 and 14 32).
+
+FIGURE  14 6
+
+
+Wheelchair transport to parallel bars
+
+
+
+
+FIGURE  14 7
+
+
+The wheelchair is locked
+
+
+FIGURE  14 8
+
+
+The leg rests are removed
+
+
+
+
+FIGURE  14 9
+
+The patient is asked to place the hands on the armrests and to slide forward in the wheelchair
+
+
+FIGURE  14 10
+
+
+The patient is asked to lean forward in the chair
+
+
+FIGURE  14 11
+
+
+Once in a standing position, the patient is asked to grasp the parallel bars
+
+
+
+
+FIGURE  14 12
+
+
+The clinician asks the patient how he feels
+
+
+FIGURE  14 13
+
+
+The clinician adjusts his or her position to be able to grasp the gait belt and to provide manual cues for the patient
+
+
+
+
+FIGURE  14 14
+
+The patient takes a series of steps within the parallel bars
+
+
+FIGURE  14 15
+
+
+The patient takes a series of steps within the parallel bars
+
+
+FIGURE  14 16
+
+
+The patient takes a series of steps within the parallel bars
+
+
+
+
+FIGURE  14 17
+
+
+The patient takes a series of steps within the parallel bars
+
+
+FIGURE  14 18
+
+
+The patient begins to turn to the left
+
+
+
+
+FIGURE  14 19
+
+The patient continues turn to the left
+
+
+FIGURE  14 20
+
+
+The patient completes the turn
+
+
+FIGURE  14 21
+
+
+The clinician asks the patient how he feels
+
+
+
+
+FIGURE  14 22
+
+
+The patient begins walking toward the clinician
+
+
+FIGURE  14 23
+
+
+The patient begins walking toward the clinician
+
+
+
+
+FIGURE  14 24
+
+The patient begins walking toward the clinician
+
+
+FIGURE  14 25
+
+The patient begins walking toward the clinician
+
+
+FIGURE  14 26
+
+
+Patient reaches the end of the parallel bars
+
+
+
+
+FIGURE  14 27
+
+
+Patient turns within the parallel bars
+
+
+FIGURE  14 28
+
+
+Patient completes turn within the parallel bars
+
+
+
+
+FIGURE  14 29
+
+Patient backs up until he can feel the seat of the wheelchair against the back of his legs
+
+
+FIGURE  14 30
+
+
+Patient reaches back with hands
+
+
+FIGURE  14 31
+
+
+Patient slowly lowers himself into the chair
+
+
+
+
+FIGURE  14 32
+
+
+Patient slowly lowers himself into the chair
+
+
+
+
+
+VIDEO 14 1 Gait in Parallel Bars 
+
+Play Video
+
+FIGURE  14 33
+
+
+Detailed view of patient turning to show hand positions
+
+
+FIGURE  14 34
+
+
+Detailed view of patient turning to show hand positions
+
+
+
+
+FIGURE  14 35
+
+
+Detailed view of patient turning to show hand positions
+
+
+FIGURE  14 36
+
+Detailed view of patient turning to show hand positions
+
+Although parallel bars are frequently used for weight shifting exercises and for gait training, they can also be used to perform exercises. These can be
+
+
+
+strengthening exercises, such as performing a push up using the bars, or balance and coordination exercises that reduce the patient's BOS.
+WEIGHT BEARING STATUS
+The selection of the proper gait pattern to instruct the patient is dependent on the patient's balance, strength, cardiovascular status, coordination, functional needs, and weight bearing (WB) status. One of the major reasons for using an assistive device is because a physician/surgeon has imposed some form of WB restriction. This restriction is listed in the patient's medical record or, in the case of a patient visiting an outpatient facility, a prescription.
+
+Four terms are commonly used to describe the various types of WB restrictions:
+ Non weight bearing (NWB): The patient is not permitted to bear any weight through the involved limb (VIDEO 14 2). Even though the patient is not bearing weight through the limb, there are number of internal forces at work. These include stretching of the soft tissues around the joint and joint compression forces. Ironically, it has been reported that forces acting on the hip may be greater during NWB gait than they are during ambulation with touchdown weight bearing (see later).71
+ Touch down weight bearing (TDWB)/toe touch weight bearing (TTWB): The patient is permitted minimal contact of the injured limb with the ground for balance. Of the four terms, this one causes the most confusion because of the various definitions attributed to it. For example, the APTA defines it as contact for balance purposes only, but it is also defined as 10 to 15 kg of weight, and up to 20% of body weight. The expression most commonly used to help the patient understand is "imagine as though you are walking on eggshells."
+ Partial weight bearing (PWB): The patient is permitted to bear a portion of his or her weight through the injured limb. This portion is typically described as a percentage (25%, 50%, etc.). However, it is important remember that 25% of body weight for a person weighing 150 pounds and 25% of body weight for a person who weighs 350 pounds is significantly different.
+ Weight bearing as tolerated (WBAT): The patient is permitted to bear as much weight through the involved limb as can be moderately tolerated.
+VIDEO 14 2 Non Weight Bearing with Walker 
+
+
+
+
+Play Video
+Despite the preceding definitions, there are a number of variables that the clinician must consider when determining the actual amount of weight bearing that is occurring. For example, the amount of force exerted on the joint varies depending on the point in the gait cycle as each joint in the lower extremity undergoes different forces throughout the cycle.
+Monitoring Weight Bearing Status
+Although the NWB and the WBAT weight bearing restrictions are relatively straightforward to describe to a patient, it is more difficult for the clinician to describe the PWB and the TDWB/TTWB to the patient. It is also difficult for many patients to perceive their own weight bearing during ambulation based on verbal instructions or objective measurement of their weight bearing. Indeed, one report72 found that the relationship between the prescribed weight bearing and the actual weight bearing performed by healthy volunteers or by patients with recent lower extremity injury or surgery varied significantly. In fact, another study73 that used physicians, nurses, physical therapist, and occupational therapist as subjects found that the subjects exceeded the PWB limit by 4 to 13 kg.
+Perhaps the most commonly used clinical method to demonstrate weight bearing to a patient is to use two simple bathroom scales. The patient is asked to place each foot on two separate bathroom scales and then to shift the body weight from the involved extremity until the designated amount is reached. This exercise is repeated a number of times until the patient develops a better sense of what the restriction feels like. However, it is one thing to weight shift in a controlled and static environment; it is another to control weight bearing during the more dynamic task of ambulation.
+Limb load monitors (LLMs), which are relatively inexpensive, have been used to dynamically monitor weight bearing status during gait. The patient wears a lightweight boot over the foot of the involved extremity, which is fitted with a strain gauge built into the sole of the boot (Figure 14 37).74, 75 and 76 During ambulation, the patient is provided with an auditory feedback signal when the weight bearing limits are reached or exceeded.
+FIGURE  14 37
+
+
+Limb load monitor
+
+ More recently, computer technology has been used to monitor weight bearing during gait. The computerized air insole auditory biofeedback system	
+
+
+
+(CAIBS) is a portable system that senses the amount of load and provides auditory feedback in addition to using a wireless receiver connected to a computer. The CAIBS has been found to be a valid and reliable system77 and has also been shown to increase compliance in subjects with weight  bearing restrictions during gait compared to those provided only with verbal instructions.78
+ASSISTIVE DEVICES
+The most common cause for the breakdown of the normal gait cycle is an injury to one or both of the lower extremities. Such an injury usually results in an antalgic gait. If the injury is severe enough, or if a particular body part requires protection, an assistive device is prescribed. Assistive devices are designed to make ambulation as safe and as painless as possible. In essence, an assistive device is an extension of the upper extremity, used to provide support, balance, and weight bearing normally provided by an intact functioning lower extremity.79 Assistive devices function to reduce ground reaction forces, with the size of the BOS that they provide being proportional to the amount of reduction in these forces. The indications for using an assistive device include80:
+ Decreased ability to bear weight through the lower extremities  Muscle weakness or paralysis of the trunk or lower extremities
+ Structural deformity, amputation, injury, or disease resulting in decreased ability to bear weight through a lower extremity  Decreased balance and proprioception in the upright posture
+ Decreased sensation
+ Limited passive range of motion
+ Joint instability and excessive skeletal loading  Fatigue or pain
+ Fear of falling or history of falling
+Choosing a Device
+In addition to the weight bearing restriction, the clinician must consider a number of factors when determining the most suitable assistive device for a patient. These factors include:
+ Amount of support required. This is a factor of the weight bearing restriction (Table 14 1). The only assistive devices that allow a person to put their full weight through both arms simultaneously are parallel bars, walkers (standard, wheeled, or folding), and bilateral crutches (axillary, or forearm [Lofstrand]), so these devices would be appropriate for a patient with a NWB, TTWB/TDWB, PWB (depending on the percentage allowed), or WBAT (depending on the level of pain) restriction in one lower extremity. Devices such as hemi walkers (Figure 14 38) and canes are more suitable for patients with a WBAT restriction.
+
+
+
+TABLE 14 1
+Appropriate Devices Based on Weight Bearing Restriction
+
+Weight Bearing Restriction
+Appropriate Device
+Non weight bearing (NWB)
+Parallel bars Walker
+Bilateral crutches
+Partial weight bearing (PWB)
+Parallel bars Walker
+Axillary crutches (one or two) Cane (one or two)
+Lofstrand crutches
+
+
+
+FIGURE  14 38
+
+
+A hemi walker
+
+
+
+
+
+ Amount of stability required. Generally speaking, the more mobility a device provides, the less stability it provides, and vice versa. Any device that has a large BOS, such as a standard walker or a platform style walker (Figure 14 39) with four points of contact, will provide the most stability. Assistive devices, in order of the stability they provide, include parallel bars, platform style walker, standard walker, bilateral axillary crutches, bilateral forearm crutches, bilateral canes, hemi walker, quad cane, straight cane, and bent cane.
+ Patient strength. Any of the assistive devices that use a handgrip require that the patient have good strength in the wrist stabilizers, elbow extensors, and shoulder depressors.
+ Patient endurance. It is worth remembering that there is an energy cost associated with using each of the various assistive devices (Table 14 2).
+ Patient coordination. The list of assistive devices, ordered from those requiring the least coordination by a patient to those requiring the most, is as follows: parallel bars, platform style walker, one cane, two canes, axillary crutches, forearm (Lofstrand) crutches.
+TABLE 14 2
+Energy Costs Associated with Various Assistive Devices
+
+Assistive Device
+Energy Cost 
+Crutches
+Energy demand increased 13% to 80%, in part because of increased demands placed on arms and shoulder girdle muscles
+Standard walker
+Oxygen consumption increased >200%
+Front wheeled walker
+Lesser impact compared with standard walker
+Cane
+No significant energy cost
+
+
+Data from Powers CM, Burnfield JM: Normal and pathologic gait, in Placzek JD, Boyce DA (eds): Orthopaedic Physical Therapy Secrets. Philadelphia, Hanley & Belfus, 2001, pp 98 103.
+
+
+FIGURE  14 39
+
+Modified walker with platform attachment
+
+
+Description of Devices
+
+ Parallel bars. Parallel bars (see Pre Ambulation Equipment) provide the greatest amount of stability of any assistive device, but the least amount of functional carryover.
+ Walkers. Walkers can be used with all levels of weight bearing and offer a significant BOS and good anterior and lateral stability. Consequently, walkers are often used with patients who have poor balance and coordination or decreased weight bearing on one or two lower extremities, and they are also the most commonly prescribed assistive device for the elderly.
+Attachments include:
+ Glides: these are small, plastic attachments that replace the rubber tips on the bottom of walker legs that enable patients who are unable to lift and advance a standard walker to glide the walker on a smooth surface.
+ Platform (forearm) attachments: these are used when weight bearing through the wrist or hand is contraindicated. The attachments are fitted to the side of the walker, allowing the forearm to rest in a padded trough, held in place with Velcro straps, and include handle grips with a vertical handle.
+ Carrying basket: these are attached to the front of the walker to provide storage for frequently needed items.
+   Fold down seats: as the name suggests, these attachments allow a patient to sit down using the walker. The standard walker has many variations, including:
+ Folding (collapsible) (Figures 14 40 and 14 41): facilitate mobility and travel in the community as they are easier to fit in an automobile or other storage space.
+ Rolling (wheeled) (Figure 14 42): available in either two wheels (one wheel on each of the front legs) or four wheels (one wheel on all four of the legs). The latter type requires a hand brake to provide added stability in stopping, which means that the patient must have sufficient grip strength. The advantage of this type of walker is that it requires less energy to use and facilitates walking as a continuous movement sequence. The disadvantage of this type of walker is that it provides less stability.
+ Posterior (reverse): these have the crossbar positioned behind the patient rather than in front of the patient. This type of walker is often used by children who have cerebral palsy to promote a more upright posture.
+ Stair climbing: fitted with two posterior extensions and additional handgrips off of the rear legs for use on stairs.
+ Reciprocal: fitted with hinges that allow advancement of one side of the walker at a time, thereby facilitating any reciprocal gait pattern.
+ Hemi: this type of walker (see Figure 14 38), sometimes referred to as a walk cane, is a unilateral assistive device with four legs modified for use
+
+
+
+with one hand only. It is used in cases when more stability is needed that a single point or quad cane, but when only one upper extremity can be used.
+
+FIGURE  14 40
+
+
+Folding mechanism on walker
+
+
+FIGURE  14 41
+
+
+A folded walker
+
+
+FIGURE  14 42
+
+
+The wheel of a walker with adjustable height
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Axillary crutches. Axillary crutches (regular or standard), typically used bilaterally, are made from wood or aluminum and are prescribed for patients who need to partially or fully decrease weight bearing on one of the lower extremities. Axillary crutches provide an increased BOS and a moderate degree of lateral stability, and they can be used with all levels of weight bearing. They can also be used for stair climbing. However, crutches are less stable and require more upper extremity strength, some trunk support, and a higher level of coordination than walkers; are awkward in small areas; and can cause pressure at the radial groove (spiral groove) of the humerus, creating a situation of potential damage to the radial nerve as well as to adjacent vascular structures in the axilla.81
+
+
+
+ Lofstrand (forearm or Canadian) crutches. This type of crutch, which is generally constructed of aluminum, can be used at all levels of weight bearing, provide increased ease of movement, and, because of the presence of a forearm cuff, allow the wearer to use the hands without dropping the crutches. In addition, the absence of an axillary portion of the crutch allows for more stair climbing options. However, this type of crutch is slightly more difficult to use than standard crutches, requires good trunk strength, and requires the highest level of coordination for proper use.
+ Straight canes. Using a straight cane to aid walking is perhaps as old as the history of humankind. In ancient times, straight canes were used for support, defense, and the procurement of food.82 Later, canes became a symbol of power and aristocracy.83 Currently, straight canes are prescribed for patients with slight weakness of the lower extremity/extremities, to provide support and protection, to reduce pain in the lower extremities, and to improve balance during ambulation.84
+Canes are usually made out of wood, plastic, or aluminum (adjustable with a pushpin lock Figure 14 43). The function of a straight cane is to widen the BOS and improve balance. However, because straight canes provide minimal stability and support for patients during ambulation activities, they are not intended for use with restricted weight bearing gaits.
+
+FIGURE  14 43
+
+
+Adjustable cane
+
+
+
+
+In addition to the straight cane, canes come in a variety of designs:
+ Quad cane: this type of cane provides a very broad base with four points of floor contact. The legs farther from the patient's body are angled to maintain floor contact and to improve stability. Walk canes fold flat and are adjustable in height. However, this type of cane cannot be used on most stairs and require use of a slow forward progression.
+ Rolling cane: provide a wide wheeled base allowing uninterrupted forward progression. A pressure sensitive break is built into the handle and can be engaged using pressure from the base of the hand. This type of cane allows weight to be continuously applied because the need to lift and place the cane forward is eliminated, allowing for a faster forward progression.
+
+Fitting the Device
+Correct fitting of an assistive device is important to ensure for the safety of the patient, to maintain good posture, and to allow for minimal energy expenditure. For correct fitting, the patient is positioned in bilateral support stance, wearing the footwear that he or she will typically wear for ambulation, with the toes slightly out, the ankle in neutral, the knee in neutral extension, and the hip in neutral extension. The upper extremity should be positioned so that the elbows and the shoulders are relaxed and level.
+
+Once fitted, the patient should be taught the correct walking technique with the device. The fitting depends on the device chosen:
+Walkers, hemi walkers, quad canes, and standard canes. The height of the device handle should be adjusted to the level of the greater trochanter of the patient's hip, or at the ulnar styloid of the upper extremity (Figures 14 44 and 14 45).
+If measuring for a standard cane, the cane tip should be approximately 3 to 4 inches anterior to the foot at a 45  angle.
+Standard crutches. A number of methods can be used for determining the correct crutch length for axillary crutches: Ask for a patient's height and then adjust according to the height markings on the crutch.
+Calculate 77% of the patient's height.
+
+
+
+ Subtract 16 inches from an adult patient's height.
+ Take a measurement from the patient's axillary fold to a point 6 to 8 inches lateral to the bottom of the heel (including footwear).
+ Have the patient stand or sit with both arms abducted to 90 . Ask the patient to flex one of the elbows to 90 . The measurement is then taken from the olecranon process of the patient's flexed elbow to the tip of the long finger of the opposite hand (Figure 14 46).
+ When the crutches are fitted correctly, there is a 5  to 8 cm (2  to 3 inch) gap between the tops of the axillary pads and the patient's axilla (Figure 14 47) when the crutch tip is vertical to the ground and positioned approximately 5 cm (2 inches) lateral to and 15 cm (6 inches) at a 45  angle anterior to the patient's foot. The handgrips of the crutch are adjusted to the height of the greater trochanter of the hip of the patient, or at the ulnar styloid of the upper extremity with the elbow flexed 20  to 30 .
+
+FIGURE  14 44
+
+
+Measurement for a quad cane
+
+
+FIGURE  14 45
+
+
+Measurement for a walker
+
+
+
+FIGURE  14 46
+
+
+Measurement for crutches
+
+
+
+FIGURE  14 47
+
+
+Ensuring sufficient space in the axilla
+
+
+
+ Forearm/Lofstrand crutches. The crutch is adjusted so that the handgrip is level with the greater trochanter of the patient's hip and the top of the forearm cuff just distal to the elbow.
+Patient Instructions
+When providing gait training, it is important that the patient receive verbal and illustrated instructions. Patient instruction should initially be provided in a safe environment that is free from distraction so that the patient can concentrate. Ideally, the clinician should demonstrate how to use the assistive device before asking the patient to do so. The patient should be encouraged to look ahead rather than down to help with proprioceptive training. The training should be initiated on level surfaces and then advanced to include negotiation of curbs and stairs, ambulating in busy corridors, and sit to  stand/stand to sit transfers from different surfaces. These instructions should also include any weight bearing precautions pertinent to the patient, the appropriate gait sequence, and a contact number at which to reach the clinician if questions arise. Finally, the patient should be educated on how to create a safe home environment to prevent falls and on the care and maintenance of the device (replacing rubber tips as needed, tightening any loose fasteners, etc.). The more common methods to prevent falling are outlined in Table 14 3.
+
+
+
+TABLE 14 3
+Preventing Falls in the Home 
+
+All Living Spaces
+Bathrooms 
+Outdoors 
+	Remove throw rugs.
+	Secure carpet edges.
+	Remove low furniture and objects on the floor.
+	Reduce clutter.
+	Remove cords and wires on the floor.
+	Check lighting for adequate illumination at night (especially in the pathway to the bathroom). This can include changing the wattage of a bulb.
+	Secure carpet or treads on stairs.
+	Install handrail or additional handrail on staircases.
+	Eliminate chairs that are too low to sit in and get out of easily.
+	Avoid floor wax (or use nonskid wax).
+	Ensure that the telephone can be reached from the floor.
+	Have medications reviewed by appropriate healthcare professional.
+	Have regular vision examinations by appropriate healthcare professional.
+	Install grab bars in the bathtub or shower and by the toilet.
+	Use rubber mats in the bathtub or shower.
+	Take up floor mats when the bathtub or shower is not in use.
+	Install a raised toilet seat.
+	Repair cracked sidewalks.
+	Install handrails on stairs and steps.
+	Trim shrubbery along the pathway to the home.
+	Install adequate lighting by doorways and along walkways leading to doors.
+
+
+
+Guarding the Patient
+The clinician must always provide adequate physical support and instruction while working with a patient using an assistive gait device. Guarding is the process of protecting a patient from excessive weight bearing, incorrect gait pattern, loss of balance, or falling. Proper guarding requires the use of a gait belt fitted around the patient's waist to enable the clinician to assist the patient.
+
+When guarding a patient during gait training, the clinician should be positioned with feet in stride, at a 45  angle slightly to the side and behind the patient. The key is to minimize the distance between the patient's COG and the clinician's COG. Normally, the clinician positions himself or herself slightly posteriorly on the side where the patient will most likely have difficulty. Most frequently, this is the involved side of the patient, although in
+
+
+
+some cases, the patient may have a tendency to fall toward the uninvolved side. If using a gait belt, the clinician should grasp it using a supinated forearm position with the palm facing the ceiling, as this provides a stronger and more reliable grip than using a pronated forearm. A common mistake for the novice clinician is to overguard the patient. This typically includes holding the patient back by pulling too hard on the gait belt or at the patient shoulder (VIDEO 14 3). Not only is this very frustrating for the patient, it can also introduce a number of safety concerns as it can cause the patient to lose his or her balance.
+VIDEO 14 3 Overguarding 
+
+Play Video
+
+Whatever side is chosen, if the patient falls forward, backward, or to either side, the aim is to return the combined COG of the patient and the clinician within the BOS of the clinician, with only a shift of the clinician's weight, and with no large foot movements by the clinician. Thus, the BOS of the clinician must be large enough to support such shifts in the COG should the patient start to fall. The closer the clinician is to the patient, the easier this is to maintain. Although falls typically occur in one direction, the clinician must remember that sometimes the patient's lower extremities can give way, resulting in a collapsing fall. In such instances, the clinician should move closer to the patient and lift on the gait belt to provide time for the patient to regain support.
+
+To prevent any unencumbered weight shifting or foot movement in the event of a fall, the clinician's knee should be slightly bent and feet should not be crossed during gait training, nor should they become entangled with the patient's feet or ambulatory equipment. Hand placement is also important.
+
+
+
+The clinician should try to keep the upper extremity that is holding the gait belt such that the forearm is horizontal to the level of the patient's COG, with the other hand, if necessary, on the superior anterior aspect of the patient's shoulder.
+
+
+VIDEO 14 4 Controlled Fall with Cane Method 1
+
+Play Video
+VIDEO 14 5 Controlled Fall with Cane Method 2
+
+Play Video
+Falling
+
+
+
+Although every effort is made to prevent a patient from falling while they are in the clinic, it is not uncommon for a patient to fall outside of the clinic, whether at home or in the community, even if he or she has been provided with instructions on prevention. Most falls occur when a patient is using axillary crutches. The clinician can help train the patient to fall safely with crutches by practicing on a cushioned surface placed on the floor and by slowing down the motion of the fall in the initial stages by using a gait belt. The clinician can also help train the patient to get up from the floor following a fall using the crutches.
+Falling Safely
+
+As the patient starts to fall, he or she casts the crutches to the side, far enough out of the way to prevent landing on them, but near enough to be reached to rise back into a standing position. The patient attempts to break the fall by landing on the palms of the hands with the elbows flexed while simultaneously turning the head to one side to minimize the risk of facial injury.
+Getting Up from the Floor
+
+The easiest way for a patient to get up from the floor is to crawl to a nearby chair, or other sturdy object, and use it to pull up to a sitting or standing position. If no such object is available, the patient collects both crutches and moves into a quadruped position. From there, the patient moves into a tall kneeling position and stands both crutches on the involved side, holding both handgrips with one hand. The patient then moves into a partial kneeling position with the stronger lower extremity forward and then pushes down through the handgrips and the forward leg to achieve a standing position. Once standing, the patient repositions the crutches, with one crutch under each arm.
+GAIT TRAINING WITH ASSISTIVE DEVICES
+It is important that a patient wears adequate footwear for gait training. At minimum, the patient should receive gait training for use of the assistive gait device on level surfaces and, as appropriate, to negotiate stairs, curbs, ramps, doors, and transfers.
+
+Gait training includes:
+ An initial assessment of any abnormality or deviation of a patient's gait  A plan to address the abnormality or deviation
+ Teaching the patient how to establish a normal gait pattern
+ Gait training in various environments (different surfaces, different lighting, etc.)
+
+Gait training with assistive devices usually begins in the parallel bars, as they provide maximum stability while requiring the least amount of coordination from the patient. The parallel bars can also be used to measure an assistive device while the patient stands within the bars (see Pre  Ambulation Equipment).
+
+
+
+Sit to Stand Transfers
+When observing a patient moving from a sitting position to a standing position, the clinician should note the biomechanics challenges behind such a move. If the patient remains seated at the back of the wheelchair, the COG remains outside of the BOS created by the feet. If the patient slides forward in the wheelchair, the COG is brought within the BOS. As the patient assumes a standing position, there are a number of forces that must be overcome:
+ Gravity is attempting to force the knees into flexion.
+ Gravity is attempting to force the ankles into dorsiflexion.
+If the patient does not have sufficient strength, a number of incorrect compensations can occur (see Clinical Pearl). The correct technique involves asking the patient to lean the trunk over the knees, which ultimately creates an extensor moment at the knee.
+Before the patient can begin gait training, he or she must first learn to safely transfer from a sitting position to a standing position. The following procedure is recommended.
+ The wheels of the bed or wheelchair are locked, and the patient is reminded of any weight bearing restrictions.
+ The patient is asked to slide to the front edge of the chair or bed, and the weight bearing foot is placed underneath the body, with the knees flexed to approximately 110  and the ankles in slight dorsiflexion, so that the COG is closer to the BOS, which will make it easier for the patient to stand. The other lower extremity is positioned appropriately (usually with the knee extended) depending on the weight bearing status and whether it has been immobilized by a brace.
+ The patient is then instructed to lean forward from the hips, which brings the patient's COG over the BOS, and to push up with the hands from the bed or armrests of the wheelchair and extend the elbows, while simultaneously extending the legs and standing erect.
+ If the patient is being instructed on the use of a walker, he or she should grasp the handgrips of the walker only after becoming upright (VIDEO 14 6). The patient should not be permitted to try to pull up to a standing position using the walker (VIDEO 14 7), because this can cause the walker to tip over and increase the potential for falls (VIDEO 14 8).
+ If the patient is using crutches, he or she is instructed to hold both crutches with the hand on the same side as the involved lower extremity (VIDEO 14 9). The patient then presses down on the handgrips of the crutches, the armrest, or bed and with the uninvolved lower extremity to stand. Once standing, and with adequate balance, the patient moves the crutches into position and begins to ambulate (VIDEO 14 10).
+ If the patient is using one or two canes, he or she is instructed to push up with the hands from the bed or armrests (VIDEO 14 11). Once standing, the patient should grasp the handgrip(s) of the cane(s) with the appropriate hand and begin to ambulate (VIDEO 14 12).
+ A hemi walker can be used in a similar fashion to one cane (VIDEO 14 13), but it can also be used for a specific purpose (VIDEO 14 14).
+VIDEO 14 6 Sit to Stand with Walker Correct Technique 
+
+
+
+Play Video
+VIDEO 14 7 Sit to Stand with Walker Incorrect Technique 
+
+Play Video
+VIDEO 14 8 Non Weight Bearing with Walker and Training 
+
+
+
+Play Video
+VIDEO 14 9 Sit to Stand with Crutches 
+
+Play Video
+VIDEO 14 10 Non Weight Bearing with Crutches and Training 
+
+
+
+Play Video
+VIDEO 14 11 Sit to Stand with Quadcane 
+
+Play Video
+VIDEO 14 12 Gait with Cane 
+
+
+
+Play Video
+VIDEO 14 13 Gait with Hemi Walker 
+
+Play Video
+VIDEO 14 14 Hemi Walker, Sling, and Wheelchair 
+
+
+
+Play Video
+
+
+
+
+
+Stand to Sit Transfer
+The stand to sit transfer is essentially the reverse of the sit to stand transfer. Normally, in order to return to the chair or bed, the patient has to turn 180 . To enhance safety, the patient should be encouraged to turn using multiple small steps, as these provide increased stability because double contact time is at its highest. Before the patient sits, the clinician must ensure that the bed or wheelchair is locked. To sit down using an assistive device, the patient must first back up against the edge of the bed or chair so that the back of the patient's legs are touching it. If the patient has weight  bearing restrictions of the involved lower extremity, or is unable to flex the knee, he or she is instructed to slowly advance this lower extremity forward. Once in position:
+ The patient using a walker reaches for the bed or armrest with both hands, flexes the trunk forward, and slowly sits down.
+ The patient using crutches moves both crutches to the hand on the side of the involved lower extremity. With that hand holding onto both handgrips of the crutches, the patient reaches back for the bed or armrest with the other hand and flexes the trunk forward before slowly sitting down.
+ The patient using one or two canes places the handgrip of the cane(s) against the edge of the chair or bed. Next, the patient reaches back for the bed or armrest and slowly sits down.
+Turning
+Making changes in direction can prove challenging for many patients. Common findings include hesitancy, decreased speed, multiple steps, and multiple stops during the turn. Generally speaking, it is easier for the patient to turn toward the stronger side than the weaker side. This is also important for patients who have undergone a posterolateral approach hip arthroplasty to minimize the risk of internal rotation of the involved hip and lower extremity.
+Gait Patterns
+Several gait patterns are recognized, the most common of which are described here.
+Two Point Pattern
+
+The two point gait pattern, which closely approximates the normal gait pattern (VIDEO 14 15), requires the use of an assistive gait device (canes or crutches) on each side of the body. This pattern requires the patient to move the assistive gait device and the contralateral lower extremity at the same time. This pattern requires coordination and balance. The uninvolved lower extremity can be advanced to a point at which it is parallel to the involved lower extremity (VIDEO 14 16), or it can be advanced ahead of the uninvolved lower extremity.
+VIDEO 14 15 Two Point Gait Pattern 
+
+
+
+Play Video
+VIDEO 14 16 Two Point Gait with Step To 
+
+Play Video
+Two Point Modified
+
+The two point modified pattern is the same as the two point except that it requires only one assistive device, positioned on the opposite side of the involved lower extremity. This pattern cannot be used if there are any weight bearing restrictions such as PWB or NWB, but it is appropriate for a patient with unilateral weakness or mild balance deficits. The patient is instructed to move the cane and the involved leg simultaneously, and then the uninvolved leg.
+Three Point Gait Pattern
+
+This pattern is used for non weight bearing when the patient is permitted to bear weight through only one lower extremity. The three point gait pattern, which demands a high degree of energy from the patient, involves the use of two crutches or a walker (VIDEO 14 17). It cannot be used with a cane or one crutch. The three point gait pattern requires good upper body strength, good balance, and good cardiovascular endurance. The pattern is initiated with the forward movement of the assistive gait device. Next, the involved lower extremity is advanced. The patient then presses down on the assistive gait device and advances the uninvolved lower extremity. Two methods of advancing the lower extremity can be used:
+
+
+
+VIDEO 14 17 Three Point Gait Non Weight Bearing 
+
+Play Video
+ Swing to: the uninvolved lower extremity is advanced to a point at which it is parallel to the involved lower extremity (see Video 14 17).
+ Swing through: the involved lower extremity is advanced ahead of the uninvolved lower extremity.
+Three Point Modified or 3 Point 1
+
+A modification of the three point gait pattern requires two crutches or a walker. This pattern is more stable, slower, and requires less strength and energy than the three point gait pattern. This pattern is used when the patient can bear full weight through one lower extremity but is only allowed PWB through the involved lower extremity. In partial weight bearing, only part of the patient's weight is allowed to be transferred through the involved lower extremity. It must be remembered that most patients have difficulty replicating a prescribed weight bearing restriction and will need constant reinforcement.98
+The pattern is initiated with the forward movement of one of the assistive gait devices, and then the involved lower extremity is advanced. The patient presses down on the assistive gait device and advances the uninvolved lower extremity, using either a "swing to" or a "swing through" pattern as described for the three point pattern.
+Four Point Pattern
+
+The four point gait pattern, which requires the use of an assistive gait device (canes or crutches) on each side of the body, is used when the patient requires maximum assistance with balance and stability. This pattern provides a slow gait speed but requires a low amount of energy to perform. The pattern is initiated with the forward movement of one of the assistive gait devices, and then the contralateral lower extremity, the other assistive gait device, and finally the opposite lower extremity (e.g., right crutch, then left foot; left crutch, then right foot; VIDEO 14 18).
+VIDEO 14 18 Four Point Gait Pattern 
+
+
+
+Play Video
+Four Point Modified
+
+The four point modified pattern is the same as the four point except that it requires only one assistive device, positioned on the side opposite the involved lower extremity. This pattern cannot be used if there are any weight bearing restrictions such as PWB or NWB, but it is appropriate for a patient with unilateral weakness or mild balance deficits. The patient is instructed to move the cane, then the involved leg, and then the uninvolved leg (VIDEO 14 19).
+VIDEO 14 19 Two Point Gait with Step Through Modified Four Point 
+
+Play Video
+Stair Negotiation
+Stair negotiation brings its own set of challenges. In addition to being more strenuous than walking on the level, stair negotiation has more potential risks and requires more coordination and balance by the patient. The three rules to remember for stair negotiation are:
+1. "Up with the good and down with the bad." This means that the patient leads with the uninvolved (good) extremity when ascending (VIDEO 14 20), but leads with the involved (bad) extremity when descending (VIDEO 14 21). There appears to be some controversy about using value laden terms such as good and bad when referring to a patient's injury. Some prefer to use the phrase "good people go to heaven and bad people go to hell."
+
+
+
+Whichever phrase is used, it is important that it be easy to remember for the patient.
+2. The assistive device remains with the involved extremity. This means that if the assistive device is used to support a weak or unstable lower extremity, it remains with and moves with the involved lower extremity.
+3. The clinician always guards the patient from below. This means that the clinician should stand between the patient and the direction toward which the patient is most likely to fall. Thus, the clinician stands behind a patient who is ascending the stairs, but in front of a patient who is descending the stairs. As with gait training on the level, a gait belt should be used, and the clinician should maintain a wide BOS and should control the patient's movement centrally through the patient's pelvis and shoulder girdles. Maintaining a wide BOS on the stairs involves the clinician avoiding having both feet on one step at the same time.
+VIDEO 14 20 Ascending Steps with Crutches 
+
+Play Video
+VIDEO 14 21 Descending Steps with Crutches 
+
+Play Video
+Ascending Stairs
+
+To ascend steps, the patient must first move to the front edge of the step.
+
+
+
+To ascend stairs using a standard walker, the walker will have to be turned toward the opposite side of the handrail or wall. Ascending more than two to three stairs with a standard walker is not recommended. The patient is instructed to grasp the stair handrail with one hand and to turn the walker sideways so that the two front legs of the walker are placed on the first step. When ready, the patient pushes down on the walker handgrip and the handrail and advances the uninvolved lower extremity onto the first step. The patient then advances the uninvolved lower extremity to the first step and moves the legs of the walker to the next step. This process is repeated as the patient moves up the steps.
+
+ To ascend steps or stairs with crutches, the patient should grasp the stair handrail with one hand and grasp both crutches by the handgrips with the other hand (Video 14 20). If the patient is unable to grasp both crutches with one hand, or if the handrail is not stable or available, then the patient should use both crutches only, although this is not recommended if there are more than two to three steps. When in the correct position at the front edge of the step, the patient pushes down on the crutches and handrail, if applicable, and advances the uninvolved lower extremity to the first step. The patient then advances the involved lower extremity, and finally the crutches. This process is repeated for the remaining steps.
+ To ascend steps or stairs with one or two canes, the patient should use the handrail and the cane(s). If the handrail is not stable or available, then the patient should use the cane(s) only. The patient pushes down on the cane(s) or handrail, as applicable, and advances the uninvolved lower extremity to the first step. The patient then advances the involved lower extremity. This process is repeated for the remaining steps.
+Descending Stairs
+
+In order to descend steps, the patient must first move to the front edge of the top step.
+ To descend stairs using a walker, the walker is turned sideways so that the two front legs of the walker are placed on the lower step. Descending more than two to three stairs with a walker is not recommended. One hand is placed on the rear handgrip, and the other hand grasps the stair handrail. When ready, the patient lowers the involved lower extremity down to the first step. Then the patient pushes down on the walker and handrail and advances the uninvolved lower extremity down the first step. This process is repeated as the patient moves down the steps.
+ To descend steps or stairs with crutches, the patient should use one hand to grasp the stair handrail and the other to grasp both crutches and handrail (Video 14 21). If the patient is unable to grasp both crutches with one hand, or if the handrail is not stable, then the patient should use both crutches only, although this is not recommended if there are more than two to three steps. When ready, the patient lowers the involved lower extremity down to the first step. Next, the patient pushes down on the crutches and handrail, if applicable, and advances the uninvolved lower extremity down to the first step. This process is repeated for the remaining steps.
+ To descend steps or stairs with one or two canes, the patient should use the cane(s) and handrail. If the handrail is not stable, then the patient should use the cane(s) only. When ready, the patient lowers the involved lower extremity down to the first step. Next, the patient pushes down on the cane(s) and handrail, if applicable, and advances the uninvolved lower extremity down to the first step. This process is repeated for the remaining steps.
+
+
+
+Opening Doors
+Most doors open in one of two directions inward or outward.
+Door Opens Outward Toward the Patient
+
+The patient is instructed to stand close to the door, turned slightly to face the door opening (VIDEO 14 22). Using the hand closest to the hinges, the patient pulls the door open, and then shifts the hand to the inside of the door to give the door a push, opening it wider. The patient then uses his or her prescribed gait pattern to walk through the doorway, being careful to avoid the closing door hitting the tip of the assistive device. Alternatively, if the patient is using bilateral axillary crutches, he or she can place the tip of the crutch that is closer to the door in the path of the door so that the door rests against the crutch tip.
+VIDEO 14 22 Negotiating Door with Crutches Part A
+
+Play Video
+Door Opens Inward Away from the Patient
+
+The patient is instructed to stand close to the door, facing the door handle, and then to open and push the door with the hand nearest the door (see Video 14 22). The patient then walks through the doorway using his or her prescribed gait pattern. Alternatively, if the patient is using bilateral axillary crutches, the patient can turn sideways, facing away from the hinges, and then push against the door with the hip so that when the door opens, the patient positions the crutch tip against the bottom edge of the door to prevent it closing.
+
+
+
+
+
+VIDEO 14 23 Negotiating Door with Crutches Part B
+
+Play Video
+Inclines
+
+A number of adaptations need to be made when ambulating up and down on an incline.102,103 The patient should be instructed to:  Take slightly longer steps when ascending moderate inclines, and take slightly shorter steps when descending inclines
+ Lean forward when ascending
+Different Surfaces
+Depending on the treatment environment, sit to stand and stand to sit transfers can present a number of challenges. Whereas transferring to and from a relatively hard surface provides a high degree of stability for the patient, transferring to and from a soft surface is more difficult. This difficulty results from the patient being unsure on how the push off surface is going to react. This is best illustrated by viewing VIDEO 14 24.
+VIDEO 14 24 Assisted Sit to Stand with Walker 
+
+
+
+Play Video
+REFERENCES
+
+1. Rose J: Dynamic lower extremity stability, in Hughes C (ed): Movement Disorders and Neuromuscular Interventions for the Trunk and Extremities  Independent Study Course 18.2.5. La Crosse, Wisc, Orthopaedic Section, APTA, 2008, pp 1 34.
+
+2. Das P, McCollum G: Invariant structure in locomotion. Neuroscience 25:1023 1034, 1988. CrossRef [PubMed: 3043253] 
+
+3. Mann RA, Hagy JL, White V et al.: The initiation of gait. J Bone Joint Surg 61A:232 239, 1979.
+
+4. Luttgens K, Hamilton N: Locomotion: solid surface, in Luttgens K, Hamilton N (eds): Kinesiology: Scientific Basis of Human Motion (ed 9). Dubuque, Iowa, McGraw Hill, 1997, pp 519 549.
+
+5. Dobkin BH, Harkema S, Requejo P et al.: Modulation of locomotor like EMG activity in subjects with complete and incomplete spinal cord injury. J Neurol Rehabil 9:183 190, 1995. [PubMed: 11539274] 
+
+6. Donatelli R, Wilkes R: Lower kinetic chain and human gait. J Back Musculoskel Rehabil 2:1 11, 1992.
+
+7. Levine D, Whittle M: Gait analysis: The lower extremities. La Crosse, Wisc, Orthopaedic Section, APTA, 1992.
+
+8. Mann RA, Hagy J: Biomechanics of walking, running, and sprinting. Am J Sports Med 8:345 350, 1980. CrossRef [PubMed: 7416353] 
+
+9. Murray MP: Gait as a total pattern of movement. Am J Phys Med 46:290, 1967. [PubMed: 5336886] 
+
+10. Luttgens K, Hamilton N: The center of gravity and stability, in Luttgens K, Hamilton N (eds): Kinesiology: Scientific Basis of Human Motion (ed 9). Dubuque, Iowa, McGraw Hill, 1997, pp 415 442.
+
+11. Epler M: Gait, in Richardson JK, Iglarsh ZA (eds): Clinical Orthopaedic Physical Therapy. Philadelphia, WB Saunders, 1994, pp 602 625.
+
+12. Subotnick SI: Variations in angles of gait in running. Phys Sportsmed 7:110 114, 1979.
+
+
+
+
+13. Perry J: Stride analysis, in Perry J (ed): Gait Analysis: Normal and Pathological Function. Thorofare, NJ, Slack, 1992, pp 431 441.
+
+14. Ostrosky KM, Van Sweringen JM, Burdett RG et al.: A comparison of gait characteristics in young and old subjects. Phys Ther 74:637 646, 1994. [PubMed: 8016196] 
+
+15. Adelaar RS: The practical biomechanics of running. Am J Sports Med 14:497 500, 1986. CrossRef [PubMed: 3799878] 
+
+16. Basmajian JV: Therapeutic Exercise (ed 3). Baltimore, Williams & Wilkins, 1979.
+
+17. Perry J: Gait Analysis: Normal and Pathological Function. Thorofare, NJ, Slack, 1992.
+
+18. Rogers MM: Dynamic foot mechanics. J Orthop Sports Phys Ther 21:306 316, 1995. CrossRef [PubMed: 7655474] 
+
+19. Gage JR, Deluca PA, Renshaw TS: Gait analysis: principles and applications with emphasis on its use with cerebral palsy. Inst Course Lect 45:491  507, 1996.
+
+20. Frey C: Foot health and shoewear for women. Clin Orthop Relat Res 372:32 44, 2000. CrossRef [PubMed: 10738412] 
+
+21. Oberg T, Karsznia A, Oberg K: Basic gait parameters: reference data for normal subjects, 10 79 years of age. J Rehabil Res Dev 30:210 223, 1993. [PubMed: 8035350] 
+
+22. Molen NH, Rozendal RH, Boon W: Fundamental characteristics of human gait in relation to sex and location. Proceedings of the Koninklijke Nederlandse Akademie van Wetenschappen Series C. Biol Med Sci 45:215 223, 1972.
+
+23. Finley FR, Cody KA: Locomotive characteristics of urban pedestrians. Arch Phys Med Rehabil 51:423 426, 1970. [PubMed: 5433607] 
+
+24. Sato H, Ishizu K: Gait patterns of Japanese pedestrians. J Hum Ergol (Tokyo) 19:13 22, 1990. [PubMed: 2092067] 
+
+25. Richard R, Weber J, Mejjad O et al.: Spatiotemporal gait parameters measured using the Bessou gait analyzer in 79 healthy subjects: influence of age, stature, and gender. Rev Rhum Engl Ed 62:105 114, 1995. [PubMed: 7600064] 
+
+26. Murray MP, Kory RC, Sepic SB: Walking patterns of normal women. Arch Phys Med Rehabil 51:637 650, 1970. [PubMed: 5501933] 
+
+27. Murray MP, Drought AB, Kory RC: Walking patterns of normal men. J Bone Joint Surg Am 46A:335 360, 1964.
+
+28. Bhambhani Y, Singh M: Metabolic and cinematographic analysis of walking and running in men and women. Med Sci Sports Exerc 17:131 137, 1985.
+CrossRef [PubMed: 3982267] 
+
+29. Giannini S, Catani F, Benedetti MG et al.: Terminology, parameterization and normalization in gait analysis, in Gait Analysis: Methodologies and Clinical Applications. Washington, DC, IOS Press, 1994, pp 65 88.
+
+30. Perry J: The hip, in Gait Analysis: Normal and Pathological Function. Thorofare, NJ, Slack, 1992, pp 111 129.
+
+31. Reinking MF: Knee anatomy and biomechanics, in Wadsworth C (ed): Disorders of the Knee Home Study Course. La Crosse, Wisc, Orthopaedic
+
+
+
+Section, APTA, 2001.
+
+32. Norkin C, Levangie P: Joint Structure and Function: A Comprehensive Analysis. Philadelphia, FA Davis Company, 1992.
+
+33. Kuster MS, Wood GA, Stachowiak GW et al.: Joint load considerations in total knee replacement. J Bone Joint Surg 79B:109 113, 1997. CrossRef
+
+34. Andriacchi TP, Ogle JA, Galante JO: Walking speed as a basis for normal and abnormal gait measurements. J Biomech 10:261 268, 1977. CrossRef [PubMed: 858732] 
+
+35. Corrigan J, Moore D, Stephens M: The effect of heel height on forefoot loading. Foot Ankle 11:418 422, 1991.
+
+36. Arsenault AB, Winter DA, Marteniuk RG: Is there a "normal" profile of EMG activity in gait? Med Biol Eng Comput 24:337 343, 1986. CrossRef [PubMed: 3796061] 
+
+37. Berchuck M, Andriacchi TP, Bach BR et al.: Gait adaptations by patients who have a deficient anterior cruciate ligament. J Bone Joint Surg 72  A:871 877, 1990.
+
+38. Boeing DD: Evaluation of a clinical method of gait analysis. Phys Ther 57:795 798, 1977. [PubMed: 877147] 
+
+39. Dillon P, Updyke W, Allen W: Gait analysis with reference to chondromalacia patellae. J Orthop Sports Phys Ther 5:127 131, 1983. CrossRef [PubMed: 18806422] 
+
+40. Hunt GC, Brocato RS: Gait and foot pathomechanics, in Hunt GC (ed): Physical Therapy of the Foot and Ankle. Edinburgh, Churchill Livingstone, 1988, pp 39 57.
+
+41. Krebs DE, Robbins CE, Lavine L et al.: Hip biomechanics during gait. J Orthop Sports Phys Ther 28:51 9, 1998. CrossRef [PubMed: 9653690] 
+
+42. Luttgens K, Hamilton N: The standing posture, in Luttgens K, Hamilton N (eds): Kinesiology: Scientific Basis of Human Motion (ed 9). Dubuque, Iowa, McGraw Hill, 1997, pp 445 459.
+
+43. Winter DA: Biomechanical motor patterns in normal walking. J Motor Behav 15:302 329, 1983. CrossRef
+
+44. Hoyt DF, Taylor CF: Gait and the energetics of locomotion in horses. Nature 292:239 240, 1981. CrossRef
+
+45. Corcoran PJ, Brengelmann G: Oxygen uptake in normal and handicapped subjects in relation to the speed of walking beside a velocity controlled cart. Arch Phys Med Rehabil 51:78 87, 1970. [PubMed: 5437127] 
+
+46. Gonzalez EG, Corcoran PJ, Reyes RL: Energy expenditure in below knee amputees: correlation with stump length. Arch Phys Med Rehabil 55:111  119, 1974. [PubMed: 4817680] 
+
+47. Waters RL, Hislop HJ, Perry J et al.: Energetics: application to the study and management of locomotor disabilities. Orthop Clin North Am 9:351  377, 1978. [PubMed: 662297] 
+
+48. Martin PE, Rothstein DE, Larish DD: Effects of age and physical activity status on the speed aerobic demand relationship of walking. J Appl Physiol
+
+
+
+49. Prampero PE: The energy cost of human locomotion on land and in the water. Int J Sports Med 7:55 72, 1986. CrossRef [PubMed: 3519480] 
+
+50. Davies MJ, Dalsky GP: Economy of mobility in older adults. J Orthop Sports Phys Ther 26:69 72, 1997. CrossRef [PubMed: 9243404] 
+
+51. Daniels J, Krahenbuhl G, Foster C et al.: Aerobic responses of female distance runners to submaximal and maximal exercise. Ann N Y Acad Sci 301:726 733, 1977.
+CrossRef [PubMed: 270948] 
+
+52. Pate RR, Barnes CG, Miller CA: A physiological comparison of performance matched female and male distance runners. Res Q Exerc Sport 56:245  250, 1985.
+CrossRef
+
+53. Wells CL, Hecht LH, Krahenbuhl GS: Physical characteristics and oxygen utilization of male and female marathon runners. Res Q Exerc Sport 52:281 285, 1981.
+CrossRef [PubMed: 7268188] 
+
+54. Bransford DR, Howley ET: Oxygen cost of running in trained and untrained men and women. Med Sci Sports Exerc 9:41 44, 1977. CrossRef
+
+55. Daniels J, Daniels N: Running economy of elite male and females runners. Med Sci Sports Exerc 24:483 489, 1992. CrossRef [PubMed: 1560747] 
+
+56. Howley ET, Glover ME: The caloric costs of running and walking one mile for men and women. Med Sci Sports Exerc 6:235 237, 1974.
+
+57. Larish DD, Martin PE, Mungiole M: Characteristic patterns of gait in the healthy old. Ann N Y Acad Sci 515:18 32, 1987. CrossRef
+
+58. Waters RL, Hislop HJ, Perry J et al.: Comparative cost of walking in young and old adults. J Orthop Res 1:73 76, 1983. CrossRef [PubMed: 6679578] 
+
+59. Allen W, Seals DR, Hurley BF et al.: Lactate threshold and distance running performance in young and older endurance athletes. J Appl Physiol 58:1281 1284, 1985. [PubMed: 3988681] 
+
+60. Trappe SW, Costill DL, Vukovich MD et al.: Aging among elite distance runners: A 22 year longitudinal study. J Appl Physiol 80:285 290, 1996. [PubMed: 8847316] 
+
+61. Wells CL, Boorman MA, Riggs DM: Effect of age and menopausal status on cardiorespiratory fitness in masters women runners. Med Sci Sports Exerc 24:1147 1154, 1992. [PubMed: 1435163] 
+
+62. Moseley CF: Leg length discrepancy, in Morrissy RT (ed): Lovell and Winter's Pediatric Orthopaedics (ed 3). Philadelphia, JB Lippincott, 1990, pp 767 813.
+
+63. Beaty JH: Congenital anomalies of lower extremity, in Crenshaw AH (ed): Campbell's Operative Orthopaedics (ed 8). St. Louis, Mosby Year Book,
+ 1992, pp 2126 2158.	
+
+
+
+
+64. Gross RH: Leg length discrepancy: how much is too much? Orthopedics 1:307 310, 1978. [PubMed: 733195] 
+
+65. Song KM, Halliday SE, Little DG: The effect of limb length discrepancy on gait. J Bone Joint Surg 79A:1690 8, 1997.
+
+66. Lange GW, Hintermeister RA, Schlegel T et al.: Electromyographic and kinematic analysis of graded treadmill walking and the implications for knee rehabilitation. J Orthop Sports Phys Ther 23:294 301, 1996.
+CrossRef [PubMed: 8728527] 
+
+67. Croskey MI, Dawson PM, Luessen AC et al.: The height of the center of gravity in man. Am J Physiol 61:171 185, 1922.
+
+68. Saunders JBD, Inman VT, Eberhart HD: The major determinants in normal and pathological gait. J Bone Joint Surg Am 35:543 558, 1953. [PubMed: 13069544] 
+
+69. Dodd KJ, Morris ME. Lateral pelvic displacement during gait: abnormalities after stroke and changes during the first month of rehabilitation. Arch Phys Med Rehabil. 2003 Aug;84(8):1200 5.
+CrossRef [PubMed: 12917860] 
+
+70. Perry J: Gait cycle, in Perry J (ed): Gait Analysis: Normal and Pathological Function. Thorofare, NJ, Slack, 1992, pp 3 7.
+
+71. Givens Heiss DL, Krebs DE, Riley PO et al.: In vivo acetabular contact pressures during rehabilitation, Part II: Postacute phase. Phys Ther 72:700  705; discussion 706 710, 1992. [PubMed: 1528963] 
+
+72. Dabke HV, Gupta SK, Holt CA et al.: How accurate is partial weightbearing? Clin Orthop Relat Res (421):282 286, 2004.
+
+73. Sutton P, Stedman J, Livesley P: Perception and education of unilateral weightbearing amongst health care professionals. Injury 38:163 164, 2007.
+CrossRef [PubMed: 16979640] 
+
+74. Miyazaki S, Ishida A, Iwakura H et al.: Portable limb load monitor utilizing a thin capacitive transducer. J Biomed Eng 8:67 71, 1986. CrossRef [PubMed: 3951212] 
+
+75. Gapsis JJ, Grabois M, Borrell RM et al.: Limb load monitor: evaluation of a sensory feedback device for controlled weight bearing. Arch Phys Med Rehabil 63:38 41, 1982. [PubMed: 7055419] 
+
+76. Wannstedt G, Craik RL: Clinical evaluation of a sensory feedback device: the limb load monitor. Bull Prosthet Res:8 49, 1978.
+
+77. Isakov E: Gait rehabilitation: a new biofeedback device for monitoring and enhancing weight bearing over the affected lower limb. Eura Medicophys 43:21 26, 2007. [PubMed: 17021589] 
+
+78. Hershko E, Tauber C, Carmeli E: Biofeedback versus physiotherapy in patients with partial weight bearing. Am J Orthop (Belle Mead NJ) 37:E92  E96, 2008. [PubMed: 18587509] 
+
+79. Hoberman M: Crutch and cane exercises and use, in Basmajian JV (ed): Therapeutic Exercise (ed 3). Baltimore, Williams & Wilkins, 1979, pp 228  255.
+
+80. Duesterhaus MA, Duesterhaus S: Patient Care Skills (ed 2). East Norwalk, Conn, Appleton & Lange, 1990.
+
+
+
+
+81. Schmitz TJ: Locomotor training, in O'Sullivan SB, Schmitz TJ (eds): Physical Rehabilitation (ed 5). Philadelphia, FA Davis, 2007, pp 523 560.
+
+82. Lyu SR, Ogata K, Hoshiko I: Effects of a cane on floor reaction force and center of force during gait. Clin Orthop Relat Res 375:313 319, 2000. CrossRef [PubMed: 10853183] 
+
+83. Blount WP: Don't throw away the cane. J Bone Joint Surg 38A:695 708, 1956.
+
+84. Joyce BM, Kirby RL: Canes, crutches and walkers. Am Fam Phys 43:535 542, 1991.
+
+85. Baxter ML, Allington RO, Koepke GH: Weight distribution variables in the use of crutches and canes. Phys Ther 49:360 365, 1969. [PubMed: 5789374] 
+
+86. Edwards BG: Contralateral and ipsilateral cane usage by patients with total knee or hip replacement. Arch Phys Med Rehabil 67:734 740, 1986. CrossRef [PubMed: 3767623] 
+
+87. Oatis CA: Biomechanics of the hip, in Echternach J (ed): Clinics in Physical Therapy: Physical Therapy of the Hip. New York, Churchill Livingstone, 1990, pp 37 50.
+
+88. Olsson EC, Smidt GL: Assistive devices, in Smidt G (ed): Gait in Rehabilitation. New York, Churchill Livingstone, 1990, pp 141 155.
+
+89. Vargo MM, Robinson LR, Nicholas JJ: Contralateral vs. ipsilateral cane use: effects on muscles crossing the knee joint. Am J Phys Med Rehabil 71:170 176, 1992.
+CrossRef [PubMed: 1627282] 
+
+90. Jebsen RH: Use and abuse of ambulation aids. JAMA 199:5 10, 1967. CrossRef [PubMed: 6071129] 
+
+91. Kumar R, Roe MC, Scremin OU: Methods for estimating the proper length of a cane. Arch Phys Med Rehabil 76:1173 1175, 1995. CrossRef [PubMed: 8540797] 
+
+92. Bauer DM, Finch DC, McGough KP et al.: A comparative analysis of several crutch length estimation techniques. Phys Ther 71:294 300, 1991. [PubMed: 2008452] 
+
+93. Barbur JL, Konstantakopoulou E: Changes in color vision with decreasing light level: separating the effects of normal aging from disease. J Opt Soc Am A Opt Image Sci Vis 29:A27 A35, 2012.
+CrossRef [PubMed: 22330389] 
+
+94. Owsley C: Aging and vision. Vision Res 51:1610 1622, 2011. CrossRef [PubMed: 20974168] 
+
+95. Smith SC: Aging and vision. Insight 33:16 20; quiz 21 22, 2008. [PubMed: 18491801] 
+
+96. Wood JM: Aging, driving and vision. Clin Exp Optom 85:214 220, 2002. CrossRef [PubMed: 12135413] 
+
+97. Kline DW, Kline TJ, Fozard JL et al.: Vision, aging, and driving: the problems of older drivers. J Gerontol 47:P27 P34, 1992. CrossRef [PubMed: 1730855] 
+
+
+
+98. Li S, Armstrong CW, Cipriani D: Three point gait crutch walking: variability in ground reaction force during weight bearing. Arch Phys Med Rehabil:86 92, 2001.
+
+99. Reeves ND, Spanjaard M, Mohagheghi AA et al.: The demands of stair descent relative to maximum capacities in elderly and young adults. J Electromyogr Kinesiol 18:218 227, 2008.
+CrossRef [PubMed: 17822923] 
+
+100. Protopapadaki A, Drechsler WI, Cramp MC et al.: Hip, knee, ankle kinematics and kinetics during stair ascent and descent in healthy young individuals. Clin Biomech (Bristol, Avon) 22:203 210, 2007.
+CrossRef [PubMed: 17126461] 
+
+101. Powers CM, Perry J, Hsu A et al.: Are patellofemoral pain and quadriceps femoris muscle torque associated with locomotor function? Phys Ther 77:1063 1075; discussion 1075 1078, 1997. [PubMed: 9327821] 
+
+102. Leroux A, Fung J, Barbeau H: Postural adaptation to walking on inclined surfaces: I. Normal strategies. Gait Posture 15:64 74, 2002. CrossRef [PubMed: 11809582] 
+
+103. McIntosh AS, Beatty KT, Dwan LN et al.: Gait dynamics on an inclined walkway. J Biomech 39:2491 2502, 2006. CrossRef [PubMed: 16169000] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

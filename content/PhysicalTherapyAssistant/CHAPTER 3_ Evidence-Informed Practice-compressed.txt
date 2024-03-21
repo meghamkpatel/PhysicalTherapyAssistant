@@ -1,0 +1,645 @@
+
+
+
+Introduction to Physical Therapy and Patient Skills?
+
+CHAPTER 3: Evidence Informed Practice
+
+
+
+CHAPTER OBJECTIVES
+At the completion of this chapter, the reader will be able to:
+1. Provide a historical perspective on the evolution of evidence informed practice (EIP)
+2. Discuss the importance of EIP
+3. List some of the reasons why EIP became important in healthcare
+4. Describe the various research designs and their advantages and disadvantages
+5. Differentiate among the experimental, quasi experimental, and nonexperimental research designs
+6. Differentiate between the form and uses of the null and research hypotheses
+7. Differentiate among and discuss the roles of independent, dependent, and extraneous variables
+8. Discuss the concept of research validity of a study
+9. List the various threats to validity
+10. Describe the different types of reliability and the roles they play in EIP
+11. Discuss the various hierarchies of evidence
+12. Discuss how EIP can be used in clinical decision making
+OVERVIEW
+An important component of the Vision 2020 statement set forth by the American Physical Therapy Association (APTA)1 is achieving direct access through independent, self determined, professional judgment and action.1 With the majority of states now permitting direct access to physical therapists, many physical therapists now have the primary responsibility for being the gatekeepers of health care and for making medical referrals. In light of the APTA's movement toward realizing "Vision 2020," an operational definition of autonomous practice and the related term autonomous physical therapist practitioner is given by the APTA's board as follows:
+ "Autonomous physical therapist practice is practice characterized by independent, self determined professional judgment and action."
+ "An autonomous physical therapist practitioner within the scope of practice defined by the Guide to Physical Therapist Practice provides physical therapy services to patients who have direct and unrestricted access to their services, and may refer as appropriate to other healthcare providers and other professionals and for diagnostic tests."2
+Through the history and physical examination, a physical therapist diagnoses and classifies different types of informa tion for use in clinical reasoning and the intervention.3 This requires that the clinician have a high level of knowledge, including an understanding of the concepts of medical screening and differential diagnosis. In addition, the clinician must be able to determine the quality of the research evidence before integrating that evidence into his or her practice.
+ Evidence is used comprehensively in clinical decision making within the healthcare professions. The physical therapy profession has expressed a	
+
+
+
+commitment to the development and use of evidence through a variety of initiatives including the American Physical Therapy Association's introduction of a periodic feature in their journal, "Evidence in Practice," and a database of research articles, "Hooked on Evidence." Evidence informed practice (EIP) refers to practice that is associated with epidemiological evidence and healthcare needs.4
+
+
+The term EIP is used to refer to specific evidence supported interventions according to Sackett and colleagues,5 EIP involves the integration of best research evidence with clinical expertise and patient values. This is in contrast to the old fashioned reliance on knowledge gained from authority, hearsay, habit, or tradition.
+The relatively recent interest in the use of EIP has resulted from a number of issues, including6,7,8,9,10,11,12 and 13:  The continued increase in healthcare costs
+ Extensive documentation of apparently unexplained practice variations in the management of a variety of conditions  An increase in publicity surrounding medical errors
+ The identification of potential or actual harm resulting from previously approved medications or techniques  Recent trends in technology assessment and outcomes research
+ The rapid evolution of Internet technology
+ The need for proof to commercial and government insurance payers of the efficacy of a particular treatment or technique
+Physical therapists are responsible for thoroughly examining each patient and then either treating the patient according to established guidelines, or referring the patient to a more appropriate healthcare provider.14 Ultimately, given the role of physical therapists as movement specialists, task analysis should form the basis of the diagnosis.15 A good test must differentiate the target disorder from other disorders with which it might otherwise be confused.16 For example, when a physical therapist performs an examination and evaluation, he or she can use evidence to choose, apply, and interpret findings from a wide variety of available tests and measures, thereby enhancing the efficiency and effectiveness of service delivery.6
+EVIDENCE INFORMED PRACTICE
+Research involves a controlled, systematic approach to obtain an answer to a question.17 A search for relevant evidence to answer the question is then followed by critical appraisal of its qualities, applicability, and conclusions. This requires knowledge of the evidence appraisal process, access to the evidence, and the ability to discriminate between stronger and weaker evidence. Ideally, the located evidence will address specifically the test, diagnostic classification system, risk factor, treatment technique, or outcome that the physical therapist is considering relative to an individual patient/client the research has more credibility if the subjects in the study have characteristics that are similar to the patient/client about whom the physical therapist has a clinical question.18
+
+
+In addition, there are a number of criteria that must be met, including18:
+
+
+
+ The credibility of the research in terms of its design and execution. A number of research designs are outlined in Table 3 1. Research designs can be viewed as a continuum in terms of their usefulness.
+ Whether or not the research article is peer reviewed.
+ The relevance of the findings for the field and/or the specific journal. Ideally, the study should address the specific clinical question the clinician is trying to answer, and the subjects in the study should have characteristics that are similar to the patient/client in question.18 The standard for the assessment of the efficacy and value of a test or intervention is the clinical trial, that is, a prospective study assessing the effect and value of a test or intervention against a control in human subjects.21
+ The contribution to the body of knowledge about the topic.  The date of the publication.
+TABLE 3 1
+Research Designs
+
+Type of Design 
+Description
+Experimental
+Purposeful manipulation of subjects who have been randomly assigned into two or more groups with measurement of their resulting behavior. Experimental designs are the most restrictive in terms of the amount of control imposed on study participants and conditions. The classic experimental study design is the randomized controlled trial (RCT).
+Quasi  experimental
+Maintains the purposeful manipulation of the experimental design but involves no randomization of subjects to groups, or may have only one subject group to evaluate. Often used when researchers have difficulty obtaining sufficient numbers of subjects, or when group membership is predetermined by a subject characteristic (whether or not the subject received a particular medical or surgical intervention). Single system designs are a type of quasi experimental study that can be used to investigate the usefulness of an intervention.
+Nonexperimental or observational
+Researchers are simply observers who collect information about the phenomenon of interest; there is no experimental manipulation of subjects. These designs have less control than quasi experimental studies, as they have similar limitations with respect to their groupings.
+Physiologic studies
+Focus only on cellular, anatomical, or physiological systems and not on personal level function.
+Case report
+Describes what occurred with a patient/client.
+Case control studies
+A retrospective approach in which subjects who are known to have the diagnosis of interest are compared to a control group known to be free of the diagnosis.
+Cohort design
+Refers to a group of subjects who are followed over time and who usually share a common characteristic such as gender, occupation, or diagnosis.
+Narrative review
+A summary of prior research on a particular topic without using a systematic search and critical appraisal process.
+Systematic review
+A narrative review that addresses a specific research question. Includes detailed inclusion and exclusion criteria for selection of studies to review and preestablished quality criteria with which to rate the value of the individual studies, usually applied by blinded reviewers. A meta analysis involves additional statistical analysis using a pooling of the data from the individual studies in a systematic review.
+
+
+
+
+
+
+The gathering of evidence must occur in a systematic, reproducible, and unbiased manner to select and interpret diagnostic tests and to assess potential interventions.22 The EIP process generally occurs in five steps23:
+1. Formulating a clinical question, including details about the patient type or problem, the intervention being considered, a comparison intervention, and the outcome measure to be used.
+2. Searching for the best evidence, which can include a literature search on Ovid, EMBASE, PubMed, PEDro, or other medical search engine database using the keywords from the clinical question.
+3. Critical appraisal of the evidence. In general there are two types of clinical studies those that analyze primary data and those that analyze secondary data.24 Studies that collect and analyze primary data include case reports and series, case control, cross sectional, cohort (both prospective and retrospective), and randomized controlled trials (RCTs) (Table 3 2).24 Analysis of second rate data occurs in systematic reviews or meta analyses for the purpose of pooling or synthesizing data to answer a question that is perhaps not practical or answerable within an individual study.24 Another way to broadly categorize studies is as experimental, where an intervention is introduced to subjects, or observational, in which no active treatment is introduced to the subjects.24
+4. Applying the evidence to the patient. Once the evidence has been critically appraised, the clinician must consider the evidence in the context of his or her clinical expertise and the patient's values and preferences or goals.
+5. Evaluation of the outcome. The outcome is the end product of the patient/client management process and should be distinguished from treatment effects. An outcome reflects the patient/client's goals for the physical therapy episode of care from the patient/client's point of view.
+
+
+
+TABLE 3 2
+Randomized Controlled Trials, Systematic Reviews, and Clinical Practice Guidelines
+
+Randomized controlled trials (RCTs)
+Experimental designs that focus on treatment efficacy. Involve experiments on people.
+Less exposed to bias.
+Ensures comparability of groups.
+Typically, volunteers agreed to be randomly allocated to groups receiving one of the following: Treatment and no treatment
+Standard treatment and standard treatment plus a new treatment Two alternate treatments
+The common feature is that the experimental group receives the treatment of interest and the control group does not.
+At the end of the trial, outcomes of subjects in each group are determined the difference in outcomes between groups provides an estimate of the size of the treatment effect.
+Best suited to answer questions about whether an experimental intervention has an effect and whether that effect is beneficial or harmful to the subjects.
+Systematic reviews
+Reviews of the literature conducted in a way that is designed to minimize bias.
+Can be used to assess the effects of health interventions, the accuracy of diagnostic tests, or the prognosis for a particular condition. Usually involve criteria to determine which studies will be considered, the search strategy used to locate studies, the methods for assessing the quality of the studies, and the process used to synthesize the findings of individual studies.
+Particularly useful for busy clinicians who may be unable to access all the relevant trials in an area and may otherwise need to rely on their own incomplete surveys of relevant trials.
+Clinical practice guidelines
+Recommendations for management of a particular clinical condition.
+Involve compilation of evidence concerning needs and expectations of recipients of care, the accuracy of diagnostic tests, and effects of therapy and prognosis.
+Usually necessitates the conduct of one or sometimes several systematic reviews. Maybe presented as clinical decision algorithms.
+Can provide a useful framework on which clinicians can build clinical practice.
+
+
+Data from Maher CG, Herbert RD, Moseley AM, et al: Critical appraisal of randomized trials, systematic reviews of randomized trials and clinical practice guidelines, in Boyling JD, Jull GA (eds), Grieve's Modern Manual Therapy: The Vertebral Column. Philadelphia, Churchill Livingstone, 2004, pp 603 614; Petticrew M: Systematic reviews from astronomy to zoology: myths and misconceptions. BMJ 322:98 101, 2001.
+
+Research Article
+Each research article consists of a number of elements, which include25:
+Title. The purpose of the title is to identify the major variables studied and to provide clues about whether the purpose of the research is description, relationship analysis, or difference analysis.
+Abstract. This element briefly summarizes the purpose of the research, the methods, and the results.
+Introduction. This element defines the broad problems that underlie the study, states the specific purposes of the study, and places the problem and purposes into the theoretical context of previous work.
+Method. This portion is usually subdivided into Subjects (the method used for their selection, inclusion and exclusion criteria, methods used to assign them to various groups, and any other significant features of the subjects including mean age and sex), Dependent Variables, Design,
+
+
+
+Instruments, Procedures, and Data Analysis sections see later.
+ Results. This element presents the results without comment on their meaning.
+ Discussion. The purpose of the discussion is to present the authors' interpretation of the results, along with their assessment of study limitations and directions for future research.
+ Conclusions. As its name suggests, this element concisely restates the important findings of the research and presents a conclusion for each purpose outlined in the introduction.
+ References. List of references cited in the text of the article.
+Hypotheses
+Most research begins with a question or a purpose statement. For example, does age predict whether a patient will be discharged to home or inpatient rehabilitation following a total knee replacement? A hypothesis attempts to offer a prediction. Every hypothesis testing situation begins with the statement of a hypothesis a prediction about the outcome of the study.26 In the previous example, the prediction may be "Yes, age does predict whether a patient will be discharged to home or inpatient rehabilitation following a total knee replacement."
+There are two types of statistical hypothesis of each situation: the null hypothesis (H0), and the alternative hypothesis (HA).
+ Null hypothesis (H0): a hypothesis that states that there will be no difference between the groups or variables.26 The null hypothesis is also referred to
+as the statistical hypothesis. The premise behind this approach is that a study's results may be due to chance rather than due to the experiment or phenomenon of interest.19
+ Alternative (research) hypothesis (HA): a hypothesis that there will be a difference between the groups or variables.26 The alternative hypothesis is also referred to as the research hypothesis. The premise behind this approach is that a study's results included directional statements such as more/less than and positive/negative.19
+Subject Selection
+Whenever clinical research is performed, data are collected from people, specifically a target population based on the research question or purpose for example, all athletes who undergo rotator cuff surgery. Unfortunately, not every member of these target populations may be accessible to the researchers, so the researchers use a collection of subjects called a sample that best represent the population from which they are drawn.
+
+To avoid any biasing of the collected information, samples must be collected in a systematic fashion. Sampling can occur using a probabilistic method or a nonprobabilistic method. Probabilistic methods include:
+Random sampling: all items have the same chance of selection, thereby minimizing sampling bias for example, drawing numbers out of a hat.
+Systematic sampling: in which potential subjects are organized according to an identifier such as a birth date, Social Security number, or medical record number.
+Stratified sampling: sometimes called proportional or quota random sampling; involves dividing the population into homogeneous subgroups called strata, and then taking a simple random sample from each subgroup to highlight a specific subgroup. Thus, stratified sampling ensures that the
+
+
+
+overall population will be represented in addition to key subgroups of the population. For example, the most common strata used to formulate subgroups include age, gender, religion, educational achievement, socioeconomic status, and nationality.
+ Cluster sampling: involves dividing the population into groups or clusters (such as geographic boundaries), then randomly selecting sample clusters and using all members of the selected clusters as subjects of the samples. For example, it may not be possible to list all of the patients of a chain of physical therapy clinics. However, it would be possible to randomly select a subset of clinics (stage 1 of cluster sampling) and then interview a random sample of patients who visit those clinics (stage 2 of cluster sampling).
+Nonprobabilistic methods include27:
+ Convenience sampling: in which researchers recruit easily available individuals who meet the criteria for the study for example, requesting students to volunteer.
+ Snowball sampling: in which the researchers start with a few subjects and then recruit more via word of mouth from the original participants.
+ Purposive sampling: in which the researchers make specific choices about who will serve as subjects in this study by handpicking individuals with certain characteristics.
+Variables
+Studies about a diagnostic test require information about the specific test performed and the diagnoses obtained, whereas studies about an intervention require information about the interventions provided and their effects.28 The tests, diagnoses, interventions, and effects are referred to generically as variables.28
+
+Dependency refers to the "role" of the variable in the experiment or study. Different study designs require different types of variables. Two common types of variables include the independent variable and dependent variable:
+ Independent variable: one that is purposely manipulated by the researcher; independent variables are controlled or fixed in order to observe their effect on dependent variables. An example of an independent variable would be the treatment received by a subject.
+ Dependent variable: the variable that is the outcome of interest in a study. Using pain as an example, if a study examines the effects of iontophoresis on pain levels, the iontophoresis is the independent variable and the measurement of pain levels is the dependent variable.
+
+
+Measurement of Variables
+
+Variables can be classified by how they are categorized, counted, or measured. This type of classification uses measurement scales. The four classic scales (or levels) of measurement include30:
+
+
+
+ Nominal (classificatory; categorical): classifies data into mutually exclusive, exhausting categories in which no order or ranking can be imposed. Examples include arbitrary labels, such as zip codes, religion, and marital status.
+ Ordinal (ranking): classifies data into categories that can be ranked, although precise differences between the ranks do not exist. Examples include letter grades (A, B, C, etc.) and body builds (small, medium, large).
+ Interval: ranks data where precise differences between units of measure do exist, although there is no meaningful zero. Examples include temperature (degrees Celsius, degrees Fahrenheit), IQ, calendar dates.
+ Ratio: possesses all the characteristics of interval measurement, and there exists a true zero. Examples include height, weight, age, and salary.
+Validity
+After determining the question being asked in a study, and having an overview of the types of studies used in clinical research, the next step is to look at data analysis, which validates the answer to the question. Research or test validity is defined as the degree to which a test measures what it purports to be measuring, and how well it correctly classifies individuals with or without a particular condition.31,32 and 33
+
+
+There are a number of forms of measurement validity that may be evaluated to determine the potential validity of a study:
+ Construct validity. Construct validity refers to the ability of a test to represent the underlying construct (the theory developed to organize and explain some aspects of existing knowledge and observations). Construct validity refers to overall validity.
+ Face validity. Face validity refers to the degree to which the questions or procedures incorporated within a test make sense to the users. The assessment of face validity is generally informal and nonquantitative and is the lowest standard of assessing validity it is based on the notion that the finding is valid "on the face of it." For example, if a weighing scale indicates that a normal sized person weighs 2000 pounds, that scale does not have face validity.
+ Content validity. Content validity refers to the assessment by experts that the content of the measure is consistent with what is to be measured. Content validity is concerned with sample population representativeness that is, the knowledge and skills covered by the test items should be representative of the larger domain of knowledge and skills. In many instances, it is difficult, if not impossible, to administer a test covering all aspects of knowledge or skills. Therefore, only several tasks are sampled from the population of knowledge or skills. In these circumstances, the proportion of the score attributable to a particular component should be proportional to the importance of that component to total performance. In content validity, evidence is obtained by looking for agreement in judgments by judges. In short, one person can determine face validity, but a panel should confirm content validity.
+Convergent validity. A method with which to evaluate the construct validity of an instrument by assessing the relationship between scores on the instrument of interest, and scores on another instrument that is said to measure the same concept or constructs.
+Discriminant validity. Discriminant validity is the ability of a test to distinguish between two different constructs and is evidenced by a low correlation between the results of the test and those of tests of a different construct.
+Criterion validity. Criterion validity is determined by comparing the results of a test to those of a test that is accepted as a "gold standard" test (a test that is accepted as being close to 100% valid).35
+Concurrent validity. The degree to which the measurement being validated agrees with an established measurement standard administered at approximately the same time. Concurrent validity is a form of criterion validity.
+Predictive validity. Predictive validity is the extent to which test scores are associated with future behavior or performance.
+
+
+
+
+
+A number of factors can threaten the validity of a research project. The most common threats to validity include:
+ Ambiguity when correlation is taken for causation.
+ Subject assignment subject age, gender, ethnic and racial background, educational level, and presence of comorbidities can all threaten the validity unless randomization is used.
+ Errors of measurement random errors or systematic errors.
+ History when some critical event occurs between the pretest and posttest results.
+ Instrumentation when the researcher changes the measuring device.
+ Maturation when people change or mature physically, psychologically, emotionally, or spiritually over the research period.
+ Attrition when people die or drop out of the research project.
+ Testing subjects may appear to demonstrate improvement based on their growing familiarity with the testing procedure, or based on different instructions and cues provided by the person administering the test.
+ The John Henry Effect when groups compete to score well.
+ The Hawthorne Effect A tendency of research subjects to act atypically as a result of their awareness of being studied.
+ Statistical regression to the mean when a nonrandomized sample is selected, the average of that sample tends to regress towards the mean. For example, if a group of students is given a test (pretest) and the researchers select the group that lies at the bottom 5% of the total test takers, in the next test (posttest), the same group will often have a higher score than their pretest values. In a similar manner, if the researchers take the top 5% students on the pretest, they will probably perform more poorly in the posttest compared to the pretest when considered as a group.
+Validity is directly related to the notion of sensitivity and specificity. The sensitivity and specificity of any physical test to discriminate relevant dysfunction must be appreciated to make meaningful decisions.36 Sensitivity is the ability of the test to pick up what it is testing for, and specificity is the ability of the test to reject what it is not testing for.
+ Sensitivity represents the proportion of patients with a disorder who test positive. A test that can correctly identify every person who has the disorder has a sensitivity of 1.0. SnNout is an acronym for when sensitivity of a symptom or sign is high, a negative response rules out the target disorder.
+Thus, a so called highly sensitive test helps rule out a disorder. The positive predictive value is the proportion of patients with positive test results who are correctly diagnosed.
+ Specificity is the proportion of the study population without the disorder that test negative.35 A test that can correctly identify every person who does not have the target disorder has a specificity of 1.0. SpPin is an acronym for when specificity is extremely high, a positive test result rules in the target disorder. Thus, a so called highly specific test helps rule in a disorder or condition.
+
+
+
+
+Reliability
+Numerous physical therapy tests exist that are designed to help the clinician rule out some of the many possible diagnoses. Regardless of which test is chosen, the test must be performed reliably by the clinician in order for the test to be a valuable guide. Reliability describes the extent to which test or measurement is free from error. A test is considered reliable if it produces precise, accurate, and reproducible information.38 Two types of reliability are often described:
+ Interrater. This type of reliability determines whether two or more examiners can repeat a test consistently.
+ Intrarater. This type of reliability determines whether the same single examiner can repeat the test consistently.
+Reliability is quantitatively expressed by way of an index of agreement, with the simplest index being the percentage agreement value. The statistical coefficients most commonly used to characterize the reliability of the tests and measures are the intraclass correlation coefficient (ICC) and the kappa statistic (?), both of which are based on statistical models39:
+ The ICC is a reliability coefficient calculated with variance estimates obtained through an analysis of variance (Table 3 3).40 The advantages of the ICC over correlation coefficients are that it does not require the same number of raters per subject, and it can be used for two or more raters or ratings.40
+ The kappa statistic (?) is a chance corrected index of agreement that overcomes the problem of chance agreement when used with nominal and ordinal data.41 With nominal data, the kappa statistic is applied after the percentage agreement between testers has been determined. However, with higher scale data, it tends to underestimate reliability.42 Theoretically, ? can be negative if agreement is worse than chance. Practically, in clinical reliability studies, ? usually varies between 0.00 and 1.00.42 The ? statistic does not differentiate among disagreements; it assumes that all disagreements are of equal significance.42
+ Standard error of measurement (SEM). The SEM reflects the reliability of the response when the test is performed many times and is an indication of how much change there might be when the test is repeated.42 If the SEM is small, then the test is stable, with minimal variability between tests.42
+TABLE 3 3
+Intraclass Correlation Coefficient Benchmark Values
+
+Value 
+Description
+<0.75
+Poor to moderate agreement
+>0.75
+Good agreement
+>90
+Reasonable agreement for clinical measurements
+
+
+Data from Portney L, Watkins MP: Foundations of Clinical Research: Applica tions to Practice. Norwalk, Conn, Appleton & Lange, 1993.
+
+
+Once the specificity and sensitivity of the test is established (see Validity), the predictive value of a positive test versus a negative test can be determined if the prevalence of the disease/dysfunction is known. For example, when the prevalence of the disease increases, a patient with a positive test is more likely to have the disease (a false negative is less likely). A negative result of a highly sensitive test will probably rule out a common disease, whereas if the
+
+
+
+disease is rare, the test must be much more specific for it to be clinically useful.
+The likelihood ratio (LR) is the index measurement that combines sensitivity and specificity values and can be used to gauge the performance of a diagnostic test, as it indicates how much a given diagnostic test result will lower or raise the pretest probability of the target disorder.16,35
+
+
+Four measures contribute to sensitivity and specificity (Table 3 4):
+ True positive. The test indicates that the patient has the disease or dysfunction, and this is confirmed by the gold standard test.
+ False positive. The clinical test indicates that the disease or dysfunction is present, but this is not confirmed by the gold standard test.
+ False negative. The clinical test indicates absence of the disorder, but the gold standard test shows that the disease or dysfunction is present.
+ True negative. The clinical and the gold standard test agree that the disease or dysfunction is absent.
+TABLE 3 4
+2   2 Table 
+
+
+
+Disease/Outcome
+
+
+Present 
+Absent 
+Test
+Positive (+ve)
+a (true +ve)
+b (false +ve)
+
+Negative (?ve)
+c (false ?ve)
+d (true ?ve)
+
+
+These values are used to calculate the statistical measures of accuracy, sensitivity, specificity, negative and positive predictive values, and negative and positive likelihood ratios (LRs), as indicated in Table 3 5. Another way to summarize diagnostic test performance is to use Table 3 4 through the diagnostic odds ratio (DOR): DOR = true/false = (a   d)/ (b   c). The DOR of a test is the ratio of the odds of positivity in disease relative to the odds of positivity in the nondiseased. The value of a DOR ranges from 0 to infinity, with higher values indicating better discriminatory test performance. A score of 1 means a test does not discriminate between patients with the disorder and those without.
+
+
+
+TABLE 3 5
+Definition and Calculation of Statistical Measures
+
+Statistical Measure 
+
+Definition
+
+Calculation 
+Accuracy
+The proportion of people who were correctly identified as either having or not having the disease or dysfunction
+(TP + TN)/(TP + FP + FN + TN)
+Sensitivity
+A pre test probability to determine the proportion of people with the disease or dysfunction who will have a positive test result
+TP/(TP + FN)
+Specificity
+A pre test probability to determine the proportion of people without the disease or dysfunction who will have a negative test result
+TN/(FP + TN)
+Positive predictive value
+A post test probability to determine the proportion of people who truly have the disease or dysfunction when the test is positive
+TP/(TP + FP)
+Negative predictive value
+A post test probability to determine the proportion of people who truly do not have the disease or dysfunction when the test is negative
+TN/(FN + TN)
+Positive likelihood ratio
+How likely a positive test result is in people who have the disease or dysfunction as compared to how likely it is in those who do not have the disease or dysfunction
+Sensitivity/(1 ? specificity)
+Negative likelihood ratio
+How likely a negative test result is in people who have the disease or dysfunction as compared to how likely it is in those who do not have the disease or dysfunction
+(1 ?
+sensitivity)/specificity
+
+
+TP, true positive; TN, true negative; FP, false positive; FN, false negative.
+Data from Fritz JM, Wainner RS: Examining diagnostic tests: an evidence based perspective. Phys Ther 81:1546 1564, 2001; Powell JW, Huijbregts PA: Concurrent criterion related validity of acromioclavicular joint physical examination tests: a systematic review. J Man Manip Ther 14:E19 E29, 2006.
+
+
+The quality assessment of studies of diagnostic accuracy (QUADAS)45 is an evidence based quality assessment tool currently recommended for use in systematic reviews of diagnostic accuracy studies. The aim of a diagnostic accuracy study (DAS) is to determine how good a particular test is at detecting the target condition. DAS allow the calculation of various statistics that provide an indication of "test performance" how good the index test is at detecting the target condition. These statistics include sensitivity, specificity, positive and negative predictive values, positive and negative likelihood ratios, and diagnostics odds ratios. The QUADAS tool is a list of 14 questions that should each be answered "yes," "no," or "unclear" (Table 3 6). A score of 10 or more "yes" answers is indicative of a higher quality study, whereas a score of fewer than 10 "yes" answers suggests a poorly designed study.
+
+
+
+TABLE 3 6
+The QUADAS Tool 
+
+Item 
+
+Yes 
+No 
+Unclear 
+1.
+Was the spectrum of patients representative of the patients who will receive the test in practice?
+()
+()
+()
+2.
+Were selection criteria clearly described?
+()
+()
+()
+3.
+Is the reference standard likely to correctly classify the target condition?
+()
+()
+()
+4.
+Is the time period between reference standard and index test short enough to be reasonably sure that the target condition did not change between the two tests?
+()
+()
+()
+5.
+Did the whole sample, or a random selection of the sample, receive verification using a reference standard of diagnosis?
+()
+()
+()
+6.
+Did patients receive the same reference standard regardless of the index test result?
+()
+()
+()
+7.
+Was the reference standard independent of the index test (i.e., the index test did not form part of the reference standard)?
+()
+()
+()
+8.
+Was the execution of the index test described in sufficient detail to permit replication of the test?
+()
+()
+()
+9.
+Was the execution of the reference standard described in sufficient detail to permit its replication?
+()
+()
+()
+10.
+Were the index test results interpreted without knowledge of the results of the reference standard?
+()
+()
+()
+11.
+Were the reference standard results interpreted without knowledge of the results of the index test?
+()
+()
+()
+12.
+Were the same clinical data available when test results were interpreted as would be available when the test is used in practice?
+()
+()
+()
+13.
+Were uninterpretable/intermediate test results reported?
+()
+()
+()
+14.
+Were withdrawals from the study explained?
+()
+()
+()
+
+
+Data from Whiting P, Rutjes AW, Reitsma JB, et al: The development of QUADAS: a tool for the quality assessment of studies of diagnostic accuracy included in systematic reviews. BMC Med Res Methodol 3:25, 2003.
+USING EVIDENCE IN CLINICAL DECISION MAKING
+Decision making encompasses the selection of tests in the examination process, interpretation of data from the detailed history and examination, establishment of the diagnosis, estimation of the prognosis, determination of intervention strategies, sequence of therapeutic procedures, and establishment of discharge criteria.2 Ideally, the evidence located will address specifically the test, classification system, risk factors, treatment technique, or outcome that the clinician is considering relative to an individual patient/client.18 The methodologic hierarchy or rating of scientific studies is well documented in the literature (Table 3 7). Clinicians must constantly remind themselves that without information gathered from controlled clinical trials, they have limited scientific basis for their tests or interventions.46
+
+
+
+TABLE 3 7
+A Hierarchy of Evidence Grading
+
+
+Level of Evidence Grading = 1a 
+Level of Evidence Grading = 1b 
+Level of Evidence Grading 
+= 1c 
+Level of Evidence Grading = 2a 
+Level of Evidence Grading = 2b 
+
+Level of Evidence Grading = 2c
+
+Level of Evidence Grading = 3a
+Level of Evidence Grading 
+= 3b 
+Level of Evidence Grading 
+= 4
+Level of Evidence Grading 
+= 5
+Type of Study 
+Systematic review of randomized clinical trials that do not have statistically significant variation in the direction or degrees of results
+Individual randomized clinical trial with narrow confidence interval
+All or  none study (a study in which some or all patients died before treatment became available, and then none die after the treatment)
+Systematic review of cohort studies that do not have statistically significant variation in the direction or degrees of results
+Individual cohort study (including low quality randomized clinical trial)
+Outcomes research nonexperimental research that evaluates outcomes of care in real world clinical conditions
+Nonrandomized trial with concurrent or historical controls
+Study of sensitivity and specificity of a diagnostic test Population  based descriptive study
+Individual case  control study
+Cross sectional study Case series study  Case report
+Expert consensus Clinical experience
+
+
+Data from Sackett DL: Rules of evidence and clinical recommendations on the use of antithrombotic agents. Chest 89:2S 3S, 1986; and the Oxford Center for Evidence  based Medicine (www.cebm.net).
+In order to evaluate the literature, the following six step generic sequence is recommended25:
+1. Classify the research and variables. For example, if the reader determines that the research is experimental, the authors are likely to make causal statements about their results; if the reader determines that the research is nonexperimental, the expectation about causal statements should change. If the dependent variables of interest are such things as range of motion measures, the reader should expect clean, easily understood results, as opposed to the results found when measuring patterns of interaction between a patient and a clinician.
+2. Compare purposes and conclusions. This comparison serves two purposes: it indicates whether or not the study is internally consistent and also provides guidance for the critique of the methods, results, and discussion.
+3. Describe design and control elements. The reader must determine both the design of the study and the level of control the researchers exerted over implementation of the independent variable, selection and assignment of participants, extraneous variables related to the setting or participants, measurement, and information.
+4. Identify threats to research validity. As previously mentioned, the threats to research validity can be divided into construct, internal, and external validity.
+5. Place the study in the context of other research. The reader must determine how much new information the study adds to what is already known about a topic.
+6. Evaluate the personal utility of the study. During this step, the reader determines whether the study has meaning for his or her own practice.
+
+
+
+When integrating evidence into clinical decision making, an understanding of how to appraise the quality of the evidence offered by clinical studies is important. One of the major problems in evaluating studies is that the volume of literature makes it difficult for the busy clinician to obtain and analyze all of the evidence necessary to guide the clinical decision making process.38 The other problem involves deciding whether the results from the literature are definite enough to indicate an effect other than chance. Judging the strength of the evidence becomes an important part of the decision making process.
+
+
+The best evidence for making decisions about interventions comes from randomized controlled trials, systematic reviews, and evidence based clinical practice guidelines.47 At the other end of the continuum is the unsystematic collection of patient/client data. In between the two ends of the evidence continuum are the study designs outlined in Table 3 1, with quasi experimental designs being the strongest and narrative reviews being the weakest. Proponents of evidence informed medicine have attempted to make the study selection process easier by developing hierarchies, or levels of evidence (see Table 3 7).
+It may also be possible to discriminate between high  and low quality trials by asking three simple questions47:
+1. Were subjects randomly allocated to conditions? Random allocation implies that a nonsystematic, unpredictable procedure was used to allocate subjects to conditions.
+2. Was there blinding of assessors and patients? Blinding of assessors and patients minimizes the risk of the placebo effect and the "Hawthorne effect."48
+3. Was there adequate follow up? Ideally, all subjects who enter the trial should subsequently be followed up to avoid bias. In practice this rarely happens. As a general rule, losses to follow up of less than 10% avoid serious bias, but losses to follow up of more than 20% cause potential for serious bias.
+Patients may be referred to physical therapy with a nonspecific diagnosis, an incorrect diagnosis, or no diagnosis at all.49 A diagnosis can only be made when all potential causes for the signs and symptoms have been ruled out. The best indicator for the correctness of a diagnosis is the quality of the hypothesis considered, because if the appropriate diagnosis is not considered from the start, any subsequent inquiries will be misdirected.50 Once impairments have been highlighted, a determination can be made as to the reason for those impairments and the relationship between the impairments and the patient's functional limitations or disabilities.
+The decision making process is a multifaceted fluid process that combines tacit knowledge with accumulated clinical experience.51 The experienced clinician is able to recognize patterns and extrapolate information from them using forward reasoning, to develop an accurate working hypothesis.52 This is accomplished through an estimate of the proportional contribution of tissue pathology and impairment clusters to the patient's functional limitations.53 Using this information, the clinician puts a value on examination findings, considering relevant environmental, social, cultural, psychological, medical, and physical findings, and clusters the information into recognizable, understandable, or identifiable diagnoses, dysfunctions, or classification syndromes.53 According to Kahney,54 the expert seems to do less problem solving than the novice, because the former has already stored solutions to many of the clinical problems previously encountered.55
+One of the problems for the clinician is how to attach relevance to all the information gleaned from the examination. This judgment process can be viewed as a continuum. At one end of the continuum is the novice who uses very clear cut signposts; at the other end there is the experienced clinician who has a vast bank of clinical experiences from which to draw.55 Experts are able to see meaningful relationships, possess enhanced memory, are skilled in qualitative analysis, and have well developed reflection skills.51 This combination of skills allows the expert to systematically organize the information to make efficient and effective clinical decisions.
+What differentiates diagnosis by the physical therapist from diagnosis by the physician is not the process itself but the phenomena being observed and clarified.56 Sackett and colleagues22 proposed three strategies of clinical diagnosis:
+
+
+
+ Pattern recognition. This is characterized by the clinician's instantaneous realization that the patient conforms to a previously learned pattern of disease.
+ History and physical examination. This method requires the clinician to consider all hypotheses of the potential etiology.
+ Hypothetico deductive method. In this method, the clinician identifies early clues and formulates a short list of potential diagnoses/working hypotheses.
+The clinician's knowledge base is critical in the evaluation process.50 Experienced clinicians appear to have a superior organization of knowledge, and they use a combination of hypothetico deductive reasoning and pattern recognition to derive the correct diagnosis or working hypothesis.50
+A number of frameworks have been applied to clinical practice for guiding clinical decision making and providing structure to the healthcare process.57,58, 59, 60, 61, 62 and 63 Whereas the early frameworks were based on disablement models, the more recent models have focused on enablement perspectives using algorithms. An algorithm is a systematic process involving a finite number of steps that produces the solution to a problem. Algorithms used in healthcare allow for clinical decisions and adjustments to be made during the clinical reasoning and decision making process because they are not prescriptive or protocol driven.51 The most commonly used algorithm in physical therapy is the hypothesis oriented algorithm for clinicians (HOAC) designed by Rothstein and Echternach.60 The HOAC is designed to guide the clinician from evaluation to intervention planning with a logical sequence of activities. It also requires the clinician to generate working hypotheses early in the examination process, which is a strategy often used by expert clinicians.
+REFERENCES
+
+1. American Physical Therapy Association House of Delegates: Vision 2020, HOD 06 00 24 35. Alexandria, Va, American Physical Therapy Association, 2000.
+
+2. Guide to Physical Therapist Practice. Second Edition. American Physical Therapy Association. Phys Ther 81:9 746, 2001.
+
+3. DuVall RE, Godges J: Introduction to physical therapy differential diagnosis: the clinical utility of subjective examination, in Wilmarth MA (ed): Medical Screening for the Physical Therapist. Orthopaedic Section Independent Study Course 14.1.1, La Crosse, Wisconsin, Orthopaedic Section, APTA, Inc, 2003, pp 1 44.
+
+4. Dean E: Physical therapy in the 21st century (Part I): toward practice informed by epidemiology and the crisis of lifestyle conditions. Physiother Theory Pract 25:330 353, 2009.
+CrossRef [PubMed: 19842862] 
+
+5. Sackett DL, Strauss SE, Richardson WS et al.: Evidence Based Medicine: How to Practice and Teach EBM (ed 2). Edinburgh, Scotland, Churchill Livingstone, 2000.
+
+6. Jewell DV: Introduction, Guide to Evidence Based Physical Therapy Practice. Sudbury, Mass, Jones & Bartlett, 2008, pp 5 18.
+
+7. Sheth SA, Kwon CS, Barker FG 2nd: The art of management decision making: from intuition to evidence based medicine. Otolaryngol Clin North Am 45:333 351, viii, 2012.
+CrossRef [PubMed: 22483820] 
+
+8. Saitz, R: "Evidence based design: part of evidence based medicine?" Evid Based Med 18: 1, 2013. CrossRef [PubMed: 22864369] 
+
+9. Rosner AL: Evidence based medicine: revisiting the pyramid of priorities. J Bodyw Mov Ther 16:42 49, 2012. CrossRef [PubMed: 22196426] 
+
+10. Rhee JS, Daramola OO: No need to fear evidence based medicine. Arch Facial Plast Surg 14:89 92, 2012. CrossRef [PubMed: 22183057] 
+
+
+11. Matthews DR: Wisdom based and evidence based medicine. Diabetes Obes Metab 14 Suppl 1:1 2, 2012. CrossRef
+
+12. Mansi IA, Banks DE: Evidence based medicine for clinicians. South Med J 105:109, 2012. CrossRef [PubMed: 22392203] 
+
+13. Mansi IA, Banks DE: The challenge of evidence based medicine. South Med J 105:110 113, 2012. CrossRef [PubMed: 22392204] 
+
+14. Leerar PJ: Differential diagnosis of tarsal coalition versus cuboid syndrome in an adolescent athlete. J Orthop Sports Phys Ther 31:702 707, 2001. CrossRef [PubMed: 11767246] 
+
+15. Schenkman M, Deutsch JE, Gill Body KM: An integrated framework for decision making in neurologic physical therapist practice. Phys Ther 86:1681  1702, 2006.
+CrossRef [PubMed: 17138846] 
+
+16. Jaeschke R, Guyatt G, Sackett DL: Users guides to the medical literature. III. How to use an article about a diagnostic test. B. What are the results and will they help me in caring for my patients? JAMA 27:703 707, 1994.
+CrossRef
+
+17. Underwood FB: Clinical research and data analysis, in Placzek JD, Boyce DA (eds): Orthopaedic Physical Therapy Secrets. Philadelphia, Hanley & Belfus, 2001, pp 130 139.
+
+18. Jewell DV: General characteristics of desirable evidence, in Guide to Evidence Based Physical Therapy Practice. Sudbury, Mass, Jones & Bartlett, 2008, pp 19 34.
+
+19. Jewell DV: Questions, theories, and hypotheses, in Guide to Evidence Based Physical Therapy Practice. Sudbury, Mass, Jones & Bartlett, 2008, pp 81  95.
+
+20. Domholdt E, Carter R, Lubinsky J: Qualitative research, Rehabilitation Research: Principles and Applications. St. Louis, Mo, Elsevier Saunders, 2010, pp 157 173.
+
+21. Friedman LM, Furberg CD, DeMets DL: Fundamentals of Clinical Trials (ed 2). Chicago, Mosby Year Book, 1985, pp 2,  51, 71.
+
+22. Sackett DL, Haynes RB, Tugwell P: Clinical Epidemiology: A Basic Science for Clinical Medicine. Boston, Mass, Little, Brown, 1985.
+
+23. Straus SE, Richardson WS, Glasziou P et al.: Evidence Based Medicine, University Health Network, http://www.cebm.utoronto.ca, 2006.
+
+24. Fisher C, Dvorak M: Orthopaedic research: What an orthopaedic surgeon needs to know, Orthopaedic Knowledge Update: Home Study Syllabus. Rosemont, Ill, American Academy of Orthopaedic Surgeons, 2005, pp 3 13.
+
+25. Carter RE, Lubinsky J, Domholdt E: Evaluating evidence one article at the time, in Carter RE, Lubinsky J (eds): Rehabilitation Research: Principles and Applications (ed 4), Elsevier Saunders, 2011, pp 341 358.
+
+26. Bluman AG: Hypothesis testing, in Bluman AG (ed): Elementary Statistics: A Step by Step Approach (ed 4). New York, McGraw Hill, 2008, pp 387 455.
+
+27. Jewell DV: Research subjects, in Guide to Evidence Based Physical Therapy Practice. Sudbury, Mass, Jones & Bartlett, 2008, pp 127 143.
+
+28. Jewell DV: Variables and their measurement, in Guide to Evidence Based Physical Therapy Practice. Sudbury, Mass, Jones & Bartlett, 2008, pp 145 167.
+
+
+29. Domholdt E, Carter R, Lubinsky J: Variables, Rehabilitation Research: Principles and Applications. St. Louis, Mo, Elsevier Saunders, 2010, pp 67 74.
+
+30. Bluman AG: The nature of probability and statistics, in Bluman AG (ed): Elementary Statistics: A Step by Step Approach (ed 4). New York, McGraw Hill, 2008, pp 1 32.
+
+31. Feinstein AR: Clinimetrics. Westford, Mass, Murray, 1987.
+
+32. Marx RG, Bombardier C, Wright JG: What we know about the reliability and validity of physical examination tests used to examine the upper extremity. J Hand Surg 24A:185 193, 1999.
+CrossRef
+
+33. Roach KE, Brown MD, Albin RD et al.: The sensitivity and specificity of pain response to activity and position in categorizing patients with low back pain. Phys Ther 77:730 738, 1997. [PubMed: 9225844] 
+
+34. Schwartz JS: Evaluating diagnostic tests: what is done what needs to be done. J Gen Intern Med 1:266 267, 1986. CrossRef [PubMed: 3772600] 
+
+35. Van der Wurff P, Meyne W, Hagmeijer RHM: Clinical tests of the sacroiliac joint, a systematic methodological review. Part 2: validity. Man Ther 5:89 96, 2000.
+CrossRef [PubMed: 10903584] 
+
+36. Jull GA: Physiotherapy management of neck pain of mechanical origin, in Giles LGF, Singer KP (eds): Clinical Anatomy and Management of Cervical Spine Pain. The Clinical Anatomy of Back Pain. London, England, Butterworth Heinemann, 1998, pp 168 191.
+
+37. Davidson M: The interpretation of diagnostic tests: A primer for physiotherapists. Aust J Physiother 48:227 233, 2002. CrossRef [PubMed: 12217073] 
+
+38. Cleland J: Introduction, in Orthopedic Clinical Examination: An Evidence Based Approach for Physical Therapists. Carlstadt, NJ, Icon Learning Systems, 2005, pp 2 23.
+
+39. Wainner RS: Reliability of the clinical examination: how close is "close enough"? J Orthop Sports Phys Ther 33:488 491, 2003. CrossRef [PubMed: 14524507] 
+
+40. Huijbregts PA: Spinal motion palpation: A review of reliability studies. J Man Manip Ther 10:24 39, 2002. CrossRef
+
+41. Laslett M, Williams M: The reliability of selected pain provocation tests for sacroiliac joint pathology. Spine 19:1243 1249, 1994. CrossRef [PubMed: 8073316] 
+
+42. Portney L, Watkins MP: Foundations of Clinical Research: Applications to Practice. Norwalk, Conn, Appleton & Lange, 1993.
+
+43. Feinstein AR: Clinical biostatistics XXXI: on the sensitivity, specificity & discrimination of diagnostic tests. Clin Pharmacol Ther 17:104 116, 1975. [PubMed: 1122664] 
+
+44. Anderson MA, Foreman TL: Return to competition: functional rehabilitation, in Zachazewski JE, Magee DJ, Quillen WS (eds): Athletic Injuries and Rehabilitation. Philadelphia, WB Saunders, 1996, pp 229 261.
+
+45. Whiting P, Rutjes AW, Reitsma JB et al.: The development of QUADAS: a tool for the quality assessment of studies of diagnostic accuracy included in systematic reviews. BMC Med Res Methodol 3:25, 2003.
+ CrossRef [PubMed: 14606960]	
+
+
+
+
+46. Schiffman EL: The role of the randomized clinical trial in evaluating management strategies for temporomandibular disorders, in Fricton JR, Dubner R (eds): Orofacial Pain and Temporomandibular Disorders (Advances in Pain Research and Therapy, Vol 21). New York, Raven Press, 1995, pp 415 463.
+
+47. Maher CG, Herbert RD, Moseley AM et al.: Critical appraisal of randomized trials, systematic reviews of radomized trials and clinical practice guidelines, in Boyling JD, Jull GA (eds): Grieve's Modern Manual Therapy: The Vertebral Column. Philadelphia, Churchill Livingstone, 2004, pp 603 614.
+
+48. Wickstrom G, Bendix T: The "Hawthorne effect" what did the original Hawthorne studies actually show? Scand J Work Environ Health 26:363 367, 2000.
+CrossRef [PubMed: 10994804] 
+
+49. Clawson AL, Domholdt E: Content of physician referrals to physical therapists at clinical education sites in Indiana. Phys Ther 74:356 360, 1994. [PubMed: 8140148] 
+
+50. Jones MA: Clinical reasoning in manual therapy. Phys Ther 72:875 884, 1992. [PubMed: 1454863] 
+
+51. Hoogenboom BJ, Voight ML: Clinical reasoning: An algorithm based approach to musculoskeletal rehabilitation, in Voight ML, Hoogenboom BJ, Prentice WE (eds): Musculoskeletal Interventions: Techniques for Therapeutic Exercise. New York, McGraw Hill, 2007, pp 81 95.
+
+52. Brooks LR, Norman GR, Allen SW: The role of specific similarity in a medical diagnostic task. J Exp Psychol Gen 120:278 287, 1991. CrossRef [PubMed: 1836491] 
+
+53. Sullivan PE, Puniello MS, Pardasaney PK: Rehabilitation program development: clinical decision making, prioritization, and program integration, in Magee D, Zachazewski JE, Quillen WS (eds): Scientific Foundations and Principles of Practice in Musculoskeletal Rehabilitation. St Louis, Mo, Saunders, 2007, pp 314 327.
+
+54. Kahney H: Problem Solving: Current Issues. Buckingham, England, Open University Press, 1993.
+
+55. Coutts F: Changes in the musculoskeletal system, in Atkinson K, Coutts F, Hassenkamp A (eds): Physiotherapy in Orthopedics. London, Churchill Livingstone, 1999, pp 19 43.
+
+56. Jette AM: Diagnosis and classification by physical therapists: A special communication. Phys Ther 69:967, 1989. [PubMed: 2530594] 
+
+57. Higgs J, Jones M: Clinical Reasoning in the Health Professions (ed 2). London, Butterworth Heinemann, 2000, pp 118 127.
+
+58. Rothstein JM, Echternach JL, Riddle DL: The Hypothesis Oriented Algorithm for Clinicians II (HOAC II): a guide for patient management. Phys Ther 83:455 470, 2003. [PubMed: 12718711] 
+
+59. Echternach JL, Rothstein JM: Hypothesis oriented algorithms. Phys Ther 69:559 564, 1989. [PubMed: 2525788] 
+
+60. Rothstein JM, Echternach JL: Hypothesis oriented algorithm for clinicians. A method for evaluation and treatment planning. Phys Ther 66:1388 1394, 1986. [PubMed: 3749271] 
+
+61. Schenkman M, Butler RB: A model for multisystem evaluation, interpretation, and treatment of individuals with neurologic dysfunction. Phys Ther 69:538 547, 1989. [PubMed: 2740445] 
+
+62. Schenkman M, Butler RB: A model for multisystem evaluation treatment of individuals with Parkinson's disease. Phys Ther 69:932 943, 1989. [PubMed: 2813521] 
+
+
+
+
+63. Schenkman M, Donovan J, Tsubota J et al.: Management of individuals with Parkinson's disease: rationale and case studies. Phys Ther 69:944 955, 1989. [PubMed: 2813522] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

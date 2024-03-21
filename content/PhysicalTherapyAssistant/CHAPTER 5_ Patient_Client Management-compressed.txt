@@ -1,0 +1,2581 @@
+
+
+
+Introduction to Physical Therapy and Patient Skills?
+
+CHAPTER 5: Patient/Client Management
+
+
+
+CHAPTER OBJECTIVES
+At the completion of this chapter, the reader will be able to:
+1. Describe the various models of disablement and their similarities and differences
+2. List the components of the examination process
+3. Conduct a thorough history
+4. Understand the importance of the systems review
+5. Describe the various components of the tests and measures portion of the examination
+6. Discuss the importance of the physical therapy evaluation
+7. Describe the purposes of documentation and the different types of documentation
+8. Have an understanding of the common medical abbreviations used in healthcare
+9. Describe the difference between short term and long term goals
+10. Describe the components and importance of patient/family/client related instruction
+11. Discuss various strategies to improve patient adherence and compliance
+12. Understand the importance of the physical therapist's role in the promotion of health, wellness, and physical fitness
+OVERVIEW
+A profession's scope of practice is directly dependent on the education and skill of the provider, the established history of the practice scope within the profession, supporting evidence, and the regulatory environment.1 For the physical therapist, the profession has outlined the following six steps involved in the management of a typical patient/client2: (1) examination of the patient; (2) evaluation of the data and identification of problems; (3) determination of the diagnosis; (4) determination of the prognosis and plan of care (POC); (5) implementation of the POC; and (6) reexamination of the patient and evaluation of treatment outcomes (Figure 5 1). Through accomplishment of this process, the physical therapist determines whether physical therapy services are needed and develops the plan of care in collaboration with the patient/client/caregiver.
+FIGURE 5 1
+
+
+Elements of patient management leading to optimal outcomes
+
+
+
+
+
+
+
+
+MODELS OF DISABLEMENT
+The Guide to Physical Therapist Practice, 2nd Edition (The Guide), promotes the practice of physical therapy based on a disablement model. A number of theoretical frameworks, or disablement models, have been proposed to describe the path from disease to disability (Table 5 1).3, 4, 5, 6, 7, 8 and 9 A disablement model is designed to detail the functional consequences and relationships of disease, impairment, and functional limitations. The Guide10 employs an expanded version of the terminology from the Nagi disablement model (see Table 5 1),6 but also uses components from other disablement models.11 For example, The National Center for Medical Rehabilitation Research (NCMRR) devised a modification to Nagi's model by adding a fifth concept, that of societal limitation (see Table 5 1). In 1980 the Executive Board of the World Health Organization published a document for trial purposes, the International Classification of Functioning, Disability and Health (ICFDH I or ICF) (see Table 5 1). In 2001, a revised edition was published (ICFDH II) that emphasized "components of health" rather than "consequences of disease" (i.e., participation rather than disability) and environmental and personal factors as important determinants of health (see Table 5 1).12
+TABLE 5 1
+Disablement Model Comparisons 
+
+
+
+
+WHO (ICIDH)
+
+
+NAGI Scheme 
+National Center for Medical Rehabilitation Research (NCMRR)
+
+WHO (ICIDH) 2 (2001)
+
+Health Related Quality of Life (HRQL)
+
+
+Disease 
+The intrinsic pathology or disorder
+Pathology/Pathophysiology Interruption or interference with normal processes and efforts of an organism to regain normal
+Pathophysiology Interruption with normal physiologic developmental processes or structures
+Condition 
+Pathophysiology 
+
+
+
+
+
+
+state
+
+
+
+
+
+Impairment 
+Loss or abnormality of psychological, physiologic, or anatomic structure or function
+Impairment 
+Anatomic, physiologic, mental or emotional abnormalities or loss
+Impairment 
+Loss of cognitive, emotional physiologic or anatomic structure or function
+Body Functions and Structure 
+Impairment 
+
+
+Disability
+Restriction or lack of ability to perform an activity in a normal manner
+Functional limitation Limitation in performance at the level of the whole organism or person
+Functional Limitation Abnormality of or restriction or lack of ability to perform an action in the manner or range consistent with the purpose of an organ or organ system
+Activities Activity limitations can cause secondary impairments
+Functional Limitation Physical Function Component, which includes Basic Activities of Daily Living (BADLs) and Instrumental Activities of Daily Living (IADLs) Psychological Component, which includes the various cognitive, perceptual, and personality traits of a person
+Social Component, which involves the interaction of the person within a larger social context or structure
+
+
+Handicap
+Disadvantage or disability that limits or prevents fulfillment of a normal role (depends on age, sex, sociocultural factors for the person)
+Disability
+Limitation in performance of socially defined roles and tasks within a sociocultural and physical environment
+Disability
+Limitation or inability in performing tasks, activities, and roles to levels expected within physical and social contexts
+Participation Is context dependent (environmental and personal factors)
+Is one aspect of health related quality of life
+Disability
+
+
+
+
+Societal Limitation Restriction attributed to social policy or barriers that limit fulfillment of roles
+Examples include lack of accessibility and funding
+Contextual, environmental personal factors 
+
+
+
+
+ICIDH, International Classification of Impairments, Disabilities and Handicaps; WHO, World Health Organization.
+
+
+
+
+Nagi's model depicts the relationship between the following series of linked events6,13: pathology/pathophysiology (the presence of disease), which may lead to impairments (anatomic and structural abnormalities), which may in turn lead to functional limitations (restrictions in basic physical and mental actions), which may then lead to disability (difficulty doing activities of daily life) (Table 5 2). In addition, the model focuses on persons with health, prevention, and wellness needs.
+TABLE 5 2
+Disablement Terminology 
+
+Term 
+Definition
+Disease
+A pathological condition of the body or abnormal entity with a characteristic group of signs and symptoms that affect the body
+Signs
+Directly observable or measurable evidence of physical abnormality
+Symptoms
+Subjective reactions to a physical abnormality
+Impairments
+Direct (primary): the results of pathology or disease states which can include any loss or abnormality of physiologic, anatomic, or psychologic structure or function
+Indirect (secondary): the sequelae or complications that originate from other systems which can result from preexisting impairments or the expanding multisystem dysfunction that occurs with prolonged inactivity, lack of adherence to suggested strategy/interventions, and ineffective plan of care, or lack of a rehabilitation intervention
+Functional limitation
+The restriction of the ability to perform, at the level of the whole person, a physical action, task, or activity, in an efficient, typically expected, or competent manner
+Disability
+An inability to perform or limitation in the performance of actions, tasks, and activities usually expected in specific social roles that are customary for the individual or expected for the person's status or role in a specific sociocultural context and physical environment (self  care, home management, work, and community/leisure)
+Disablement risk factors
+Behaviors (negative affect, psychosocial instability), attributes (disengaged lifestyle, limited education), or environmental influences (inadequate family support, limited financial/health resources) that increase the chances of developing impairments, functional limitations, or disability when an individual demonstrates an active pathology
+
+
+Data from Guide to Physical Therapist Practice. Second Edition. American Physical Therapy Association. Phys Ther 81:9 746, 2001; O'Sullivan SB: Clinical decision  making, in O'Sullivan SB, Schmitz TJ (eds): Physical Rehabilitation (ed 5). Philadelphia, FA Davis, 2007, pp 3 24; Jette AM: Physical disablement concepts for physical therapy research and practice. Phys Ther 74:375 382, 1994.
+
+
+
+
+Pathology and Pathophysiology
+The term pathology is perhaps self explanatory. It refers to any diagnosed disease, injury, disorder, or abnormal condition that is (1) characterized by a particular cluster of signs and symptoms and (2) recognized by either the patient or clinician as abnormal.15, 16 and 17
+Pathology may result in a change that manifests itself as a health condition producing an alteration in, or characteristic of, an individual's health status. Pathology is primarily identified at the cellular level and usually is determined by the physician's medical diagnosis.16, 17 The presence of pathology may lead to distress or interference with functional status. The severity of the pathology, and thus the impact that it has on a patient's functional status, depends on several factors. These factors include, but are not limited to:
+ Comorbidity (the degree and location of edema, the quality of the vascular supply, the presence of infection, and the degree of atrophy)  The patient's general physical health
+ The age of the patient
+ The patient's nutritional status
+Patients generally are referred to physical therapy services with a medical diagnosis that is based on pathology (e.g., osteoarthritis of the hip). Although knowledge of pathology and pathophysiology can help the clinician predict the range, severity, and prognosis of a particular condition, a medical diagnosis does not tell the clinician how to manage the patient. A physical therapy diagnosis, on the other hand, is a diagnostic label that identifies the impact of a condition on function. When a patient is referred from a physician with a medical diagnosis, there may be four possible scenarios following the physical therapy examination16:
+1. The clinical findings are consistent with the physician's medical diagnosis. This scenario permits the physical therapist to proceed with interventions that are justified by changes in the patient's functional status.
+2. The clinical findings suggest a pathologic or pathophysiologic condition that is inconsistent with the referring physician's diagnosis and is out of the scope of the practice of physical therapy. This scenario requires the physical therapist to either return the patient to the referring physician or make a referral to another practitioner.
+3. The clinical findings suggest the presence of an additional pathologic or pathophysiologic condition that was not previously identified. If the newly identified pathophysiologic condition is within the scope of physical therapy practice, the physical therapist can continue to treat the patient. If, however, the newly identified pathophysiologic condition is not within the scope of physical therapy practice, the physical therapist is required to return the patient to the referring physician or to make a referral to another practitioner (e.g., speech therapist).
+4. The clinical findings fail to identify the underlying cause. With this scenario, the physical therapist continues to test the signs and symptoms while
+
+
+
+providing interventions that are justified by changes in the patient's functional status.
+If a physical therapy intervention is warranted, the goal of the intervention is to restore function, with the focus of the intervention on reducing and preventing risk factors and decreasing the impact of impairments, functional limitations, and disabilities.16
+Impairments
+The Guide defines impairment as any loss or abnormality of anatomic, physiologic, mental, or psychological structure or function that both (1) results from underlying changes in the normal state and (2) contributes to illness.16 Thus, impairments can be viewed as abnormalities of structure or function as indicated by signs and symptoms. Verbrugge and Jette3 suggest that disease symptoms are essentially impairments, and thus downstream from the pathologic process of the disease.
+Impairments have the potential to create pain and subtle alterations in the normal functions of the involved joint and surrounding tissues. Impairments can be manifested objectively, for example, by reduced range of motion, articular deformity, abnormal gait, and the loss of strength, power, endurance, or proprioception. Impairments also can be manifested subjectively, for example, through pain (see later), tenderness, morning stiffness, or fatigue.
+The definition of impairment refers to some form of loss. Loss or loss of use refers to a change from the normal or preexisting state. The term normal refers to a range representing healthy functioning, which can vary with age, gender, and other factors such as environmental conditions. For example, normal range of motion for knee flexion is deemed to be 150 .17 Although a loss of more than 70  of knee flexion may prevent a patient from performing such activities as getting in and out of a bathtub and walking up and down steps, the patient may still be able to ambulate around the house. It is important to note that physical impairment and physical functioning appear to be separate constructs that do not necessarily have a clear linear relationship. Furthermore, some measures of impairment are not correlated with patient function, bringing into question their meaningfulness as measurement tools.
+One of the goals of the examination process is to determine which impairments are related to the patient's functional limitations. Once these have been identified, the clinician must then determine which impairments may be remedied by physical therapy intervention.
+
+Functional Limitations
+A functional limitation is defined by The Guide as a restriction of the ability to perform a fundamental physical action, task, or activity in an efficient, typically expected, or competent manner.16 In other words, functional limitations are restrictions in performing expected basic physical and mental actions. Examples of such functional limitations include difficulty with walking and an inability to put on shoes. The vast majority of the traditional tests used in physical therapy clinics, such as range of motion and strength, are measures of impairments, not function. Measurements of functional limitations include sensorimotor performance testing during such activities as walking, climbing, bending, transferring, lifting, and carrying.16 It is important that these measurements assess the patient's ability to perform tasks that the patient feels are important (Table 5 3).
+
+
+
+TABLE 5 3
+Questions to Determine Desired Outcomes
+
+
+Data from Randall KE, McEwen IR: Writing patient centered goals. Phys Ther 80:1197 1203, 2000; Winton PJ, Bailey DB: Communicating with families: examining practices and facilitating change, in Simeonsson JP, Simeonsson RJ (eds): Children with special needs: Family, culture, and society. Orlando, FL, Harcourt Brace Jovanovich, 1993, pp 69 89.
+The process of identifying meaningful, achievable functional goals should be a collaborative effort between the clinician and the patient, the patient's family, or the patient's significant other.16 To identify functional goals, Randall and McEwen18 recommend the following steps:
+1. Determine the patient's desired outcome for the intervention.
+2. Develop an understanding of the patient's self care, work, and leisure activities and the environments in which these activities occur.
+3. Establish goals with the patient that relate to the desired outcomes (see Table 5 3).18
+Once the goals have been agreed on, the clinician must write the goals so that they contain the following elements18, 19:  Who (the patient)
+ Will do what (activities)
+ Under what conditions (the home or work environment)
+ How well (the amount of assistance, or number of attempts required for successful completion)  By when (target date)
+Thus, the functional examination creates a functional diagnosis, with functional goals. Once these functional goals are established, the clinician can grade them according to difficulty. Functional tasks can reproduce the whole task in its entirety or can break down the task to its required fundamental components and the physical demands necessary to perform each task. Regaining the smaller requirements may constitute the short term goals, whereas completion of the whole task may become the long term goal. For example, exercises to improve sit to stand transfers could be initiated by having the patient perform triceps push ups on the chair handle, perform bilateral mini squats, or exercise on the leg press, before progressing to the functional activity.
+Disability
+Disability may be defined as difficulty in the performance of social roles and tasks within a sociocultural and physical environment (from hygiene to hobbies, errands, to sleep), as a result of a health or physical problem.6, 7, 9, 20, 21, 22 and 23 Disability, which may be temporary or permanent, is the gap between what a person can do and what the person needs or wants to do. The Americans with Disabilities Act (ADA) of 198924 marked the first explicit national goal of achieving equal opportunity, independent living, and economic self sufficiency for individuals with disabilities.25 Disability is a problem that encompasses a wide range of issues, from very specific topics to the basic question of what it means to be human.
+Three main models are generally used to describe disability: the moral, medical, and social models.26 Table 5 4 compares these three models along seven dimensions: the meaning of disabilities, moral implications of disability, sample ideas, origins, goals of intervention, and benefits and negative
+
+
+
+effects of the model.26 The moral and medical models share in common the perspective that disability resides within the individual and carries with it a degree of stigma or pathology.26 In contrast, the social model locates the disablement in the environment and in society, which fail to appropriately accommodate and include people with disabilities.26
+TABLE 5 4
+Comparison of the Moral, Medical, and Social Models of Disability
+
+Measure 
+Moral 
+Medical
+Social
+Meaning of disability
+A defect caused by moral lapse or sins, failure of faith, evil; test of faith
+A defect in or failure of a bodily system that is inherently abnormal and pathological
+A social construct; problems reside in the environment that fails to accommodate people with disability
+Moral implications
+Brings shame to the person with the disability and his or her family
+A medical abnormality due to genetics, bad health habits, person's behavior
+Society has failed a segment of its citizens and oppresses them
+Sample ideas
+"God gives us only what we can bear" or "There's a reason I was chosen to have this disability"
+Clinical descriptions of "patient" in medical terminology; isolation of body parts
+"Nothing about us without us" or "Civil rights, not charity"
+Origins
+Oldest model and still most prevalent worldwide
+Mid 19th century; most common model in the United States; entrenched in most rehabilitation clinics and journals
+1975, following demonstrations by people with disabilities in support of the yet  unsigned Rehabilitation Act
+Goals of intervention
+Spiritual or divine, acceptance
+"Cure" or amelioration of the disability to the greatest extent possible
+Political, economic, social, and policy systems, increased access and inclusion
+Benefits of model
+An acceptance of being selected; a special relationship with God; a sense of greater purpose to the disability
+A lessened sense of shame and stigma; faith in medical intervention; spurs medical and technologic advances
+Promotes integration of the disability into their self; a sense of community and pride; depathologizing of disability
+Negative effects
+Shame; ostracization; need to conceal the disability or person with the disability
+Paternalistic; promotes benevolence and charity; services for but not by people with disabilities
+Powerlessness in the face of necessary broad social and political changes; challenges to prevailing ideas
+
+
+Data from Olkin R: Could you hold the door for me? Including disability in diversity. Cultur Divers Ethnic Minor Psychol 8:130 137, 2002.
+Disability is not necessarily related to any health impairment or medical condition, although a medical condition or impairment may cause or contribute to disability. For example, associations between pathology and disability have been found for several health conditions. These include diabetes,27, 28 and 29 cardiovascular diseases,30,31 musculoskeletal diseases,22,32,33 and vision related diseases.34 The rating of perceived difficulty in performing various activities can be considered the primary assessment of disability, whereas the rating of actual dependence on assistance is an assessment of the consequence of disability.35
+For any given level of health or specific diagnosis, some people will be disabled and others will not. Thus, impairments and functional limitations are not related to disability in a linear fashion. It is even possible for two patients who have the same disease and similar impairments and functional limitations to have two different levels of disability. For example, degenerative joint disease of the spine that prevents heavy lifting likely has a greater impact on a construction worker than it does on a bank president.
+
+
+
+
+Although a degree of inevitability is implied in many of the disablement models, many factors can have an impact on the pathology disability pathway or disablement process. Some of these factors are modifiable; some are not. Characteristics of an illness that are not amenable to modification may be termed contextual variables. These innate characteristics of a person include age, sex, ethnic background, and socioeconomic status. In contrast, modifiable factors are characteristics that an individual can control or adjust. The impact that the modifiable factors have on the pathology  disability pathway or disablement process can depend on both the capacities of the individual and the expectations that are imposed on the individual by those in the immediate social and occupational environment.25 Escalante and del Rincon36 use the term external modifiers to describe those secondary conditions that may influence the level of disability but are not directly related to the disease process itself. These external modifiers can include the presence of depression or comorbidity (e.g., pressure sores, contractures, urinary tract infections). Broader definitions for these conditions include self concept, work and social participation, health related economic consequences for the individual or family, and other family members.9,37 Specific examples of modifiable patient factors include:
+ Level of activity. A number of studies have made associations between physical activity levels and the onset of disability.27,28,38, 39, 40, 41, 42, 43, 44, 45, 46 and 47
+Reaction to the illness. Different cultural backgrounds are associated with different beliefs about pain, coping strategies, expressions of pain, and response to healthcare.48,49 The term sick role has been used to define a status accorded to the individual by himself or herself and other members of society that may be variably associated with a medical condition.25 An individual's sick role reflects not only his or her primary condition but also any additional or secondary conditions.4,50
+Educational background. Patients with less formal education tend to have an increased frequency of disability.51,52
+Compensatory and coping strategies. Some people simply do not have the emotional and social resources to deal with life, particularly in times of adversity.53
+Pain tolerance and motivation. Various studies49,54 have revealed ethnic and gender differences in responses to both clinical and experimental pain. Specifically, investigators have recently indicated that African Americans report greater levels of pain than whites for such conditions as glaucoma, acquired immunodeficiency syndrome, migraine headache, jaw pain, postoperative pain, myofascial pain, angina pectoris, joint pain, nonspecific daily pain, and arthritis.55 Interpretations of such findings remain difficult, however, because of potential group differences in disease severity and physician management.55 There are also disparate reports about gender differences in sensitivity to pain in humans and in animals, indicating that women have a lower tolerance of pain than men.56, 57 and 58 Whether women are more willing to report pain than men are, or experience pain differently than men do, is unclear. Whatever the reasons for the differences in pain tolerance and motivation, there is perhaps reason to suppose that improved pain tolerance and motivation might be instrumental in reducing impairment and disability. The chronic pain  adaptation model of Lund and colleagues32 describes a decreased activation of the muscles during movements in which they act as agonists and an increased activation during movements that require that they adopt the role of antagonists. These changes in muscle activation, characteristic of several types of chronic musculoskeletal pain, are described as a normal protective adaptation to avoid further pain and possible damage.32
+Personal and health habits. The link between disability and a health behavior, such as excessive alcohol use, is subtle because there are many potential pathways. The link between body weight and both morbidity and mortality has been examined extensively, but relatively little research has investigated the relation between body weight and disability. Among the studies that have investigated this relation, the findings are inconsistent.59, 60, 61 and 62
+
+
+
+ Level of social support. The family is the primary unit of society and the one in which the earliest and most powerful social learning occurs.25 The literature on the role of the family in the development and maintenance of chronic pain and disability is extensive. Dysfunctional family systems may promote, permit, and maintain chronic pain and disability.25
+ Marital status. Considerable research shows that the spouse's reaction can modify behavior of patients with chronic pain and disability.25
+ Extent to which involved in litigation and compensation. Few issues around disability have given rise to more controversy than the question of litigation, compensation, and secondary gain. Anecdotal clinical and legal experience shows general agreement that some claimants magnify or exaggerate their symptoms and disability to varying degrees during medical examination carried out specifically for legal proceedings.25
+EXAMINATION
+An examination refers to the gathering of information from the chart, other caregivers, the patient, the patient's family, caretakers, and friends in order to identify and define the patient's problem(s) and to design an intervention plan.16 The examination process involves a complex relationship between the clinician and the patient. Given the melting pot society that we now live in, patients are likely to come from diverse cultural and ethnic
+backgrounds, which are influenced by individual factors related to the psychological and socioeconomic conditions that affect health, behavioral practices, and access to care. Although most patients are amenable to a therapeutic interaction because they realize the benefits, some patients can be difficult to deal with. Groves63 identified four types of difficult patients (Table 5 5). Every attempt should be made by the clinician to make each patient interaction a positive one. There is plenty of high quality research pointing to the benefits of good communication between the clinician and patient, including improved diagnosis and outcomes, treatment adherence, patient satisfaction, and reduced litigation.
+TABLE 5 5
+Difficult Patient Types
+
+Type 
+Description
+Dependent clingers
+This type can escalate from mild requests for reassurance to repeated overt demands for explanations and affection. Unfortunately, this type may have no discernible medical illness, or they may have severe, chronic, or life threatening disorders, which makes them difficult to treat. The high level of dependency that they display may eventually lead to aversion toward the patient.
+Early signs of this type are demonstrations of genuine but extreme gratitude. The clinger must be told as early as possible, and as tactfully and firmly as possible, that the clinician has limitations to time and stamina.
+Entitled demanders
+This type resembles dependent clingers in the profundity of their neediness, but they use intimidation, devaluation, and guilt induction, which results from a deep seated fear of abandonment. The patient may try to control the clinician by withholding payment or threatening litigation. "Entitlement" serves for some persons the functions that faith and hope serve in better adjusted ones. Ideally, the clinician should avoid getting entangled in complicated logical (or illogical) debates with this type of patient.
+Manipulative help rejecters
+This type of patient appears to feel that no type of intervention will help, and following every attempt they return again and again to the clinic to report that, once again, the regimen did not work. In an attempt to maintain their relationship with the clinician, when one of their symptoms is relieved, another mysteriously appears in its place.
+Self  destructive deniers
+This type of patient demonstrates self destructiveness and seem to glory in his or her own self destruction. Although the temptation on the part of the clinician is to wash their hands of the patient, the clinician should try to work with diligence and compassion to preserve the denier as long as possible, just as one does with any other patient with a terminal illness.
+
+
+Data from Groves JE: Taking care of the hateful patient. N Engl J Med 298(16):883 887, 1978.
+
+
+
+
+The aims of the examination process are to provide an efficient and effective exchange and to develop a rapport between the clinician and the patient. The success of this interaction involves a myriad of factors. The primary responsibility of a clinician is to make decisions in the best interest of the patient. Although the approach to the examination should vary with each patient, and from condition to condition, there are several fundamental components to the examination process. Successful clinicians are those who demonstrate effective communication, sound clinical reasoning, critical judgment, creative decision making, and competence. To successfully perform an examination, the clinician must choose, apply, and interpret findings from a wide variety of tests and measures.
+
+Much about becoming a clinician relates to an ability to communicate with the patient, the patient's family, and the other members of the healthcare team. Communication between the clinician and the patient, which involves interacting with the patient using terms he or she can understand (see Chapter 8), begins when the clinician first meets the patient and continues throughout any future sessions. The introduction to the patient should be handled in a professional yet empathetic tone. Special attention needs to be paid to cultural diversity (Table 5 6) and the avoidance of preconceived notions about a particular culture or ethnicity (Table 5 7). The nonverbal cues, such as voice volume, postures, gestures, and eye contact, are especially important, because they often are performed subconsciously and can be misinterpreted. The appearance of the clinician is also important, if a professional image is to be projected.
+TABLE 5 6
+Culture and Ethnicity
+
+Culture
+The integration of learned, not inherited, behaviors that are characteristic to a society. These behavioral standards include fundamental values, beliefs, and customs.
+Ethnicity
+An affiliation with a group of people who share a common racial, national, religious, linguistic, or cultural background.
+
+TABLE 5 7
+Interacting with Culturally Diverse Patient Populations
+
+
+Data from Metzgar ED: The health history, in Morton PG (ed): Health Assessment (ed 2). Philadelphia, FA Davis, 1995, pp 1 32.
+
+
+
+The examination is an ongoing process that begins with the patient referral or initial entry and continues throughout the course of rehabilitation. During the examination phase, the clinician hypothesizes the clinical problem, then chooses and implements measures to test the hypotheses. The examination must be performed with a scientific rigor that follows a predictable and strictly ordered thought process. The purpose of the examination is to obtain information that identifies and measures a change from normal. This is determined using information related by the patient, in conjunction with clinical signs, symptoms, and findings.
+
+The examination should not be viewed as an algorithm. Rather, it is a framework that has specific points that can be applied to a variety of situations. The strength of an examination relies on the accuracy of the findings of the testing procedures. Diagnostic tests are divided into two main categories65:
+1. Tests that result in a discrete outcome they permit interpretations from the test as present/absent, disease/not disease, mild/moderate/severe.
+2. Tests that result in a continuous outcome they provide data on an interval or scale of measurement such as degrees of range of motion. For the clinician to formulate an appropriate interpretation and accurate final diagnosis, the tests chosen must be useful.
+Examination tools can be divided into two categories66:
+ Performance based or self report measures. Performance based measures involve the clinician's performance of the test or observation of patient performance. Examples include assessment of joint mobility, muscle strength, or balance. Self report measures involve the patient rating his or her performance during activities such as walking, stair climbing, or sporting activity based on the ability to perform a task, difficulty with the task, help needed for the task, and pain during performance of the task. The perception of pain is highly specific, and different individuals may be impaired by pain to differing degrees. Although absolute quantification of pain is not possible, its severity may be estimated using a visual analogue scale or a numeric scale. More complex scales exist including the Pain Disability Index (PDI)67, 68 and 69 (Table 5 8) and the McGill Pain Questionnaire (MPQ) (Table 5 9).70, 71 and 72
+TABLE 5 8
+The Pain Disability Index
+
+
+The rating scales below are designed to measure the degree to which several aspects of your life are presently disrupted by chronic pain. In other words, we would like to know how much your pain is preventing you from doing what you would normally do, or from doing it as well as you normally would. Respond to each category by indicating the overall impact of pain in your life, not just the pain at its worst.
+
+
+For each of the 7 categories of life activity listed, please circle the number on the scale that describes the level of disability you typically experience. A score of 0 means no disability at all, and a score of 10 signifies that all of the activities in which you would normally be involved have been totally disrupted or prevented by your pain.
+
+
+(1) FAMILY/HOME RESPONSIBILITIES
+This category refers to activities related to the home or family. It includes chores or duties performed around the house (e.g., yard work) and errands or favors for other family members (e.g., driving children from school).
+
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+
+No disability
+
+
+
+
+
+
+
+
+
+Total disability
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) RECREATION
+This category includes hobbies, sports, and other similar leisure time activities.
+
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+
+No disability
+
+
+
+
+
+
+
+
+
+Total disability
+
+
+(3) SOCIAL ACTIVITY
+This category refers to activities that involve participation with friends and acquaintances other than family members. It includes parties, theater, concerts, dining out, and other social functions.
+
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+
+No disability
+
+
+
+
+
+
+
+
+
+Total disability
+
+
+(4) OCCUPATION
+This category refers to activities that are a part of or directly related to one's job. This includes nonpaying jobs as well, such as that of a housewife or volunteer worker.
+
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+
+No disability
+
+
+
+
+
+
+
+
+
+Total disability
+
+
+(5) SEXUAL BEHAVIOR
+This category refers to the frequency and quality of one's sex life.
+
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+
+No disability
+
+
+
+
+
+
+
+
+
+Total disability
+
+
+(6) SELF CARE
+This category includes activities that involve personal maintenance and independent daily living (e.g., taking a shower, driving, getting dressed, etc.).
+
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+
+No disability
+
+
+
+
+
+
+
+
+
+Total disability
+
+
+(7) LIFE SUPPORT ACTIVITY
+This category refers to basic life supporting behaviors such as eating, sleeping, and breathing.
+
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+
+No disability
+
+
+
+
+
+
+
+
+
+Total disability
+
+
+Data from Pollard CA: Preliminary validity study of Pain Disability Index. Percep Motor Skills 59:974, 1984. TABLE 5 9
+Modified McGill Pain Questionnaire
+
+
+
+Patient's Name 	Date 	
+
+
+
+
+Directions: Many words can describe pain. Some of these words are listed below. If you are experiencing any pain, check (?) every word that describes your pain.
+
+
+A.
+Flickering Quivering Pulsing Throbbing Beating Pounding
+
+
+B.
+Jumping Flashing Shooting
+
+
+C.
+Pricking Boring Drilling Stabbing
+
+
+D.
+Sharp Cutting Lacerating
+
+
+E.
+Pinching Pressing Gnawing Cramping Crushing
+
+
+F.
+Tugging Pulling Wrenching
+
+
+G.
+Hot Burning Scalding Searing
+
+
+H.
+Tingling Itchy Smarting Stinging
+
+
+I.
+Dull Sore Hurting Aching Heavy
+
+
+J.
+Tender
+
+
+
+
+
+
+Taut Rasping Splitting
+
+
+
+
+K.
+Tiring Exhausting
+
+
+
+
+L.
+Sickening Suffocating
+
+
+
+
+M.
+Fearful Frightful Terrifying
+
+
+
+
+N.
+Punishing Grueling Cruel Vicious Killing
+
+
+
+
+O.
+Wretched Blinding
+
+
+
+
+P.
+Annoying Troublesome Intense Unbearable
+
+
+
+
+Q.
+Spreading Radiating Penetrating Piercing
+
+
+
+
+R.
+Tight Numb Drawing Squeezing Tearing
+
+
+
+
+S.
+Cool Cold Freezing
+
+
+
+
+T.
+Nagging Nauseating Agonizing Dreadful Torturing
+
+
+
+
+KEY TO PAIN QUESTIONNAIRE
+Group A: Suggests vascular disorder
+
+
+
+
+
+The PDI is a self report instrument that has been used to assess the degree to which chronic pain interferes with various daily activities. The PDI consists of a series of 0 to 10 scales on which an individual rates pain related interference. The seven categories that make up the scale are family/home responsibilities, recreation, social activity, occupation, sexual behavior, self care, and life support activities (e.g., eating, sleeping, and breathing). An initial study69 found the PDI to be effective in discriminating patients immediately postsurgery (high impairment) from patients several months removed from surgery (low impairment).69 A subsequent study68 showed the PDI to be sensitive to differences between outpatients (low impairment) and inpatients (high impairment) with chronic pain.67
+The MPQ contains a list of words chosen to reflect the sensory, affective, and evaluative components of the pain experience.
+ Generic or disease specific measures. A number of generic or disease specific measures currently exist that examine the performance of functional activities. Disease specific measures are questionnaires that concentrate on a region of primary interest that is generally relevant to the patient and clinician.73 As a result of this focus on a regional disease state, the likelihood of increased responsiveness is higher. Some examples of the primary focus of these instruments include populations (rheumatoid arthritis), symptoms (back pain), and function (activities of daily living).73 The disadvantage of a disease specific outcome is that general information is lost, and therefore, it is generally recommended that when assessing patient outcomes, both a disease specific and a generic outcome measure should be used.73
+
+Patient discomfort should always be kept to a minimum. It is important that examination procedures only be performed to the point at which symptoms are provoked or begin to increase, if they are not present at rest.
+The examination consists of three components of equal importance: (1) patient history, (2) systems review, and (3) tests and measures.16 These three components are closely related, in that they often occur concurrently. One further element, observation, occurs throughout.
+History
+One of the purposes of the history is to focus the examination. The history usually precedes the systems review and the tests and measures components of the examination, but it may also occur concurrently. Whenever it occurs, it should always be used in conjunction with the findings from the system review and the tests and measures rather than performed in a vacuum. Information about the patient's history and current health status is obtained from interviews and review of the medical record. In general, the history can help the clinician to:
+Develop a working relationship with the patient and establish lines of communication with the patient. To help establish a rapport with the patient, the clinician should discuss the information provided on the medical history form with the patient at either the initial or subsequent visits.
+Determine the chief complaint, its mechanism of injury, its severity, and its impact on the patient's function. It is worth remembering that a patient's chief complaint can sometimes differ from the chief concern, but both should be addressed.
+
+
+
+Ascertain the specific location and nature of the symptoms. Determine the irritability of the symptoms.
+Establish a baseline of measurements.
+Ascertain which medications the patient is currently taking and whether they are prescribed or over the counter. Elicit information about the history of the current condition.
+Confirm that the patient does not have any physiologic changes that could adversely affect tolerance and ability to perform various tasks or activities. This is particularly important in the elderly population where changes in vision, auditory acuity, mental capacity, and tactile sense may be diminished.
+Determine the goals and expectations of the patient from the physical therapy intervention. It is important that the clinician and patient discuss and determine mutually agreed on anticipated goals and expected outcomes. The discussion can help the clinician determine whether the patient has realistic expectations or will need further patient education concerning his or her condition and typical recovery time frames.
+Elicit reports of potentially life threatening symptoms, or red flags, that require an immediate medical referral.
+
+
+Pain 
+
+
+Pain, felt by everyone at some point or other, is considered an emotional experience and is the most common determinant for a patient to seek intervention. It is, therefore, often the patient's chief complaint. Pain perception and the response to a painful experience can be influenced by a variety of cognitive processes, including anxiety, tension, depression, past pain experiences, and cultural influences.75 Pain is a broad and significant symptom that can be described using many descriptors. Perhaps the simplest descriptors for pain are acute and chronic.
+Acute pain can be defined as "the normal, predicted physiological response to an adverse chemical, thermal, or mechanical stimulus   associated with surgery, trauma, and acute illness."76 This type of pain usually precipitates a visit to a physician, because it has one or more of the following characteristics77:
+ It is new and has not been experienced before.  It is severe and disabling.
+ It is continuous, lasting for more than several minutes, or recurs very frequently.  The site of the pain may cause alarm (e.g., chest or eye).
+ In addition to the sensory and affective components, acute pain is typically characterized by anxiety. This may produce a fight or flight autonomic response, which is normally used for survival needs. This autonomic reaction is also associated with an increase in systolic and diastolic blood pressure, a decrease in gut motility and salivatory flow, increased muscle tension, and papillary distention.78,79
+
+
+
+
+Acute pain following trauma, or the insidious onset of a musculoskeletal condition, is typically chemical in nature. Although motions aggravate the pain, they cannot be used to alleviate the symptoms. In contrast, cessation of movement (absolute rest) tends to alleviate the pain, although not necessarily immediately. The structures most sensitive to chemical irritation in order of sensitivity are:
+ The periosteum and joint capsule
+ Subchondral bone, tendon and ligament  Muscle and cortical bone layer
+ The synovium and articular cartilage
+
+
+Chronic pain is typically more aggravating than worrying, last for more than six months, and has the following characteristics77:  It has been experienced before and has remitted spontaneously, or after simple measures.
+ It is usually mild to moderate in intensity.
+ It is usually of limited duration, although it can persist for long periods (persistent pain).  The pain site does not cause alarm (e.g., knee and ankle).
+ There are no alarming associated symptoms. However, patients with chronic pain may be more prone to depression and disrupted interpersonal relationships.70,81, 82 and 83
+The symptoms of chronic pain typically behave in a mechanical fashion, in that they are provoked by activity or repeated movements and reduced with rest or a movement in the opposite direction.
+
+
+
+
+The production of pain typically occurs in one of four ways84:
+1. Mechanical deformation resulting in the application of sufficient mechanical forces to stress, deform, or damage a structure.
+2. Excessive heat or cold.
+3. The presence of chemical irritants in sufficient quantities or concentrations. Key mediators that have been identified include bradykinin, serotonin, histamine, potassium ions, adenosine triphosphate, protons, prostaglandins, nitric oxide, leukotrienes, cytokines, and growth factors.76
+4. Ischemia restriction of blood to a structure e.g., myocardial infarction
+
+
+Over the past decade, researchers have begun to investigate the influence of pain on patterns of neuromuscular activation and control.85 It has been suggested that the presence of pain leads to inhibition or delayed activation of muscles or muscle groups that perform key synergistic functions to limit unwanted motion.86 This inhibition usually occurs in deep muscles, local to the involved joint, that perform a synergistic function in order to control joint stability.87, 88 and 89 It is now also becoming apparent that in addition to being influenced by pain, motor activity and emotional states can, in turn, influence pain perception.85,90
+Pain may be variable, constant, or intermittent.
+ Variable. This is pain that is perpetual, but that varies in intensity. Variable pain usually indicates the involvement of both a chemical and a mechanical source.
+ Constant. The mechanical cause of constant pain is less understood but is thought to be the result of the deformation of collagen, which compresses or stretches the nociceptive free nerve endings, with the excessive forces being perceived as pain.84
+
+Intermittent. This type of pain is unlikely to be caused by a chemical irritant. Usually, this type of pain is caused by prolonged postures, a loose intra articular body, or impingement of a musculoskeletal structure.
+
+Unfortunately, the source of the pain is not always easy to identify, because most patients present with both mechanical and chemical pain. When examining a patient with complaints of pain, the clinician must determine the following details about the pain:
+ Location. The location of the pain can indicate which areas need to be included in the physical examination. Information about how the location of the pain has changed since the onset can indicate whether a condition is worsening or improving. In general, as a condition worsens, the pain
+	distribution becomes more widespread and distal (peripheralizes). As the condition improves, the symptoms tend to become more localized	
+
+
+
+(centralized). A body chart may be used to record the location of symptoms (Figure 5 2). Some of the more common causes of localized pain are depicted in Figures 5 3, 5 4, 5 5, and 5 6.
+
+FIGURE 5 2
+
+
+Body chart
+
+
+FIGURE 5 3
+
+
+Potential causes of cervical, thoracic, lumbar, pelvic, and posterior lower extremity pain
+
+
+
+
+FIGURE 5 4
+
+
+Potential causes of trochanteric, pubic, and thigh pain
+
+
+FIGURE 5 5
+
+
+
+Potential causes of wrist and hand pain
+
+
+FIGURE 5 6
+
+
+Potential causes of foot and ankle pain
+
+
+
+
+It must be remembered that the location of pain for many musculoskeletal conditions is quite separate from the source, especially in those peripheral joints that are more proximal, such as the shoulder and the hip. For example, a cervical radiculopathy can produce pain throughout the upper extremity. The term referred pain is used to describe symptoms that have their origin at a site other than where the patient feels the pain. For example, pain due to osteoarthritis of the hip is often felt in the anterior groin and thigh along with the sclerotomes or dermatomes for L2 and L3. The concept of referred pain is often difficult for patients to understand. An explanation of referred pain enables the patient to better understand and answer questions about symptoms they might otherwise have felt irrelevant. If the extremity appears to be the source of the pain, the clinician should attempt to reproduce the pain by loading the peripheral tissues. If this proves unsuccessful, a full investigation of the spinal structures must ensue.
+ Behavior of symptoms. The presence of pain should not always be viewed negatively by the clinician. After all, its presence helps to determine the location of the injury, and its behavior aids the clinician in determining the stage of healing and the impact it has on the patient's function. For example, whether the pain is worsening, improving, or unchanging provides information on the effectiveness of an intervention. In addition, a
+	gradual increase in the intensity of the symptoms over time may indicate to the clinician that the condition is worsening or that the condition is	
+
+
+
+nonmusculoskeletal in nature.92,93 Maitland94 introduced the concept of the degree of irritability. An irritable structure has the following characteristics:
+ A progressive increase in the severity of the pain with movement or a specific posture. An ability to reproduce constant pain with a specific motion or posture indicates an irritable structure.
+ Symptoms increased with minimal activity. An irritable structure is one that requires very little to increase the symptoms.
+ Increased latent response of symptoms. Symptoms that do not resolve within a few minutes following a movement or posture indicate an irritable structure.
+If the behavior of the symptoms includes locking or giving way, the clinician must elicit further details about the causes of the hypomobility, hypermobility, or instability.
+ Frequency and duration. The frequency and duration of the patient's symptoms can help the clinician to classify the injury according to its stage of healing: acute (inflammatory), subacute (migratory and proliferative), and chronic (remodeling).
+ Acute conditions: present for 7 to 10 days
+ Subacute conditions: present for 10 days to several weeks
+ Chronic conditions: present for more than several weeks
+In the case of a musculoskeletal injury that has been present without any formal intervention for a few months, there is a good possibility that adaptive shortening of the healing collagenous tissue has occurred, which may result in a failure to heal, and the persistence of symptoms.95 The persistence of symptoms usually indicates a poorer prognosis, as it may indicate the presence of a chronic pain syndrome. Chronic pain syndromes have the potential to complicate the intervention process.95
+If the frequency and duration of the patient's symptoms are reported to be increasing, it is likely the condition is worsening. Conversely, a decrease in the frequency and duration of the symptoms generally indicates that the condition is improving.
+ Aggravating and easing factors. Of particular importance are the patient's chief complaint and the relationship of that complaint to specific aggravating activities or postures. Questions must be asked to determine whether the pain is sufficient to prevent sleep or to wake the patient at night and the effect that activities of daily living, work, sex, and so forth, have on the pain.
+If no activities or postures are reported to aggravate the symptoms, the clinician needs to probe for more information. For example, if a patient complains of back pain, the clinician needs to determine the effect that walking, bending, sleeping position, prolonged standing, and sitting have on the symptoms. Nonmechanical events that provoke the symptoms could indicate a nonmusculoskeletal source for the pain93:
+ Eating. Pain that increases with eating may suggest gastrointestinal involvement.
+ Stress. An increase in overall muscle tension prevents muscles from resting.
+ Cyclical pain. Cyclical pain can often be related to systemic events (e.g., menstrual pain).
+If aggravating movements or positions have been reported, they should be tested at the end of the tests and measures portion of the examination to avoid any overflow of symptoms, which could confuse the clinician.
+
+	Nature of the pain. It is important to remember that pain perception is highly subjective and is determined by a number of factors. Certain	
+
+
+
+characteristics of pain can give clues to its tissue of origin. For example, pain that arises from the somatic tissues such as the ligaments or joint capsule is often described as deep and aching, whereas pain from more superficial tissues may be described as sharp or electric. The nature of the pain depends on the type of receptor being stimulated:
+ Stimulation of the cutaneous A ? nociceptors leads to pricking pain.96
+ Stimulation of the cutaneous C nociceptors results in burning or dull pain.97
+ Severity. A description of pain is commonly sought from the patient. Because pain is variable in its intensity and quality, describing pain is often difficult for the patient. One of the simplest methods to quantify the intensity of pain is to use a 10 point visual analog scale (VAS). The VAS is a numerically continuous scale that requires the pain level be identified by making a mark on a 100 mm line, or by circling the appropriate number in a 1 10 series.98 The patient is asked to rate his or her present pain compared with the worst pain ever experienced, with 0 representing no pain, 1 representing minimally perceived pain, and 10 representing pain that requires immediate attention.99
+
+Interview 
+
+
+The interview is an important tool used to obtain information directly from the patient, family, caregiver, or other significant others. Ideally, the patient interview should be conducted in a quiet, well lit room that offers a measure of privacy and safety. Cultural beliefs may necessitate that the patient be able to choose to work with a male or female clinician.
+Listening with empathy involves understanding the ideas being communicated and the emotion behind the ideas. In essence, empathy is seeing another person's viewpoint, so that a deep and true understanding of what the person is experiencing can be obtained. The term patient centered refers to an interviewing technique that provides a method to better understand the environment in which the patient resides, his or her worldview, and the unique conditions that affect his or her health. It is an approach that requires the clinician to become familiar with the personality beneath the presenting problem. Knowing the importance of each question is based on the didactic background of the clinician, as is the ability to convert the patient's responses into a working hypothesis. The interview style should be altered from patient to patient, as the level of understanding and answering ability varies between each individual. In general, the interview should flow as an active conversation, not as a question and answer session. The following points are recommended to make the interview process as effective as possible:
+ Eliminate physical barriers, such as desks and tables the clinician and patient should be at a similar eye level, facing each other, with a comfortable space between them (approximately 3 feet) (Figure 5 7) so that the patient feels the clinician is interested and paying attention. Compare Figure 5 7 with Figure 5 8 and note the contrasting body language and degree of attention afforded to the patient.
+ Explain the interviewing process to the patient. It is a good idea to obtain the patient's permission at the very beginning of the interview "to sometimes interrupt" and "ask a lot of questions."
+ Make content and process observations. This skill involves being able to not focus solely on the words and questions (content) of what is being said being able to read the nonverbal cues and gestures (process) made by the patient. For example, the patient may say "Everything is fine" (content) while fidgeting with his or her hands (process), to which the clinician might respond, "But you do seem a little nervous today." Thus, process observation is about "stating, not rating" behaviors, and using the observations as a springboard for inquiry and discussion.
+ Use active and nonjudgmental listening. The clinician should ask questions that demonstrate that he or she has been listening to the patient by reflecting the patient's feelings. For example, stating "You seem worried or anxious about this" demonstrates to the patient that the clinician has some insight into the emotional overtones behind the words being spoken.
+ Demonstrate a caring approach by conveying concern and support through both verbal responses and body language. Methods include maintaining eye contact, nodding at appropriate times, not moving around or being distracted, using encouraging verbalizations, mirroring body postures and language, and leaning forward.
+
+FIGURE 5 7
+
+
+Correct clinician patient positioning
+
+
+
+
+
+FIGURE 5 8
+
+
+Incorrect clinician patient positioning
+
+A transfer of accurate information must occur between the patient and the clinician. A successful learning process requires the clinician to have patience, focus, and self criticism.92
+
+
+
+
+Open ended questions or statements, such as "Tell me why you are here," are used initially to encourage the patient to provide narrative information, to help determine the patient's chief complaint, and to decrease the opportunity for bias on the part of the clinician.100 More specific questions, such as "How did this pain begin?" are asked as the examination proceeds (Table 5 10). The specific questions help to focus the examination and deter irrelevant information. The clinician should provide the patient with encouraging responses, such as a nod of the head, when the information is relevant and when needed to steer the patient into supplying necessary information. Neutral questions should be used whenever possible. These questions are structured in such a way so as to avoid leading the patient into giving a particular response. Leading questions, such as "Does it hurt more when you walk?" should be avoided. A more neutral question would be, "What activities make your symptoms worse?"
+TABLE 5 10
+Contents of the History 
+
+
+
+
+
+History of Current Condition
+Did the condition begin insidiously, or was trauma involved? How long has the patient had the symptoms?
+Where are the symptoms?
+How does the patient describe the symptoms?
+Reports about numbness and tingling suggest neurologic compromise. Reports of pain suggest a chemical or mechanical irritant. Pain needs to be carefully evaluated in terms of its site, distribution, quality, onset, frequency, nocturnal occurrence, aggravating factors, and relieving factors.
+Past History of Current Condition
+Has the patient had a similar injury in the past?
+Was it treated, or did it resolve on its own? If it was treated, how was it treated, and did intervention help? How long did the most recent episode last?
+Past Medical/Surgical History How is the patient's general health? Does the patient have any allergies?
+Medications Patient Is Presently Taking
+Other Tests and Measures
+Has the patient had any imaging tests such as x ray, MRI, CT scan, bone scan?
+Has the patient had an EMG test, or a nerve conduction velocity test, which would suggest compromise to muscle tissue and/or neurologic system?
+Social Habits (Past and Present)
+Does the patient smoke? If so, how many packs per day?
+Does the patient drink alcohol? If so, how often and how much? Is the patient active or sedentary?
+Social History
+Is the patient married, living with a partner, single, divorced, or widowed? Is the patient a parent or single parent?
+Family History 
+Is there a family history of the present condition?
+Growth and Development 
+Is the patient right  or left handed? Were there any congenital problems? Living Environment
+What type of home does the patient live in with reference to accessibility? Is there any support at home?
+Does the patient use any extra pillows or special chairs to sleep?
+Occupation/Employment/School What does the patient do for work? How long has he or she worked there?
+What does the job entail in terms of physical requirements?
+What level of education did the patient achieve?
+Functional Status/Activity Level
+How does the present condition affect the patient's ability to perform activities of daily living? How does the present condition affect the patient at work?
+How does the patient's condition affect sleep? Is the patient able to drive? If so, for how long?
+
+
+CT, computed tomography; EMG, electromyogram; MRI, magnetic resonance imaging.
+	Data from Clarnette RG, Miniaci A: Clinical exam of the shoulder. Med Sci Sports Exerc 30:1 6, 1998.	
+Downloaded 2024 3 16 1:34 P Your IP is 155.33.135.27
+
+CHAPTER 5: Patient/Client Management,
+ 2024 McGraw Hill. All Rights Reserved. Terms of Use   Privacy Policy   Notice   Accessibility
+
+Page 28 / 66
+
+Northeastern University
+Access Provided by:
+
+In addition to the foregoing, the clinician needs to determine the patient's age, gender, ethnicity, primary language, customs or religious beliefs that might affect care, cultural background, social/health habits, educational level, and family history. Formal questioning using a questionnaire helps to ensure that all of the important questions are asked. In the event that the patient is unable to provide the pertinent information, such information can also be obtained from the patient's family or caregiver.
+Medical Record
+
+The medical record provides detailed reports from other members of the healthcare team. Processing these reports requires an understanding of disease and injury, medical terminology and management, and the ability to interpret laboratory and other diagnostic tests. The types of data that may be generated from a patient history are outlined in Table 5 11.
+TABLE 5 11
+Data Generated from a Patient History
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Downloaded 2024 3 16 1:34 P Your IP is 155.33.135.27 CHAPTER 5: Patient/Client Management,
+ 2024 McGraw Hill. All Rights Reserved. Terms of Use   Privacy Policy   Notice   Accessibility
+
+
+Page 29 / 66
+
+
+
+
+General demographics
+Includes information about the patient's age, height, weight, and marital status and primary language spoken by the patient.1
+Social history and social habits
+Includes information about the patient's social history, including support systems, family and caregiver resources, and cultural beliefs and behaviors.1 An individual's response to pain and dysfunction is, in large part, determined by his or her
+cultural background, social standing, educational and economical status, and anticipation of functional compromise.2
+Occupation/employment
+Includes information about the patient's occupation, employment, and work environment, including current and previous community and work activities.1 The clinician must determine the patient's work demands, the activities involved, and the
+activities or postures that appear to be aggravating the condition or determine the functional demands of a specific vocational or avocational activity to which the patient is planning to return. Work related low back injuries and repetitive motion disorders of the upper extremities are common in patients whose workplaces involve physical labor. Habitual postures may be the source of the problem in those with sedentary occupations. Patients who have sedentary occupations may also be at increased risk of overuse injuries when they are not at work, as a result of recreational pursuits (the weekend warrior).
+Growth and development
+Includes information about the patient's developmental background and hand or foot dominance. Developmental or congenital disorders that the clinician should note include such conditions as Legg Calv Perthes disease, cerebral palsy, Down syndrome, spina bifida, scoliosis, and congenital hip dysplasia.
+Living environment
+The clinician should be aware of the living situation of the patient, including entrances and exits to the house, the number of stairs, and the location of bathrooms within the house.
+Functional status and activity level
+Includes information about the patient's current and prior level of function, with particular reference to the type of activities performed and the percentage of time spent performing those activities.
+Past history of current condition
+It is important for the clinician to determine whether the patient has had successive onsets of similar symptoms in the past, because recurrent injury tends to have a detrimental effect on the potential for recovery. If the patient's history indicates a recurrent injury, the clinician should note how often, and how easily, the injury has recurred and the success or failure of previous interventions.
+Past medical/surgical history
+Includes information with regard to allergies, childhood illnesses, and previous trauma. In addition, information on any health conditions, such as cardiac problems, high blood pressure, or diabetes, should be elicited, as these may affect exercise tolerance (cardiac problems and high blood pressure) and speed of healing (diabetes). If the surgical history is related to the current problem, the clinician should obtain as much detail about the surgery as possible from the surgical report, including any complications, precautions, or postsurgical protocols. Although this information is not always related to the presenting condition, it does afford the clinician some insight as to the potential impact or response the planned intervention may have on the patient.
+Family history and general health status
+Certain diseases, such as rheumatoid arthritis, diabetes, cardiovascular disease, and cancer, have familial tendencies. The general health status refers to a review of the patient's health perception and physical and psychological function, as well as any specific questions related to a particular body region or complaint.1
+
+
+1. Guide to physical therapist practice. Phys Ther 81:S13 S95, 2001.
+2. Judge RD, Zuidema GD, Fitzgerald FT: The medical history and physical, in Judge RD, Zuidema GD, Fitzgerald FT (eds): Clinical Diagnosis (ed 4). Boston, Little, Brown and Company, 1982, pp 9 19.
+
+
+
+
+Systems Review
+The information from the history and the systems review serves as a guide for the clinician in determining which structures and systems require further investigation. The systems review is the part of the examination that identifies possible health problems that require consultation with, or referral to, another healthcare provider (Table 5 12).16 The systems review consists of a limited examination of the anatomic and physiologic status all systems (i.e., musculoskeletal, neurological, cardiovascular, pulmonary, integumentary, gastrointestinal [GI], urinary system [US], and genitoreproductive).16 The systems review includes an assessment of the following components16:
+ For the cardiovascular/pulmonary system, the assessment of heart rate, respiratory rate, blood pressure (see Chapter 9), and edema. Edema is an observable swelling from fluid accumulation in certain body tissues. Edema most commonly occurs in the feet and legs, where it is also referred to as peripheral edema. Swelling or edema may be localized at the site of the injury or diffused over a larger area. The more serious reasons for swelling include fracture, tumor, congestive heart failure, and deep vein thrombosis. However, in some cases, serious injuries produce very limited swelling.
+ For the integumentary system, the assessment of skin integrity, skin color, and presence of scar formation. The integumentary system includes the skin, hair, and nails. Examination of the integumentary system may reveal manifestations of systemic disorders. The overall color of the skin should be noted. Cyanosis in the nails, hands, and feet may be a sign of a central (advanced lung disease, pulmonary edema, congenital heart disease, or low hemoglobin level) or peripheral (pulmonary edema, venous obstruction, or congestive heart failure) dysfunction.101 Palpation of the skin, in general, should include assessment of temperature, texture, moistness, mobility, and turgor.101 Skin temperature is best felt over large areas using the back of the clinician's hand. An assessment should be made as to whether this is localized or generalized warmth101:
+ Localized. May be seen in areas of the underlying inflammation or infection.
+ Generalized. May indicate fever or hyperthyroidism.
+Skin texture is described as smooth or rough (coarse). Skin mobility may be decreased in areas of edema or in scleroderma.
+ For the musculoskeletal system, the assessment of gross symmetry, gross range of motion, gross strength, weight, and height.
+ For the neuromuscular system, a general assessment of gross coordinated movement (e.g., balance, locomotion, transfers, and transitions). In addition, the clinician observes for peripheral and cranial nerve integrity and notes any indication of neurological compromise such as tremors or facial tics.
+ For communication ability, affect, cognition, language, and learning style, the clinician notes whether the patient's communication level is age appropriate; whether the patient is oriented to person, place, and time; and whether the emotional and behavioral responses appear to be appropriate to his or her circumstances. It is important to verify that the patient can communicate his or her needs. The clinician should determine whether the patient has a good understanding of his or her condition, the planned intervention, and the prognosis. The clinician should also determine the learning style that best suits the patient.
+
+
+
+TABLE 5 12
+Signs and Symptoms Requiring Immediate Medical Referral
+
+Signs/Symptoms
+Common Cause 
+Angina pain not relieved in 20 minutes
+Myocardial infarction
+Angina pain with nausea, sweating, and profuse sweating
+Myocardial infarction
+Bowel or bladder incontinence and/or saddle anesthesia
+Cauda equina lesion
+Anaphylactic shock
+Immunological allergy or disorder
+Signs/symptoms of inadequate ventilation
+Cardiopulmonary failure
+Patient with diabetes who is confused, is lethargic, or exhibits changes in mental function
+Diabetic coma
+Patient with positive McBurney's point or rebound tenderness
+Appendicitis or peritonitis
+Sudden worsening of intermittent claudication
+Thromboembolism
+Throbbing chest, back, or abdominal pain that increases with exertion accompanied by a sensation of a heartbeat when lying down and palpable pulsating abdominal mass
+Aortic aneurysm or abdominal aortic aneurysm
+
+
+Data from Goodman CC, Snyder TEK: Differential Diagnosis in Physical Therapy. Philadelphia: WB Saunders, 1990; Stowell T, Cioffredi W, Greiner A, et al: Abdominal differential diagnosis in a patient referred to a physical therapy clinic for low back pain. J Orthop Sports Phys Ther 35:755 764, 2005.
+
+Tests and Measures
+The tests and measures component of the examination, which serves as an adjunct to the history and the systems review, involves the physical examination of the patient. Components of the tests and measures include the items listed in Table 5 13, in addition to an assessment of posture, palpation, an assessment of a patient's range of motion using goniometry (see Chapter 11), an assessment of the patient's strength using manual muscle testing (see Chapter 12), and various tests designed to accurately determine the degree of specific function and dysfunction of the patient.
+
+
+
+TABLE 5 13
+Categories for Tests and Measures
+
+
+ADLs, activities of daily living; IADLs, instrumental activities of daily living.
+Data from American Physical Therapy Association: Guide to Physical Therapist Practice. Phys Ther 81:S13 S95, 2001.
+
+
+Posture 
+
+
+Postural development begins at a very early age. As the infant starts to activate the postural system, skeletal muscles develop according to their predetermined specific uses in various recurrent functions and movement strategies.102 Jull and Janda103,104 developed a system that characterized muscles based on common patterns of kinetic chain dysfunction, into two functional divisions (see Table 4 7 in Chapter 4):
+ Postural muscles. These relatively strong muscles are designed to counter gravitational forces and provide a stable base for other muscles to work from, although they are likely to be poorly recruited, lax in appearance, and show an inability to perform inner range contractions over time.
+ Phasic muscles. These muscles tend to function in a dynamically antagonistic manner to the postural muscles. Phasic muscles tend to become relatively weak compared to the postural muscles, are more prone to atrophy and adaptive shortening, and show preferential recruitment in synergistic activities. In addition, these muscles will tend to dominate movements and may alter posture by restricting movement.
+On casual observation, the human body appears symmetrical, such that both sides of the body look the same. However, on closer examination, there is often a lack of symmetry. This asymmetry may be the result of a limb length discrepancy, a right side versus left side dominance, a muscle imbalance between synergists and their respective antagonists, or a postural dysfunction, to name a few examples. Any lack of symmetry should prompt further examination to determine the cause and potential management strategies. It is important to remember that asymmetry does not necessarily equate
+ with dysfunction. Indeed, it is only those inequalities or imbalances that produce pain and/or dysfunction that should concern the clinician.	
+
+
+
+Confounding the issue is the fact that the body is capable of compensating for many imbalances. Although this may appear to be a satisfactory solution, these compensations can lead to further misalignment and eventual pathologic conditions. For example, a muscle maintained in a shortened or lengthened position will eventually adapt to its new position. Although this muscle initially is incapable of producing a maximal contraction in the newly acquired position,105 changes at the sarcomere level eventually allow the muscle to produce maximal tension at the new length.106 However, the changes in length produce changes in tension development, as well as changes in the angle of pull.107 It is theorized that, if a muscle lengthens by way of compensation, it results in an alteration in the normal force couple and arthrokinematic relationship of the area, thereby affecting the efficient and ideal operation of the movement system.106,108, 109, 110 and 111 A common example occurs if the Achilles tendon is adaptively shortened to the point where it prevents any dorsiflexion. When this occurs, the tibia cannot advance forward over the fixed foot during gait, and the body's center of mass (COM) (see Chapter 14) is placed further behind the ankle, creating a greater torque and greater workload. To avoid this inefficiency, the body compensates by hyperextending the knee, which permits the body's COM to be closer to the fulcrum. Other compensations include a shortening of the hip flexors to tilt the pelvis anteriorly and incline the body forward, which in turn produces the compensations of increased lumbar lordosis, thoracic kyphosis, and cervical lordosis.
+During the initial assessment of musculoskeletal imbalances, the clinician initially observes for any obvious asymmetries and determines whether they are structural or functional:
+ Structural: An asymmetry that is present at rest. For example, torticollis and kyphosis can be structural deformities.
+ Functional: An asymmetry that is the result of an assumed posture and which disappears when the posture is changed. For example, a functional scoliosis due to a leg length discrepancy should disappear when the patient bends forward.
+Once an evaluation of the obvious asymmetries has been made, the focus of the examination switches to the more subtle asymmetries. This part of the examination requires an understanding of the etiology of imbalances and the resulting compensatory changes. Symmetrical alignment may be defined as "the optimal alignment of the patient's body that allows the neuromuscular system to perform actions requiring the least amount of energy to achieve the desired effect."112 Postural alignment has important consequences, as each joint has a direct effect both on its neighboring joint and on the joints further away. A syndrome is a characteristic pattern of symptoms or dysfunctions. Abnormal, or nonneutral, alignment is defined as "positioning that deviates from the midrange position of function."113 To be classified as abnormal or dysfunctional, the alignment must produce physical functional limitations. These functional limitations can occur anywhere along the kinetic chain, at adjacent or distal joints through compensatory motions or postures. The postural control system is the mechanism by which the body maintains balance and equilibrium and consists of several subsystems, namely, the vestibular, visual, and somatosensory subsystems.114,115 In a multisegmented organism such as the human body, many postures are adopted throughout the course of a day. Nonneutral alignment, whether maintained statically or performed repetitively, appears to be a key precipitating factor in soft tissue and neurologic pain.116 This may be the result of an alteration in joint load distribution or in the force transmission of the muscles. This alteration can result in a musculoskeletal imbalance.
+The work of Jull and Janda103 introduced the concept of postural patterns and described a lower quadrant syndrome called the pelvic crossed syndrome. In this syndrome, the erector spinae and iliopsoas are adaptively shortened (tight), and the abdominals and gluteus maximus are weak. This syndrome promotes an anterior pelvic tilt, an increased lumbar lordosis, and a slight flexion of the hip. The hamstrings frequently are adaptively shortened in this syndrome, and this may be a compensatory strategy to lessen the anterior tilt of the pelvis,110 or because the glutei are weak. In addition to increasing the lumbar lordosis, an increased thoracic kyphosis and a compensatory increase in cervical lordosis to keep the head and eyes level occurs. Janda also described an upper quadrant syndrome called the upper crossed syndrome.104 This syndrome involves adaptive shortening of the levator scapulae, upper trapezius, pectoralis major and minor, and sternocleidomastoid, and weakness of the deep neck flexors and lower scapular stabilizers. The syndrome produces elevation and protraction of the shoulder and rotation and abduction of the scapula, together with scapular winging. It also theoretically produces a forward head and hypermobility of the C4 5 and T4 segments.
+More recently, Sahrmann106 has stressed the importance of the relationship of neighboring joints along both directions of the kinetic chain to determine the mechanical cause of the symptoms.
+
+Palpation 
+
+
+
+Palpation is a fundamental skill used in a number of the tests and measures. Both Gerwin and colleagues117 and Njoo and Van der Does118 found that training and experience are essential in performing reliable palpation tests. Palpation, which can play a central role in the performance of several manual therapy techniques,119 is performed to120,121
+ Check for any vasomotor changes such as an increase in skin temperature that might suggest an inflammatory process.  Localize specific sites of swelling.
+ Determine the presence of muscle tremors and/or fasciculations.
+ Identify specific anatomic structures and their relationship to one another.
+ Identify sites of point tenderness. Hyperalgic skin zones can be detected using skin drag, which consists of moving the pads of the fingertips over the surface of the skin and attempting to sense resistance or drag.
+ Identify soft tissue texture changes or myofascial restriction. Normal tissue is soft and mobile and moves equally in all directions. Abnormal tissue may feel hard, sensitive, or somewhat crunchy or stringy.122
+ Locate changes in muscle tone resulting from trigger points, muscle spasm, hypertonicity, or hypotonicity. However, a study by Hsieh and colleagues123 found that among nonexpert physicians, physiatrists, or chiropractors, trigger point palpation is not reliable for detecting taut band and local twitch response, and only marginally reliable for referred pain after training. The most useful diagnostic test to detect these changes is to create a fold in the tissue and to stretch it.124 The tissue should be soft and supple, and there should be no resistance to the stretch.
+ Determine circulatory status by checking distal pulses.  Detect changes in the moisture of the skin.
+The physical examination must be supported by as much science as possible, so that the decision about which test(s) to use during the examination should be based on their appropriateness relative to the patient's unique problems and the best available research evidence (see Chapter 3). Before proceeding with the tests and measures, the clinician must obtain a valid consent, and a full explanation must be provided to the patient as to what procedures are to be performed and the reasons for these. The tests used by the clinician must be based on the patient's history or presentation. At times, a complete examination cannot be performed. For example, if an area to be examined is too acutely inflamed, the clinician may defer some of the examinations to the subsequent visit. If problems arise that are not initially identified in the history or systems review, or if the data obtained are inconsistent, additional tests or measures may be indicated.125
+EVALUATION
+In contrast to the examination, an evaluation is the level of judgment necessary to make sense of the findings in order to identify a relationship between the symptoms reported and the signs of disturbed function.126
+The evaluation is used to determine the diagnosis, prognosis, and plan of care, whereas the diagnosis guides the intervention. Before performing the examination, the clinician has some idea of the likelihood that the patient has the condition of interest, based on the history.127 Once the examination is complete, the clinician should be able to add and subtract the various findings and determine the accuracy of the working hypothesis. During a patient examination, it is difficult to establish a relationship between impairment and functional limitations and determine which of those impairments are critical to the loss of function.128 One way to circumnavigate such a problem is to focus on enablement perspectives using algorithms. An algorithm is a systematic process involving a finite number of steps that produces the solution to a problem. Algorithms used in healthcare allow for clinical decisions and adjustments to be made during the clinical reasoning and decision making process because they are not prescriptive or protocol driven.129 The most commonly used algorithm in physical therapy is the hypothesis oriented algorithm for clinicians (HOAC) designed by Rothstein and Echternach.130 The HOAC is designed to guide the clinician from evaluation to intervention planning with a logical sequence of activities. It requires the clinician to generate working hypotheses early in the examination process, a strategy often used by expert clinicians. The initial step in the HOAC process is to attempt to clarify the cause of functional movement problems, which requires the clinician to generate several alternative hypotheses
+
+
+
+about the potential causes. The next step is for the clinician to determine the crucial test(s) and their expected outcomes that would rule out one or more of the hypotheses. As these tests are carried out, the clinician continues the process of generating and testing hypotheses, which refines the clinician's understanding of the cause(s) of the problem. The keys to success of the HOAC process are determined by the generation of the correct hypothesis and the correct choice of the crucial test.
+DIAGNOSIS
+An accurate diagnosis depends on a properly constructed and tested classification scheme, based on evidence informed practice, which can aid the clinician to select the best techniques and correctly identify, quantify, and classify the patient's condition.
+Preferred Practice Patterns
+The Guide16 uses preferred practice patterns to group clusters of musculoskeletal impairments that occur together:  Pattern 4B refers to conditions resulting from impaired posture.
+ Pattern 4C refers to conditions resulting from impaired muscle performance.
+ Pattern 4D refers to conditions resulting from impaired joint mobility, motor function, muscle performance, and range of motion associated with connective tissue dysfunction.
+ Pattern 4E refers to conditions resulting from impaired joint mobility, motor function, muscle performance, and range of motion associated with localized inflammation.
+ Pattern 4F refers to conditions resulting from impaired joint mobility, motor function, muscle performance, range of motion, and reflex integrity associated with spinal disorders.
+ Pattern 4G refers to conditions resulting from impaired joint mobility, motor function, muscle performance, and range of motion associated with fracture.
+ Pattern 4H refers to conditions resulting from impaired joint mobility, motor function, muscle performance, and range of motion associated with joint arthroplasty.
+ Pattern 4I refers to conditions resulting from impaired joint mobility, motor function, muscle performance, and range of motion associated with bony or soft tissue surgery.
+ Pattern 4J refers to conditions resulting from impaired motor function, muscle performance, range of motion, gait, locomotion, balance, and motor function associated with amputation.
+ Pattern 5F refers to conditions resulting from impaired peripheral nerve integrity and muscle performance associated with peripheral nerve injury.
+Each of these patterns represents a diagnostic or impairment classification. Impairments resulting primarily from pain are integrated in all of the preferred practice patterns. Pain can greatly influence an individual's ability to function, depending on its location and severity.
+Differential Diagnosis
+An important component of the Vision 2020 statement set forth by the American Physical Therapy Association (APTA)1 is achieving direct access through independent, self determined, professional judgment and action.131 With the majority of states now permitting direct access to physical therapists, many physical therapists now have the primary responsibility for being the gatekeepers of healthcare and for making medical referrals. In light of the APTA's movement toward realizing "Vision 2020," an operational definition of autonomous practice and the related term autonomous physical therapist practitioner is given by the APTA's Board as follows:
+	Autonomous physical therapist practice is practice characterized by independent, self determined professional judgment and action.	
+
+
+
+ An autonomous physical therapist practitioner within the scope of practice defined by the Guide to Physical Therapist Practice provides physical therapy services to patients who have direct and unrestricted access to their services, and may refer as appropriate to other healthcare providers and other professionals and for diagnostic tests.2
+Through history and physical examination, physical therapists diagnose and classify different types of information for use in their clinical reasoning and intervention.132 For example, one of the most common types of information used is the location of the pain. Figures 5 3, 5 4, 5 5 and 5 6 provide the reader with some of the potential causes of pain with respect to different body areas.
+The Guide clearly articulates the physical therapist's responsibility to recognize when a consultation with, or referral to, another healthcare provider is necessary.16 This responsibility requires that the clinician have a high level of knowledge, including an understanding of the concepts of medical screening and differential diagnosis. The results of a number of studies have demonstrated that physical therapists can provide safe and effective care for patients with musculoskeletal conditions in a direct access setting.133, 134 and 135 Indeed, in a study by Childs and colleagues,136 physical therapists demonstrated higher levels of knowledge in managing musculoskeletal conditions than medical students, physician interns and residents, and most physician specialists except for orthopaedists. In addition, physical therapist students enrolled in educational programs conferring the doctoral degree achieved higher scores than their peers enrolled in programs conferring the master's degree.136 Furthermore, licensed physical therapists who were board certified achieved higher scores and passing rates than their colleagues who were not board certified.136
+In an effort to aid in the differential diagnosis of musculoskeletal conditions commonly encountered by physical therapists, screening tools have been designed to help recognize and potential serious disorders (red or yellow flags).137
+ Red Flag findings are symptoms or conditions that may require immediate attention and supersede physical therapy being the primary provider of service (see Table 5 12), as they are typically indicative of nonmechanical (nonneuromusculoskeletal) conditions or pathologies of visceral origin.
+ Yellow flag findings are potential confounding variables that may be cautionary warnings regarding the patient's condition and that require further investigation. Examples include dizziness, abnormal sensation patterns, fainting, progressive weakness, and circulatory or skin changes.
+Stith and colleagues138 describe the red flag findings found within a patient's history that indicate a need for referral to a physician. The presence of any of the following findings during the patient history, systems review, and/or scanning examination may indicate serious pathology requiring a medical referral:
+ Fevers, chills, or night sweats. These signs and symptoms are almost always associated with a systemic disorder such as an infection.139
+ Recent unexplained weight changes. An unexplained weight gain could be caused by congestive heart failure, hypothyroidism, or cancer.93 An unexplained weight loss could be the result of a gastrointestinal disorder, hyperthyroidism, cancer, or diabetes.93
+ Malaise or fatigue. These complaints, which can help to determine the general health of the patient, may be associated with a systemic disease.139
+ Unexplained nausea or vomiting. This is never a good symptom or sign.139
+ Unilateral, bilateral, or quadrilateral paresthesias. The distribution of neurologic symptoms can give the clinician clues as to the structures involved. Quadrilateral paresthesia always indicates the presence of central nervous system (CNS) involvement.
+ Shortness of breath. Shortness of breath can indicate a myriad of conditions. These can range from anxiety and asthma to a serious cardiac or pulmonary dysfunction.139
+ Dizziness. The differential diagnosis of dizziness can be quite challenging. Patients often use the word dizziness to refer to feelings of lightheadedness, various sensations of body orientation, blurry vision, or weakness in the legs.
+ Nystagmus. Nystagmus is characterized by a rhythmic movement of the eyes, with an abnormal shifting away from fixation and rapid return.140
+
+
+
+Failure of any one of the main control mechanisms for maintaining steady gaze fixation (the vestibulo ocular reflex and a gaze holding system) results in a disruption of steady fixation.
+ Bowel or bladder dysfunction. Bowel and bladder dysfunction may indicate involvement of the cauda equina. Cauda equina syndrome is associated with compression of the spinal nerve roots that supply neurologic function to the bladder and bowel. A massive disk herniation may cause spinal cord or cauda equina compression. One of the early signs of cauda equina compromise is the inability to urinate while sitting down, because of the increased levels of pressure. The most common sensory deficit occurs over the buttocks, posterior superior thighs, and perianal regions (the so called saddle anesthesia), with a sensitivity of approximately 0.75.141 Anal sphincter tone is diminished in 60% to 80% of cases.141,142 Rapid diagnosis and surgical decompression of this abnormality is essential to prevent permanent neurologic dysfunction.
+ Severe pain. This includes the presence of an insidious onset of severe pain with no specific mechanism of injury.
+ Pain at night that awakens the patient from a deep sleep, usually at the same time every night, and which is unrelated to a movement. This finding may indicate the presence of a tumor.
+ Painful weakness. The presence of a painful weakness almost always indicates serious pathology, including but not limited to a complete rupture of contractile tissue, or nerve palsy.
+ A gradual increase in the intensity of the pain. This symptom typically indicates that the condition is worsening, especially if it continues with rest.
+ Radiculopathy. Neurologic symptoms associated with more than two lumbar levels, or more than one cervical level. With the exception of central protrusions or a disk lesion at L4 through L5, disk protrusions typically only affect one spinal nerve root. Multiple level involvement could suggest the presence of a tumor or other growth, or it may indicate symptom magnification. The presence or absence of objective findings should help determine the cause.
+Performing a medical screen is an inherent step in making a diagnosis for the purpose of deciding whether a patient referral is warranted, but the medical screen performed by the physical therapist is not synonymous with differential diagnosis. Differential diagnosis involves the ability to quickly differentiate problems of a serious nature from those that are not, using the history and physical examination. Problems of a serious nature include, but are not limited to, visceral diseases, cancer, infections, fractures, and vascular disorders. The purpose of the medical screen is to confirm (or rule out) the need for physical therapy intervention; the appropriateness of the referral; whether there are any red flag findings, red flag risk factors, or clusters of red flag signs and/or symptoms; and whether the patient's condition falls into one of the categories of conditions outlined by the Guide.143 Boissonnault and Bass144 noted that screening for medical disease includes communicating with a physician regarding a list or pattern of signs and symptoms that have caused concern, but not to suggest the presence of a specific disease.132
+In clinical practice, physical therapists commonly use a combination of the location and type of symptoms, red flag findings, the scanning examination, and the systems review to detect medical diseases. The combined results provide the physical therapist with a method to gather and evaluate examination data, pose and solve problems, infer, hypothesize, and make clinical judgments, such as the need for a patient/client referral.143
+Systemic dysfunction or disease can present with seemingly bizarre symptoms. These symptoms can prove to be very confusing to the inexperienced clinician. Complicating the scenario is that certain patients who are pursuing litigation can also present with equally bizarre symptoms. These patients may be subdivided into two groups:
+1. Those patients with a legitimate injury and cause for litigation who genuinely want to improve.
+2. Those patients who are merely motivated by the lure of the litigation settlement and who have no intention of showing signs of improvement until their case is settled. Termed malingerers, these patients are a frustrating group for clinicians to deal with, because they display exaggerated complaints of pain, tenderness, and suffering.
+Malingering is defined as the intentional production of false symptoms or the exaggeration of symptoms that truly exist.145 These symptoms may be physical or psychological but have in common the intention of achieving a certain goal. Any individual involved in litigation, whether the result of a motor vehicle accident, work injury, or accident, has the potential for malingering.146 Malingering can be thought of as synonymous with faking, lying,
+
+
+
+or fraud, and it represents a frequently unrecognized and mismanaged medical diagnosis.145 Unfortunately, because of the similarity between malingerers and genuine patients with nonorganic symptoms, this deception often causes a significant, negative response from the clinician toward malingerers and nonorganic patients alike.
+It is most important that the clinician address any suspected deception in a structured and unemotional manner and that interactions with the patient be performed in a problem oriented, constructive, and helpful fashion.145
+
+With very few exceptions, patients in significant pain look and feel miserable, move extremely slowly, and present with consistent findings during the examination. In contrast, malingerers present with severe symptoms and exaggerated responses during the examination but can often be observed to be in no apparent distress at other times. This is particularly true if the malingering patient is observed in an environment outside of the clinic.
+However, it cannot be stressed enough that all patients should be given the benefit of the doubt until the clinician, with a high degree of confidence, can rule out an organic cause for the pain.
+PROGNOSIS
+The prognosis is the predicted level of function that the patient will attain within a certain time frame. The prognosis represents a synthesis, based on an understanding of the extent of pathology, premorbid conditions, the ability of surrounding tissue structures to compensate in the short or long term, the healing processes of the various tissues, the patient's age, foundational knowledge, theory, evidence, experience, and examination findings, and takes into account the patient's social, emotional, and motivational status.66,147 This prediction helps guide the intensity, duration, and frequency of the intervention and aids in justifying the intervention. Knowledge of the severity of an injury, the age and physical status of a patient, and the healing processes of the various tissues involved are among the factors used in determining the prognosis.
+PLAN OF CARE
+The plan of care is organized around the patient's goals. The physical therapist plan of care consists of a blend of consultation, education, and intervention.
+Patient Participation in Planning
+
+The patient's aspirations and patient identified problems, together with those problems identified by the clinician, determine the focus of the goals.147 The patient and clinician should come to an agreement regarding the most important problems, around which care should be focused, and together establish relevant goals.147 Patient education and patient responsibility become extremely important in determining the prognosis.
+Anticipated Goals and Expected Outcomes
+
+This includes the predicted positive effects on the:  Disorder or condition
+ Dysfunction
+ Functional limitations and disabilities  Prevention of future occurrences
+
+
+
+ Health, fitness and wellness of the patient  Patient/client satisfaction
+Perhaps one of the most difficult aspects of documentation for the inexperienced clinician is the setting of short term (anticipated) goals and long  term (expected outcomes) goals. The patient's aspirations and patient identified problems, together with those problems identified by the clinician, determine the focus of the goals.147
+
+The intervention is typically guided by short  and long term goals, which are dynamic in nature, being altered as the patient's condition changes, and strategies with which to achieve those goals based on the stages of healing. The following information must be included within the POC based on the anticipated goals.
+ Frequency of treatments, including how often the patient will be seen per day or per week.
+ What interventions the patient will receive, including the use of any modalities, therapeutic exercise, and any specialized equipment.  Plans for discharge, including patient and family education, equipment needs, and referral to other services as appropriate.
+When writing goals, the clinician should use the following guidelines:
+ Who. This refers to the individual involved. Almost always this is the patient, but it can be a family member.
+ What. This refers to what the individual will accomplish functionally, and to the level of ability. For example, the patient will demonstrate independence with ambulation using a cane for a distance of 100 feet.
+ When. This refers to an estimate of the time needed to accomplish the goal, which is usually expressed in days or weeks depending on the patient's diagnosis and general condition. This is a difficult task for inexperienced clinicians because it is difficult to predict how quickly a patient will respond or progress without experience. The time frame may be a function of the clinical setting. For example, in an acute care setting, where the patient may be seen for only 3 to 5 days, the focus will be on short term goals. In contrast, in a long term care setting, where the patient may be seen for months, more focus is placed on the long term goals.
+ How. This refers to the circumstances under which the functional task will be completed, or the circumstances necessary for the functional task to be completed. This includes the amount of assistance a patient requires to perform a task, or any assistive devices that are necessary.
+The documented goals should be listed in order of priority with the most important or more vital functional activities listed first.
+Short term (Anticipated) Goals
+
+Short term goals are the interim steps along the way to achieving the long term goals. The purposes of the short term goals include:  To set the priorities of an intervention.
+ To direct the intervention based on the specific needs and problems of the patient.  To provide a mechanism to measure the effectiveness of the intervention.
+ To communicate with other healthcare professionals.
+
+
+
+ To provide an explanation of the rationale behind the goal to third party payers.
+The time frame for short term goals can be based on the next time the patient will be seen.
+
+
+Long term (Expected Outcomes) Goals
+
+Long term goals are the final product of a therapeutic intervention. The purposes of long term goals are the same as those for short term goals. Long  term goals typically use functional terms rather than such items as degrees of range of motion, or grades of muscle strength. Examples of typical long  term goals would include:
+ Patient will be independent with transfers on/off toilet, supine sit, and sit stand and with ambulation for 100 feet using an assistive device at time of discharge.
+ Patient will be independent with ambulation on level and uneven surfaces and stair negotiation without assistive device at time of discharge.
+Interventions
+According to The Guide,16 an intervention is "the purposeful and skilled interaction of the physical therapist and the patient/client and, when appropriate, with other individuals involved in the patient/client care, using various physical therapy procedures and techniques to produce changes in the condition consistent with the diagnosis and prognosis."
+Components of the physical therapy interventions include:
+ Coordination, communication, and documentation  Patient/client related instruction
+ Procedural interventions
+Coordination and Communication
+
+Coordination and communication across all settings are critical responsibilities of a physical therapist and ensure that patient/client receives safe, appropriate, comprehensive, efficient, and effective care from initial evaluation through discharge.
+These collaborative processes may include addressing advance directives, individualized educational programs (IEPs), or individualized family service plans (IFSPs); informed consent; mandatory communication and reporting; admission and discharge planning; case management; collaboration and coordination with agencies; communication across settings; cost effective resource utilization; data collection, analysis, and reporting; documentation across settings; interdisciplinary teamwork; and referrals to other professionals or resources.148
+Patient/Client Related Instruction
+
+Patient/family/client related instruction forms the cornerstone of every intervention and so the ability of the clinician to communicate with patients,
+ family members, other practitioners, and coworkers is extremely important. During the physical therapy visits, the clinician and the patient work to	
+
+
+
+alter the patient's perception of his or her functional capabilities. Together, the patient and clinician discuss the parts of the patient's life that he or she can and cannot control and then consider how to improve those parts that can be changed. It is imperative that the clinician spend time educating the patient about his or her condition, so that the patient can fully understand the importance of his or her role in the rehabilitation process and become an educated consumer. Educating the patient about strategies to adopt in order to prevent recurrences and to self manage his or her condition is also very important. Discussions about intervention goals must continue throughout the rehabilitative process and must be mutually acceptable (see Patient Adherence and Compliance).
+Often, the physician relies on the physical therapist to give a broader explanation about the condition and to answer questions and concerns related to the rehabilitative process. The aim of patient education is to create independence, not dependence, and to foster an atmosphere of learning in the clinic. A detailed explanation should be given to the patient in a language that he or she can understand. This explanation should include:
+ The name of the structure(s) involved, the cause of the problem, and the effect of the biomechanics on the area. Whenever possible, an illustration of the offending structure should be shown to the patient. Anatomic models can be used to explain biomechanical principles in layperson's terms.
+ Information about tests, diagnosis, and interventions that are planned.
+ The prognosis of the problem and a discussion about the patient's functional goals. An estimation of healing time is useful for the patient, so that he or she does not become frustrated at a perceived lack of progress.
+ What patients can do to help themselves. This includes the allowed use of the joint or area, a brief description about the relevant stage of healing, and the vulnerability of the various structures during the pertinent healing phase. This information makes the patient aware and more cautious when performing ADLs, recreational activities, and the home exercise program. Emphasis should be placed on dispelling the myth of "no pain, no gain," and patients should be encouraged to respect pain. Patients often have misconceptions about when to use heat and ice, and it is the role of the clinician to clarify such issues.
+ Home exercise program. Before prescribing a home exercise program, the clinician should take into consideration the time that will be needed to perform the program. In addition, the level of tolerance and motivation for exercise varies among individuals and is based on their diagnosis and stage of healing. A short series of exercises, performed more frequently during the day, should be prescribed for patients with poor endurance or when the emphasis is on functional reeducation. Longer programs, performed less frequently, are aimed at building strength or endurance. Each home exercise program needs to be individualized to meet the patient's specific needs. Although two patients may have the same diagnosis, the examination may reveal different positive findings and stages of healing, both of which may alter the intervention.
+There are probably as many ways to teach as there are to learn. The clinician needs to be aware that people may have very different preferences for how, when, where, and how often to learn (see Chapter 7).
+Procedural Interventions
+
+Procedural interventions can be broadly classified into three main groups125:
+ Restorative interventions. These are directed toward remediating or improving the patient's status in terms of impairments, functional limitations, and recovery of function. For example, a patient who has recently undergone a total knee arthroplasty can be assisted with locomotor training using a body weight support mechanism.
+ Compensatory interventions. These are directed toward promoting optimal function using residual abilities. For example, a patient with a right hemiplegia is taught how to dress using the left upper extremity.
+ Preventative interventions. These are directed toward minimizing potential impairments, functional limitations, and disabilities. For example, the potential of developing pneumonia or a deep venous thrombosis can be minimized by using early resumption of upright activity following surgery.
+The choice of interventions involves a series of decisions that will benefit the patient without doing any harm. Fortunately, most of the treatment options available to the physical therapist are not high risk. Indeed, the vast majority of physical therapy interventions involve a gradual progression of
+
+
+
+strengthening and flexibility exercises, while avoiding further damage to an already compromised structure.149
+The most successful intervention programs are those that are custom designed from a blend of clinical experience and scientific data, with the level of improvement achieved being related to goal setting and the attainment of those goals (Table 5 14). The necessary knowledge to perform an intervention includes66:
+ The temporal phases of tissue healing, common impairments in each phase, and stresses that tissues can safely tolerate during each phase  Movement characteristics, including amount of range, control, and capacity required for various functional activities
+ The range of available intervention strategies and procedures to promote these movement characteristics, and corresponding outcomes in varied patient populations
+ Sequencing of various interventions to challenge appropriately involved tissues and the whole patient for example, being able to recognize the underlying tissue healing and balance disorders in a patient status post hip fracture with diabetes mellitus, the need for aerobic conditioning in assessing patients with low back dysfunction, and the importance of body mechanics education in prenatal and postnatal exercise classes
+ Intervention strategies to promote health and prevent secondary dysfunction
+TABLE 5 14
+Key Questions for Intervention Planning
+
+
+Data from Guide to physical therapist practice: Phys Ther 81:S13 S95, 2001.
+
+Documentation
+Documentation in healthcare includes any entry into the patient/client record. As the record of client care, documentation provides useful information for the clinician, other members of the healthcare team, and third party payers. This documentation, considered a legal document, becomes a part of the patient's medical record. The process of clinical decision making includes examining the patient, evaluating the data from the examination, formulating a diagnosis and prognosis, and determining the plan of care.
+ An initial note is written after the first patient visit and documents the results from the examination, the subsequent evaluation, diagnosis,
+
+
+
+prognosis, and plan of care.
+ A progress note is written after each subsequent visit and documents the results of any reexamination and reevaluation and any change in the prognosis and plan of care as appropriate.
+ A discharge note is written at the time that therapy is discontinued and occurs after the final examination and evaluation are performed.
+Note Formats
+
+Three types of format of commonly used for writing notes:
+ POMR (problem oriented medical record): a traditional form of documentation developed in the 1960s by Dr. Lawrence Weed. The POMR has four phases: formation of a database which includes current and past information about the patient; development of a specific, current problem list which includes problems to be treated by various practitioners; identification of a specific treatment plan developed by each practitioner; and assessment of the effectiveness of the treatment plans.
+ SOAP (subjective, objective, assessment, plan): a progression of the POMR note format used by each clinician involved in the patient's care to address each of the patient's problems. A number of variations of the SOAP format have been developed over the years.
+ Patient/client management based on The Guide to Physical Therapist Practice, initially published in 1997, with the second edition publishing a Documentation Template for use in both inpatient and outpatient settings.
+Purposes of Documentation
+
+The purposes of documentation are as follows151:
+ To document what the clinician is doing to manage the individual patient's case.
+ To record examination findings, patient status, intervention provided, and the patient's response to treatment.
+ To communicate with all other members of the healthcare team this helps provide consistency among the services provided. This includes communication between the physical therapist (PT) and the physical therapist assistant (PTA).
+ To provide information to third party payers, such as Medicare and other insurance companies, who make decisions about reimbursement based on the quality and completeness of the physical therapy received and the documentation that verifies the intervention.
+ To help the physical therapist organize his/her thought processes involved in patient care.
+ To document the functional outcome or outcomes attained by the patient through the use of objective and measurable terms, language, or data. Strength and range of motion data should be linked to the person's ability to perform functional tasks such as dressing, lifting, reaching, eating, and personal hygiene.
+To be used for quality assurance and improvement purposes and for issues such as discharge planning. To serve as a source of data for quality assurance, peer and utilization review, and research.
+SOAP Format
+
+Subjective: information about the condition from patient or family member Objective: measurement a clinician obtains during the physical examination Assessment: analysis of problem including the long and short term goals Plan: a specific intervention plan for the identified problem
+
+
+
+Patient/Client Management Format
+
+Examination: the information gathered during the examination is organized according to the nature of the data into History, Systems Review, and Tests and Measures.
+Evaluation: this information is divided into two sections: the Diagnosis and the Prognosis.
+ The diagnosis attempts to include a Preferred Practice Pattern from The Guide to Physical Therapist Practice and relates the patient's functional deficits to the patient's impairment.
+ The prognosis section includes an assessment of the predicted level of improvement (rehabilitation potential) that the patient will be able to achieve and the amount of time that it will take to achieve that level of improvement.
+Plan of Care: this section includes the Anticipated Goals (short term goals), Expected Outcomes (long term goals), any Interventions to be used to achieve these goals, an Education Plan, and a Discharge Plan.
+
+Guidelines for Writing in a Medical Record
+
+The emphasis in medical record entries is on brevity, clarity, and accuracy.
+ Brevity: the clinician must learn to use concise sentences while adhering to the style of the clinical facility. Facility recognized abbreviations can be used to aid in brevity (see Medical Abbreviations and Terminology).
+ Clarity: the clinician must learn to write legibly and in a style that makes the meaning of the documentation immediately clear. Facility recognized abbreviations can be used to aid in clarity.
+ Accuracy: the medical record is a permanent, legal document, and so the information contained within it must be accurate and factual. There should be no blank or empty lines between one entry and another. If an error is made, a felt marker, correction fluid, or tape should not be used. Instead, the clinician should put a line through the error (making certain that the deleted material remains legible), write the date, and place his or her initials above the error. In addition, in the margin, the clinician should state why the correction is necessary. Black ink should be used for all corrections and entries. Currently, there are many software programs available for electronic documentation specific to rehabilitation that indicate when an entry has been altered and identify the person responsible for the entry.
+
+On occasion, a physician may give a verbal order to the treating therapist. In such instances, the therapist documents the date and time of the order as well as the details of the order the abbreviation v.o. is typically used followed by the physician's name and the therapist's signature.
+
+
+
+Every entry into the medical record must be signed using a legal signature followed by the initials that indicate the status of the clinician as a physical therapist (PT) or physical therapist assistant (PTA). The professional designator to be used after the therapist's signature is currently under debate. In the 1970s and 1980s, RPT (Registered Physical Therapist) or LPT (Licensed Physical Therapist) were used. It was then decided in the 1980s and early 1990s to just simply use PT a physical therapist could not practice without being licensed or registered, making use of "R" or "L" redundant.
+Currently, there is debate as to whether to change the designator to DPT, although the same redundancy argument could be used for the letter "D."
+Medical Abbreviations and Terminology
+
+To be able to read and understand a medical record, the clinician must be familiar with the abbreviations and medical terminology commonly used. Many of the terms are derived from Greek or Latin words. A medical term is a word or phrase made up of elements to express a specific idea:
+ Root element: the main subject or topic of a medical term, which is commonly a body part. For example, osteo  (bone).
+ Prefix element: used at the beginning of a medical term to change the meaning of the medical term or make it more specific. For example, hemi  (half).
+ Suffix element: used at the end of a medical term to describe a condition of a body part or an action to a body part. For example, porosis (a porous condition), as of the bones osteoporosis.
+Examples of these elements of medical terminology are provided in Table 5 15.
+TABLE 5 15
+Commonly Used Abbreviations 
+
+
+A:
+Assessment
+
+
+AAA
+Abdominal aortic aneurysm
+
+
+AAROM
+Active assisted range of motion
+
+
+abd
+Abduction
+
+
+ABG
+Arterial blood gases
+
+
+AE
+Above elbow
+
+
+ACL
+Anterior cruciate ligament
+
+
+add
+Adduction
+
+
+ADL
+Activities of daily living
+
+
+Ad lib
+At discretion
+
+
+afib
+Atrial fibrillation
+
+
+AFO
+Ankle foot orthosis
+
+
+AIDS
+Acquired immunodeficiency syndrome
+
+
+AIIS
+Anterior inferior iliac spine
+
+
+
+
+
+
+
+
+AK
+Above knee
+
+
+ALS
+Amyotrophic lateral sclerosis
+
+
+amb
+Ambulation
+
+
+AMA
+Against medical advice
+
+
+ANS
+Autonomic nervous system
+
+
+A P (AP)
+Anterior posterior
+
+
+ARF
+Acute renal failure
+
+
+AROM
+Active range of motion
+
+
+ASAP
+As soon as possible
+
+
+A V
+Arteriovenous
+
+
+AVM
+Arteriovenous malformation
+
+
+Bid (BID)
+Twice a day
+
+
+BK
+Below knee
+
+
+BOS
+Base of support
+
+
+BP
+Blood pressure
+
+
+bpm
+Beats per minute
+
+
+BR
+Bed rest
+
+
+CA
+Cancer
+
+
+CABG
+Coronary artery bypass graft
+
+
+CAD
+Coronary artery disease
+
+
+CC
+Chief complaint
+
+
+CF
+Cystic fibrosis
+
+
+CHF
+Congestive heart failure
+
+
+CGA
+Contact guard assist
+
+
+c/o
+Complains of
+
+
+CNS
+Central nervous system
+
+
+
+
+CO
+Cardiac output
+
+
+COPD
+Chronic obstructive pulmonary disease
+
+
+CP
+Cerebral palsy
+
+
+CPM
+Continuous passive motion
+
+
+CR
+Contract relax
+
+
+CRF
+Chronic renal failure
+
+
+CTLSO
+Cervical thoracic lumbar sacral orthosis
+
+
+CTR
+Carpal tunnel release
+
+
+CXR
+Chest x ray
+
+
+d/c (D/C)
+Discontinued or discharged
+
+
+DDD
+Degenerative disk disease
+
+
+DF
+Dorsiflexion
+
+
+DIP
+Distal interphalangeal
+
+
+DJD
+Degenerative joint disease
+
+
+DOB
+Date of birth
+
+
+DTR
+Deep tendon reflex
+
+
+DVT
+Deep venous thrombosis
+
+
+Dx
+Diagnosis
+
+
+EENT
+Ear, eyes, nose, throat
+
+
+EMG
+Electromyogram
+
+
+ER
+External rotation or emergency room
+
+
+E stim
+Electrical stimulation
+
+
+ex
+Exercise
+
+
+ext
+Extension
+
+
+FES
+Functional electrical stimulation
+
+
+Flex
+Flexion
+
+
+
+
+FUO
+Fever, unknown origin
+
+
+FWB
+Full weight bearing
+
+
+Fx
+Fracture
+
+
+GB
+Gallbladder
+
+
+GI
+Gastrointestinal
+
+
+GSW
+Gunshot wound
+
+
+HEP
+Home exercise program
+
+
+HNP
+Herniated nucleus pulposus
+
+
+HOB
+Head of bed
+
+
+HP
+Hot pack
+
+
+HR
+Heart rate or hold relax
+
+
+HTN
+Hypertension
+
+
+Hx
+History
+
+
+IADL
+Instrumental activities of daily living
+
+
+IDDM
+Insulin dependent diabetes mellitus
+
+
+Ind
+Independent
+
+
+ICU
+Intensive care unit
+
+
+IR
+Internal rotation
+
+
+IV
+Intravenous
+
+
+JRA
+Juvenile rheumatoid arthritis
+
+
+Jt
+Joint
+
+
+KAFO
+Knee ankle foot orthosis
+
+
+LBP
+Low back pain
+
+
+LCL
+Lateral collateral ligament
+
+
+LE
+Lower extremity
+
+
+LMN
+Lower motor neuron
+
+
+
+
+LOB
+Loss of balance
+
+
+LOC
+Loss of consciousness
+
+
+LOS
+Length of stay
+
+
+LTG
+Long term goal
+
+
+MCL
+Medial collateral ligament
+
+
+MCP
+Metacarpophalangeal
+
+
+MI
+Myocardial infarction
+
+
+MMT
+Manual muscle test
+
+
+MVA
+Motor vehicle accident
+
+
+N/A
+Not applicable
+
+
+NIDDM
+Non insulin dependent diabetes mellitus
+
+
+NWB
+Non weight bearing
+
+
+OA
+Osteoarthritis
+
+
+OOB
+Out of bed
+
+
+OP
+Outpatient
+
+
+OR
+Operating room
+
+
+ORIF
+Open reduction and internal fixation
+
+
+OT (OTR)
+Occupational therapy
+
+
+PCL
+Posterior cruciate ligament
+
+
+PF
+Plantarflexion
+
+
+PIP
+Proximal interphalangeal
+
+
+PMH
+Past medical history
+
+
+PNF
+Proprioceptive neuromuscular facilitation
+
+
+Post op
+Postoperative
+
+
+PRE
+Progressive resistive exercises
+
+
+Prn
+As needed
+
+
+
+
+PROM
+Passive range of motion
+
+
+PWB
+Partial weight bearing
+
+
+q
+Every
+
+
+qd
+Every day
+
+
+qh
+Every hour
+
+
+qid
+Four times a day
+
+
+qn
+Every night
+
+
+RA
+Rheumatoid arthritis
+
+
+reps
+Repetitions
+
+
+r/o
+Rule out
+
+
+ROM
+Range of motion
+
+
+RTC
+Rotator cuff
+
+
+Rx
+Treatment, prescription
+
+
+SCI
+Spinal cord injury
+
+
+SLR
+Straight leg raise
+
+
+SOB
+Shortness of breath
+
+
+STG
+Short term goal
+
+
+TB
+Tuberculosis
+
+
+TBI
+Traumatic brain injury
+
+
+TDWB
+Touchdown weight bearing
+
+
+TENS
+Transcutaneous electrical nerve stimulation
+
+
+THA
+Total hip arthroplasty
+
+
+Tid
+Three times a day
+
+
+TKA
+Total knee arthroplasty
+
+
+TKE
+Terminal knee extension
+
+
+TMJ
+Temporomandibular joint
+
+
+Northeastern University
+Access Provided by:
+
+
+TPR
+Temperature, pulse, and respiration
+
+
+TTWB
+Toe touch weight bearing
+
+
+Tx
+Traction
+
+
+UE
+Upper extremity
+
+
+US
+Ultrasound
+
+
+UTI
+Urinary tract infection
+
+
+VC
+Vital capacity
+
+
+v.o. (VO)
+Verbal order
+
+
+WB
+Weight bearing
+
+
+WBAT
+Weight bearing as tolerated
+
+
+WFL
+Within functional limits
+
+
+WNL
+Within normal limits
+
+
+y/o
+Year(s) old
+
+
+
+Patient Adherence and Compliance
+The clinician needs to be aware that people may have very different preferences for how, when, where, and how often to learn (see Chapter 7). Patient adherence and compliance are vitally important in the healing process. Whereas compliance can be defined as engaging in behavior as instructed or prescribed,152 adherence can be defined as choosing to engage in behaviors. The latter term has gained more acceptance because it indicates a more proactive approach from the patient. Both compliance and adherence are related to motivation. Motivation, a psychological feature that drives an organism toward a desired goal, is considered vital to maintaining behavior. Motivation has been classified as either intrinsic (internal) or extrinsic (external). A number of motivational theories have been proposed (Table 5 16).
+TABLE 5 16
+Motivational Theories
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Downloaded 2024 3 16 1:34 P Your IP is 155.33.135.27 CHAPTER 5: Patient/Client Management,
+ 2024 McGraw Hill. All Rights Reserved. Terms of Use   Privacy Policy   Notice   Accessibility
+
+
+Page 52 / 66
+
+
+
+
+Theory 
+Proponents 
+Description
+Social cognitive
+Bandura1
+Individuals act as contributors to their own motivation, behavior, and development. Behavior and characteristics are modified by environment.
+Primary mediators include self efficacy and the ability to self regulate. Mastery is the best way to create a strong sense of efficacy.
+Self  determination (SDT)
+Lepper, Greene, and Nisbett2
+Choices made are based on experiences, thoughts, contemplations, and interactions with others. Essential psychological needs include competence, relatedness, and autonomy.
+Composed of five mini theories3:
+Cognitive Evaluation Theory (CET): intrinsic motivation is a lifelong creative wellspring. CET highlights the critical roles played by competence and autonomy in fostering intrinsic motivation.
+Organismic Integration Theory (OIT): extrinsic motivation is behavior that aims toward outcomes extrinsic to the behavior itself. Highlights supports for autonomy and relatedness as critical to internalization.
+Causality Orientations Theory (COT): describes individual differences in people's tendencies to orient toward environments and regulate behavior in various ways based on rewards, gains, and approval.
+Basic Psychological Needs Theory (BPNT): psychological well being and optimal functioning are predicated on meeting the needs of autonomy, competence, and relatedness.
+Goal Contents Theory (GCT): Goals are seen as differentially affording basic need satisfactions and are thus differentially associated with well being.
+Health belief model
+Ajzen4 and Fishbein5
+An individual's attitude, social norms, and perceived control are accurate predictors of behavioral intentions. Involves the theory of reasoned action (TRA) and the theory of planned behavior (TPB):
+TRA is most successful when applied to behavior under an individual's voluntary control.
+TPB theorizes that if an individual's perceived control, self efficacy, or self esteem are low, the perception and belief that he or she can influence behavior in a positive manner is undermined.
+Humanistic
+Maslow6
+Based on the concept that there is a hierarchy of biogenic and psychogenic needs that humans must progress through.
+Hypothesizes that the higher needs in this hierarchy only come into focus once all the needs that are lower down are mainly or entirely satisfied.
+Trans  theoretical model (TTM)
+Prochaska and DiClemente7
+Describes five stages of change:
+Precontemplation: defined by a lack of intention to take action
+Contemplation: defined by the individual thinking about engaging in a behavior or activity in the near future Preparation: defined by the individual intending to take action in the immediate future
+Action: defined by the individual actively engaging in the behavior or change
+Maintenance: defined by an individual who has engaged in a behavior or change for longer than six months
+
+
+1. Bandura A: Social foundations of thought and action: a social cognitive theory. Upper Saddle River, NJ, Prentice Hall, 1986.
+2. Lepper MK, Greene D, Nisbett R: Undermining children's intrinsic interest with extrinsic reward: A test of the "overjustification" hypothesis. J Personality Soc Psychol 28:129 137, 1973.
+3. University of Rochester: Self determination theory: approach to human motivation and personality. Available at http://www.psych.rochester.edu/SDT/theory.php.
+
+
+
+
+4. Ajzen I: From intentions to actions: a theory of planned behavior in Kuhl J, Beckmann J (eds): Action Control: From Cognition to Behavior. Heidelberg, Springer, 1985, pp 11 39.
+5. Ajzen I, Fishbein M: Understanding Attitudes and Predicting Social Behavior. Englewood Cliffs, NJ, Prentice Hall, 1980.
+6. Maslow A: The Farther Reaches of Human Nature. New York, Viking Press, 1971.
+7. Prochaska JO, DiClemente CC: Stages and processes of self change of smoking: toward an integrative model of change. J Consult Clin Psychol 51:390 395, 1983.
+Anecdotally, unmotivated patients may progress more slowly. Much literature has conceptualized or reported poor motivation in rehabilitation as secondary to patient related factors, including depression, apathy, cognitive impairment, low self efficacy (e.g., low confidence in one's ability to successfully rehabilitate), fatigue, and personality factors.153 Various studies have found that average compliance with medication regimens only occurs in 50% to 60% of patients, and compliance with physical therapy programs is approximately 40%.154 Other reports have found that compliance was decreased if the physical therapist did not provide patients with positive feedback.155
+Several factors can impact the level of compliance:
+ The patient's age older individuals tend to adhere to exercise programs more than younger individuals156
+ The patient's marital status singles tend to have lower rates of adherence to physical activity/exercise than married couples.157
+ The patient's education individuals with high levels of education show more compliance to exercise programs than those who are uneducated.157
+ The patient's gender males report greater levels of total and vigorous activity than females.157  The patient's biomedical status poorer health tends to lead to decreased adherence.158
+ The patient's socioeconomic status an individual's income bracket tends to influence the ability to access medical care, as well as exercise
+equipment and venues.159, 160 and 161
+ The patient's ethnicity Caucasians appear to participate in more physical activities than other racial or ethnic groups, regardless of age.157 Finally, a number of factors have been outlined to improve compliance162, 163, and 164:
+ Involving the patient in the intervention planning and goal setting
+ Realistic goal setting for both short  and long term goals  Promoting high expectations regarding final outcome
+Promoting perceived benefits Projecting a positive attitude
+Providing clear instructions and demonstrations with appropriate feedback Keeping the exercises pain free or with a low level of pain
+Encouraging patient problem solving
+OUTCOMES
+The purpose of the physical therapy intervention is to safely return a patient to their preinjury state, with as little risk of reinjury as possible and with the minimum amount of patient inconvenience. Throughout an episode of care and at the time of discharge, the physical therapist measures the
+
+
+
+impact of the physical therapy interventions to determine whether the patient has attained the desired level of function based on the initial stated goals and the intervention plan through the use of evidenced based measurement tools. The most commonly used outcomes tools have been tested for reliability and validity and help provide an accurate assessment of the effectiveness of the physical therapy interventions.148
+HEALTH PROMOTION, WELLNESS, AND PHYSICAL FITNESS
+In 1996, the Surgeon General's report on physical activity and health highlighted the importance of engaging in an active lifestyle to prevent the insidious onset of chronic disease and illness.165 Healthy People 2010 established goals for promoting a healthy lifestyle for individuals in the United States.166
+The World Health Organization (WHO) has defined health promotion as "the process of enabling people to increase control over their health and its determinants, and thereby improve their health."*
+The National Wellness Institute has delineated six components of wellness :
+ Social. This includes contributing to one's environment and community, and emphasizing the interdependence between others and nature.
+ Occupational. This includes satisfaction and enriching life through work.
+ Spiritual. This includes appreciation of the depth and expanse of life, and having meaning in one's life.
+ Physical. This includes awareness of the need for regular physical activity, good diet and nutrition, and avoiding habits that are harmful to wellness.
+ Intellectual. This includes being able to problem solve, expand knowledge and skills, and be open to new ideas.
+ Emotional. This includes awareness and acceptance of one's feelings, and thinking of oneself positively.
+Physical therapists serve as major providers of health promotion, wellness, and fitness by making patients and clients more aware of lifestyle changes, particularly in the areas of physical activity, lifelong health promotion, and creating an environment that supports health practices leading to a healthy lifestyle.167 Evidence exists that when healthcare professionals counsel patients about risk reduction, those patients are more likely to change poor health habits, thus enhancing a healthier lifestyle. 
+The effects of physical activity and exercise on various physiologic and psychological parameters across the life span through the use of exercise prescriptions support their role in preventing disease and improving function and health. This is particularly relevant in promoting mobility and independence of the elderly, the older old, and the frail elderly.167
+*Available at http://w3.whosea.org/EN/Section1174/Section1458/Section2057.htm, accessed September 2005.
+ Available at www.nationalwellness.org/index.php?id=166&id_tier=81, accessed September 2005.
+ Available at www.healthwellness.org/archive/research/study5.htm, accessed November 2004.
+REFERENCES
+
+1. National Council of State Boards of Nursing: Changes in Healthcare Professions' Scope of Practice: Legislative Considerations. Chicago, IL, National Council of State Boards of Nursing, 2009.
+
+2. Guide to Physical Therapist Practice. Second Edition. American Physical Therapy Association. Phys Ther 81:9 746, 2001.
+
+3. Verbrugge LM, Jette AM: The disablement process. Soc Sci Med 38:1 14, 1994.
+
+
+
+
+4. Jette AM: Physical disablement concepts for physical therapy research and practice. Phys Ther 74:375 382, 1994. [PubMed: 8171098] 
+
+5. Lawrence R, Jette A: Disentangling the disablement process. J Gerontol B Psychol Sci Soc Sci 51B:S173 S182, 1996. CrossRef
+
+6. Nagi S: Disability concepts revisited: implications for prevention, in Pope A, Tartov A (eds): Disability in America: Toward a National Agenda for Prevention. Washington, DC, National Academy Press, 1991, pp 309 327.
+
+7. Pope A, Tartov A: Disability in America: Toward a National Agenda for Prevention. Washington DC, National Academy Press, 1991.
+
+8. Salen BO, Spangfort EV, Nygren AL et al.: The disability rating index: an instrument for the assessment of disability in clinical settings. J Clin Epidemiol 47:1423 1434, 1994.
+CrossRef [PubMed: 7730851] 
+
+9. Simeonsson RJ, Leskinen M: Disability, secondary conditions and quality of life: conceptual issues, in Simeonsson RJ, McDevitt LN (eds): Issues in Disability and Health: The Role of Secondary Conditions and Quality of Life. Chapel Hill, University of North Carolina Press, 1999, pp 51 72.
+
+10. Guide to physical therapist practice: revisions. American Physical Therapy Association. Phys Ther 79, 2001.
+
+11. Brandt EN Jr, Pope AM: Enabling America: Assessing the role of rehabilitation science and engineering. Washington, DC: Institute of Medicine, National Academies Press, 1997.
+
+12. Palisano RJ, Campbell SK, Harris SR: Evidence based decision making in pediatric physical therapy, in Campbell SK, Vander Linden DW, Palisano RJ (eds): Physical Therapy for Children. St Louis, Saunders, 2006, pp 3 32.
+
+13. Nagi S: Some conceptual issues in disability and rehabilitation, in Sussman M (ed): Sociology and Rehabilitation. Washington DC, American Sociological Association, 1965, pp 100 113.
+
+14. Guide to Physical Therapist Practice. Second Edition. American Physical Therapy Association. Phys Ther 81:1 746, 2001.
+
+15. Goodman CC, Boissonnault WG: Pathology: Implications for the physical therapist. Philadelphia, WB Saunders, 1998.
+
+16. Guide to physical therapist practice: Phys Ther 81:S13 S95, 2001.
+
+17. American Medical Association: Guides to the Evaluation of Permanent Impairment (ed 5). Chicago, American Medical Association, 2001.
+
+18. Randall KE, McEwen IR: Writing patient centered goals. Phys Ther 80:1197 1203, 2000. [PubMed: 11087306] 
+
+19. O'Neill DL, Harris SR: Developing goals and objectives for handicapped children. Phys Ther 62:295 298, 1982. [PubMed: 6461015] 
+
+20. Badley EM, Wagstaff S, Wood PHN: Measures of functional ability (disability) in arthritis in relation to impairment of range of joint movement. Ann Rheum Dis 43:563 569, 1984.
+CrossRef [PubMed: 6236760] 
+
+21. Dijkers MPJM, Whiteneck G, El Jaroudi R: Measures of social outcomes in disability. Arch Phys Med Rehabil 81(suppl 2):S63 S80, 2000. CrossRef [PubMed: 11128906] 
+
+
+
+
+22. McFarlane AC, Brooks PM: The assessment of disability and handicap in musculoskeletal disease. J Rheumatol 24:985 989, 1997. [PubMed: 9150096] 
+
+23. Verbrugge LM: Disability. Rheum Dis Clin North Am 16:741 761, 1990. [PubMed: 2145615] 
+
+24. Americans with Disabilities Act of 1989: 104 Stat 327.101 336, 42 USC 12101 s2 (a) (8), 1989.
+
+25. Waddell G, Waddell H: A review of social influences on neck and back pain disability, in Nachemson AL, Jonsson E (eds): Neck and Back Pain: The Scientific Evidence of Causes, Diagnosis, and Treatment. Philadelphia, Lippincott Williams & Wilkins, 2000, pp 13 55.
+
+26. Olkin R: Could you hold the door for me? Including disability in diversity. Cultur Divers Ethnic Minor Psychol 8:130 137, 2002. CrossRef [PubMed: 11987590] 
+
+27. Helmrich SP, Ragland DR, Leung RW et al.: Physical activity and reduced occurrence of non insulin dependent diabetes mellitus. N Engl J Med 325:147 152, 1991.
+CrossRef [PubMed: 2052059] 
+
+28. Manson JE, Rimm EB, Stampfer MJ et al.: Physical activity and incidence of non insulin dependent diabetes mellitus in women. Lancet 338:774  778, 1991.
+CrossRef [PubMed: 1681160] 
+
+29. Yassin AS, Beckles GL, Messonnier ML: Disability and its economic impact among adults with diabetes. J Occupat Environ Med 44:136 142, 2002. CrossRef
+
+30. Pinsky JL, Branch LG, Jette AM et al.: Framingham Disability Study: Relationship of disability to cardiovascular risk factors among persons free of diagnosed cardiovascular disease. Am J Epidemiol 122:644 656, 1985. [PubMed: 3161323] 
+
+31. Ettinger WH Jr, Fried LP, Harris T et al.: Self reported causes of physical disability in older people: The cardiovascular health study. J Am Geriatr Soc 42:1035 1044, 1994.
+CrossRef [PubMed: 7930326] 
+
+32. Lund JP, Donga R, Widmer CG et al.: The pain adaptation model: A discussion of the relationship between chronic musculoskeletal pain and motor activity. Can J Physiol Pharmacol 69:683 694, 1991.
+CrossRef [PubMed: 1863921] 
+
+33. Raine S, Twomey LT: Attributes and qualities of human posture and their relationship to dysfunction or musculoskeletal pain. Crit Rev Phys Rehabil Med 6:409 437, 1994.
+
+34. West CG, Gildengorin G, Haegerstrom Portnoy G et al.: Is vision function related to physical functional ability in older adults? J Am Geriatr Soc 50:136 145, 2002.
+CrossRef [PubMed: 12028258] 
+
+35. Voight ML, Cook G: Impaired neuromuscular control: reactive neuromuscular training, in Prentice WE, Voight ML (eds): Techniques in Musculoskeletal Rehabilitation. New York, McGraw Hill, 2001, pp 93 124.
+
+36. Escalante A, del Rincon I: How much disability in rheumatoid arthritis is explained by rheumatoid arthritis? Arthritis Rheum 42:1712 1721, 1999. CrossRef [PubMed: 10446872] 
+
+
+
+
+37. Krause JS, Bell RB: Measuring quality of life and secondary conditions: Experiences with spinal cord injury, in Simeonsson RJ, McDevitt LN (eds): Issues in Disability and Health: The Role of Secondary Conditions and Quality of Life. Chapel Hill, University of North Carolina Press, 1999, pp 129 143.
+
+38. Buchner DM, Beresford SAA, Larson E et al.: Effects of physical activity on health status in older adults. II: Intervention studies. Annu Rev Public Health 13:469 488, 1992.
+CrossRef [PubMed: 1599599] 
+
+39. Caspersen CJ, Powell KE, Christenson GM: Physical activity, exercise and physical fitness. Public Health Rep 100:125 131, 1985.
+
+40. Gregg EW, Pereira MA, Caspersen CJ: Physical activity, falls, and fractures among older adults: a review of the epidemiologic evidence. J Am Geriatr Soc 48:883 893, 2000.
+CrossRef [PubMed: 10968291] 
+
+41. Lee I, Paffenbarger RS, Hsieh C: Physical activity and risk of developing colorectal cancer among college alumni. J Natl Cancer Inst 83:1324 1329, 1991.
+CrossRef [PubMed: 1886158] 
+
+42. Leon AS, Connett J, Jacobs DR Jr et al.: Leisure time physical activity levels and risk of coronary heart disease and death: the Multiple Risk Factor Intervention trial. JAMA 258:2388 2395, 1987.
+CrossRef [PubMed: 3669210] 
+
+43. Paffenbarger RS, Wing AL, Hyde RT et al.: Physical activity and incidence of hypertension in college alumni. Am J Epidemiol 117:245 257, 1983. [PubMed: 6829553] 
+
+44. Paffenbarger RS, Hyde RT, Wing AL et al.: Physical activity, all cause mortality, and longevity of college alumni. N Engl J Med 314:605 613, 1986. CrossRef [PubMed: 3945246] 
+
+45. Powell KE, Thompson PD, Caspersen CJ et al.: Physical activity and the incidence of coronary heart disease. Annu Rev Public Health 8:253 287, 1987.
+CrossRef [PubMed: 3555525] 
+
+46. Fried LP, Guralnik JM: Disability in older adults: Evidence regarding significance, etiology, and risk. J Am Geriatr Soc 45:92 100, 1997. CrossRef [PubMed: 8994496] 
+
+47. Steultjens MP, Dekker J, Bijlsma JW: Avoidance of activity and disability in patients with osteoarthritis of the knee: the mediating role of muscle strength. Arthritis Rheum 46:1784 1788, 2002.
+CrossRef [PubMed: 12124862] 
+
+48. Elton D, Stanley G: Cultural expectations and psychological factors in prolonged disability. Adv Behav Med 2:33 42, 1982.
+
+49. Zborowski M: Cultural components in responses to pain. J Soc Issues 8:16 30, 1952. CrossRef
+
+50. Nordin M, Hiebert R, Pietrek M et al.: Association of comorbidity and outcome in episodes of nonspecific low back pain in occupational populations. J Occupat Environ Med 44:677 684, 2002.
+CrossRef
+
+51. Callahan LF, Pincus T: Formal education level as a significant marker of clinical status in rheumatoid arthritis. Arthritis Rheum 31:1346 1357, 1988.
+
+
+
+
+52. Nordin M: Education and return to work, in Gunzburg R, Szpalski M (eds): Whiplash Injuries: Current Concepts in Prevention, Diagnosis and Treatment of the Cervical Whiplash Syndrome. Philadelphia, Lippincott Raven, 1998, pp 199 210.
+
+53. Cavalieri F, Salaffi F, Ferraccioli GF: Relationship between physical impairment, psychological variables and pain in rheumatoid disability: an analysis of their relative impact. Clin Exp Rheumatol 9:47 50, 1991. [PubMed: 2054967] 
+
+54. Encandela J: Social science and the study of pain since Zborowski: a need for a new agenda. Soc Sci Med 36:783 791, 1993. CrossRef [PubMed: 8480223] 
+
+55. Edwards RR, Doleys DM, Fillingim RB et al.: Ethnic differences in pain tolerance: clinical implications in a chronic pain population. Psychosomatic Medicine 63:316 323, 2001.
+CrossRef [PubMed: 11292281] 
+
+56. Lautenbacher S, Rollman GB: Sex differences in responsiveness to painful and non painful stimuli are dependent upon the stimulation method. Pain 53:255 264, 1993.
+CrossRef [PubMed: 8351155] 
+
+57. Walker JS, Carmody JJ: Experimental pain in healthy human subjects: gender differences in nociception and in response to ibuprofen. Anesth Analg 86:1257 1262, 1998. [PubMed: 9620515] 
+
+58. Ellermeier W, Westphal W: Gender differences in pain ratings and pupil reactions to painful pressure stimuli. Pain 61:435 439, 1995. CrossRef [PubMed: 7478686] 
+
+59. Aro S, Leino P: Overweight and musculoskeletal morbidity: A ten year follow up. Int J Obesity 9:267 275, 1985.
+
+60. Deyo RA, Bass JE: Lifestyle and low back pain. The influence of smoking and obesity. Spine 14:501 506, 1989. CrossRef [PubMed: 2524888] 
+
+61. Lilienfeld DE, Vlahov D, Tenney JH et al.: Obesity and diabetes as risk factors for postoperative wound infections after cardiac surgery. Am J Infect Control 16:3 6, 1988.
+CrossRef [PubMed: 3369746] 
+
+62. National Center for Health Statistics: Prevalence of overweight and obesity among adults: United States. Hyattsville, Md, 2000.
+
+63. Groves JE: Taking care of the hateful patient. N Engl J Med 298:883 887, 1978. CrossRef [PubMed: 634331] 
+
+64. Judge RD, Zuidema GD, Fitzgerald FT: Introduction, in Judge RD, Zuidema GD, Fitzgerald FT (eds): Clinical Diagnosis (ed 4). Boston, Little, Brown and Company, 1982, pp 3 8.
+
+65. Cipriani DJ, Noftz II JB: The utility of orthopedic clinical tests for diagnosis, in Magee D, Zachazewski JE, Quillen WS (eds): Scientific Foundations and Principles of Practice in Musculoskeletal Rehabilitation. St Louis, Mo, WB Saunders, 2007, pp 557 567.
+
+66. Sullivan PE, Puniello MS, Pardasaney PK: Rehabilitation program development: clinical decision making, prioritization, and program integration, in Magee D, Zachazewski JE, Quillen WS (eds): Scientific Foundations and Principles of Practice in Musculoskeletal Rehabilitation. St Louis, Mo, WB
+ Saunders, 2007, pp 314 327.	
+
+
+
+
+67. Tait RC, Chibnall JT, Krause S: The Pain Disability Index: psychometric properties. Pain 40:171 182, 1990. CrossRef [PubMed: 2308763] 
+
+68. Tait RC, Pollard CA, Margolis RB et al.: The Pain Disability Index: psychometric and validity data. Arch Phys Med Rehab 68:438 441, 1987.
+
+69. Pollard CA: Preliminary validity study of Pain Disability Index. Percep Motor Skills 59:974, 1984. CrossRef
+
+70. Burkhardt CS: The use of the McGill Pain Questionnaire in assessing arthritis pain. Pain 19:305, 1984. CrossRef [PubMed: 6472875] 
+
+71. Melzack R: The McGill Pain Questionnaire: Major properties and scoring methods. Pain 1:277, 1975. CrossRef [PubMed: 1235985] 
+
+72. Pearce J, Morley S: An experimental investigation of the construct validity of the McGill Pain Questionnaire. Pain 115:115, 1989. CrossRef
+
+73. Fisher C, Dvorak M: Orthopaedic research: What an orthopaedic surgeon needs to know, Orthopaedic Knowledge Update: Home Study Syllabus. Rosemont, Ill, American Academy of Orthopaedic Surgeons, 2005, pp 3 13.
+
+74. Delitto A: Subjective measures and clinical decision making. Phys Ther 69:580, 1989. [PubMed: 2740447] 
+
+75. Denegar CR, Donley PB: Impairment due to pain: Managing pain during the rehabilitation process, in Voight ML, Hoogenboom BJ, Prentice WE (eds): Musculoskeletal Interventions: Techniques for Therapeutic Exercise. New York, McGraw Hill, 2007, pp 99 110.
+
+76. Dray A: Inflammatory mediators of pain. Br J Anaesth 75:125 31, 1995. CrossRef [PubMed: 7577246] 
+
+77. Wiener SL: Differential Diagnosis of Acute Pain by Body Region. New York, McGraw Hill, 1993, pp 1 4.
+
+78. Adams RD, Victor M: Principles of Neurology (ed 5). New York, McGraw Hill, Health Professions Division, 1993.
+
+79. Chusid JG: Correlative Neuroanatomy & Functional Neurology (ed 19). Norwalk, Conn, Appleton Century Crofts, 1985, pp 144 148.
+
+80. Judge RD, Zuidema GD, Fitzgerald FT: Musculoskeletal system, in Judge RD, Zuidema GD, Fitzgerald FT (eds): Clinical Diagnosis (ed 4). Boston, Little, Brown and Company, 1982, pp 365 403.
+
+81. Bonica JJ: Neurophysiological and pathological aspects of acute and chronic pain. Arch Surg 112:750 761, 1977. CrossRef [PubMed: 16580] 
+
+82. Chaturvedi SK: Prevalence of chronic pain in psychiatric patients. Pain 29:231 237, 1987. CrossRef [PubMed: 3614960] 
+
+83. Dunn D: Chronic regional pain syndrome, Type 1: Part I. AORN J 72:421 424, 426, 428 432, 435, 437 442, 444 449, 452 458, 2000. CrossRef
+
+84. Bogduk N: The anatomy and physiology of nociception, in Crosbie J, McConnell J (eds): Key Issues in Physiotherapy. Oxford, Butterworth  Heinemann, 1993, pp 48 87.
+
+
+
+85. Wright A, Zusman M: Neurophysiology of pain and pain modulation, in Boyling JD, Jull GA (eds): Grieve's Modern Manual Therapy: The Vertebral Column. Philadelphia, Churchill Livingstone, 2004, pp 155 171.
+
+86. Sterling M, Jull G, Wright A: The effect of musculoskeletal pain on motor activity and control. J Pain 2:135 145, 2001. CrossRef [PubMed: 14622823] 
+
+87. Hides JA, Richardson CA, Jull GA: Multifidus muscle recovery is not automatic after resolution of acute, first episode low back pain. Spine 21:2763 2769, 1996.
+CrossRef [PubMed: 8979323] 
+
+88. Hodges P, Richardson C: Inefficient muscular stabilisation of the lumbar spine associated with low back pain: A motor control evaluation of transversus abdominis. Spine 21:2540 2650, 1996.
+CrossRef
+
+89. Voight M, Weider D: Comparative reflex response times of the vastus medialis and the vastus lateralis in normal subjects and subjects with extensor mechanism dysfunction. Am J Sports Med 10:131 137, 1991.
+CrossRef
+
+90. Dubner R, Ren K: Endogenous mechanisms of sensory modulation. Pain Suppl 6:S45 S53, 1999.
+
+91. Grieve GP: The masqueraders, in Boyling JD, Palastanga N (eds): Grieve's Modern Manual Therapy (ed 2). Edinburgh, Churchill Livingstone, 1994, pp 841 856.
+
+92. Maitland G: Vertebral Manipulation. Sydney, Butterworth, 1986.
+
+93. Goodman CC, Snyder TEK: Differential Diagnosis in Physical Therapy. Philadelphia, WB Saunders, 1990.
+
+94. Maitland G: Peripheral Manipulation (ed 3). London, Butterworth, 1991.
+
+95. McKenzie R, May S: History, in McKenzie R, May S (eds): The Human Extremities: Mechanical Diagnosis and Therapy. Waikanae, New Zealand, Spinal Publications New Zealand Ltd, 2000, pp 89 103.
+
+96. Konietzny F, Perl ER, Trevino D et al.: Sensory experiences in man evoked by intraneural electrical stimulation of intact cutaneous afferent fibers. Exp Brain Res 42:219 222, 1981.
+CrossRef [PubMed: 7262216] 
+
+97. Ochoa J, Torebj rk E: Sensations evoked by intraneural microstimulation of C nociceptor fibres in human skin nerves. J Physiol 415:583 599, 1989.
+CrossRef [PubMed: 2640470] 
+
+98. Huskisson EC: Measurement of pain. Lancet 2:127, 1974.
+
+99. Halle JS: Neuromusculoskeletal scan examination with selected related topics, in Flynn TW (ed): The Thoracic Spine and Rib Cage: Musculoskeletal Evaluation and Treatment. Boston, Butterworth Heinemann, 1996, pp 121 146.
+
+100. Goodman CC, Snyder TK: Introduction to the interviewing process, in Goodman CC, Snyder TK (eds): Differential Diagnosis in Physical Therapy. Philadelphia, Saunders, 1990, pp 7 42.
+
+101. Bailey MK: Physical examination procedures to screen for serious disorders of the low back and lower quarter, in Wilmarth MA (ed): Medical
+
+Screening for the Physical Therapist. Orthopaedic Section Independent Study Course 14.1.1 La Crosse, Wisc, Orthopaedic Section, APTA, Inc, 2003, pp 1 35.
+
+102. Morris C, Chaitow L, Janda V: Functional examination for low back syndromes, in Morris C (ed): Low back syndromes: Integrated clinical management. New York, McGraw Hill, 2006, pp 333 416.
+
+103. Jull GA, Janda V: Muscle and motor control in low back pain, in Twomey LT, Taylor JR (eds): Physical Therapy of the Low Back: Clinics in Physical Therapy. New York, Churchill Livingstone, 1987, pp 258 278.
+
+104. Janda V: Muscles and motor control in cervicogenic disorders: assessment and management, in Grant R (ed): Physical Therapy of the Cervical and Thoracic Spine. New York, Churchill Livingstone, 1994, pp 195 216.
+
+105. Tardieu C, Tabary JC, Tardieu G et al.: Adaptation of sarcomere numbers to the length imposed on muscle, in Guba F, Marechal G, Takacs O (eds): Mechanism of Muscle Adaptation to Functional Requirements. Elmsford, NY, Pergamon Press, 1981, pp 99 114.
+
+106. Sahrmann SA: Diagnosis and Treatment of Movement Impairment Syndromes. St Louis, Mo, Mosby, 2001.
+
+107. Seidel Cobb D, Cantu R: Myofascial Treatment, in Donatelli RA (ed): Physical Therapy of the Shoulder (ed 3). New York, Churchill Livingstone, 1997, pp 383 401.
+
+108. Janda V: Muscle strength in relation to muscle length, pain and muscle imbalance, in Harms Ringdahl K (ed): Muscle Strength. New York, Churchill Livingstone, 1993, pp 83 91.
+
+109. Janda V: Muscle Function Testing. London, Butterworths, 1983.
+
+110. Lewit K: Manipulative Therapy in Rehabilitation of the Motor System (ed 3). London, Butterworths, 1999.
+
+111. Lewit K, Simons DG: Myofascial pain: relief by post isometric relaxation. Arch Phys Med Rehabil 65:452 456, 1984. [PubMed: 6466075]
+
+
+112. Ayub E: Posture and the Upper Quarter, in Donatelli RA (ed): Physical Therapy of the Shoulder (ed 2). New York, Churchill Livingstone, 1991, pp 81 90.
+
+113. Putz Anderson V: Cumulative Trauma Disorders: A Manual for Musculoskeletal Diseases of the Upper Limbs. Bristol, PA, Taylor & Francis, 1988.
+
+114. Johansson R, Magnusson M: Human postural dynamics. Crit Rev Biomed Eng 18:413 437, 1991. [PubMed: 1855384] 
+
+115. Johansson R, Magnusson M: Determination of characteristic parameters of human postural dynamics. Acta Otolaryngol Suppl 468:221 225, 1989. CrossRef [PubMed: 2635507] 
+
+116. Keller K, Corbett J, Nichols D: Repetitive strain injury in computer keyboard users: pathomechanics and treatment principles in individual and group intervention. J Hand Ther 11:9 26, 1998.
+CrossRef [PubMed: 9493794] 
+
+117. Gerwin RD, Shannon S, Hong C et al.: Interrater reliability in myofascial trigger point examination. Pain 17:591 595, 1997.
+
+118. Njoo KH, Van der Does E: The occurrence and inter rater reliability of myofascial trigger points in the quadratus lumborum and gluteus medius: A prospective study in non specific low back patients and controls in general practice. Pain 58:317 321, 1994.
+CrossRef [PubMed: 7838580] 
+
+
+
+
+119. Farrell JP: Cervical passive mobilization techniques: The Australian approach. Phys Med Rehabil 4:309 334, 1990.
+
+120. Dyson M, Pond JB, Joseph J et al.: The stimulation of tissue regeneration by means of ultrasound. Clin Sci 35:273 285, 1968. [PubMed: 5721232]
+
+
+121. Dyson M, Suckling J: Stimulation of tissue repair by ultrasound: a survey of the mechanisms involved. Physiotherapy 64:105 108, 1978. [PubMed: 349580] 
+
+122. Ramsey SM: Holistic manual therapy techniques. Prim Care 24:759 785, 1997. CrossRef [PubMed: 9386255] 
+
+123. Hsieh CY, Hong CZ, Adams AH et al.: Interexaminer reliability of the palpation of trigger points in the trunk and lower limb muscles. Arch Phys Med Rehabil 81:258 264, 2000.
+CrossRef [PubMed: 10724067] 
+
+124. Dvorak J, Dvorak V: General Principles of Palpation, in Gilliar WG, Greenman PE (eds): Manual Medicine: Diagnostics (ed 2). New York, Thieme Medical, 1990, pp 71 75.
+
+125. O'Sullivan SB: Clinical decision making, in O'Sullivan SB, Schmitz TJ (eds): Physical Rehabilitation (ed 5). Philadelphia, FA Davis, 2007, pp 3 24.
+
+126. Grieve GP: Common Vertebral Joint Problems. New York, Churchill Livingstone, 1981.
+
+127. Fritz JM, Wainner RS: Examining diagnostic tests: an evidence based perspective. Phys Ther 81:1546 1564, 2001. [PubMed: 11688591]
+
+
+128. Shumway Cook A, Woollacott MH: A conceptual framework for clinical practice, in Shumway Cook A, Woollacott MH (eds): Motor Control  Translating Research into Clinical Practice. Philadelphia, Lippincott Williams & Wilkins, 2007, pp 137 153.
+
+129. Hoogenboom BJ, Voight ML: Clinical reasoning: An algorithm based approach to musculoskeletal rehabilitation, in Voight ML, Hoogenboom BJ, Prentice WE (eds): Musculoskeletal Interventions: Techniques for Therapeutic Exercise. New York, McGraw Hill, 2007, pp 81 95.
+
+130. Rothstein JM, Echternach JL: Hypothesis oriented algorithm for clinicians. A method for evaluation and treatment planning. Phys Ther 66:1388  1394, 1986. [PubMed: 3749271] 
+
+131. American Physical Therapy Association House of Delegates: Vision 2020, HOD 06 00 24 35. Alexandria, VA, American Physical Therapy Association, 2000.
+
+132. DuVall RE, Godges J: Introduction to physical therapy differential diagnosis: The clinical utility of subjective examination, in Wilmarth MA (ed): Medical Screening for the Physical Therapist. Orthopaedic Section Independent Study Course 14.1.1 La Crosse, Wisc, Orthopaedic Section, APTA, Inc, 2003, pp 1 44.
+
+133. Overman SS, Larson JW, Dickstein DA et al.: Physical therapy care for low back pain. Monitored program of first contact nonphysician care. Phys Ther 68:199 207, 1988. [PubMed: 2963349] 
+
+134. Weale AE, Bannister GC: Who should see orthopaedic outpatients physiotherapists or surgeons? Ann R Coll Surg Engl 77:71 73, 1995. [PubMed: 7574300] 
+
+135. Mitchell JM, de Lissovoy G: A comparison of resource use and cost in direct access versus physician referral episodes of physical therapy. Phys
+ Ther 77:10 18, 1997. [PubMed: 8996459]	
+
+
+
+
+136. Childs JD, Whitman JM, Sizer PS et al.: A description of physical therapists' knowledge in managing musculoskeletal conditions. BMC Musculoskelet Disord 6:32, 2005.
+CrossRef [PubMed: 15963232] 
+
+137. Fritz J, Flynn TW: Autonomy in physical therapy: less is more. J Orthop Sports Phys Ther 35:696 698, 2005. CrossRef [PubMed: 16355911] 
+
+138. Stith JS, Sahrmann SA, Dixon KK et al.: Curriculum to prepare diagnosticians in physical therapy. J Phys Ther Educ 9:50, 1995.
+
+139. Stetts DM: Patient Examination, in Wadsworth C (ed): Current Concepts of Orthopaedic Physical Therapy Home Study Course 11.2.2. La Crosse, Wisc, Orthopaedic Section, APTA, 2001.
+
+140. Magee DJ: Head and Face, in Magee DJ (ed): Orthopedic Physical Assessment (ed 4). Philadelphia, WB Saunders, 2002, pp 67 120.
+
+141. Kostuik JP, Harrington I, Alexander D et al.: Cauda equina syndrome and lumbar disc herniation. J Bone Joint Surg 68A:386 391, 1986.
+
+142. O'Laoire SA, Crockard HA, Thomas DG: Prognosis for sphincter recovery after operation for cauda equina compression owing to lumbar disc prolapse. BMJ 282:1852 1854, 1981.
+CrossRef [PubMed: 6786651] 
+
+143. Boissonnault W, Goodman C: Physical therapists as diagnosticians: Drawing the line on diagnosing pathology. J Orthop Sports Phys Ther 36:351  353, 2006.
+CrossRef [PubMed: 16776484] 
+
+144. Boissonnault WG, Bass C: Medical screening examination: not optional for physical therapists. J Orthop Sports Phys Ther 14:241 242, 1991. CrossRef [PubMed: 18796806] 
+
+145. LoPiccolo CJ, Goodkin K, Baldewicz TT: Current issues in the diagnosis and management of malingering. Ann Med 31:166 174, 1999. CrossRef [PubMed: 10442671] 
+
+146. American Psychiatric Association: Diagnostic and Statistical Manual of Mental Disorders (ed 4). Washington, DC, American Psychiatric Association, 1994.
+
+147. Schenkman M, Deutsch JE, Gill Body KM: An integrated framework for decision making in neurologic physical therapist practice. Phys Ther 86:1681 1702, 2006.
+CrossRef [PubMed: 17138846] 
+
+148. American Physical Therapy Association: Today's Physical Therapist: A Comprehensive Review of a 21st Century Health Care Profession. Alexandria, Va, American Physical Therapy Association, 2011.
+
+149. Hungerford DS, Lennox DW: Rehabilitation of the knee in disorders of the patellofemoral joint: Relevant biomechanics. Orthop Clin North Am 14:397 444, 1983. [PubMed: 6843975] 
+
+150. Jette DU, Grover L, Keck CP: A qualitative study of clinical decision making in recommending discharge placement from the acute care setting. Phys Ther 83:224 236, 2003. [PubMed: 12620087] 
+
+151. Kettenbach G: Background Information, in Kettenbach G (ed): Writing SOAP Notes with Patient/Client Management Formats (ed 3). Philadelphia,
+
+
+
+FA Davis, 2004, pp 1 5.
+
+152. Brawley LR, Culos Reed SN: Studying adherence to therapeutic regimens: overview, theories, recommendations. Control Clin Trials 21:156S  163S, 2000.
+CrossRef [PubMed: 11018570] 
+
+153. Lenze EJ, Munin MC, Quear T et al.: The Pittsburgh Rehabilitation Participation Scale: reliability and validity of a clinician rated measure of participation in acute rehabilitation. Arch Phys Med Rehabil 85:380 384, 2004.
+CrossRef [PubMed: 15031821] 
+
+154. Deyo RA: Compliance with therapeutic regimens in arthritis: Issues, current status, and a future agenda. Semin Arthritis Rheum 12:233 244, 1982. CrossRef [PubMed: 6101215] 
+
+155. Sluijs EM, Kok GJ, van der Zee J: Correlates of exercise compliance in physical therapy. Phys Ther 73:771 782; discussion 783 786, 1993. [PubMed: 8234458] 
+
+156. Lee JY, Jensen BE, Oberman A et al.: Adherence in the training levels comparison trial. Med Sci Sports Exerc 28:47 52, 1996. CrossRef [PubMed: 8775354] 
+
+157. Keele Smith R, Leon T: Evaluation of individually tailored interventions on exercise adherence. Western J Nurs Res 25:623 640; discussion 641  651, 2003.
+CrossRef
+
+158. Boyette LW, Lloyd A, Boyette JE et al.: Personal characteristics that influence exercise behavior of older adults. J Rehab Res Dev 39:95 103, 2002.
+
+159. Cohen B, Vittinghoff E, Whooley M: Association of socioeconomic status and exercise capacity in adults with coronary heart disease (from the Heart and Soul Study). Am J Cardiol 101:462 466, 2008.
+CrossRef [PubMed: 18312758] 
+
+160. Wister AV: The effects of socioeconomic status on exercise and smoking: age related differences. J Aging Health 8:467 488, 1996. CrossRef [PubMed: 10182382] 
+
+161. Clark DO: Age, socioeconomic status, and exercise self efficacy. Gerontologist 36:157 164, 1996. CrossRef [PubMed: 8920084] 
+
+162. Blanpied P: Why won't patients do their home exercise programs? J Orthop Sports Phys Ther 25:101 102, 1997. CrossRef [PubMed: 9072122] 
+
+163. Chen CY, Neufeld PS, Feely CA et al.: Factors influencing compliance with home exercise programs among patients with upper extremity impairment. Am J Occup Ther 53:171 180, 1999.
+CrossRef [PubMed: 10200840] 
+
+164. Friedrich M, Cermak T, Madebacher P: The effect of brochure use versus therapist teaching on patients performing therapeutic exercise and on changes in impairment status. Phys Ther 76:1082 1088, 1996. [PubMed: 8863761] 
+
+165. U.S. Department of Health and Human Services: Physical Activity and Health: A Report of the Surgeon General. Atlanta, National Center for Chronic Disease Prevention and Health Promotion, 1996.
+
+
+
+
+166. U.S. Department of Health and Human Services: Office of Disease Prevention and Health Promotion Healthy People 2010. NASNewsletter 15:3, 2000. [PubMed: 11987364] 
+
+167. Moffat M: Clinicians' roles in health promotion, wellness, and physical fitness, in Magee D, Zachazewski JE, Quillen WS (eds): Scientific Foundations and Principles of Practice in Musculoskeletal Rehabilitation. St Louis, Mo, WB Saunders, 2007, pp 328 356.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

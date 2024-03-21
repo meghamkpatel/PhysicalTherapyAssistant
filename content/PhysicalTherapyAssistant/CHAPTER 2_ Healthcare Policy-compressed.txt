@@ -1,0 +1,940 @@
+
+
+
+Introduction to Physical Therapy and Patient Skills?
+
+CHAPTER 2: Healthcare Policy
+
+
+
+CHAPTER OBJECTIVES
+At the completion of this chapter, the reader will be able to:
+1. Describe the various methods by which healthcare services are reimbursed
+2. List the challenges associated with obtaining appropriate access to healthcare within the United States
+3. Describe the various associations and organizations that regulate the quality of healthcare
+4. Define malpractice and provide examples of patient negligence
+5. Describe the impact of the Balanced Budget Act of 1997
+6. Have a good understanding of patient rights within healthcare
+7. Describe how the Health Insurance and Portability and Accountability Act (HIPAA) is designed to protect a patient's privacy
+8. Discuss the various legislation that protects a patient within the healthcare system
+9. Describe the importance of the Americans with Disabilities Act (ADA) and its impact on society
+10. List some of the considerations when assessing the home and work environments
+OVERVIEW
+There exists a paradox of excess and deprivation in the healthcare system of the United States, in which some individuals are deprived of adequate care because they cannot afford suitable insurance, while others receive an excess of care that is expensive and unnecessary. Healthcare in the United States encompasses a wide spectrum, ranging from the highest quality, most compassionate treatment of those with complex illnesses, to the turning away of the very ill because of an inability to pay; from well designed protocols for prevention of illness to inappropriate high risk surgical procedures performed on uninformed patients.1 For the physical therapist, embarking on a career in healthcare, an understanding of how healthcare works, including its strengths and inadequacies, is essential.
+REIMBURSING HEALTHCARE PROVIDERS
+Reimbursement to healthcare providers can occur in a number of ways, with each designed in an attempt to solve the problem of unaffordable care for certain groups while also trying to control healthcare costs.2
+Units of Payment
+The methods by which physicians and healthcare services have been reimbursed over the years have varied and range from the simplest to the most complex3:
+ Fee for service. Reimbursement based on a fee for service mechanism, in which the physician or hospital is paid a fee for each office visit, procedure, or supply provided.
+
+
+
+Payment by episode of illness. The entity is paid one sum for all services delivered during one episode of illness. A diagnosis related group (DRG) is a system of reimbursement designed to replace cost based reimbursement that is based on ICD (International Classification of Diseases) diagnoses, procedures, age, sex, discharge status, and the presence of complications or comorbidities. For example, the federal Medicare program for the elderly typically pays a hospital a flat fee per hospital case, with a different per case price for each DRG. Today, there are several different DRG systems that have been developed in the United States. They include:
+ Medicare DRG (CMS DRG & MS DRG)
+ Refined DRGs (R DRG)
+ All Patient DRGs (AP DRG)  Severity DRGs (S DRG)
+ All Patient Severity Adjusted DRGs (APS DRG)  All Patient Refined DRGs (APR DRG)
+ International Refined DRGs (IR DRG)
+Per diem payments. A hospital is paid for all services delivered to a patient during one day of inpatient care. The levels of these payments are set unilaterally by the state governments or by private insurers. The per diems that private insurers pay hospitals are negotiated annually between each hospital and each insurance carrier.
+Capitation payment. Capitation is one of several forms of prepaid medical care that differs from a fee for service arrangement. Capitation pays a hospital, physician, or group of physicians a set amount for each enrolled person assigned to them, per period of time, whether or not that person seeks care. In exchange for this fixed rate of reimbursement, physicians essentially become the enrolled patients' insurers, who resolve their patients' claims and assume the responsibility for their unknown future healthcare costs.
+Payment for all services delivered to all patients within a certain time frame. This includes a global budget payment of hospitals and salary payment for physicians. Facilities or systems that use a global budget have clear incentives to control costs and to operate efficiently. The major problem with this type of reimbursement is that providers who find themselves in danger of exceeding their budget may respond with "rationing by waiting," which in turn results in access problems for the patients.
+Out of pocket payments. This method is used by individuals who have no insurance, whether by choice or because of financial restrictions.
+
+Types of Health Insurance
+At present, individuals can have access to healthcare services through a number of insurance methods, which include:
+ Individual private insurance (generally for self employed individuals). In return for paying a monthly sum, people receive assistance in case of illness.
+ Employment based private insurance. Employers usually pay most of the premium to purchase health insurance for their employees as one of the benefits of employment. In most cases, employment based plans now require employee contributions and copayments. The government does not treat the health insurance fringe benefits as taxable income to the employee, so the government is in essence subsidizing employer  sponsored health insurance. A new form of employment based private insurance is consumer driven healthcare (CDH). Defined narrowly, CDH
+	refers to health plans in which individuals have a personal health account, such as a health savings account (HSA) or a health reimbursement	
+
+
+
+arrangement (HRA), from which they pay medical expenses directly. The phrase is sometimes used more broadly to refer to defined contribution health plans, which allow employees to choose among various plans, often with a fixed dollar contribution from an employer. The characteristics of a CDH include:
+ High benefit level options that involve significant employee contributions and deductibles in addition to an employer's contribution, or lower benefit level options that involve less employee contribution and deductibles.
+ Greater choice and control over one's health plan.
+ Economic incentives to better manage care economic rewards for making good decisions and economic penalties for making ill advised ones. These economic incentives make patients more likely to seek information about medical conditions and treatment options, including information about prices and quality.
+Government financing. This occurs through government funded programs, such as Medicare, Medicaid, and the Federal Employees Health Benefit Plans.
+ Medicare. Administered by the federal government Center for Medicare and Medicaid services (CMS). CMS is an agency within the U.S. Department of Health and Human Services, through the extension of title XVIII of the Social Security Act, 1965 (the law that created Medicare, Medicaid, and other federal programs).
+
+
+There are different varieties or parts to Medicare:
+ Part A. On reaching the age of 65 years, people who are eligible for Social Security are automatically enrolled in Medicare Part A, whether or not they are retired. If a person has paid into the Social Security system for 10 years, his or her spouse is eligible for Social Security.3 People who are not eligible for Social Security can enroll in Medicare Part A by paying a monthly premium. People under the age of 65 who are totally and permanently disabled may enroll in Medicare Part A after they have received Social Security disability benefits for 24 months. People with chronic renal disease requiring dialysis or transplant may also be eligible for Medicare Part A without a two year waiting period. Part A helps pay for medically necessary inpatient hospital care (limits the number of hospital days), and, after a hospital stay, limited inpatient care in a skilled nursing facility, or limited home healthcare or hospice care (Table 2 1).
+ Part B: Part B (see Table 2 1) is for people who are eligible for Medicare Part A and who elect to pay the Medicare Part B premium of $99.90 per month (2012).3 Some low income persons are not required to pay the premium.
+ Medicaid. A federal program mandated by Title XIX of the Social Security Act, which is administered by the states, with the federal government paying between 50% and 76% of the total Medicaid costs. Benefits vary from state to state the federal contribution is greater in states with lower per capita incomes. Medicaid pays for medical and other services on behalf of certain groups:
+ Low income families with children who meet certain eligibility requirements.
+
+
+
+ Most elderly, disabled, and blind individuals who receive cash assistance under the federal Supplemental Security Income (SSI) program.
+ Children younger than age 6 and pregnant women whose family income is at or below a percentage of the federal poverty level. In 2013, the federal poverty level was $23,550 for a family of four.
+ School age children (6 18) whose family income is at or below the federal poverty level.
+TABLE 2 1
+Medicare Part A and Part B (2008)
+
+Medicare Part 
+
+Method of Financing
+
+Benefit
+
+Medicare Pays
+A
+Employers and employees each pay to Medicare 1.45% of wages and salaries into the social security system. Self employed people pay 2.9%.
+Hospitalization First 60 days 61st to 90th day
+91st to 150th day
+  Beyond 90 days if lifetime reserve days are used up
+All but a $1024 deductible per spell of illness
+All but $256 per day All but $512 per day Nothing
+
+
+Skilled Nursing Facility (SNF)
+First 20 days
+21st to 100th day Beyond 100 days
+All
+All but $128 per day Nothing
+
+
+Home health care
+100 visits per spell of illness
+100% for skilled care as defined by Medicare regulations
+
+
+Hospice care
+  Requires physician certification that individual has a terminal illness
+100% of services, copays for outpatient drugs and coinsurance for inpatient respite care
+B
+In part by general federal revenues (personal income and other federal taxes) and in part by Part B monthly premium.
+Medical expenses Physician services
+Physical, occupational, and speech therapy Medical equipment
+Diagnostic tests
+80% of approved amount after a
+$135 annual deductible
+
+
+Preventative care (some Pap smears; some mammogram; hepatitis B, pneumococcal, and influenza vaccinations)
+Included in medical expenses, with deductible and coinsurance waived for some services
+
+
+Outpatient medications. Partially covered under Medicare Part D
+All except for premium, deductible, coinsurance
+
+
+Eye refractions, hearing aids, dental services
+Not covered
+
+
+Data from: Bodenheimer TS, Grumbach K: Paying for healthcare, in Bodenheimer TS, Grumbach K (eds): Understanding health policy: a clinical approach (ed 5). New York, McGraw Hill, 2009, pp 5 16.
+
+
+
+
+
+
+Because of a large expenditure growth, the federal government ceded enhanced control of the Medicaid programs to states through Medicaid waivers, which allow states to reduce the number of people on Medicaid, make alterations to the scope of covered services, require Medicaid recipients to pay part of their costs, and obligate Medicaid recipients to enroll in managed care plans.3
+
+In 1997, the federal government created the State Children's Health Insurance Program (SCHIP), a companion program for Medicaid that is designed to cover uninsured children in families with incomes at or below 200% of the federal poverty level, but above the Medicaid income eligibility level.3
+
+
+
+
+ Managed care plans. There are three major forms of managed care2:
+ Fee for service reimbursement with utilization review. The third party payer (whether a private insurance company, or a government agency) has the authority to deny payment for expensive or unnecessary medical interventions.
+ Preferred provider organizations (PPOs). Under this form of managed care, there is a contract with a limited number of physicians and hospitals that have agreed to care for a group of patients within the PPO, usually on a discounted fee for service basis with utilization review.
+ Health maintenance organizations (HMOs). These are organizations whose patients are required (except in emergencies) to receive their care from providers within that HMO. Several types of HMOs exist.
+ACCESS TO HEALTHCARE
+Access to healthcare is the ability to obtain health services when needed.5 The organizational task facing healthcare systems is one of ensuring that the right patient receives the right service at the right time in the right place, and with the right caregiver.6,7 Health insurance coverage (see Types of Health Insurance, earlier), whether public or private, is a key factor in making healthcare accessible, and health insurance is often related to employment level. Individuals whose employers choose not to provide health insurance are technically self employed and must find ways to obtain their own health insurance. In 2011, 48.6 million people in the United States were uninsured.8
+
+
+
+
+Despite health insurance regulation occurring at both the federal and state levels, which monitors such entities as the Blue Cross and Blue Shield carriers (which, if not for profit, are often regulated somewhat differently than their commercial counterparts), commercial insurance companies, self  insured plans, and various types of managed care, including HMOs and PPOs, private health insurance coverage continues to decrease. The reasons for this increase in the number of people who are uninsured include5:
+ The skyrocketing cost of health insurance
+ A decrease in the number of highly paid, largely unionized, full time manufacturing companies with employer sponsored health insurance  An increase in the overall instability and transient nature of employment, resulting in interruptions in coverage
+Theoretically, the uninsured population is supposed to have access to healthcare federal and state programs such as Medicaid. However, these programs have their limitations; access to care is by no means guaranteed with Medicaid coverage. One of the major reasons for this is that Medicaid pays physicians far less than does Medicare or private insurance, with the result that many physicians do not accept Medicaid patients.5
+
+Even the so called insured patients are not guaranteed financial access to healthcare. Many people are underinsured, that is, their health insurance coverage has limitations that restrict access to needed services.13, 14, 15 and 16 For example, many have private health insurance that leaves major expenses uncovered in the event of a serious illness.17 Other factors that affect the insured are insurance deductibles and copayments, with many plans having high deductibles and substantial copayments.18
+Finally, in addition to the financial barriers to healthcare, there are a number of nonfinancial barriers, including:
+Gender. In general, females have greater dissatisfaction with healthcare than males.19,20
+Race. Because far higher proportions of minorities than whites are uninsured, have Medicaid coverage, or are poor, access problems are amplified for these groups.5,21
+Lack of prompt access. Many patients resort to an ED visit because they are unable to obtain a timely appointment with their private physician.22, 23 and 24
+Shortages in qualified personnel (physicians, pharmacists, nurses). Patients in rural areas face shortages of all types of healthcare personnel (about 20% of the U.S. population lives in areas that have a shortage of primary healthcare professionals).25, 26 and 27
+
+
+
+Lack of drug control. Although drugs used in the United States must be approved for safety and efficacy, there are no constraints on either therapeutic duplication or price. Any drug that obtains approval from the U.S. Food and Drug Administration (FDA) may be marketed in the United States, and the distributor has full discretion over the price charged.
+An increasingly aging population. The elderly often require a higher percentage of healthcare services, which can increase the burden on an already stretched healthcare system.
+
+As healthcare costs have increased, efforts to control costs by government and private entities have focused on reducing the biggest expenses to an organization staffing by decreasing or replacing manpower. However, decreasing or replacing manpower has the following disadvantages:
+ The use of lower cost paraprofessionals results in an increased share of the workload being performed by aides and technicians.  An increase in caseload size, resulting in less time spent with each patient.
+QUALITY OF CARE REGULATORS
+A number of regulations within the U.S. healthcare system attempt to ensure a high quality of care. These include:
+ Hospital accreditation and licensure, which includes Medicare conditions of participation (COP), and the Joint Commission (formerly known as Joint Commission on Accreditation of Healthcare Organizations [JCAHO]) (see Voluntary Accreditation section)
+ State accreditation and licensure, including the department of health (DOH)
+ Nursing home accreditation and licensure (including the Joint Commission, COP, the Nursing Home Reform Act, part of the Omnibus Budget Reconciliation Act of 1987, and state regulations)
+ Licensure for all other health facilities (see Voluntary Accreditation section)
+ Peer review, encompassing Quality Improvement Organizations and the Healthcare Quality Improvement Act of 1986  The Clinical Laboratory Improvement Act of 1967 as amended
+ FDA regulation of blood banks
+ Blood borne pathogen requirements imposed by the Occupational Safety and Health Administration (OSHA)  Health outcomes reporting systems mandated by states
+Voluntary Accrediting Agencies
+
+
+
+Accreditation of healthcare institutions is a voluntary process by which an authorized agency or organization evaluates and recognizes health services according to a set of standards describing the structures and processes that contribute to desirable patient outcomes. Outpatient centers for comprehensive rehabilitation can be accredited by the Joint Commission (JC), AC MRDD, CORF, and/or CARF.
+The Joint Commission
+
+The Joint Commission is a private organization created in 1951 to provide voluntary accreditation to hospitals. Many states rely on JC accreditation as a substitute for their own inspection programs. The JC has high standards of quality assurance and a rigorous process of evaluation, which makes it a much esteemed agency for accreditation. Health services certified by the JC are given "deemed status."
+In the 1990s, the JC revised its standards to reflect the changing functions of hospitals, seeking to move away from departments toward the patient experience of hospital systems. In 2006, the JC changed the survey process and began unannounced surveys that focused on observations and interviews in an effort to move toward finding standards that reflect the integration of hospital services rather than examining them in isolation. Thus, surveys currently involve a "tracer methodology" whereby a survey team enters a facility, selects a number of patients, and follows those patients' treatment courses throughout the facility. Some of the JC sections that are currently surveyed are listed in Table 2 2. A series of National Patient Safety Goals (NPSGs) were introduced by the JC in 2002 (effective January 1, 2003) to help accredited organizations address specific areas of concern in regard to patient safety. The development and updating of the NPSGs is overseen by the Patient Safety Advisory Group (PSAG), a panel of widely recognized patient safety experts including nurses, physicians, pharmacists, risk managers, and clinical engineers. The NPSGs stated for 2011 12 were:
+ Improve the accuracy of patient identification, including the use of at least two patient identifiers when providing care, treatment, and services and the elimination of transfusion errors related to patient misidentification.
+ Improve the communication among caregivers, including the reporting of critical results of tests and diagnostic procedures on a timely basis.
+ Improve the safety of using medications, including the labeling of all medications, medication containers, and other solutions on and off the sterile field in perioperative and other procedural settings; reduce the likelihood of patient harm associated with the use of anticoagulant therapy; maintain and communicate accurate patient medication information.
+ Reduce the risk of healthcare associated infections, including compliance with either the current Centers for Disease Control and Prevention (CDC) hand hygiene guidelines or the current World Health Organization (WHO) hand hygiene guidelines; the implementation of evidence based practices to prevent healthcare associated infections due to multidrug resistant organisms, surgical site, indwelling catheter associated urinary tract infections (CAUTI), and central line associated bloodstream infections in acute care hospitals.
+ Reduce the risk of patient harm resulting from falls.
+ Prevent healthcare associated pressure ulcers (decubitus ulcers) by assessing and periodically reassessing each resident's risk for developing a pressure ulcer and taking action to address any identified risks.
+ The organization is to identify safety risks inherent in certain patient populations, including those patients at risk for suicide, those at risk associated with home oxygen therapy (e.g., home fires), and to have a universal protocol for preventing Wrong Site, Wrong Procedure, and Wrong Person Surgery by conducting a pre procedure verification process, marking the procedure site, and performing a timeout before the procedure.
+
+
+
+TABLE 2 2
+The Joint Commission Sections
+
+
+
+A typical accreditation process involves:
+1. Organization submits an application for review.
+2. A survey is conducted by the accrediting agency.
+3. The organization conducts a self study or self assessment to examine itself based on the accrediting agency standards.
+4. An individual surveyor, or a team of surveyors, visits the organization and conducts an on site review. The whole staff of the organization is involved in the accreditation and reaccreditation process. Tasks include document preparation, hosting the site visit team, and interviews with the accreditors.
+5. Accreditation surveyor or team issues a report granting or denying accreditation.
+A number of disadvantages of accreditation through the JC have been listed, and include:
+ Hospitals pay for JC surveys, and more than 70% of the JC's revenue comes directly from the organizations it is supposed to inspect.
+ Although the JC encourages workers to speak with survey takers, most workers do not have legal protection from retaliation if they do so.
+
+
+Council on Quality and Leadership (CQL)
+
+
+
+Council on Quality and Leadership (CQL) is a U.S. organization dedicated to the definition, measurement, and improvement of personal and community quality of life for people with disabilities, those with mental illness and substance abuse disorders, and older adults. CQL evolved from the work of the American Association on Mental Deficiency (AAMD; now American Association on Intellectual and Developmental Disabilities AAIDD).
+During the 1980s and 1990s, the name of the organization evolved from Accreditation Council for Services for Mentally Retarded and Other Developmentally Disabled Persons (ACMRDD) to Accreditation Council on Services for People with Disabilities (ACD), and in 1997 it became the CQL. CQL provides the following services:
+ Accreditation of organizations providing services and supports
+ Community Life LENS experiential community development training
+ Certification of professionals as personal outcome trainers, personal outcome interviewers, and certified quality analysts  External independent review of public and private service systems
+ Standards and measurement system design
+Commission on Accreditation of Rehabilitation Facilities (CARF)
+
+CARF is a nonprofit organization designed to recognize standards of excellence in rehabilitation programs across the nation. CARF accreditation standards were developed with the input of consumers, rehabilitation professionals, state and national organizations, and third party purchasers. CARF is designed to establish standards of quality for freestanding rehabilitation facilities and the rehabilitative programs of the largest hospital systems in the areas of behavioral health, employment (work hardening), and community support services and medical rehabilitation (spinal cord injury, chronic pain), and to determine how well an organization is serving its patients, consumers, and the community. Programs accredited by CARF have demonstrated that they meet the national standards for rehabilitation programs.
+Comprehensive Outpatient Rehabilitation Facility (CORF)
+
+The CORF accreditation group conducts certification surveys for compliance with federal and state regulations and investigates any complaints filed against one of these providers. Certification is achieved by adherence to federal requirements, including:
+ Submission of a complete application  Required documentation
+ Successful completion of a survey
+Each CORF must be surveyed for certification as directed by the CMS. An application for certification includes submission of a completed application, required documentation, and successful completion of a survey. No fees and no renewal applications are required for certification. No state licensing requirements are imposed by the agency.
+Federal and State Healthcare Regulations
+In the United States, healthcare regulation is undertaken to improve performance and quality through a wide variety of governmental and nongovernmental agencies. These entities have varying statutory authority, scope and remit, approaches, and outcomes, resulting in a complex, overlapping, duplicative, and sometimes contradictory regulatory environment.
+Balanced Budget Act of 1997 (BBA)
+
+This law made sweeping changes in the Medicare and Medicaid programs. Several of the significant provisions of the BBA were payment reductions to healthcare providers, new prospective payment systems for healthcare providers, and reduction of coverage of healthcare services by the Medicare and Medicaid programs.
+Statutory Laws
+
+
+
+Statutes are defined as laws that are passed by Congress and the various state legislatures. These statutes are the basis for statutory law. The legislature passes statutes that are later put into the federal code of laws or pertinent state code of laws. Statutory law consists of the acts of legislatures declaring, commanding or prohibiting something a particular law established by the will of the legislative department of government. A number of statutory laws affect physical therapy:
+ Licensure laws. Under the U.S. federal system of government, each state regulates the practice of all healthcare professionals by establishing licensing or regulatory agencies or boards to generate regulations. State licensing statutes establish the minimum level of education and experience required to practice, define the functions of the profession, and limit the performance of these functions to licensed persons. These laws:
+ Are designed to protect the consumer against professional incompetence and exploitation by opportunists.
+ Make a determination as to the minimal standards of education. In the case of physical therapy, the minimal standards required include:  Graduation from an accredited program or its equivalent in physical therapy
+ Successful completion of a national licensing examination (NPTE)
+ Licensure examination and related activities are the responsibility of the Federation of State Boards of Physical Therapy.  Determine the ethical and legal standards relating to the continuing practice of physical therapy.
+ Each state determines the criteria to practice and issue a license.
+ Workers' Compensation Acts. The rules and regulations of individual state's workers' compensation systems are the primary factors influencing the provision of physical therapy services for patients with work related injuries. Workers' compensation laws are designed to ensure that employees who are injured or disabled on the job are provided with fixed monetary awards, eliminating the need for litigation. The laws provide a no fault system that pays all medical benefits and replaces salary (usually at 66%) until recovery occurs. In turn, employees forfeit the right to sue their employers for damages. These rules and regulations also provide benefits for dependents of workers who die as a result of a work related accident or illness. Some of the rules and regulations also protect employers and fellow workers by limiting the amount an injured employee can recover from an employer and by eliminating the liability of co workers in most accidents. State workers' compensation statutes establish this framework for most employment. Federal statutes are limited to federal employees or those workers employed in some significant aspect of interstate commerce. The laws vary from state to state, but most states identify four types of disability:
+ Temporary partial the injured worker is able to do some work but is still recuperating from the effects of the injury and is thus temporarily limited in the amount or type of work that can be performed compared to the preinjury work.
+ Temporary total the injured worker is unable to work during a period when he/she is under active medical care and has not yet reached what is called "maximum medical improvement."
+ Permanent partial the injured worker is capable of employment but is not able to return to the former job. Benefits are usually paid according to a prescribed schedule for a fixed number of weeks.
+   Permanent total the injured worker cannot return to any gainful employment, and lifetime benefits are provided to the employee. Workers' compensation programs:
+ Are financed by covered employers insured or self insured under property and casualty lines and are mandatory for employers in almost all states.
+ Have a limit on the number of visits in some states based on the diagnosis, and/or require a preapproval process to be followed for reimbursement. Other states require the total number of visits or total number of weeks (duration) and the number of treatments per week (frequency) to be usual, customary, and reasonable.
+
+
+
+ Must be offered by all large employers (10 or more employees) or high risk employers.
+Malpractice laws. Malpractice can be defined as a dereliction of professional duty, or a failure to exercise an accepted degree of professional skill or learning by one rendering professional services, which results in injury, loss, or damage. Malpractice also encompasses injurious, negligent, or improper practice. Physical therapists are personally responsible for any act of negligence or other acts that result in harm to a patient through professional patient relationships.
+ Negligence is defined as failure to do what reasonably competent practitioners would have done under similar circumstances.  To find a practitioner negligent, harm must have occurred to the patient. Examples could include:
+ A burn caused by a hot pack
+ Using defective equipment that results in injury  Failing to prevent a patient from falling
+ Causing an injury to a patient through improper prescription of exercises
+
+
+
+
+
+
+
+
+
+THE PATIENT
+The clinician must always consider a situation from the patient's perspective and understand that all patients have rights within any given healthcare system.
+Patient Rights
+In 1998, the U.S. Advisory Commission on Consumer Protection and Quality in the Healthcare Industry endorsed the following areas of consumer rights and responsibilities:
+I. Information disclosure. Consumers have the right to receive accurate, easily understood information and some require assistance in making informed healthcare decisions about their health plans, professionals, and facilities.
+II. Choice of providers and plans. Consumers have the right to a choice of healthcare providers that is sufficient to ensure access to appropriate high  quality healthcare.
+III. Access to specialists. Consumers with complex or serious medical conditions who require frequent specialty care should have direct access to a qualified specialist of their choice within a plan's network of providers. Authorizations, when required, should be for an adequate number of direct access visits under an approved treatment plan.
+IV. Access to emergency services. Consumers have the right to access emergency healthcare services when and where the need arises. Health plans should provide payment when a consumer presents to an emergency department with acute symptoms of sufficient severity including severe pain
+
+
+
+ such that a "prudent layperson" could reasonably expect the absence of medical attention to result in placing that consumer's health in serious jeopardy, serious impairment to bodily functions, or serious dysfunction of any bodily organ or part.
+V. Participation in treatment decisions. Consumers have the right and responsibility to fully participate in all decisions related to their healthcare and to expect healthcare providers to abide by the informed decisions. Consumers who are unable to fully participate in treatment decisions have the right to be represented by parents, guardians, family members, or other conservators.
+VI. Respect and nondiscrimination. Consumers have the right to considerate, respectful care from all members of the healthcare system at all times and under all circumstances. An environment of mutual respect is essential to maintain a quality healthcare system.
+VII. Confidentiality of health information. Consumers have the right to communicate with healthcare providers in confidence and to have the confidentiality of their individually identifiable healthcare information protected. Consumers also have the right to review and copy their own medical records and request amendments to their records.
+VIII. Complaints and Appeals. All consumers have the right to a fair and efficient process for resolving differences with their health plans, healthcare providers, and the institutions that serve them, including a rigorous system of internal review and an independent system of external review.
+IX. Consumer Responsibilities. In a healthcare system that protects consumers' rights, it is reasonable to expect and encourage consumers to assume reasonable responsibilities. Greater individual involvement by consumers in their care increases the likelihood of achieving the best outcomes and helps support a quality improvement, cost conscious environment.
+
+The Patient Self Determination Act (PSDA) requires many Medicare and Medicaid providers (hospitals, nursing homes, hospice programs, HHAs, and HMOs) to give adult individuals, at the time of inpatient admission or enrollment, certain information about their rights under state laws, including:
+1. The right to participate in and direct their own healthcare decisions
+2. The right to accept or refuse medical or surgical treatment
+3. The right to prepare an advance directive
+4. Information on the provider's policies that govern the utilization of these rights
+The act also prohibits institutions from discriminating against a patient who does not have an advance directive.
+
+Medical Records
+Medical records contain sensitive information, and increasing computerization and other policy factors have increased threats to their privacy. Besides information about physical health, these records may include information about family relationships, sexual behavior, substance abuse, and even the private thoughts and feelings that come with psychotherapy. Threats to medical record privacy include the following:
+Administrative actions. This includes errors that release, misclassify, or lose information. This includes compromised accuracy, misuse by legitimate users, and uncontrolled access.
+
+
+
+ Computerization. Although in some situations computerization increases privacy protection (for example, by adding passwords to sensitive areas), it may also decrease privacy protection for the following reasons:
+ Computerization enables storage of large amounts of data in small spaces. Thus, when an intruder gains access, that access is not just to certain discrete amounts of data, but to larger collections, and perhaps keys to even further information.
+ Networked information is accessible from anywhere at any time, allowing a larger number of people access. This increases the possibility of mistakes or other problems such as misuse or leaks of data.
+ New databases and different types of data sets are more easily created. This both drives demand for new information and makes possible its creation.
+ Information is easily gathered, exchanged, and transmitted. Thus, potential dissemination is theoretically limitless.  Access by unrelated parties is possible.
+ Insurance companies. Insurance companies may check records either before approving treatment or before extending coverage.
+ Financial institutions. The federal Gramm Leach Bliley Act (GLB) allows financial companies such as banks, brokerage houses, and insurance companies to operate as a single entity.
+ Drug companies. These companies may have deals with doctors and hospitals and may get access to patient lists that can be used for marketing.
+ Employers. Employers could use sensitive information against employees.
+ Court subpoenas. Often a patient will be unaware when his or her records have been subpoenaed. Even worse, unnecessary information is often included when the records are not adequately screened.
+Current protections for medical records privacy include:
+ Medical ethics.
+ The privacy portion of the Hippocratic Oath: "Whatsoever I shall see or hear in the course of my intercourse with men, if it be what should not be published abroad, I will never divulge, holding such things to be holy secrets."
+ The 1992 AMA statement that states that medical information must be kept confidential to the greatest possible degree.
+ The Privacy Act of 1974, which states that no federal agency may disclose information without the consent of the person. Agencies must also meet certain requirements for protecting the information.
+ Tort law. This may include defamation, breach of contract, and other privacy related torts.
+ Health Insurance and Portability and Accountability Act (HIPAA) Privacy Rule see the next section.  The U.S. Department of Health and Human Services (HHS).
+Health Insurance and Portability and Accountability Act (HIPAA)
+The purpose of this act was to protect the individual from excessive personal expenditures and to protect healthcare related information. This 1996 federal legislation makes long term care insurance premiums tax deductible if nonreimbursable medical expenses, including part or all of long term care premiums, exceed 7.5% of an individual's gross income. HIPAA also excludes long term care insurance benefits from taxable income. Not all long  term care insurance coverage qualifies for this benefit.
+
+
+
+
+TABLE 2 3
+Fiscal Regulations within the U.S. Healthcare System
+
+Regulation 
+Description
+False Claims Act of 1863
+First signed into law in 1863. Underwent significant changes in 1986.
+Allows citizens to bring law suits against groups or other individuals that are defrauding the government through programs, agencies, or contracts (overbilling for services, "upcoding").
+Medicare and Medicaid antifraud statutes
+Stipulates that an individual who knowingly and willfully offers, pays, solicits, or receives any remuneration in exchange for referring an individual for the furnishing of any item or service (or for the purchasing, leasing, ordering, or recommending of any good, facility, item, or service) paid for in whole or in part by Medicare or a state healthcare program (i.e., Medicaid) shall be guilty of a felony. Often referred to as the "antikickback" statute.
+The Civil Monetary Penalties Law (CMPL)
+Authorizes the Secretary of Health and Human Services to impose civil money penalties, an assessment, and program exclusion for various forms of fraud and abuse involving the Medicare and Medicaid programs.
+Federal self  referral prohibitions
+Also known as Stark I and II.
+The first Self Referral Prohibitions (Stark I) prohibited physicians from referring lab specimens obtained from Medicare patients to clinical laboratories with which the physician or an immediate family member of the physician had a financial relationship. In addition, any clinical laboratory that received a Medicare referral from a physician with which it had a financial relationship could not bill Medicare for the performance of that procedure.
+A financial relationship is defined as either an ownership/investment interest or a compensation relationship.
+The expanded Physician Self Referral prohibitions (Stark II), introduced in 1995, prohibits self referrals (Medicaid and Medicare) of not only lab services, but also many other designated health services, including physical therapy.
+Pharmaceutical price regulation scheme
+A scheme that ensures the national health system has access to good quality branded medicines at reasonable prices and promotes a healthy, competitive pharmaceutical industry.
+Includes federal average wholesale price restrictions for Medicaid and state pharmaceutical regulations.
+Certificate of Need (CON)
+Intended to regulate major capital expenditures that may adversely affect the cost of health care services, to prevent the unnecessary expansion of health care facilities, and to encourage the appropriate allocation of resources for healthcare purposes. CON laws became part of almost every state by 1978 after the 1974 National Health Act was passed.
+
+
+HIPAA also issued a Privacy Rule to implement the requirement of the HIPAA Act of 1996. The Privacy Rule standards address the use and disclosure of individuals' health information (called "protected health information" or PHI) by organizations subject to the Privacy Rule (called "covered entities"), as well as standards for individuals' privacy rights to understand and control how their health information is used. A major goal of the Privacy Rule is to ensure that individuals' health information is properly protected while allowing the flow of health information needed to provide and promote high 
+
+
+
+quality healthcare and to protect the public's health and well being.
+ The Privacy Rule applies to anyone who transmits health information in electronic form in connection with transactions.
+ The Privacy Rule protects all "individually identifiable health information" (protected health information) held or transmitted by a covered entity (health plans, healthcare clearinghouses, and any healthcare provider) or its business associate (limited to legal, actuarial, accounting, consulting, data aggregation, management, administrative, accreditation, or financial services), in any form or medium, whether electronic, paper, or oral.
+
+A covered entity must disclose protected health information in only two situations:
+ To individuals (or their personal representatives) specifically when they request access to, or an accounting of disclosures of, their protected health information.
+ To Health and Human services (HHS) when it is undertaking a compliance investigation or review or enforcement action.
+A covered entity is permitted, but not required, to use and disclose protected health information, without an individual's authorization, for the following purposes or situations:
+ To the individual (unless required for access or accounting of disclosures)  Treatment, payment, and healthcare operations
+ Opportunity to agree or object
+ Incident to an otherwise permitted use and disclosure
+ Public interest and benefit activities and Office for Civil Rights (OCR) Privacy Rule Summary  Limited data set: for the purposes of research, public health, or healthcare operations
+Covered entities may rely on professional ethics and best judgments in deciding which of these permitted uses and disclosures to make.
+ Workforce training and management. Workforce members include employees, volunteers, trainees, and may also include other persons whose conduct is under the direct control of the entity (whether or not they are paid by the entity). A covered entity must train all workforce members on its privacy policies and procedures, as necessary and appropriate for them to carry out their functions. A covered entity must have and apply appropriate sanctions against workforce members who violate its privacy policies and procedures or the Privacy Rule.
+ Data safeguards. A covered entity must maintain reasonable and appropriate administrative, technical, and physical safeguards to prevent intentional or unintentional use or disclosure of protected health information in violation of the Privacy Rule and to limit its incidental use and
+
+
+
+disclosure pursuant to otherwise permitted or required use or disclosure. For example, such safeguards might include shredding documents containing protected health information before discarding them, and securing medical records with lock and key or pass code and limiting access to keys or pass codes.
+ Documentation and record retention. A covered entity must maintain, until six years after the later of the date of their creation or last effective date, its privacy policies and procedures, its privacy practices notices, disposition of complaints, and other actions, activities, and designations that the Privacy Rule requires to be documented.
+ Criminal penalties. A person who knowingly obtains or discloses individually identifiable health information in violation of HIPAA faces a fine of
+$50,000 and up to 1 year imprisonment. The criminal penalties increase to $100,000 and up to 5 years imprisonment if the wrongful conduct involves false pretenses, and to $250,000 and up to 10 years imprisonment if the wrongful conduct involves the intent to sell, transfer, or use individually identifiable health information for commercial advantage, personal gain, or malicious harm.
+Informed Consent
+Informed consent is the process by which a fully informed individual can participate in choices about his or her healthcare. It originates from the legal and ethical right the patient has to direct what happens to his or her body and from the ethical duty of the physician, or healthcare provider, to involve the patient in his or her healthcare.
+The most important goal of informed consent is that the patient must have an opportunity to be an informed participant in his or her healthcare decisions. Basic consent entails letting the patient know what you would like to do and asking them if they agree. The more formal process should include a discussion of the following elements:
+ The nature of the decision/procedure
+ Reasonable alternatives to the proposed intervention
+ The relevant risks, benefits, and uncertainties related to each alternative  Assessment of patient understanding
+ The acceptance of the intervention by the patient
+
+Emergency Medical Treatment and Labor Act (EMTALA)
+The Emergency Medical Treatment and Labor Act (EMTALA), or the Patient Anti Dumping Law, requires most hospitals to provide an examination and needed stabilizing treatment, without consideration of insurance coverage or ability to pay, when a patient presents to an emergency room for attention with an emergency medical condition.
+The Patient Protection and Affordable Care Act (PPACA)
+The Patient Protection and Affordable Care Act (PPACA) is a federal statute that was signed into United States law in March 2010, along with the Healthcare and Education Reconciliation Act of 2010 (also signed into law in March 2010). The law includes numerous health related provisions to take effect over a four year period beginning in 2010:
+ Guaranteed issue and community rating insurers must offer the same premium to all applicants of the same age, sex, and geographical location regardless of whether the applicant has a pre existing condition
+
+
+
+ Medicaid eligibility is expanded to include individuals and families up to 133% of poverty level.
+ New health insurance exchanges in each state to enhance competition by offering a marketplace where individuals and small businesses can compare policy premiums on a like for like basis and buy insurance (with a government subsidy if eligible). Low income persons and families above the Medicaid level and up to 400% of poverty level will receive subsidies on a sliding scale if they choose to purchase insurance via a health insurance exchange.
+ Introduction into the tax code of a "shared responsibility payment," which is a fine paid by any large employer (with 50 or more employees) if the government has had to subsidize an employee who bought insurance in the exchange because the employer did not offer a minimum coverage plan or better. Another form of shared responsibility payment or fine is imposed on certain persons who do not have minimum essential coverage for at least one month in the year (individual mandate), though being insured is not actually mandated by law.
+ Improved benefits for Medicare prescription drug coverage.
+ Establishment of national voluntary insurance program for purchasing community living assistance services and support.  Very small businesses to get subsidies if they purchase insurance health insurance through the exchange.
+ Additional support provided for medical research and the National Institutes of Health (NIH).
+Medical Errors
+The importance of patient safety cannot be overstated, but even with the best intentions, medical/clinical errors continue to occur. The two main causes of medical error are:
+ An intervention does not go according to plan. Examples include surgical errors and improperly functioning or poorly maintained equipment. From a rehabilitation perspective, activities that place the patient at risk, such as ambulation, aerobic exercise, and transfers, should always be performed with caution:
+ Diminished skin integrity can lead to skin breakdown during transfers, positioning, or exercise.
+ A decrease in bone density can result in a fracture during transfers, manual techniques, and ambulation.
+ An incorrect intervention was used. Examples include errors in medication prescriptions or regimens, and laboratory report inaccuracies. An adverse drug error (ADE) is an example of a medication error. The three most common types of medication errors are failure to administer an ordered medication; a deviation in the prescribed dose, strength, or quantity of a drug; and the dispensing or administering of the incorrect drug.
+
+The consequences of a medical error run the gamut from causing the patient no harm to causing the death of the patient. A number of agencies work
+
+
+
+cooperatively to develop strategies and standards that are designed to reduce medical errors. These agencies include:  The Institute of Medicine (IOM)
+ The Agency for Health Research and Quality (AHRQ)  The Joint Commission
+The focus of these agencies is to examine and analyze policies and procedures within the institution that have the potential to cause harm, including:  The complexity of the healthcare delivery system. In large institutions, it is easy for a patient to become a number rather than a person.
+ The number of caregivers involved in the patient's care. The more caregivers that are involved in a patient's care, the greater the chance of an error.
+ Flaws in the design of systems or equipment. These flaws can be inherent in the equipment design or in the physical layout of the treatment area. One of the most common problems is overcrowding of equipment that does not permit sufficient space between items for safe negotiation.
+Another common problem is the physical location of one department in relation to another. Systems and departments should be designed to enhance patient flow.
+ Improper or faulty installation and maintenance of equipment. All electrical equipment must be checked annually for safety. For example, extension cables should not be used, and neither should portable heaters.
+   Incorrect design of a treatment area. In many cases areas are used for a specialty when they were designed for another specialty. The Joint Commission categorizes a medical error as either a sentinel (adverse) event or a potential adverse event:
+ Sentinel event: an unexpected occurrence that involves death or serious injury, or the risk thereof, and which may have been avoided through appropriate care or alternative interventions. Such events are called sentinel because they signal the need for immediate investigation and response. Examples of a sentinel event are provided in Table 2 4.
+ Potential adverse event: no actual harm occurs.
+TABLE 2 4
+Examples of a Sentinel Event
+
+The Joint Commission reviews organizations' activities in response to sentinel events. Healthcare providers are required to alert the Joint Commission, and often state licensing authorities, of all sentinel events, including a review of risk factors, preventative measures, and root cause analysis (RCA). The RCA is designed to determine what happened, why or how it happened, and what could be done to prevent a recurrence of the event.
+
+
+
+Material Safety Data Sheet
+
+The various products used by a clinical facility, especially cleaning chemicals, are one further cause of potential injury to a patient. In the United States, OSHA requires that a material safety data sheet (MSDS) or safety data sheet (SDS) available to employees for potentially harmful substances handled in the workplace under the Hazard Communication regulation. The MSDS is also required to be made available to local fire departments and local and state emergency planning officials under Section 311 of the Emergency Planning and Community Right to Know Act. Table 2 5 lists a number of safety recommendations (see also Chapter 8).
+TABLE 2 5
+Recommended Safety Precautions
+
+Hand hygiene
+This is the single most important procedure to prevent the spread of infection and crosscontamination and should be performed before and after each treatment session.
+Staff competency
+All personnel who provide patient care should be trained, qualified, and competent in their assigned duties.
+Patient protection
+As appropriate, the patient should be protected with safety straps, bed rails, and so forth according to established regulatory state and federal guidelines. Patient transfers should not be attempted unless sufficient staff is present.
+Sufficient space
+The clinician should always plan ahead so that sufficient space to maneuver any equipment or to perform a task is available.
+Treatment area
+Remove any clutter, including equipment that is not being used or is blocking a walkway, electrical cords, loose rugs/floor mats, and any water spills.
+Equipment
+All equipment should be regularly assessed to ensure that it functions properly.
+Preparation
+The clinician should obtain any equipment or supplies that are needed before a patient arrives for treatment, so that the patient will not be left unattended.
+
+
+
+Incident/Occurrence Reporting
+
+The purpose of incident/occurrence reporting is to understand the underlying/contributing conditions that led to, or contributed to, the occurrence of a safety incident; identify appropriate corrective actions that must be taken to address these underlying/contributing conditions; and implement timely and effective corrective actions. An incident/occurrence report typically contains the following information:
+ The name or description of the incident/occurrence. Attention should be paid to making the report simple, clear, and inclusive.  Time and date of incident/occurrence.
+ A brief description of the incident/occurrence location. A simple, chronological narrative works best.  A brief description of the actual incident.
+ First and last names and titles of persons involved, if appropriate.  What is being done and/or will be done next.
+ Other departments involved or to become involved in the incident (emergency services, physician, etc.), as appropriate.
+
+
+
+ The name and title of the person submitting the report.
+AMERICANS WITH DISABILITIES ACT
+Over the years, much federal legislation has been designed to protect individuals from discrimination. These have included the Civil Rights Act of 1964, the Fair Housing and Architectural Barriers Act of 1968, Section 504 of the Rehabilitation Act of 1973, and the Education for All Handicapped Children Act of 1975. In 1990, the Americans with Disabilities Act (ADA),28 a wide ranging civil rights law, marked the first explicit national goal of achieving equal opportunity, independent living, and economic self sufficiency for individuals with disabilities.29 The original act was later amended with the ADA Amendments Act of 2008 (ADAAA), which was signed into law to give broader protections for disabled workers, with changes effective January 1, 2009. The ADA affords protections against discrimination to Americans with disabilities similar to the protections in the Civil Rights Act of 1964, which made it illegal to discriminate based on race, religion, sex, national origin, and other characteristics.
+
+The ADA, which has five titles (Table 2 6), does not function in isolation but is related to other state and federal laws, such as the Family and Medical Leave Act (FMLA) and the Occupational Safety and Health Act (OSHA).
+
+
+
+TABLE 2 6
+The Five Titles of the ADA 
+
+Title 
+Name and Description
+I. Employment
+Prohibits employers (an employment agency, labor organization, or joint labor management committee) from discriminating against a qualified individual with a disability with regard to job application procedures, hiring, advancement and discharge of employees, workers' compensation, job training, and other terms, conditions, and privileges of employment, on the basis of that disability alone. Examples of workplace accommodations include:
+Modification of work schedule
+Modification of job activities or requirements Modification to the physical plant
+The provision of assistive devices such as a telephone amplifier Modification of existing furniture or equipment
+Access to accessible restrooms, entrances, hallways, doorways, and parking areas.
+
+This usually necessitates a review of the application form, process, and procedures; selection and hiring procedures; and evaluation, advancement, and training opportunities and activities. Each job description should be written in functional terms (e.g., able to lift 25 pounds, able to stand for one hour at a time).
+II. Public services and transportation
+Prohibits disability discrimination by all public entities at the local (school district, municipal, city, and county) and state level. Access includes physical access described in the ADA Standards for Accessible Design, and programmatic access that might be obstructed by discriminatory policies or procedures of the entity. Access into a facility or establishment for persons with disabilities, freedom of movement, and access to goods and services once inside the facility should be given immediate attention.
+III. Public accommodations
+No individual may be discriminated against on the basis of disability with regard to the full and equal enjoyment of the goods, services, facilities, or accommodations of any place of public accommodation by any person who owns, leases (or leases to), or operates a place of public accommodation (most places of lodging [hotel or motel], recreation, transportation, education, dining, stores, care providers, park or zoo, and places of public displays). For existing facilities and those to be constructed, structural physical barriers must be removed or not included. This title usually requires removal, modification, or alteration of structural barriers when the changes can be made reasonably and accomplished without significant difficulty or expense. Examples include the installation of ramps, the widening of doorways, the use of door hardware that is more functional than a knob, installation of support bars or rails, auxiliary services and aids for individuals with a vision or hearing impairment (telecommunication display device [TDD]), increased space in restrooms to accommodate a wheelchair, water fountains accessible from the wheelchair, and curb cutouts.
+Exempted entities include private clubs and establishments that are exempt from Title II of the Civil Rights Act of 1964, religious
+organizations or entities controlled by religious organizations, and entities operated by governments that are exempt from Titles I and II.
+IV.
+Telecommunications
+Requires that all telecommunications companies in the United States take steps to ensure functionally equivalent services for consumers with disabilities, notably those who are deaf or hard of hearing and those with speech impairments.
+V. Other provisions
+Includes technical provisions such as the fact that nothing in the ADA amends, overrides, or cancels anything in Section 504, in addition to an anti retaliation or coercion provision.
+
+
+To qualify as a person with a disability, the individual must have a physical or mental impairment that substantially limits the performance of one of life's major activities (Table 2 7).
+
+
+
+
+TABLE 2 7
+Major Life Activities
+
+To fully understand the ADA, it is important to be able to understand the terminology (Table 2 8). Working in concert with the ADA are the Americans with Disabilities Act Accessibility Guidelines (ADAAG http://www.access board.gov/adaag/html/adaag.htm) that detail the technical requirements to be applied during the design, construction, and alteration of buildings and facilities covered by Titles II and III of the ADA to the extent required by regulations issued by federal agencies, including the Department of Justice and the Department of Transportation (Table 2 9).
+
+
+
+
+
+
+
+
+
+
+
+
+TABLE 2 8
+Glossary of ADA Terms 
+
+Term 
+Definition
+Accessible
+Refers to a site, facility, work environment, service, or program that is easy to approach, enter, operate, participate in, and/or use safely and with dignity by a person with a disability.
+Affirmative  action
+A set of positive steps that employers use to promote equal employment opportunity and to eliminate discrimination.
+Employer
+A person engaged in an industry affecting commerce that has 15 or more employees for each working day in each of 20 or more calendar weeks in the current or preceding calendar year, and any agent of such person. Exceptions: The term "employer'" does not include the United States, a corporation wholly owned by the government of the United States, or an Indian tribe; or a bona fide private membership club.
+Equal Employment Opportunity Commission (EEOC)
+A federal agency charged with enforcing Title I of the ADA.
+Major life activity
+Activities that an average person can perform with little or no difficulty. Major life activities include, but are not limited to: caring for oneself, performing manual tasks, seeing, hearing, eating, sleeping, walking, standing, sitting, reaching, lifting, bending, speaking, breathing, learning, reading, concentrating, thinking, communicating, interacting with others, and working; and the operation of a major bodily function.
+Reasonable accommodation
+Under Title I, a modification or adjustment to a job, the work environment, or the way things usually are done that enables a qualified individual with a disability to enjoy an equal employment opportunity. Reasonable accommodation is a key nondiscrimination requirement of the ADA.
+Undue burden
+With respect to complying with Title II or Title III of the ADA, significant difficulty or expense incurred by a covered entity, when considered in light of certain factors. These factors include: the nature and cost of the action; the overall financial resources of the site or sites involved; the number of persons employed at the site; the effect on expenses and resources.
+
+TABLE 2 9
+Design Specifications for Accessibility
+
+
+
+
+
+Height
+Not less than 80 inches vertical clearance. If vertical clearance along an accessible route is less than 80 inches, a warning barrier must be
+
+
+
+provided.
+
+
+Doorways
+Minimum width of 32 inches.
+
+
+
+Maximum depth of 24 inches.
+
+
+Thresholds
+Less than   inch for sliding doors.
+
+
+
+Less than   inch for other doors.
+
+
+Carpet
+Requires   inch pile or less.
+
+
+Hallway
+36 inch width.
+
+
+clearance
+
+
+
+Wheelchair
+60 inch width.
+
+
+turning
+78 inch length.
+
+
+radius (U 
+
+
+
+turn)
+
+
+
+Forward
+Low reach 15 inches.
+
+
+reach in
+High reach 48 inches.
+
+
+wheelchair
+
+
+
+Side reach
+Reach over obstruction to 24 inches.
+
+
+in
+
+
+
+wheelchair
+
+
+
+Bathroom
+Not less than 29 inch height.
+
+
+sink
+Not greater than 40 inches from floor to bottom of mirror or paper dispenser.
+
+
+
+17 inches minimum depth under sink to back wall.
+
+
+Bathroom
+17 19 inches from floor to top of toilet.
+
+
+toilet
+Grab bars should be 1  1  inches in diameter.
+
+
+
+1 inch spacing between grab bars and wall.
+
+
+
+Grab bar placement 33 to 36 inches up from floor level.
+
+
+Hotels
+Approximately 2% of total rooms must be accessible.
+
+
+Parking
+96 inches wide.
+
+
+spaces
+240 inches in length.
+
+
+
+Adjacent aisle must be 60 inches   240 inches.
+
+
+
+Approximately 2% of the total spaces must be accessible.
+
+
+
+
+
+
+
+
+ASSESSING THE HOME AND WORK ENVIRONMENTS
+
+Northeastern University
+Access Provided by:
+
+
+
+The Guide to Physical Therapist Practice includes examination of environmental home, and work (job/school/play) barriers among the list of categories of tests and measures that may be used by physical therapists.30 Treating the injured worker or person with a disability requires that the physical therapist must be knowledgeable regarding the following31:
+ An understanding of all aspects of the patient's community, home, and work. This includes the physical environment in which an individual functions, including both built and natural objects. This aspect of the examination may entail the clinician visiting the patient's home or worksite. Detailed information about the patient's work history and available resources at the worksite may also be obtained from the company representative responsible for implementing change on the worker's behalf.
+ The psychosocial issues and cultures of the patient's environment.
+ The most appropriate avenues for minimizing loss of function while maximizing recovery for a specific patient and workplace.
+ Accessibility: the degree to which an environment affords use of its resources with respect to an individual's level of function.
+ Universal design (life span design): this design concept emphasizes social inclusion by creating environments that are usable by a wide range of individuals of different ages, stature, sizes, and abilities as well as addressing the changing needs of human beings across the life span.32
+ Environmental barriers: defined as physical impediments to prevent individuals from functioning optimally in their surroundings. Environmental barriers can be external or internal.30,33
+ Exterior barriers. External barriers include sidewalks, driveways, garage/carport accessibility, access to the grounds, and entry into the accommodation. Exterior access routes include consideration of the frequency and mode of transportation typically used to reach the destination, parking, lighting in the parking area, and safety traveling to the entrance. Outside steps should have a maximum height of 7 inches and depth of at least 11 inches and should not have tread lip projections.32 If the patient has to use a ramp for home or work, the clinician should ensure that the patient can safely ascend and descend it and that it is soundly built. For safety and ease of use, a ramp should ideally have an incline of at least 1 foot length for each inch of rise (1:12 ratio). For example, a six inch step leading into the home/building requires a six foot ramp.33 Handrails should be fitted for patients who ambulate with difficulty and for those with impaired balance, especially on any steps and ramps.
+ Interior barriers. Interior access routes should be checked to ensure that there is enough space for basic mobility in and out of rooms with any assistive device the patient requires. The clinician should make note of the type and resistance of any floor coverings. Doorways must be at least 32 inches wide for a standard wheelchair to pass and ideally 1 to 2 inches wider than this to account for inaccurate maneuvering and the usual oblique approach to doors.33 The clinician should check that lighting in all areas is bright enough for safe task performance and that light switches can be reached by the patient or the lights come on automatically as the patient enters the environment.33 In addition, it is important to assess the height of and access to electrical outlets/switches, the size and space available in each room, the location and access to communication units such as telephones and computers, the location and access to heating/cooling controls, and the location and access to safety devices (smoke/carbon monoxide detectors, circuit breaker panel, etc.).
+
+Guidelines for wheelchair accessible home are described in Table 2 10.
+
+Downloaded 2024 3 16 1:32 P Your IP is 155.33.135.27 CHAPTER 2: Healthcare Policy,
+ 2024 McGraw Hill. All Rights Reserved. Terms of Use   Privacy Policy   Notice   Accessibility
+
+
+
+Page 27 / 32
+
+
+
+TABLE 2 10
+Guidelines for a Wheelchair Accessible Home
+
+
+Full Access
+Clearance of 30?   48? in front of and adjacent to any fixtures or workspaces, and appliance. Height of any fixture/control is not to exceed 48? above the floor.
+Feedback
+Those with vision or hearing impairments use clicks, beeps, and lights to verify a switch is activated.
+Comfort Zone
+The reach zone in which a person can comfortably perform a task. The standard reach zone for a standing adult is from 28? to 75?. The standard reach zone for a seated adult is from 20? to 44?.
+Neutral Handedness
+Placement of fixtures, workspaces, and appliances so they can be approached from the left  and right hand sides.
+Site/Foundation
+Contours of the site allow all entrances to be at the same level as the driveway, for no step entrances.
+Walkways
+5? wide, flat, smooth, and firm.
+All approaches from the street to span from the curb to the entrance. Mailboxes to be located beside walkways and within comfort zone.
+Garage
+There should be an electric door with 9? height clearance to accommodate van. Interior measurements account for 5? clearance on each side of vehicles for chair lifts.
+Entryways
+Walkways to extend a minimum of 25? beyond latch side of door. Thresholds are to be flush and a minimum of 3? wide.
+Guest entrances are to have doorbell installed 36? from the ground and have two peepholes (one at 40? one at 60?). Gated entries need 36? thresholds and easy open latches.
+Doors/Hardware
+All doors to have flush thresholds and must be 36? wide with an 18? clearance on the latch side. Doorknobs to be lever handle type.
+Locks must be easily operated with one hand.
+Knobs and locks installed below 36? and to be of the immediate feedback style if required.
+Windows/Hardware
+Casement and vertical sliding sash windows are the preferred styles. Lock hardware should have large levers and be easy to operate.
+Lifts, pulls, cranks, and locks should be large and accessible.
+Floors/Carpet
+Smooth, hard finishes (wood, linoleum) with matte surfaces are preferred. Carpet to be firm,  ? (or less) cut pile.
+Tile is to have nonslip surface.
+
+
+Electrical
+Service panels must be located in a prominent, fully accessible area.
+Downloaded 2024 3 16 1:32 P Your IP is 155.33.135.27 CHAPTER 2: Healthcare Policy,
+ 2024 McGraw Hill. All Rights Reserved. Terms of Use   Privacy Policy   Notice   Accessibility
+
+
+
+
+
+Page 28 / 32
+
+
+All controls to be rocker type with feedback.
+Thermostats, outlets, and controls are to be accessible and between 18? and 48? off the floor. Extra outlets and controls placed in bedrooms if required by buyer.
+Grab Bars
+1.25? to 1.5? in diameter with spacing of 1.5? between wall and bar.
+Gas
+Meters with earthquake shutoff valves or full access to meter for emergency shutoff is a must.
+Telephone
+Phone jacks are to be in all rooms.
+Smoke and Carbon Monoxide Detectors
+Smoke and carbon monoxide detectors are to be placed in kitchen and in hall outside sleeping areas.
+Bathrooms
+Walls to be sheathed in  ? plywood to allow grab bar installation anywhere.
+Door is to either open outward or be pocket type (a door that slides into a hollow cavity). Clear floor space around each fixture is required for full accessibility.
+Outlets to have ground fault circuit interrupters.
+Sinks mounted to walls or sitting vanity styles should have insulation covers on pipes or plumbing shields. Bowls with a front depth of 3? and sloping back to 6? are recommended.
+Faucets with lever handles are easiest to operate for both water and temperature control.
+Drain stops that are rubber plugs on a chain are preferred over plunger controls located behind the spout. Toilet is to have 18? seat height for ease in lateral transfer and be fully accessible.
+Toilet paper dispenser to be installed within buyers comfort zone. Grab bars and handholds should be placed anywhere needed.
+Tubs to be a minimum of 30?   60?   18? deep. Roll in showers to be a minimum of 30?   60?.
+Showers to be a minimum of 36?   36? and have built in seats.
+Cabinets should be accessible, frameless, and have doors that easily open with one hand. Wet rooms need to be tiled in slip proof tile and be sloped for drainage.
+Heat lamps should be included.
+Kitchens
+Counters and workspaces are to be offered at different heights (32? 34? 36?) and various depths (16? 19? 24?). Appliances should be fully accessible. Braille and large print dials should be offered.
+Cabinets should be accessible and frameless with ?D? style pulls.
+Cook tops need smooth surfaces with staggered burners and controls that are easy to operate. Ovens that are built in with side hinges are the best design to use.
+Microwave ovens need to be mounted within comfort zone.
+Pullout shelves underneath ovens and cook tops add convenience.
+Sink to have a height between 32? and 36? and depth between 8? and 5? with drains and disposals in the rear. Plumbing shields installed in the knee recesses prevent burns.
+Faucets that control the temperature and flow of water and have retractable hose sprays should be used. Dishwasher to have push button controls and to be located within comfort zone.
+Outlets for small appliances are to be located within comfort zone. Controls for disposals/fans to be located within comfort zone.
+Laundry
+Easy access to front loading machines.
+
+Downloaded 2024 3 16 1:32 P Your IP is 155.33.135.27 CHAPTER 2: Healthcare Policy,
+ 2024 McGraw Hill. All Rights Reserved. Terms of Use   Privacy Policy   Notice   Accessibility
+
+
+
+Page 29 / 32
+
+
+
+
+Data from Lema AR: Simplified disabled housing, 2006. http://www.freepatentsonline.com/y2006/0059797.html.
+
+REFERENCES
+
+1. Bodenheimer TS, Grumbach K: Introduction: the paradox of excess and deprivation, in Bodenheimer TS, Grumbach K (eds): Understanding Health Policy: A Clinical Approach (ed 5). New York, McGraw Hill, 2009, pp 1 3.
+
+2. Bodenheimer TS, Grumbach K: Reimbursing healthcare providers, in Bodenheimer TS, Grumbach K (eds): Understanding Health Policy: A Clinical Approach (ed 5). New York, McGraw Hill, 2009, pp 31 41.
+
+3. Bodenheimer TS, Grumbach K: Paying for healthcare, in Bodenheimer TS, Grumbach K (eds): Understanding Health Policy: A Clinical Approach (ed 5). New York, McGraw Hill, 2009, pp 5 16.
+
+4. American Physical Therapy Association: Today's Physical Therapist: A Comprehensive Review of a 21st Century Health Care Profession. Alexandria, Va, American Physical Therapy Association, 2011.
+
+5. Bodenheimer TS, Grumbach K: Access to healthcare, in Bodenheimer TS, Grumbach K (eds): Understanding Health Policy: A Clinical Approach (ed 5). New York, McGraw Hill, 2009, pp 17 30.
+
+6. Rodwin VG: The Health Planning Predicament. Berkeley, Calif, University of California Press, 1984.
+
+7. Bodenheimer TS, Grumbach K: How health care is organized, in Bodenheimer TS, Grumbach K (eds): Understanding Health Policy: A Clinical Approach (ed 5). New York, McGraw Hill, 2009, pp 43 57.
+
+
+8. U.S. Census Bureau: Overview of the Uninsured in the United States, 2011, September 2011, pp 1 5.
+
+9. Moser JW, Applegate KE: Imaging and insurance: do the uninsured get less imaging in emergency departments? J Am Coll Radiol 9:50 57, 2012. CrossRef [PubMed: 22221636] 
+
+10. Bradley CJ, Dahman B, Shickle LM et al.: Surgery wait times and specialty services for insured and uninsured breast cancer patients: does hospital safety net status matter? Health Serv Res 47:677 697, 2012.
+CrossRef [PubMed: 22092155] 
+
+11. Leither MD, Ontrop ND: Improving diabetes care in the uninsured: the success of the Access To Care program in Cook County, Illinois. J Health Care Poor Underserv 23:460 473, 2012.
+CrossRef
+
+12. Pollack HA: High risk pools for the sick and uninsured under health reform: too little and thus too late. J Gen Intern Med 26:91 94, 2011. CrossRef [PubMed: 20811957] 
+
+13. Young Q: Will America enact national health insurance in 2009? Medscape J Med 10:175, 2008. [PubMed: 18769683] 
+
+14. Pol L: Health insurance in rural America. Rural Policy Brief 5:1 10, 2000. [PubMed: 11688507] 
+
+15. Health insurer's denial of coverage upheld by Fifth Circuit. Irion v. Prudential Insurance Company of America . Hosp Law Newsl 10:11, 1993. [PubMed: 10183929] 
+
+16. Wilson DL: The health insurance crisis in America. Natl J (Wash) 22: 3110, 1990. [PubMed: 10108589] 
+
+17. Seifert RW, Rukavina M: Bankruptcy is the tip of a medical debt iceberg. Health Aff (Millwood) 25:w89 92, 2006. CrossRef [PubMed: 16507557] 
+
+18. Sipkoff M: Higher copayments and deductibles delay medical care, a common problem for Americans. Manag Care 19:46 49, 2010. [PubMed: 20131643] 
+
+19. Henderson JT, Hudson Scholle S, Weisman CS et al.: The role of physician gender in the evaluation of the National Centers of Excellence in Women's Health: test of an alternate hypothesis. Women Health Issues 14:130 139, 2004.
+CrossRef
+
+20. Roter DL, Hall JA: Physician gender and patient centered communication: a critical review of empirical research. Annu Rev Public Health 25:497  519, 2004.
+CrossRef [PubMed: 15015932] 
+
+21. Todd KH, Deaton C, D'Adamo AP et al.: Ethnicity and analgesic practice. Ann Emerg Med 35:11 16, 2000. CrossRef [PubMed: 10613935] 
+
+22. Eroglu SE, Toprak SN, Urgan O et al.: Evaluation of non urgent visits to a busy urban emergency department. Saudi Med J 33:967 972, 2012. [PubMed: 22964808] 
+
+23. Sommers AS, Boukus ER, Carrier E: Dispelling myths about emergency department use: majority of Medicaid visits are for urgent or more serious
+
+symptoms. Res Brief 1 10, 1 3, 2012.
+
+24. Fieldston ES, Alpern ER, Nadel FM et al.: A qualitative assessment of reasons for nonurgent visits to the emergency department: parent and health professional opinions. Pediatr Emerg Care 28:220 225, 2012.
+CrossRef [PubMed: 22344210] 
+
+25. Garrett N, Martini EM: The boomers are coming: a total cost of care model of the impact of population aging on the cost of chronic conditions in the United States. Dis Manag 10:51 60, 2007.
+CrossRef [PubMed: 17444790] 
+
+26. Hootman JM, Helmick CG: Projections of U.S. prevalence of arthritis and associated activity limitations. Arthritis Rheum 54:226 229, 2006. CrossRef [PubMed: 16385518] 
+
+27. Uphold CR, Rane D, Reid K et al.: Mental health differences between rural and urban men living with HIV infection in various age groups. J Community Health 30:355 375, 2005.
+CrossRef [PubMed: 16175958] 
+
+28. Americans with Disabilities Act of 1989: 104 Stat 327.101 336, 42 USC 12101 s2 (a) (8), 1989.
+
+29. Waddell G, Waddell H: A review of social influences on neck and back pain disability, in Nachemson AL, Jonsson E (eds): Neck and Back Pain: The Scientific Evidence of Causes, Diagnosis, and Treatment. Philadelphia, Lippincott Williams & Wilkins, 2000, pp 13 55.
+
+30. American Physical Therapy Association: Guide to Physical Therapist Practice. (ed 2). Phys Ther 81:1 746, 2001.
+
+31. Lechner D, Daly J, Maltchev K et al.: The work injured population, in Boissonnault WG (ed): Primary Care for the Physical Therapist: Examination and Triage. St Louis, Elsevier Saunders, 2005, pp 271 287.
+
+32. Schmitz TJ: Examination of the environment, in O'Sullivan SB, Schmitz TJ (eds): Physical Rehabilitation (ed 5). Philadelphia, FA Davis, 2007, pp 401 467.
+
+33. Paterson M, Mets T: Environmental assessment: home, community, and work, in Cameron MH, Monroe LG (eds): Physical Rehabilitation: Evidence Based Examination, Evaluation, and Intervention. St Louis, Saunders/Elsevier, 2007, pp 918 936.
+
+34. Mackenzie M: A simplified measure of balance by functional reach. Physiother Res Int 4:233 236, 1999. CrossRef [PubMed: 10581628] 
+
+35. Duncan PW, Weiner DK, Chandler J et al.: Functional reach: a new clinical measure of balance. J Gerontol 45:M192 M197, 1990. CrossRef [PubMed: 2229941] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

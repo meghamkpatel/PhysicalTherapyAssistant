@@ -1,0 +1,977 @@
+
+
+
+Introduction to Physical Therapy and Patient Skills?
+
+CHAPTER 9: Monitoring Vital Signs
+
+
+
+CHAPTER OBJECTIVES
+At the completion of this chapter, the reader will be able to:
+1. List the vital signs that are used to help determine a patient's status
+2. Explain the importance of monitoring each of the vital signs
+3. Describe the signs and symptoms that would warrant an assessment of the vital signs
+4. List some of the variables that can affect the accuracy of the vital signs
+5. Describe the correct techniques to assess heart rate
+6. Describe the correct techniques to assess respiration rate
+7. Describe the correct techniques to assess blood pressure
+8. Describe the correct techniques to assess temperature
+9. List the various tools that are available for the assessment of pain
+10. Describe how to respond to an emergency situation
+OVERVIEW
+The triad of pulse, respiration rate, and blood pressure is often considered as a baseline indicator of a patient's health status, which is why each is called a vital or cardinal sign. All four practice patterns in the Guide to Physical Therapist Practice1 include the measurement of pulse, blood pressure, and respiration as a routine part of any physiologic examination. Temperature is not included in the practice patterns because it is not routinely assessed by physical therapists. However, as temperature can often provide an important clue to the severity of the patient's illness, particularly the presence of infection, it is discussed in this chapter. Additional measurements of physiologic status, which are not universally considered vital signs, include the assessment of perceived exertion ratings, pain, and pulse oximetry.
+Depending on the health history and familiarity with a patient, the taking of vital signs should be a standard procedure for all patients. Clinical indicators that highlight the need for an assessment of vital signs include dyspnea, hypertension, fatigue, syncope, chest pain, irregular heart rate, cyanosis, intermittent claudication, nausea, diaphoresis, and pedal edema. Certain patient populations also warrant a vital sign assessment, including elderly patients (older than 65 years), very young patients (younger than two years), debilitated patients, patients with a history of physical inactivity, and patients recovering from recent trauma. The measurement of vital signs can be used to establish goals and to assess a patient's response to activity.
+
+
+
+
+It is worth remembering that a number of variables can influence the results of the vital signs measurements. These include caffeine consumption, alcohol consumption, tobacco use, physical activity level, medications, and the use of illegal drugs.2 The other variables that can influence the results are outlined in Table 9 1.
+TABLE 9 1
+Variables That Can Influence Vital Signs Data
+
+
+
+FIGURE 9 1
+
+
+Pulse oximeter
+
+
+HEART RATE
+When the heart muscle of the left ventricle contracts, blood is ejected into the aorta, and the aorta stretches (see Chapter 4). At this point, the wave of
+
+
+
+distention (pulse wave) is most pronounced and can be detected as a pulse at certain points around the body. The pulse rate (or frequency) is the number of pulsations (peripheral pulse waves) per minute.
+
+The pulse, measured in beats per minute (bpm), is taken to obtain information about the resting state of the cardiovascular system and the system's response to activity or exercise and recovery.13 Such information includes the resting heart rate, the pulse quality, the pulse amplitude, and the presence of any irregularities in the rhythm.13
+ Resting heart rate: The normal adult heart rate is 70 bpm, with a range of 60 to 80 bpm. A rate of greater than 100 bpm is referred to as tachycardia. Normal causes of tachycardia include anxiety, stress, pain, caffeine, dehydration, or exercise. A rate of less than 60 bpm is referred to as bradycardia. Athletes may normally have a resting heart rate lower than 60 bpm. The normal range of resting heart rate in children is between 80 and 120 bpm. The rate for a newborn is 120 bpm (normal range 70 to 170 bpm).
+ Pulse quality: The quality of the pulse refers to the amount of force created by the ejected blood against the arterial wall during each ventricular contraction.14
+ Pulse amplitude: The pulse amplitude is an indication of the heart's efficiency in pushing blood into the arteries and the pressure being placed on the vessel's walls. A high volume may result in a bounding pulse, whereas a low volume may present as a weak or thready pulse.
+ Rhythm irregularities: The pulse rhythm is the pattern of pulsations and the intervals between them.14 In a healthy individual, the rhythm is regular and indicates that the time intervals between pulse beats are essentially equal. Arrhythmia or dysrhythmia refers to an irregular rhythm in which pulses are not evenly spaced.14
+As the pulse travels toward the peripheral blood vessels, it gradually diminishes and becomes faster. In the large arterial branches, its velocity is 7 to 10 m/s; in the small arteries, it is 15 to 35 m/s.
+The pulse can be taken at a number of points including the temporal (Figure 9 2), carotid (Figure 9 3), brachial (Figure 9 4), radial (Figure 9 5), femoral (within the femoral triangle), popliteal (Figure 9 6), dorsal pedal (Figure 9 7), and posterior tibial artery (Table 9 2).
+
+FIGURE 9 2
+
+
+Pulse point temporal
+
+
+
+
+FIGURE 9 3
+
+
+Pulse point carotid
+
+
+FIGURE 9 4
+
+
+Pulse point brachial
+
+
+
+
+FIGURE 9 5
+
+
+Pulse point radial
+
+
+FIGURE 9 6
+
+
+Pulse point popliteal
+
+
+
+
+FIGURE 9 7
+
+Pulse point dorsal pedal
+
+TABLE 9 2
+Palpation Sites for Pulse Reading
+
+Pulse 
+Location 
+Radial
+The distal radial artery is located on the lateral (thumb) side of the anterior surface of the wrist.
+Carotid
+The carotid artery is located to the side of the larynx and medial to the sternocleidomastoid muscle.
+Brachial
+In an adult, the brachial artery is located in the antibrachial fossa, just medial to the biceps brachii tendon. In an infant, the brachial artery can be located at the middle of the upper arm.
+Temporal
+At a point anterior and adjacent to the ear.
+Femoral
+At the femoral triangle, slightly lateral and anterior to the inguinal crease.
+Popliteal
+At the midline of the posterior knee crease between the tendons of the hamstring muscles.
+Dorsal pedal
+Along the midline or slightly medial on the dorsum of the foot.
+Posterior tibial
+On the medial aspect of the foot inferior to the medial malleolus.
+
+
+
+On occasion, a specific pulse point site is chosen based on the patient's condition. For example, points in the lower extremity may be used if the clinician is assessing for peripheral vascular disease if there is an arterial occlusion of the knee, the pulse of the groin will be stronger than the pulse palpated on the foot. A more specific diagnosis can then be made using Doppler technology.
+
+
+
+
+One should avoid using the thumb when taking a pulse, as it has its own pulse that can interfere with detection of the patient's pulse. When taking a pulse, the fingers must be placed near the artery and pressed gently against a firm structure, usually a bone.
+
+The main objective in assessing a patient's pulse rate is to determine if any physiologic response occurs during activity. The activity in question varies greatly depending on the patient's condition and functional demands. In addition to activity, there are a number of factors that can affect the pulse rate. These include:
+ Medications. Medications can cause the pulse rate to either increase or decrease.
+ Emotional status. The pulse rate typically increases during episodes of high stress, anxiety, and fear.
+ Age. Adolescents persons and younger typically exhibit an increased rate, whereas persons older than 65 years may exhibit a decreased rate.
+ Gender. Male pulse rates are usually slightly lower than female rates.
+ Temperature of the environment. A pulse rate tends to increase with high temperature and decrease with low temperature.
+   Physical conditioning. Individuals who perform frequent, sustained, and vigorous aerobic exercise exhibit a lower than normal pulse rate. Abnormal responses to an increase in activity include the following:
+ The pulse rate does not increase, or only increases slowly.
+ The pulse rate declines before the intensity of the activity declines.
+The rate of the pulse increase exceeds the level expected for a particular activity. The pulse rate demonstrates an abnormal rhythm.
+Procedure
+
+The clinician washes his or her hands, obtains a timepiece that measures seconds, and explains the procedure to the patient. The patient is typically positioned in sitting but may also be recumbent or standing. The clinician selects an arterial site and gently places two or three fingertips over the artery. Gentle pressure is applied to the point when the patient's pulse can be detected. The count typically begins with the first beat that occurs after a time interval. For example, if the interval begins when a digital counter is at 0 seconds, "1" is the first beat felt after the 0 starting point. Alternatively, the clinician starts the time frame when the first beat is felt. The length of time for taking the pulse depends on the patient's situation. For example, the clinician can palpate for 15 seconds and multiply by 4 (or 30 seconds and multiply by 2) with a regular rhythm (evenly spaced beats), or 60 seconds for a baseline measurement, or in the presence of a regularly irregular rhythm (regular pattern overall with "skipped" beats) or irregularly irregular rhythm
+
+
+
+(chaotic, no real pattern) rhythm. The clinician documents the findings in terms of beats per minute, any variation in rhythm or volume, the location used, and the patient position.
+
+Although the simplest way to assess the heart rate is by measuring the pulse, the most accurate way to examine heart rhythm is to use an electrocardiogram (ECG or EKG).15 By placing 4 to 12 electrodes on the skin near the patient's heart, a typical ECG can provide information about the electrical activity of the heart by tracing the rate, rhythm, and waveform of normal heartbeat. This tracing is represented by a P wave, QRS complex, and T wave. The heart rate can also be monitored during a patient's activities of daily living (ADLs) through the use of a Holter monitor, a small device attached to the patient's belt that monitors the patient's heart rate through a series of electrodes placed on the patient's chest.
+
+RESPIRATION RATE
+The pulmonary or respiratory system is contained within a cagelike structure, which consists of the sternum, 12 pairs of ribs, the clavicle, and the vertebrae of the thoracic spine (see Chapter 4 and Chapter 6). The normal chest expansion difference between the resting position and the fully inhaled position is 2 to 4 cm (females > males).
+
+The primary function of the respiratory system is to exchange gases between tissue, the blood, and the environment so that arterial blood oxygen, carbon dioxide, and pH levels remain within specific limits throughout many different physiologic limits.18 The pulmonary system also plays a number of other roles, including contributing to temperature homeostasis via evaporative heat loss from the lungs and filtering, humidifying, and warming or cooling the air to body temperature.18 This process protects the remainder of the respiratory system from damage caused by dry gases or harmful debris.18
+
+
+
+
+In order for inspiration to occur, the lungs must be able to expand when stretched they must have high compliance. In order for expiration to occur, the lungs must get smaller when this tension is released they must have elasticity.
+
+The diaphragm, innervated by the phrenic nerve, is the primary muscle of inspiration, with the ribs serving as levers. In addition, the 11 internal and external intercostals, which connect one rib to the next, serve to elevate the ribs and increase thoracic volume.19
+ The external intercostals function to elevate the ribs and to increase thoracic volume.
+ The internal intercostals function to lower the ribs, thereby decreasing thoracic volume.19
+In order to inflate the lungs, the inspiratory muscles must perform two types of work: they must overcome the tendency of the lung to recoil inward; and they must overcome the resistance to flow offered by the airways.20 Therefore, any factor that affects the efficiency of the respiratory muscles will also affect the quality and quantity of respiration.
+
+When the diaphragm contracts, it descends over the abdo minal contents, flattening the dome, which causes the lower ribs to move outward, resulting in protrusion of the abdominal wall. In addition, the contracting diaphragm causes a decrease in intrathoracic pressure, which pulls air into the lungs.19
+Normal inspiration results from muscle contraction of the inspiratory muscles, which expand the chest wall and lower the diaphragm. During relaxed breathing, expiration is essentially a passive process.14 The structure of the rib cage and associated cartilages provides continuous inelastic tension, so that when stretched by muscle contraction during inspiration, the rib cage can return passively to its resting dimensions when the muscles relax.20
+Respiratory muscle activity involves multiple components of the neural, mechanical, and chemical control and is closely integrated with the cardiovascular system.14 The spontaneous neuronal activity that produces cyclic breathing originates in the respiratory centers in the dorsal region of the medulla, which is influenced by control centers in the pons. In addition to the neural influences, the automatic control of breathing is also influenced by chemoreceptors.18
+
+
+
+
+Other factors that influence respiration include14:
+ Age: the resting rate of the newborn is between 25 and 50 breaths per minute, a rate which gradually slows until adulthood, when it ranges between 12 and 20 breaths per minute.
+ Body size and stature: men generally have a larger vital capacity than women, and adults larger than adolescents and children. Tall, thin individuals generally have a larger vital capacity than stout or obese individuals.
+ Exercise: resting rate and debt increase with exercise as a result of increased oxygen demand and carbon dioxide production.
+ Body position: the recumbent position can significantly affect respiration through compression of the chest against the supporting surface and pressure from abdominal organs against the diaphragm.
+ Environment: exposure to pollutants such as gas and particle emissions, asbestos, chemical waste products, or coal dust can diminish the ability to transport oxygen.
+ Emotional stress: can result in an increased rate and depth of respirations.
+ Pharmacologic agents: any drug that depresses central nervous system (CNS) function will result in respiratory depression. Examples include narcotic agents and barbiturates. Conversely, bronchodilators decrease airway resistance and residual volume with a resultant increase in vital capacity and air flow.
+Assessment of the respiratory system involves measurement of the rate, rhythm, depth, and character of the patient's breathing using observation and palpation.
+ Rate: the rate of breathing refers to the number of breaths per minute. Normal respiration rates for an adult person at rest range from 12 to 20 breaths per minute (the normal rate for a newborn is between 25 and 50 breaths per minute). Respiration rates over 25 breaths per minute or under 10 breaths per minute (when at rest) may be considered abnormal. The expirations are normally approximately twice as long as the inspirations. The opposite occurs in conditions such as chronic obstructive pulmonary disease (COPD).
+ Rhythm: the rhythm of breathing refers to the regularity of the breathing pattern and the interval between each breath.
+Depth: the depth of breathing refers to the amount of air exchange (volume of air that is being exchanged in the lungs) with each respiration. Deep breathing is associated with greater thoracic expansion, whereas shallow breathing is associated with minimal chest expansion. The clinician should compare measurements of both the anterior posterior diameter and the transverse diameter during rest and at full inhalation.
+Character: the character of breathing refers to a deviation from normal, resting, or quiet respiration. A normal breathing response would be an increase in the respiratory rate and depth with exercise. The Borg scale of Rate of Perceived Exertion (RPE) is commonly used to assess breathing intensity based on activity (Table 9 3). An abnormal breathing response would be difficulty with breathing (dyspnea) in a patient at rest. In addition, normal breathing is barely audible. Abnormal breathing can be associated with some distinguishing characteristics (Tables 9 4 and 9  5).
+
+
+
+TABLE 9 3
+Rating of Perceived Exertion
+
+Traditional Scale
+Verbal Rating
+Revised 10 Grade Scale
+6
+No exertion at all
+0
+7
+Very, very light
+0.5
+8
+
+
+9
+Very light
+1.0
+10
+
+
+11
+Light
+
+12
+Fairly light
+2.0
+13
+Moderate
+3.0
+14
+Somewhat hard
+4.0
+15
+Hard (heavy)
+5.0
+16
+
+6.0
+17
+Very hard
+7.0
+18
+
+8.0
+19
+Very, very (extremely) hard
+9.0
+20
+Maximal (exhaustion)
+10.0
+
+
+Data from Borg GAV: Psychophysical basis of perceived exertion. Med Sci Sports Exerc 14:377 381, 1992; Borg's Perceived Exertion and Pain Scales. Champaign, IL: Human Kinetics; 1998.
+
+
+
+TABLE 9 4
+Abnormal Breathing Patterns 
+
+Pattern 
+Description
+Cheyne Stokes
+A common and bizarre breathing pattern characterized by alternating periods of apnea and hyperpnea. Typically, over a period of 1 minute, a 10  to 20 second episode of apnea or hypopnea is observed, followed by respirations of increasing depth and frequency. The cycle then repeats itself. Despite periods of apnea, significant hypoxia rarely occurs. Occurs in congestive heart failure, encephalitis, cerebral circulatory disturbances, and drug overdose, manifesting as a lesion of the bulbar center of respiration. The condition may also, however, be present as a normal finding in children, and in healthy adults following fast ascension to great altitudes, or in sleep.
+Kussmaul's breathing
+Rhythmic, gasping, and very deep type of respiration with normal or reduced frequency, associated with severe diabetic or renal acidosis or coma. Also known as air hunger syndrome.
+Hyperventilation
+Rapid breathing, often due to anxiety.
+Biot (ataxic) breathing
+Breathing that is irregular in timing and depth. It is indicative of meningitis or medullary lesions.
+Apneustic breathing
+This is an abnormal pattern of breathing characterized by a postinspiratory pause. The usual cause of apneustic breathing is a pontine lesion.
+Paradoxical respiration
+This is an abnormal pattern of breathing in which the abdominal wall is sucked in during inspiration (it is usually pushed out). Paradoxical respiration is due to paralysis of the diaphragm.
+Sleep apnea
+Sleep apnea is defined as the cessation of breathing during sleep. There are three different types of sleep apnea:
+Obstructive: the most common. Characterized by repetitive pauses in breathing during sleep due to the obstruction and/or collapse of the upper airway (throat), usually accompanied by a reduction in blood oxygen saturation, and followed by an awakening to breathe. This is called an apnea event. Respiratory effort continues during the episodes of apnea.
+Central: a neurologic condition causing cessation of all respiratory effort during sleep, usually with decreases in blood oxygen saturation. The person is aroused from sleep by an automatic breathing reflex, so may end up getting very little sleep at all. Mixed: a combination of the previous two. An episode of mixed sleep apnea usually starts with a central component and then becomes obstructive. Generally the central component of the apnea becomes less troublesome once the obstructive apnea is treated.
+
+
+
+TABLE 9 5
+Abnormal Breath Sounds 
+
+Sound 
+Description
+Crackles
+Crackles are discontinuous, explosive, "popping" sounds that originate within the airways. They are heard when an obstructed airway suddenly opens and the pressures on either side of the obstruction suddenly equilibrate, resulting in transient, distinct vibrations in the airway wall. The dynamic airway obstruction can be caused either by accumulation of secretions within the airway lumen or by airway collapse caused by pressure from inflammation or edema in surrounding pulmonary tissue. Crackles can be heard during inspiration when intrathoracic negative pressure results in opening of the airways or on expiration when thoracic positive pressure forces collapsed or blocked airways open. Crackles are heard more commonly during inspiration than expiration. They are significant as they imply either accumulation of fluid secretions or exudate within airways or inflammation and edema in the pulmonary tissue.
+Wheezes
+Continuous musical tones that are most commonly heard at end inspiration or early expiration.
+Result when a collapsed airway lumen gradually opens during inspiration or gradually closes during expiration. As the airway lumen becomes smaller, the air flow velocity increases, resulting in harmonic vibration of the airway wall and thus the musical tonal quality.
+Can be classified as either high pitched or low pitched wheezes.
+May be monophonic (a single pitch and tonal quality heard over an isolated area) or polyphonic (multiple pitches and tones heard over a variable area of the lung).
+Wheezes are significant because they imply decreased airway lumen diameter caused either by thickening of reactive airway walls or by collapse of airways due to pressure from surrounding pulmonary disease.
+Stridor
+Intense continuous monophonic wheezes heard loudest over extrathoracic airways that can often be heard without the aid of a stethoscope. These extrathoracic sounds are often referred down the airways and can often be heard over the thorax. They are often mistaken as pulmonary wheezes.
+Tend to be accentuated during inspiration when extrathoracic airways collapse due to lower internal lumen pressure. Stridor is significant and indicates upper airway obstruction.
+Stertor
+A poorly defined and inconsistently used term to describe harsh discontinuous crackling sounds heard over the larynx or trachea. Also described as a sonorous snoring sound heard over extrathoracic airways.
+Stertor is significant because it is suggestive of accumulation of secretions within extrathoracic airways.
+Rhonchi
+Abnormal dry, leathery sounds heard in the lungs, which indicate inflammation of the bronchial tubes.
+
+
+
+
+
+A number of pieces of equipment are required to assess the respiration rate, including a timing device and a tape measure. A full assessment of a patient's respiration rate includes all of the following:
+ Observation for signs or symptoms of abnormal respiration, including the quality of the breathing in relation to the patient's activity level.  Palpation of the patient's radial pulse and a recording of the pulse rate.
+ Observation of the patient's rate of breathing. The rate is usually measured when a person is at rest and simply involves counting the number of breaths for 30 seconds and multiplying the total by 2. If the total appears abnormal, the clinician should count the breaths for one minute.
+ A measurement of chest expansion with inspiration compared to the relaxed state.
+
+BLOOD PRESSURE
+Every single beat of the heart involves a sequence of interrelated events known as the cardiac cycle. The cardiac cycle consists of three major stages: atrial systole, ventricular systole, and complete cardiac diastole.
+ The atrial systole consists of the contraction of the atria. This contraction occurs during the last third of diastole and complete ventricular filling.
+ The ventricular systole consists of the contraction of the ventricles and flow of blood into the circulatory system. Once all the blood empties from the ventricles, the pulmonary and aortic semilunar valves close.
+ The complete cardiac diastole involves relaxation of the atria (atrial diastole) and ventricles (ventricular diastole) in preparation for refilling with circulating blood. End diastolic volume is the amount of blood in the ventricles after diastole, about 120 mL.
+
+
+
+Blood pressure (BP), a product of cardiac output and peripheral vascular resistance, is defined as the pressure exerted by the blood on the walls of the blood vessels, specifically arterial blood pressure (the pressure in the large arteries).
+ Peak pressure in the arteries occurs during contraction of the left ventricle (systole) and provides the clinician with a measurement called the systolic pressure.
+ The lowest pressure in the arteries occurs during cardiac relaxation when the heart is filling (diastole) and provides the clinician with a measurement called the diastolic pressure.
+The difference between systolic and diastolic pressure is called the pulse pressure. To withstand and adapt to the pressures within, arteries are surrounded by varying thicknesses of smooth muscle that have extensive elastic and inelastic connective tissues.13
+The assessment of BP provides information about the effectiveness of the heart as a pump and the resistance to blood flow. It is measured in mm Hg and is recorded in two numbers. The systolic pressure is the pressure that is exerted on the brachial artery when the heart is contracting, and the diastolic pressure is the pressure exerted on the artery during the relaxation phase of the cardiac cycle.13 BP is recorded as the systolic pressure over the diastolic pressure.
+
+
+A category of prehypertension has established more aggressive guidelines for medical intervention of hypertension. The normal values for resting BP in adults are:
+ Normal: systolic blood pressure <120 mm Hg and diastolic blood pressure <80 mm Hg
+ Prehypertension: systolic blood pressure 120 to 139 mm Hg or diastolic blood pressure 80 to 90 mm Hg
+ Stage 1 hypertension: systolic blood pressure 140 to 159 mm Hg or diastolic blood pressure 90 to 99 mm Hg
+ Stage 2 hypertension: systolic blood pressure ?160 mm Hg or diastolic blood pressure ?100 mm Hg
+
+
+
+The normal values for resting blood pressure in children are:
+ Systolic: birth to 1 month, 60 to 90 mm Hg; up to 3 years of age, 75 to 130 mm Hg; and over 3 years of age, 90 to 140 mm Hg;
+ Diastolic: birth to 1 month, 30 to 60 mm Hg; up to 3 years of age, 45 to 90 mm Hg; and over 3 years of age, 50 to 80 mm Hg.
+
+Hypertension is one of the most common worldwide diseases afflicting humans and is an important public health challenge. Regulation of normal blood pressure is a complex process. Persistent hypertension can result in organ damage to the aorta and small arteries, heart, kidneys, retina, and CNS.
+There are many physical factors that influence blood pressure:
+ Age: The normal systolic range generally increases with age. BP normally rises gradually after birth and reaches a peak during puberty. By late adolescence (18 to 19 years), adult BP is reached.14 In older adults, the rise in blood pressure is primarily because of the degenerative effects of arteriosclerosis.14
+ Rate of pumping (heart rate): the rate at which blood is pumped by the heart the higher the heart rate, the higher (assuming no change in stroke volume) the blood pressure.
+ Volume of blood: the amount of blood present in the body. The more blood present in the body, the higher the rate of blood returned to the heart and the resulting cardiac output.
+ Dehydration: a significant decrease of body fluids may cause low blood pressure.
+ Cardiac output: the rate and volume of flow product of the heart rate, or the rate of contraction, multiplied by the stroke volume, the amount of blood pumped out from the heart with each contraction the efficiency with which the heart circulates the blood throughout the body.
+ Resistance of the blood vessel walls (peripheral vascular resistance): the higher the resistance, the higher the blood pressure; the larger the blood vessel, the lower the resistance. Factors that influence peripheral vascular resistance include arteriolar tone, vasoconstriction, and to a lesser extent, blood viscosity.
+ Viscosity, or thickness, of the blood: if the blood gets thicker, the result is an increase in blood pressure. Certain medical conditions can change the viscosity of the blood. For instance, low red blood cell concentration, anemia, reduces viscosity, whereas increased red blood cell concentration increases viscosity.
+ Body temperature: an increase in body temperature causes the heart rate to increase. Conversely a decrease in body temperature causes the heart rate to decrease.
+ Arm position: BP may vary as much as 20 mm Hg by altering arm position.14 The pressure should be determined in both arms (see later).
+ Exercise: physical activity will increase cardiac output, with a consequent linear increase in blood pressure. Greater increases are noted in systolic pressure owing to proportional changes in the pressure gradient of peripheral vessels.14 Systolic readings greater than 250 mm Hg or diastolic readings greater than 115 mm Hg during exercise or other high level activity should serve as serious warnings. Similarly, a drop in the systolic pressure more than 10 mm Hg from baseline or failure of the systolic pressure to increase with an increasing workload should also give cause for concern.
+
+
+
+Valsalva maneuver: An attempt to exhale forcibly with the glottis, nose, and mouth closed.14 This results in:  An increase in intrathoracic pressure with an accompanying collapse of the veins of the chest wall
+ A decrease in blood flow to the heart, and a decreased venous return  A drop in arterial blood pressure
+When the breath is released, the intrathoracic pressure decreases, and venous return is suddenly reestablished as an overshoot mechanism to compensate for the drop in blood pressure. This causes a marked increase in heart rate and arterial blood pressure.14
+ Orthostatic hypotension: defined as a drop in systolic blood pressure within three minutes of assuming an upright position a decrease in BP below normal (a systolic blood pressure decrease of at least 20 mm Hg or a diastolic blood pressure decrease of at least 10 mm Hg) to the point where the pressure is not adequate for normal oxygenation of the tissues.13 Orthostatic hypotension can occur as a side effect of antihypertensive medications, in cases of low blood volume in patients who are postoperative or dehydrated, and in those with dysfunction of the autonomic nervous system, such as that which occurs with a spinal cord injury or post cerebrovascular accident.13 Activities that may increase the chance of orthostatic hypotension, such as application of heat modalities, hydrotherapy, pool therapy, moderate to vigorous exercise using the large muscles, sudden changes of position, and stationary standing, should be avoided in susceptible patients.13
+
+There are a number of ways that BP can be measured. The most accurate method involves placing a cannula into a blood vessel and connecting it to an electronic pressure transducer. The less accurate, but less invasive, method is the auscultation method, which uses manual measurement using a sphygmomanometer, an inflatable (Riva Rocci) cuff (Figure 9 8) placed around the upper arm, at roughly the same vertical height as the heart in a sitting person, using the brachial artery. BP measurements are usually taken on the left arm because it is physically located nearer the aorta, but the right arm can also be used (Figure 9 8).
+
+FIGURE 9 8
+
+
+Sphygmomanometer
+
+
+
+The chosen cuff must be the proper size to obtain an accurate measurement to prevent erroneous readings. The ideal cuff has a bladder length that is 80% of the arm circumference, and the width of the bladder should be 40% of the circumference of the midpoint of the limb.
+The patient should be allowed to sit quietly for 1 to 2 minutes before the measurements are taken and should not have been exercising for 15 to 30 minutes. The clinician washes his or her hands and obtains a clean stethoscope and a sphygmomanometer. The procedure is explained to the patient while the patient is positioned in sitting with the forearm supported approximately at the level of the heart, and the feet are on the floor with the legs uncrossed. The clinician exposes the antecubital space of the patient's arm while making sure that any clothing that is rolled up does not create additional constriction, and palpates the brachial pulse (see Figure 9 4) for future placement of the cuff and stethoscope diaphragm. The deflated cuff is applied to the arm with the center of the bladder over the medial aspect of the arm (approximately 2 to 3 cm or 11/2 fingerbreadths above the antecubital space) so that it will occlude the artery when it is inflated (Figure 9 9). The clinician applies the stethoscope to his or her ears with the earpieces directed forward and places the diaphragm on the skin where the brachial artery was palpated. Firm but gentle pressure is applied on the diaphragm (Figure 9 10). The clinician ensures that all of the air is out of the cuff bladder, the valve on the pump is closed, and the pressure gauge reading is zero. While listening with a stethoscope placed over the brachial artery at the elbow, the clinician uses the same hand to slowly inflate the blood pressure cuff by squeezing the bladder (Figure 9 11). The clinician uses the other hand to palpate the patient's radial pulse, and the cuff is slowly inflated until when the pressure level reaches either 20 to 30 mm Hg above the first Korotkoff sound (see Clinical Pearl) or 30 mm Hg above the point at which the radial pulse disappears. Some consider 200 mm Hg as the upper limit of inflation, but this can lead to a measurement error in patients with hypertension. At this point, the clinician uses the thumb and index finger of the hand used to squeeze the pump to slowly open the valve and release the pressure in the cuff (Figure 9 12). At the point when the clinician begins to hear a "whooshing" or pounding sound (first Korotkoff sound) the pressure reading (systolic) is noted. The cuff pressure is further released until a muffling sound can be heard (fourth Korotkoff sound).
+This is the diastolic blood pressure.
+
+FIGURE 9 9
+
+
+Placement of cuff
+
+
+
+
+FIGURE  9 10
+
+
+Diaphragm over the brachial pulse
+
+
+FIGURE  9 11
+
+
+Inflation of cuff
+
+
+
+
+FIGURE  9 12
+
+Controlled deflation of cuff
+
+
+CLINICAL PEARL 
+
+Korotkoff sounds are the sounds that medical personnel listen for when they are taking blood pressure. Korotkoff actually described five phases of sounds:
+1. The first clear, rhythmic tapping sound that gradually increases in intensity. This represents the highest pressure in the arterial system during ventricular contraction and is recorded as the systolic pressure. The clinician should be alert for the presence of an auscultatory gap, especially in patients with hypertension. An auscultatory gap is the temporary disappearance of sound normally heard over the brachial artery between phase 1 and phase 2 and may cover a range of as much as 40 mm Hg.14 Not identifying this gap may lead to an underestimation of systolic pressure and overestimation of diastolic pressure.14
+2. A murmur or swishing sound heard as the artery widens and more blood flows through the artery. This sound is heard for most of the time between the systolic and diastolic pressures.
+3. Sounds become crisp, more intense, and louder.
+4. The sound is distinct, abrupt muffling; soft blowing quality. At pressures within 10 mm Hg above the diastolic blood pressure (in children less than 13 years old, pregnant women, and in patients with high cardiac output or peripheral vasodilation), the muffling sound should be used to indicate diastolic pressure, but both muffling (phase 4) and disappearance (phase 5) should be recorded.
+5. The last sound that is heard, which is traditionally recorded as diastolic blood pressure.
+
+
+Although, the systolic blood pressure is commonly taken to be the pressure at which the first Korotkoff sound is first heard and the diastolic blood pressure reading is taken at the point at which the fourth Korotkoff sound is just barely audible, there has recently been a move toward the use of the fifth Korotkoff sound (i.e., silence) as the diastolic blood pressure, as this has been felt to be more reproducible.25, 26, 27, 28, 29 and 30 In pregnancy a fifth phase may not be identifiable, in which case the fourth is used.31, 32 and 33
+
+
+
+
+The clinician records the BP readings, including the patient position and the upper extremity used. If it is necessary to repeat the measurements, the cuff is completely deflated and the patient is permitted to sit quietly for one to two minutes before proceeding again. Once the measurements are completed, the clinician cleans the equipment in preparation for future use.
+
+
+FIGURE  9 13
+
+
+Automated digital blood pressure monitor
+
+Recently, ultrasonic BP measuring devices have been introduced. These new devices work by using mathematically based software to measure blood flow and vein or artery wall distention as the heart beats, based on images generated by the ultrasound device. The patient setup is similar to that used by the auscultation method, but instead of using a stethoscope, ultrasonic waves are reflected off the brachial artery distal to the cuff.
+
+
+
+TEMPERATURE
+Body temperature, a balance between the heat that is produced and lost in the body, is one indication of the metabolic state of an individual. Temperature measurements provide information on basal metabolic state, possible presence or absence of infection, and metabolic response to exercise.13 The "normal" core body temperature of an adult, found in the pulmonary artery, is generally considered to be 98.6 F (37 C). However, a temperature in the range of 96.5 to 99.4 F (35.8 to 37.4 C) is not at all uncommon. Fever or pyrexia is a temperature exceeding 100 F (37.7 C).21 Hyperpyrexia refers to extreme elevation of temperature above 41.1 C (or 106 F).13 Hypothermia refers to an abnormally low temperature (below 35 C or 95 F).
+In most individuals, there is a diurnal (occurring every day) variation in body temperature of 0.5 to 2 F (1 C), with the low temperature occurring before waking and the high temperature occurring about 12 hours after waking. Menstruating women have a well known temperature pattern that reflects the effects of ovulation, with the temperature increasing slightly (0.25 to 0.5 C measured in the morning) around ovulation.21 In both aging and fit individuals, there is more temperature variation during the day. Finally, whereas ingestion of meals can slightly elevate or lower core temperature, alcohol ingestion slightly lowers core temperature.
+
+The clinical measurement of temperature is merely an estimate of the true core temperature. A number of sites can be used, including the ear canal (tympanic), oral cavity, axilla, and rectum (Table 9 6).
+TABLE 9 6
+Normal Temperatures Based on Site
+
+Rectal
+36.6 C to 38 C (97.9 F to 100.4 F)
+Tympanic
+35.8 C to 38 C (96.4 F to 100.4 F)
+Oral
+35.5 C to 37.5 C (95.9 F to 99.5 F)
+Axillary
+34.7 C to 37.3 C (94.5 F to 99.1 F)
+
+
+ Rectal or tympanic measurements: commonly used with infants and unconscious patients because of the difficulty of maintaining the thermometer position at the other sites. Although there are concerns about the accuracy of tympanic measurements across all age groups,34,35 a number of studies have shown them to be reliable.36,37
+ Axillary measurement: only used when the other sites cannot be used because of its decreased accuracy.
+
+
+
+
+Oral Procedure 
+
+The oral temperature is generally taken by placing a probe thermometer under the patient's tongue. The thermometer can be a standard one (Figure 9 14) or a battery operated electronic thermometer (Figure 9 15). After washing his or her hands, the clinician inserts a clean probe into the patient's mouth, positioned under the tongue, and held in place by the lips (not with the teeth). The patient is asked to breathe through the nose. Typically, the probe remains in place for 30 to 90 seconds. Electronic devices emit an audible alarm when the temperature reaches its final value. The clinician notes the value and then removes the probe from the patient's mouth, discards the probe cover, and turns the unit off. The clinician then washes his or her hands before recording the result.
+
+FIGURE  9 14
+
+
+Standard thermometer
+
+
+FIGURE  9 15
+
+
+Battery operated electronic thermometer
+
+
+Tympanic Procedure
+
+The tympanic measurement involves placing a specially designed electronic monitor into the ear canal that reads the infrared energy emitted from the tympanic membrane (eardrum), detects when the maximum temperature has been reached, and then provides a liquid crystal display (LCD) of the temperature. The electronic monitor uses disposable, single use probe covers. Newer designs of these monitors convert the tympanic temperature to an estimated core temperature. A number of precautions must be taken when using a tympanic device. Ideally, the clinician should38,39:
+
+
+
+ Ensure that there is no excessive earwax present.
+ Confirm that the patient's ear has not been resting against a pillow or similar object. If it has, the clinician should wait for 2 to 3 minutes before taking a reading.
+ Take readings from both ears, as measurements can vary between sides. Alternatively, the clinician can take a reading from one ear and document which ear was used.
+To take a tympanic temperature, the clinician washes his or her hands before applying a clean lens filter. As appropriate, the clinician selects the correct setting (some units have both an "oral" and a "rectal" setting) and then gently but firmly pulls on the patient's ear to straighten the ear canal. For an infant, the ear is pulled straight back, whereas for anyone who is older than one year, the ear is pulled up and back. The clinician then insert the thermometer lens cone, with its clean filter applied, into the ear opening, rocking it back and forth gently to insert it far enough to seal the ear canal. The clinician then depresses and holds the activation button for one second until the temperature reading appears in the display window, and mentally records the value. The lens cone is then removed from the patient's ear and discarded. Depending on the facility, the lens filter is also discarded or is thoroughly washed before being used again. The clinician washes his or her hands and records the temperature reading.
+Rectal Procedure
+
+Specifically designed rectal thermometers are used to record rectal temperatures. After washing his or her hands, the clinician applies a lubricant to the thermometer probe, and with the patient positioned in sidelying with the hips and knees flexed, the thermometer is inserted into the rectum far enough for the probe to be within the cavity but not so far as to push into tissue resistance. The thermometer remains in place for three minutes or until the electronic device indicates completion and the temperature reading is noted. The clinician then removes and cleans the probe, washes his or her hands, and then records the temperature.
+
+THE ASSESSMENT OF PAIN
+Many clinical environments consider pain as the fifth vital sign, although strictly speaking pain is a symptom rather than a sign. Pain, always an abnormal finding, is felt by everyone at some point or other and is considered an emotional experience that is highly individualized and extremely difficult to evaluate. Pain is a broad and significant symptom that can be described in many ways. In addition, pain perception and the response to the painful experience can be influenced by a variety of cognitive processes, including anxiety, tension, depression, past pain experiences, and cultural influences.40 As described in Chapter 5, pain is commonly described as acute or chronic.
+Acute pain usually precipitates a visit to a physician, because it has not been experienced before, is severe and continuous, and is in a location that causes concern (chest, head).41,42 In addition, there may be an autonomic component to acute pain.43,44
+
+
+
+
+
+
+Chronic pain is much less intense than acute pain and can occur gradually over days or weeks.42 In general, this type of pain has been experienced previously by the patient, is located at a site that does not cause as much concern, is usually of limited duration, and is more aggravating than debilitating.46, 47, 48 and 49
+Typically chronic pain is aggravated by a specific movement or activity, and reduced with cessation of the specific movement or activity.
+
+The clinician should determine the location of the pain because this can indicate which areas need to be included in the physical examination. Information about how the location of the symptoms has changed since the onset can indicate whether a condition is worsening or improving. In general, as a condition worsens, the pain distribution becomes more widespread and distal (peripheralizes). As the condition improves, the symptoms tend to become more localized (centralized). A body chart may be used to record the location of symptoms (see Figure 9 16, later).
+
+FIGURE  9 16
+
+
+Caucasian ouchmeter to measure pain
+
+
+
+
+Although pain measurement does not provide a direct measure of a patient's physiologic status, it can provide important information to aid in diagnosis, prognosis, and intervention planning. Although largely subjective, pain assessment can be made more quantitative by using a variety of visual and verbal pain scales.
+
+One of the simplest methods to quantify the intensity of pain is to use a 10 point visual analog scale (VAS). The VAS is a numerically continuous scale that requires the pain level be identified by making a mark on a 100 mm line, or by circling the appropriate number in a 1 to 10 series (Table 9 7).50 The patient is asked to rate his or her present pain compared with the worst pain ever experienced, with 0 representing no pain, 1 representing minimally perceived pain, and 10 representing pain that requires immediate attention.51 A modification of the VAS, which involves asking the patient to
+
+
+
+rate their pain from 0 to 10 with 0 corresponding to no pain and 10 indicating the maximum possible pain, is commonly used.
+TABLE 9 7
+Patient Pain Evaluation Form
+
+
+
+Because pain is variable in its intensity and quality, describing pain is often difficult for the patient. The McGill Pain Questionnaire (MPQ),52 designed in 1971 to use verbal descriptors to assess the intensity and quality of the patient's symptoms, is now widely used in pain research and practice (see Table 5 9). A patient first selects a single word from each group that best describes his or her pain, and then reviews the list to select three words from groups 1 10 that best reflect their pain, two words from groups 11 15, a single word from group 16, and then a single word from groups 17 20. Upon completion, the patient will have selected seven words that best describe his or her pain.53 The implication is that each word chosen reflects a particular sensory quality of pain.
+The patient is also asked to highlight on a body diagram.
+A similar scale to the MPQ is the modified somatic perception questionnaire (MSPQ), a simple 13 item four point self report scale (Table 9 8), which is used to measure somatic and autonomic perception. The MSPQ has a minimum score of zero and a maximum score of 39. The higher the score the greater the somatic symptoms.
+TABLE 9 8
+Modified Somatic Perceptions Questionnaire
+
+
+
+
+Please describe how you have felt during the PAST WEEK by marking a check mark (?) in the appropriate box. Please answer all questions. Do not think too long before answering.
+
+Not at All 
+A Little, Slightly 
+A Great Deal, Quite a Bit 
+Extremely, could not have been Worse 
+Heart rate increase
+
+
+
+
+Feeling hot all over
+
+
+
+
+Sweating all over
+
+
+
+
+Sweating in a particular part of the body
+
+
+
+
+Pulse in neck
+
+
+
+
+Pounding in head
+
+
+
+
+Dizziness
+
+
+
+
+Blurring of vision
+
+
+
+
+Feeling faint
+
+
+
+
+Everything appearing unreal
+
+
+
+
+Nausea
+
+
+
+
+Butterflies in stomach
+
+
+
+
+Pain or ache in stomach
+
+
+
+
+Stomach churning
+
+
+
+
+Desire to pass water
+
+
+
+
+Mouth becoming dry
+
+
+
+
+Difficulty swallowing
+
+
+
+
+Muscles in neck aching
+
+
+
+
+Legs feeling weak
+
+
+
+
+Muscles twitching or jumping
+
+
+
+
+Tense feeling across forehead
+
+
+
+
+Tense feeling in jaw muscles
+
+
+
+
+
+
+Downloaded 2024 3 16 1:36 P Your IP is 155.33.135.27 CHAPTER 9: Monitoring Vital Signs,
+ 2024 McGraw Hill. All Rights Reserved. Terms of Use   Privacy Policy   Notice   Accessibility
+
+
+Page 28 / 38
+
+
+
+
+Source: Main C, Wood P, Hillis S, et al. The Distress and Risk Assessment Method. A simple patient classification to identify distress and evaluate the risk of poor outcome. Spine 1992;17: 42 52.
+A number of pain rating scales exist for use with infants and children. The pain of infants can be assessed using a tool such as the FLACC (face, legs, activity, cry, and consolability), which is an observational scale assessing pain behaviors quantitatively with preverbal patients. Physiologic and behavioral responses to nociceptive or painful stimuli can also be used.55 Physiologic manifestations of pain include increased heart rate, heart rate variability, blood pressure, and respirations, with evidence of decreased oxygenation (cyanosis).55
+For the assessment of children, two common scales are currently used:
+ Faces Pain Rating Scale.56 This 0 to 5 scale consists of a series of six pictures of cartoonlike faces expressing various facial expressions from crying (Hurts worst 5) to smiling (No hurt 0). The child is asked to point to the face that best describes his or her pain.
+ The Oucher Scales.57 There are two ethnically based self report Oucher scales; a (0 to 100) number scale for older children and a photographic scale for younger children (aged 3 to 5) (Figure 9 16). Children who are able to count to 100 by ones or tens and who understand, for example, that 72 is larger than 45 can use the numerical scale. Children who do not understand numbers should use the picture scale. The Oucher picture scale has three versions Caucasian, African American, and Hispanic that are suitable for children. Although this covers a wide variety of patients, females are not represented, nor are several other cultures. The scale uses six photographs of a child's face representing "no hurt" to "biggest hurt you can ever have" and includes a vertical scale with numbers from 0 to 10.
+EMERGENCY FIRST AID
+An emergency situation, whether characterized by unresponsiveness, an acute medical condition, drug intoxication, or trauma, demands a rapid response and management. A logical, sequential priority system must be implemented immediately. All healthcare employees who are involved in patient care should be aware of the emergency procedures of the facility in which they work and should be qualified to provide first aid in the case of an emergency. Most healthcare facilities have a series of emergency codes to indicate the occurrence of an emergency. For example:
+ Code blue may represent a flood.
+ Code amber may represent child abduction.  Code red may represent a fire.
+ Code black may represent a cardiac arrest.
+
+It is not uncommon these days for patients to wear a medical alert bracelet or necklace, which inform others of any medical conditions, allergies, health history, medication needs, and so forth.
+
+
+
+
+Physical therapists must be able to recognize the signs and symptoms that are associated with a medical emergency. Signs and symptoms of some common medical emergencies include:
+ Difficulty breathing, shortness of breath.
+ Chest or upper abdominal pain or pressure lasting two minutes or more.
+ Loss of consciousness, fainting, unexplained nausea, sudden dizziness, or sudden weakness.
+ Seizure. Any patient who convulses without a known cause should be evaluated and treated carefully.  Incontinence of bowel or bladder without a known cause.
+ Signs of a major burn.
+ Reports of changes in vision.  Difficulty speaking.
+ Confusion or changes in mental status, unusual behavior, difficulty waking. Any sudden or severe pain.
+Head pain that lasts longer than five minutes. Uncontrolled bleeding.
+Shock symptoms, such as confusion, disorientation, and cool/clammy, pale skin. Severe or persistent vomiting or diarrhea.
+Coughing or vomiting blood.
+Unusual abdominal pain.
+Suicidal or homicidal feelings.
+
+
+
+Certain patient populations, such as the elderly, debilitated persons, and persons with cognitive deterioration, spinal cord injury, chronic respiratory condition, an acute/chronic cardiac condition, or acute/chronic diabetes.
+
+Each physical therapy department has a number of policies and procedures regarding environmental, employee, and patient safety that are included in the unit's policy/procedure or safety manual. The typical contents of this manual are outlined in Table 9 9.
+TABLE 9 9
+Typical Contents of an Environmental, Employee, and Patient Safety Manual
+
+The initial response by the physical therapist should be an assessment of the patient's physiologic status performed in a sequence referred to as the ABCs (airway, breathing, circulation) for babies, and CAB (circulation, airway, breathing) for every other age group. The letters D (Disability neurologic status) and E (Exposure expose the sites of all injuries) follow (Table 9 10).
+TABLE 9 10
+Situations That Require First Aid and Appropriate Action
+
+
+Situation
+Description
+Appropriate Action 
+
+
+Anaphylaxis
+A life threatening allergic reaction that can cause shock, a sudden drop in blood pressure and trouble breathing.
+Immediately call 911 or facility's emergency number.
+Ask the person if he or she is carrying an epinephrine autoinjector to treat an allergic attack.
+Have the person lie still on his or her back and loosen tight clothing and cover the person with a blanket. Don't give the person anything to drink.
+If there's vomiting or bleeding from the mouth, turn the person on his or her side to prevent choking. If there are no signs of breathing, coughing, or movement, begin cardiopulmonary resuscitation (CPR).
+
+
+Autonomic hyperreflexia
+Occurs in individuals with a relatively recent complete injury to the cervical and upper thoracic portions of the spinal
+Immediately look for and remove any potential causes of any noxious stimuli below the level of the spinal cord lesion including bladder distention caused by urine retention, fecal impaction, tight straps from an orthosis or urine retention bag, localized pressure, open pressure ulcers, or exercise. The person should be placed in a sitting or semirecumbent
+
+
+
+
+
+
+cord down to the T6 cord level. Signs and symptoms include severe hypertension, bradycardia, and profuse diaphoresis above the level of the cord lesion.
+position (not supine) and monitored.
+
+
+
+
+Burn, including chemical burn
+The severity of the burn depends on the extent of damage to body tissues.
+For minor burns, including first degree burns and second degree burns limited to an area no larger than 3 inches (7.6 cm) in diameter, cool the burn by holding the burned area under cool (not cold) running water for 10 or 15 minutes or until the pain subsides. If this is impractical, immerse the burn in cool water or cool it with cold compresses.
+Cooling the burn reduces swelling by conducting heat away from the skin. Do not put ice on the burn. Next, cover the burn with a sterile gauze bandage. Wrap the gauze loosely to avoid putting pressure on burned skin.
+For major burns (third degree), call 911 or the facility's emergency number. Until an emergency unit arrives, do not remove burned clothing, but make sure the victim is no longer in contact with smoldering materials or exposed to electricity, smoke, or heat. Do not immerse large, severe burns in cold water as this can cause a drop in body temperature (hypothermia) and deterioration of blood pressure and circulation (shock). Cover the area of the burn. Use a cool, moist, sterile bandage; clean, moist cloth; or moist towels. When possible, elevate the burned body part or parts above heart level. Check for signs of circulation (breathing, coughing or movement). If there is no breathing or other sign of circulation, begin CPR.
+
+
+
+
+Cardiac arrest/heart attack
+A cardiac arrest occurs as a result of cessation of normal circulation of the blood due to failure of the heart to contract effectively.
+A heart attack occurs when blood flow to the muscle of the heart is impaired.
+All healthcare practitioners should be trained and certified to perform CPR and should be recertified every two years. The emergency services should be contacted as quickly as possible (before initiating CPR). If an automated external defibrillator (AED) is available, it should be applied after two cycles of CPR. CPR should be continued until medical assistance arrives or the person show signs of recovery.
+
+
+
+
+Chemical splash in the eye
+A number of chemicals used in the clinic can be very corrosive.
+Immediately flush the eye with water. Use clean, lukewarm tap water for at least 20 minutes, and use whichever of these approaches is quicker:
+Get into a shower and, while holding the affected eye or eyes open, aim a gentle stream of lukewarm water on the forehead over the affected eye, or direct the stream on the bridge of the nose if both eyes are affected. Hold the affected eye or eyes open.
+Place the head down and turn it to the side. Or, ask the person to hold the affected eye open under a gently running faucet.
+
+
+
+
+Choking
+Occurs when a foreign object gets lodged in the throat or esophagus, blocking the flow of air.
+To ensure that choking is occurring, determine whether the individual is demonstrating an inability to talk, difficulty breathing, and an inability to cough forcefully or whether the skin, lips, and nails are turning blue or dusky.
+If choking is occurring, first, deliver five back blows between the person's shoulder blades with the heel of your hand. Next, perform five abdominal thrusts (Heimlich
+maneuver). The Heimlich maneuver is performed by standing behind the person and
+
+
+
+
+
+
+
+wrapping your arms around their waist. The person is then tipped slightly forward. Making a fist with one hand, position it slightly above the person's navel and, while grasping the fist with the other hand, press hard into the abdomen with a quick, upward thrust (as if trying to lift the person up). Alternate between five back blows and five abdominal thrusts until the blockage is dislodged. If the person becomes unconscious, attempt to remove the blockage and perform CPR.
+
+
+Convulsions/seizures
+Occurs as a result of an electrical imbalance in the brain.
+The person should be protected from injury as a result of violent or excessive movements of the extremities, and to protect the person's modesty of privacy.
+
+
+Fainting
+Occurs when the blood supply to the brain is momentarily inadequate, resulting in a temporary loss of consciousness.
+Position the person on his or her back. If the person is breathing, restore blood flow to the brain by raising the person's legs above heart level about 12 inches (30 cm) if possible. Loosen belts, collars, or other constrictive clothing. If the person doesn't regain consciousness within one minute, call 911 or your local emergency number. In addition, check the person's airway to be sure it's clear. If vomiting occurs, turn the patient on his/her side. Check for signs of circulation (breathing, coughing, or movement). If absent, begin CPR. Call 911 or your local emergency number. Continue CPR until help arrives or the person responds and begins to breathe.
+
+
+Fractures
+Occurs when damage to the bone is sufficient to interrupt its continuity.
+The objectives are to protect the fracture site and avoid further injury to it, prevent shock, and reduce pain, and prevent wound contamination if the bone ends have penetrated the skin. The clinician should apply support to the site to stabilize it, but should not attempt to align the bone ends. Any open fracture site should be covered with a sterile towel or dressing. If a spinal fracture is suspected, the clinician should use extreme caution and be sure to maintain the head and neck in a neutral position.
+
+
+Cardiac arrest
+Occurs when an artery supplying the heart with blood and oxygen becomes partially or completely blocked. A heart attack generally causes chest pain for more than 15 minutes, but it can also have no symptoms at all.
+Call 911 or your local emergency medical assistance number. If possible, have the person chew and swallow an aspirin, unless he or she is allergic to aspirin. Begin CPR.
+
+
+Heat illness
+A number of heat illnesses exist including:
+Heat stroke a body temperature of greater than 40.6 C (105.1 F) due to environmental heat exposure with lack of thermoregulation and inadequate fluid intake. Symptoms include dry skin, rapid, strong pulse and dizziness.
+Heat exhaustion can be a
+precursor of heat stroke; the symptoms include
+Move the person out of the sun and into a shady or air conditioned space. Call 911 or emergency medical help. Cool the person by covering him or her with damp sheets or by spraying with cool water. Direct air onto the person with a fan or newspaper. Have the person drink cool water or other nonalcoholic beverage without caffeine, if he or she is able.
+
+
+
+
+
+heavy sweating, rapid breathing, and a fast, weak pulse.
+Heat syncope fainting as a result of overheating.
+Heat edema swelling of the digits.
+Heat cramps muscle pains or spasms when exercising in hot weather. Heat rash skin irritation from excessive sweating. Heat tetany usually results from short periods of stress in intense heat. Symptoms may include hyperventilation, respiratory problems, numbness or tingling, or muscle spasms.
+
+
+
+Insulin related illnesses
+Hypoglycemia occurs when the blood sugar level is too low.
+Hyperglycemia occurs when the blood sugar level is too high.
+The goal is to restore the person to a normal insulin glucose state and to remove, correct, or compensate for the cause of the condition.
+Hypoglycemia: if the person is conscious, provide some form of sugar (e.g., orange juice), and monitor the individual.
+Hyperglycemia: this is the more serious of the two as it can lead to a diabetic coma and death. Ideally, an injection of insulin should be given.
+
+
+REFERENCES
+
+1. Guide to Physical Therapist Practice. Second Edition. American Physical Therapy Association. Phys Ther 81:9 746, 2001.
+
+2. Lewis PS: Cardiovascular assessment, in Ruppert SD, Dolan JT, Kernicki JG (eds): Dolan's Critical Care Nursing: Clinical Management Through the Nursing Process (ed 2). Philadelphia, FA Davis, 1996, pp 142 163.
+
+3. Davis MP, Walsh D: Cancer pain: how to measure the fifth vital sign. Cleve Clin J Med 71:625 632, 2004. CrossRef [PubMed: 15449757] 
+
+4. Salcido RS: Is pain a vital sign? Adv Skin Wound Care 16:214, 2003. CrossRef [PubMed: 14581812] 
+
+5. Sousa FA: [Pain: the fifth vital sign]. Rev Lat Am Enfermagem 10:446 447, 2002. CrossRef [PubMed: 12817400] 
+
+6. Lynch M: Pain: the fifth vital sign. Comprehensive assessment leads to proper treatment. Adv Nurse Pract 9:28 36, 2001. [PubMed: 12420497]
+
+
+
+
+7. Lynch M: Pain as the fifth vital sign. J Intraven Nurs 24:85 94, 2001. [PubMed: 11836838] 
+
+8. Merboth MK, Barnason S: Managing pain: the fifth vital sign. Nurs Clin North Am 35:375 383, 2000. [PubMed: 10873249] 
+
+9. Torma L: Pain the fifth vital sign. Pulse 36:16, 1999. [PubMed: 10614473] 
+
+10. Pain as the fifth vital sign. J Am Optom Assoc 70:619 620, 1999.
+
+11. Joel LA: The fifth vital sign: pain. Am J Nurs 99:9, 1999.
+
+12. McCaffery M, Pasero CL: Pain ratings: the fifth vital sign. Am J Nurs 97:15 16, 1997. [PubMed: 9025664] 
+
+13. Bailey MK: Physical examination procedures to screen for serious disorders of the low back and lower quarter, in Wilmarth MA (ed): Medical Screening for the Physical Therapist. Orthopaedic Section Independent Study Course 14.1.1 La Crosse, Wisc, Orthopaedic Section, APTA, Inc, 2003, pp 1 35.
+
+14. Schmitz TJ: Vital signs, in O'Sullivan SB, Schmitz TJ (eds): Physical Rehabilitation (ed 5). Philadelphia, FA Davis, 2007, pp 81 120.
+
+15. DeTurk WE, Cahalin LP: Electrocardiography, in DeTurk WE, Cahalin LP (eds): Cardiovascular and Pulmonary Physical Therapy: An Evidence Based Approach. New York, McGraw Hill, 2004, pp 325 359.
+
+16. Boudet G, Chamoux A: Ability of new heart rate monitors to measure normal and abnormal heart rate. J Sports Med Phys Fitness 41:546 553, 2001. [PubMed: 11687776] 
+
+17. Boudet G, Chamoux A: Heart rate monitors and abnormal heart rhythm detection. Arch Physiol Biochem 108:371 379, 2000. CrossRef [PubMed: 11094388] 
+
+18. Shaffer TH, Wolfson MR, Gault JH: Respiratory physiology, in Irwin S, Tecklin JS (eds): Cardiopulmonary Physical Therapy (ed 2). St Louis, Mosby, 1990, pp 217 244.
+
+19. Collins SM, Cocanour B: Anatomy of the cardiopulmonary system, in DeTurk WE, Cahalin LP (eds): Cardiovascular and Pulmonary Physical Therapy: An Evidence Based Approach. New York, McGraw Hill, 2004, pp 73 94.
+
+20. Van de Graaff KM, Fox SI: Respiratory system, in Van de Graaff KM, Fox SI (eds): Concepts of Human Anatomy and Physiology. New York, WCB/McGraw Hill, 1999, pp 728 777.
+
+21. Judge RD, Zuidema GD, Fitzgerald FT: Vital signs, in Judge RD, Zuidema GD, Fitzgerald FT (eds): Clinical Diagnosis (ed 4). Boston, Little, Brown and Company, 1982, pp 49 58.
+
+22. Huber MA, Terezhalmy GT, Moore WS: White coat hypertension. Quintessence Int 35:678 679, 2004. [PubMed: 15366535] 
+
+23. Chung I, Lip GY: White coat hypertension: not so benign after all? J Hum Hypertens 17:807 809, 2003. CrossRef [PubMed: 14704723] 
+
+24. Alves LM, Nogueira MS, Veiga EV et al.: White coat hypertension and nursing care. Can J Cardiovasc Nurs 13:29 34, 2003. [PubMed: 14508916]
+
+
+
+
+25. O'Sullivan J, Allen J, Murray A: The forgotten Korotkoff phases: how often are phases II and III present, and how do they relate to the other Korotkoff phases? Am J Hypertens 15:264 268, 2002.
+CrossRef [PubMed: 11939618] 
+
+26. Venet R, Miric D, Pavie A et al.: Korotkoff sound: the cavitation hypothesis. Med Hypotheses 55:141 146, 2000. CrossRef [PubMed: 10904431] 
+
+27. Weber F, Anlauf M, Hirche H et al.: Differences in blood pressure values by simultaneous auscultation of Korotkoff sounds inside the cuff and in the antecubital fossa. J Hum Hypertens 13:695 700, 1999.
+CrossRef [PubMed: 10516740] 
+
+28. Paskalev D, Kircheva A, Krivoshiev S: A centenary of auscultatory blood pressure measurement: a tribute to Nikolai Korotkoff. Kidney Blood Press Res 28:259 263, 2005.
+CrossRef [PubMed: 16340219] 
+
+29. Perloff D, Grim C, Flack J et al.: Human blood pressure determination by sphygmomanometry. Circulation 88:2460 2470, 1993. CrossRef [PubMed: 8222141] 
+
+30. Strugo V, Glew FJ, Davis J et al.: Update: Recommendations for human blood pressure determination by sphygmomanometers. Hypertension 16:594, 1990.
+CrossRef [PubMed: 2228159] 
+
+31. Higgins JR, Walker SP, Brennecke SP: Re: Which Korotkoff sound should be used for diastolic blood pressure in pregnancy? Aust N Z J Obstet Gynaecol 38:480 481, 1998. [PubMed: 9890245] 
+
+32. Likeman RK: Re: Which Korotkoff sound should be used for diastolic blood pressure in pregnancy? Aust N Z J Obstet Gynaecol. 38:479 480, 1998. CrossRef [PubMed: 9890244] 
+
+33. Franx A, Evers IM, van der Pant KA et al.: The fourth sound of Korotkoff in pregnancy: a myth. Eur J Obstet Gynecol Reprod Biol 76:53 59, 1998. CrossRef [PubMed: 9481548] 
+
+34. Kelly G: Body temperature variability (Part 1): a review of the history of body temperature and its variability due to site selection, biological rhythms, fitness, and aging. Altern Med Rev 11:278 293, 2006. [PubMed: 17176167] 
+
+35. Editors of Nursing: Take care with tympanic temperature readings. Nursing 37:52 53, 2007.
+
+36. Sener S, Karcioglu O, Eken C et al.: Agreement between axillary, tympanic, and mid forehead body temperature measurements in adult emergency department patients. Eur J Emerg Med 19:252  256, 2011.
+CrossRef
+
+37. Purssell E, While A, Coomber B: Tympanic thermometry normal temperature and reliability. Paediatr Nurs 21:40 43, 2009. CrossRef [PubMed: 19623803] 
+
+38. Barton SJ, Gaffney R, Chase T et al.: Pediatric temperature measurement and child/parent/nurse preference using three temperature measurement instruments. J Pediatr Nurs 18:314 320, 2003.
+CrossRef [PubMed: 14569579] 
+
+
+
+39. Rush M, Wetherall A: Temperature measurement: practice guidelines. Paediatr Nurs 15:25 28, 2003. CrossRef [PubMed: 14669698] 
+
+40. Denegar CR, Donley PB: Impairment due to pain: Managing pain during the rehabilitation process, in Voight ML, Hoogenboom BJ, Prentice WE (eds): Musculoskeletal Interventions: Techniques for Therapeutic Exercise. New York, McGraw Hill, 2007, pp 99 110.
+
+41. Dray A: Inflammatory mediators of pain. Br J Anaesth 75:125 131, 1995. CrossRef [PubMed: 7577246] 
+
+42. Wiener SL: Differential Diagnosis of Acute Pain by Body Region. New York, McGraw Hill, 1993, pp 1 4.
+
+43. Adams RD, Victor M: Principles of Neurology (ed 5). New York, McGraw Hill, Health Professions Division, 1993.
+
+44. Chusid JG: Correlative Neuroanatomy & Functional Neurology (ed 19). Norwalk, Conn, Appleton Century Crofts, 1985, pp 144 148.
+
+45. Judge RD, Zuidema GD, Fitzgerald FT: Musculoskeletal system, in Judge RD, Zuidema GD, Fitzgerald FT (eds): Clinical Diagnosis (ed 4). Boston, Little, Brown and Company, 1982, pp 365 403.
+
+46. Bonica JJ: Neurophysiological and pathological aspects of acute and chronic pain. Arch Surg 112:750 761, 1977. CrossRef [PubMed: 16580] 
+
+47. Burkhardt CS: The use of the McGill Pain Questionnaire in assessing arthritis pain. Pain 19:305, 1984. CrossRef [PubMed: 6472875] 
+
+48. Chaturvedi SK: Prevalence of chronic pain in psychiatric patients. Pain 29:231 237, 1987. CrossRef [PubMed: 3614960] 
+
+49. Dunn D: Chronic regional pain syndrome, type 1: Part I. AORN J 72:421 424, 426, 428 432, 435, 437 442, 444 449, 452 458, 2000. CrossRef
+
+50. Huskisson EC: Measurement of pain. Lancet 2:127, 1974.
+
+51. Halle JS: Neuromusculoskeletal scan examination with selected related topics, in Flynn TW (ed): The Thoracic Spine and Rib Cage: Musculoskeletal Evaluation and Treatment. Boston, Butterworth Heinemann, 1996, pp 121 146.
+
+52. Melzack R: The McGill Pain Questionnaire: Major properties and scoring methods. Pain 1:277, 1975. CrossRef [PubMed: 1235985] 
+
+53. Melzack R, Torgerson WS: On the language of pain. Anaesthesiology 34:50, 1971. CrossRef
+
+54. Liebenson C: Pain and disability questionnaires in chiropractic rehabilitation, in Liebenson C (ed): Rehabilitation of the Spine: A Practitioner's Manual. Baltimore, Lippincott Williams & Wilkins, 1996, pp 57 71.
+
+55. Kahn D'Angel L, Unanue Rose RA: The special care nursery, in Campbell SK, Vander Linden DW, Palisano RJ (eds): Physical Therapy for Children (ed 3). St Louis, Saunders, 2006, pp 1053 1097.
+
+56. Hockenberry MJ, Wilson D, Winkelstein ML: Wong's Essentials of Pediatric Nursing (ed 7). St Louis, Mosby, 2004.
+
+
+
+
+57. Beyer JE, Denyes MJ, Villarruel AM: The creation, validation, and continuing development of the Oucher: a measure of pain intensity in children. J Pediatr Nurs 7:335 346, 1992. [PubMed: 1479552] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

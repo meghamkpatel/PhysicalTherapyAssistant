@@ -1,0 +1,1394 @@
+
+
+
+Introduction to Physical Therapy and Patient Skills?
+
+CHAPTER 13: Patient Transfers and Mobility
+
+
+
+CHAPTER OBJECTIVES
+At the completion of this chapter, the reader will be able to:
+1. Understand the importance of choosing the most efficient and safest method of transfer and mobility task
+2. Determine the best transfer or mobility procedure based on the level of patient dependence or independence
+3. Discuss the importance of patient safety during transfers and mobility tasks
+4. Discuss the importance of clinician safety during transfers and mobility tasks
+5. Transfer a patient to and from a number of different types of surfaces
+6. Perform a variety of mobility tasks
+7. Describe the various wheelchair components and their functions
+8. Measure a patient for a wheelchair
+9. Train a patient in how to use a wheelchair
+OVERVIEW
+A transfer can be viewed as the safe movement of a person from one place or surface to another, and as an opportunity to train an individual to enhance independent function. In both cases the clinician must choose the most efficient and safest method.
+Controlling a patient's movement, while moving the patient from one position, or surface, to another, or preventing a patient falling requires that the clinician be close to the center of motion (COM) of the patient, which is typically located between the shoulders and the pelvis. When these points of control are used, patient transfers are more efficient and patient safety is enhanced. The most efficient way to enhance the movement of the patient (unless he or she is totally dependent) is to encourage movement of the distal component of the body the part of the body that is farthest from the trunk. For example, when assisting a patient to stand from a seated position, a common verbal cue is to ask the patient to lean his or her trunk forward. In addition, it is also important to have the patient look in the direction of the transfer's destination to encourage correct head turning.
+PATIENT TRANSFERS
+One of the purposes of transfers is to permit a patient to function in different environments and to increase the level of independence of the patient. Because of advancements in recent years, a number of moving and lifting devices (total body lifts and sit to stand lifts) have been designed and incorporated into the healthcare system. However, because of the expense and sometimes the inconvenience of these devices, manual transfers continue to be commonly used. In these cases, the best body mechanics possible should be used to maximize the ability to encompass a task with minimal effort and maximum safety (see Chapter 10). It is important to note that certain transfers increase the risk for injury (Table 13 1), necessitating additional care and attention. Depending on the functional ability of the patient, a transfer may be performed independently by the patient, with assistance from the clinician (minimal, moderate, maximal, or standby supervision), or dependently (Table 13 2).
+
+
+
+TABLE 13 1
+Transfer Techniques and Their Risk for Injury from the Least to Most Stressful
+
+Data from Garg A, Owen BD, Carlson B: An ergonomic evaluation of nursing assistants' job in a nursing home. Ergonomics 35:979 995, 1992. TABLE 13 2
+Levels of Physical Dependence and Recommended Assists
+
+Level of Dependence 
+
+Definition
+
+Recommended Assist 
+Independent
+The patient does not require any assistance to complete the task safely and in an acceptable time frame.
+None
+Modified independent assisted
+The patient uses adaptive or assistive equipment (furniture, bed rail, grab bars, transfer board)
+Gait or transfer belt Assistive device
+Assisted
+The patient requires assistance (oral or tactile cues) from another person to perform the activity safely and in an acceptable time frame
+Gait or transfer belt Assistive device
+Standby (supervision)
+The patient requires oral or tactile cues from another person position close to, but not touching, the person to perform the activity safely and in an acceptable time frame.
+Gait or transfer belt Assistive device
+Contact guard
+The patient requires the clinician to maintain contact with the patient or safety belt to complete the task. Contact guard is usually needed to assist if there is a loss of balance.
+Gait or transfer belt Assistive device
+Minimal assist
+The patient requires 25% assist from the clinician to complete the task.
+Stand assist lift Transfer board
+Gait or transfer belt
+Moderate assist
+The patient requires 50% assist from the clinician to complete the task.
+Stand assist lift
+Maximal assist
+The patient requires 75% assist from the therapist to complete the task.
+Mechanical lift with full sling Stand assist lift
+Dependent
+The patient is unable to participate, and the clinician must provide all of the effort to perform the task.
+Mechanical lift with full sling Transfer chair that can be converted into a stretcher
+
+
+
+
+
+
+CLINICAL PEARL 
+
+During a sit to stand transfer, a number of forces occur. These include: Gravity.
+The combined weight of the clinician's trunk, arms, and head (TAH), which is approximately 65% of the total weight of the body. The moment arm (MA) for TAH (TAHMA) is the perpendicular distance between gravity's line of action acting on the TAH to the axis.
+The force required to extend the clinician's trunk, which is borne by the erector spinae muscles (Mu). The moment arm for Mu is the perpendicular distance between the line of action of Mu and the axis (MAMu).
+The weight of the patient (depends on the level of assistance required).
+There are two options for the lower extremities: Keeping the knees extended
+Flexing the knees
+To calculate the difference in forces that the erector spinae muscles of the trunk of an individual weighing 160 pounds (712 N) must generate between the two lower extremity positions (excluding the weight of the patient), a few simple mathematical equations can be used:
+Knees extended:
+TAH = 712   0.65 = 463 N MATAH = 0.5 m; MAMu = 0.04 m
+Mu = (TAH   MATAH)/MAMu = (463 N   0.5 m)/0.04 m = 5782 N (approximately 1300 pounds) Knees flexed:
+TAH = 712   0.65 = 463 N
+MATAH = 0.25 m; MAMu = 0.04 m
+Mu = (TAH   MATAH)/MAMu = (463 N   0.25 m)/0.04 m = 2894 N (approximately 650 pounds)
+
+
+A number of factors influence the decision as to how a transfer is to be performed and how many helpers are needed (Table 13 3). In addition to the factors listed in Table 13 3, the clinician should consider the following before performing a transfer:
+
+
+
+
+
+
+
+
+
+
+
+
+
+TABLE 13 3
+Factors That Influence Decision Making for Transfers
+
+Factor 
+Example 
+Influences on Decision
+Patient
+Weight, cooperation, level of fear, physical capabilities, movement precautions, head control, pain level, and any external device
+Small movements generally allow for greater control over both the movement and any equipment. More assistance generally allows for greater control and support.
+Environment
+The proximity of the transfer surfaces, the height differences between the two surfaces, and the width of the two transfer surfaces
+The two transfer surfaces should be arranged so that the clinician can maintain an upright position that minimizes trunk flexion, can achieve good trunk stability, and can perform the transfer with an unobstructed path.
+Task
+The type of transfer and the objective of the transfer
+The type of transfer is largely determined by the patient's capabilities so that the patient can assist as much as possible.
+
+
+ The patient's level of cognition, emotional capability, and physical ability.
+ How much assistance the clinician requires. When in doubt, a second person should be used.  The appropriate equipment should be arranged before the transfer.
+ Correct positioning of both the patient and the clinician. The clinician should maintain a large base of support (BOS) and use proper body mechanics throughout the transfer.
+A patient's medical or physical condition may require modification to a transfer technique. For example, range of motion restrictions, decreased muscle control, and poor balance may require an adaptation to the transfer technique. In the case of decreased muscle control, it is generally easier for the patient to transfer toward the stronger side.
+Before meeting the patient, the clinician should review the medical record to determine the patient's limitations and abilities. In addition, when appropriate, the clinician should interview the patient's family for information as to their abilities. Physical abilities to consider include gross motor strength and control, joint and soft tissue flexibility, sitting and standing endurance, and sitting and standing balance. The major muscle groups involved with transfers include the elbow extensors and flexors, the shoulder extensors and flexors, and the hip and knee extensors. Having reviewed the medical record and talked to the patient's family, and with consideration of the goals of the treatment, the clinician must determine whether mechanical or human assistance will be needed. The types of equipment that can be used in transfers include but are not limited to a trapeze bar, a transfer board, a transfer/gait belt, and a hydraulic or pneumatic lift/hoist.
+ Trapeze bar. Consists of a metal triangle, a chain, and clamps and is used to assist patients to maneuver in bed by pulling with one or both upper extremities.
+Transfer boards. These items, which come in a variety of shapes and sizes, are most commonly used for horizontal transfers such as when transferring from the bed to a wheelchair, or a wheelchair to a mat table.
+Transfer/gait belt. As a patient's activities advance to those tasks requiring a higher COM, a smaller BOS, and an increased demand in dynamic stability, the risk of falling increases. These belts provide an alternative method of providing a control point near the center of the patient's body during transfers in situations when direct manual contacts cannot be safely maintained. In some settings, transfer belts may be required equipment.
+Hydraulic or pneumatic lift/hoist. These pieces of equipment (Figure 13 1), which are commonly referred to as Hoyer lifts, are designed for a number of uses such as to help transport patients from a bed to a chair, wheelchair, or toilet, or to assist a patient to stand from a seated position. Their operation can be manual, through the use of a pump handle, or electric. Each lift is fitted with caster wheels to aid in positioning and
+
+
+
+maneuvering, and the base of the lift can be widened to fit around a wheelchair or other equipment. In addition, each lift has a sling made of a variety of fabrics and designs on which the patient rests. The sling is attached to a spreader bar on the lift by two chains with hooks, and the length of the chain can be adjusted to accommodate the height of the patient.
+FIGURE  13 1
+
+
+Hydraulic or pneumatic lift/hoist
+
+
+Transfers require movements that move the center of gravity (COG) away from the center of the BOS for both the patient and the clinician. These movements have the potential of causing a loss of balance. After the introduction to the patient, it is important to inform the patient of what transfer is to occur and why.
+
+Setting the feet in stride and slightly apart provides a larger BOS. The clinician's feet should also be unencumbered to move as the situation requires, always allowing the BOS to be reestablished under the moving COG. Crossing of the clinician's legs during movement should be avoided because it decreases the size of the BOS and constrains freedom of foot movement.
+Patients must know what they are to do and when they are to do it during transfers to participate effectively. Any instructions must be kept simple,
+
+
+
+informative, and in a terminology that the patient can understand. Medical terms should be used only when the patient readily understands them. Verbal explanation and demonstration should be used to highlight the expectations and transfer sequence. Having the patient repeat the instructions ensures that the patient understands them. If necessary, instruct the patient in smaller segments of the transfer before performing the entire transfer. Manual contacts can be used with the patient to direct his or her participation during the transfer.
+Commands and counts can be used to help synchronize the various components of the transfer. The typical command and count used is "one, two, three, lift." It is important to remember that a transfer is not considered complete until the patient is safe in the new position, at which point the transfer team can release control of the patient.
+The most common transfers are described in this chapter.
+Transfer from Bed to Wheeled Stretcher Sliding Method
+The clinician informs the patient about what is to take place and then positions the wheeled stretcher parallel to, against, and at approximately the same height as the bed. Whenever possible, the surface to which the patient is being transferred should be made a little lower than the surface the patient is being transferred from. It is also important to ensure that the height of the transfer surface is appropriate for the people performing the transfer. As a general rule, this is at waist level. The cart is positioned on the patient's uninvolved side. The bed rails and stretcher rails are lowered and both the bed and the stretcher are secured using wheel locks or other appropriate devices. If the patient can move without assistance, the stretcher is stabilized and the clinician merely provides verbal assistance. If the patient is unable to assist in the transfer, three or more able bodied individuals are needed to perform the transfer using a draw sheet. The draw sheet is placed under the patient and is then rolled and grasped close to the patient by each clinician (Figure 13 2). The three clinicians are positioned so that two of them are on the side to which the patient is moving, which is the same side as the wheeled stretcher (see Figure 13 2), and the other clinician, whose main function is to help guide the direction of the transfer, is on the other side of the bed (VIDEO 13 1). When all three clinicians are positioned correctly, the clinician at the head of the bed takes responsibility for coordinating the transfer and issuing the various commands. During the first lift, the patient is pulled toward the edge of the side of the bed in the direction of the transfer (Figure 13 3), then to the edge of the bed (Figure 13 4), and finally onto the cart (Figure 13 5).
+VIDEO 13 1 Sheet Transfer Bed to Wheeled Stretcher 
+
+Play Video
+
+FIGURE  13 2
+
+
+Clinician positioning in preparation for sliding transfer
+
+
+
+
+FIGURE  13 3
+
+
+Patient is moved toward the wheeled stretcher
+
+
+FIGURE  13 4
+
+
+Patient is moved to the edge of the bed
+
+
+
+
+FIGURE  13 5
+
+Patient is moved onto the wheeled stretcher
+
+
+A number of devices have recently been introduced that minimize the level of physical assistance by the clinician. These include:
+ Rigid or semirigid transfer boards. These friction reducing devices are made of a variety of materials and have handles along the edge of the board in the form of openings.
+ Patient roller. This is a mechanical device that consists of multiple rollers placed within a rigid frame and enclosed in a cover. This device is commonly used to transfer patients from wheel stretchers to surgical tables.
+ Slippery sheet. This is essentially a nylon flat sheet, coated with a low friction solution, with handles on the sides.
+ Air assistive device. This device consists of an upper and a lower air chamber, both of which are mechanically inflated to create a cushioned film of air underneath the patient, thereby reducing friction.
+Transfer from Bed to Wheeled Stretcher Three Person Carry
+This technique is used when the bed and wheeled stretcher cannot be arranged either parallel to each other or at a safe height distance. The clinicians involved in the transfer must remove all jewelry to prevent scratching the patient. One of the three clinicians positions the cart perpendicular to the bed with the head of the cart at the foot end of the bed. Alternatively, the cart can be positioned perpendicular to the bed with the foot of the cart at the head of the bed. The three clinicians stand on the same side of the bed and are positioned in such a way that one can support the head and upper trunk of the patient, one can support the midsection of the patient, and one can support the lower extremities (Figure 13 6). Ideally, the strongest clinician is in the middle position or at the head. The clinician at the head of the bed takes responsibility for coordinating the transfer and issuing the various commands. When the three clinicians are positioned correctly, each of them slides both arms under the patient so that the elbows rest on the treatment table and the patient is cradled from head to foot (Figure 13 7). Each clinician places one foot in front of the other and, on the first lift command, the patient is moved to the edge of the bed. Then, by flexing the elbows, the clinicians roll the patient onto his or her side as in a log roll, so
+
+
+
+that the patient is now cradled in the bend of the clinicians' elbows, which brings the weight of the patient closer to the center of the clinicians' BOS (Figure 13 8). On the second lift command, the clinicians simultaneously stand and lift the patient. On the command to pivot, the clinicians pivot and line up parallel to the cart, moving forward in a straight line until all three clinicians feel the edge of the wheeled stretcher against their thighs. Again each clinician places one foot in front of the other and, on the command to lower the patient, the clinicians bend their legs until the elbows rest on the edge of the stretcher (Figure 13 9) and then slowly uncradle the patient onto the center of the wheeled stretcher (Figure 13 10). Once the patient is positioned correctly, the clinicians remove their arms from under the patient, and the rails of the stretcher are raised (Figure 13 11).
+FIGURE  13 6
+
+
+Clinician positioning for three person carry
+
+
+FIGURE  13 7
+
+
+Patient is cradled in clinicians' arms
+
+
+FIGURE  13 8
+
+
+Patient is rolled toward the clinicians
+
+
+
+
+FIGURE  13 9
+
+
+Patient is lowered onto the wheeled stretcher
+
+
+FIGURE  13 10
+
+
+Patient is rolled onto the wheeled stretcher
+
+
+
+
+FIGURE  13 11
+
+Patient position after transfer with side rails raised
+
+Transfer from Bed to Chair Using Hydraulic/Pneumatic Lift
+The clinician moves the lift close to the patient and detaches the sling. The clinician first places a rolled sling under the patient by rolling the patient onto one side. The sling is positioned so that the seams are on the outside, away from the patient, to avoid pressure areas. Once the rolled sling is positioned correctly, the patient is then rolled to the other side, and the sling is unrolled. The clinician positions the lift so that the spreader bar is across the patient, and both ends of the chain are then attached to their respective sides of the sling. The shorter segment of each chain is attached to the upper part of the sling, which is the part that supports the patient's back. The longer segment of each chain is attached to the lower part of the sling, which is the part that supports the patient's lower extremities. The chain hooks are attached from inside the sling to the outside to reduce the likelihood of patient injury by the hook. Once the chains have been attached, the clinician begins the operation of lifting the patient, using the lift to move the patient into a sitting position. Once the patient is secured in the sitting position, the clinician uses one arm under the patient's lower extremities to assist the patient's lower extremities off the bed so that the patient is fully suspended by the lift. While the clinician prevents the patient from swaying excessively, the patient is moved to a locked wheelchair, the base of the lift is placed in the wide position, and the lift is maneuvered so that the patient is over the seat of the locked wheelchair. The clinician then operates the lift to slowly lower the patient into the wheelchair while applying a slight pressure in the horizontal plane at the patient's knees or thighs to place the patient into the wheelchair correctly so that the patient's back is resting firmly against the back of the wheelchair. Once the patient is correctly and safely seated in the wheelchair, the chains are removed from the sling and, after checking that the patient is capable of sitting without assistance, the clinician moves the hydraulic lift safely away from the patient. Depending on when the next transfer is to take place, the sling may be left in situ depending on the design of the sling. One piece slings are left in place under the patient, whereas the portion behind the patient's back in a two piece sling can be removed.
+WHEELCHAIR MOBILITY
+A wheelchair is a medical device in the form of a postural support system on wheels that is used by people for whom walking is difficult or impossible because of illness or disability. Whenever possible, every attempt should be made to design the wheelchair to provide the patient with maximum function, comfort, stability, safety, and protection while also reducing the amount of force required to propel the wheelchair. Fortunately, wheelchairs are now available in a variety of sizes and styles, and wheelchair design continues to improve in both safety and construction.
+Wheelchairs can be grouped into several classes: indoor (small wheelbase to allow maneuvering in confined spaces, but lacks the ability or power to negotiate obstacles), indoor/outdoor (provides mobility for those who stay on finished surfaces, such as sidewalks, driveways, and flooring), and active indoor/outdoor (provides the ability to travel long distances, move fast, and drive over unstructured environments such as grass, gravel, and uneven terrain). Wheelchair fitting is highly individualized and requires a team effort among the physiatrist, neurologist, or orthopedist; occupational or physical therapist; the specialist in assistive technology and driver training; and rehabilitation technology providers. When helping choose a wheelchair, a few considerations must be taken into account. These considerations are both patient and design based. The patient considerations
+
+
+
+include:
+ Patient needs. These needs can include recreational, social, or vocational needs. Depending on the patient's age, peer acceptance may be a patient need. An individual's needs can change with time, so it is well worth asking questions about any anticipated future needs, prognosis, or change.
+ Mobility needs. It is important for the clinician to take time to observe the patient and the current wheelchair to determine how well the wheelchair is serving the patient's mobility needs. Questions should be asked about locomotion requirements for the home and community.
+ Physical abilities. Manual wheelchairs require a significant amount of strength and endurance to operate, so it is important for the clinician to help choose a wheelchair that will not hinder mobility because of a patient's physical limitations. It is also important to determine the patient's ability to alter his or her own position, especially over bony prominences.
+ Sensory awareness. The clinician must determine whether the patient has any impaired peripheral circulation, abnormal skin integrity, or neurologic dysfunction.
+ Dexterity and coordination. Many of the components of the wheelchair, such as the brakes and seatbelt on a standard wheelchair, require a fair degree of dexterity and coordination on the part of the patient.
+   Anthropometric characteristics. Of particular importance are the patient's height and weight (see Wheelchair Measurements, later). The design considerations (see Wheelchair Components, later) include:
+ Wheelchair weight  Seating system
+ Armrest style
+ Front rigging (leg rests and footplates)  Frame
+ Drive wheels  Tires
+ Casters
+ Manual versus power source  Expected use of the chair
+ Length of time the chair will be used temporary or permanent
+When combined, all of the listed design components add to the overall weight of a wheelchair. The more popular wheelchairs range in weight from 25 pounds (ultralight) to 45 pounds (standard).
+All wheelchairs should be kept in good working order to ensure patient safety, ease of use, control of repair costs, and extended life of the chair. This may include regular lubrication, tire care, spoke maintenance, and lock maintenance. The owner's manual is an important resource and provides information about which parts of the wheelchair have a warranty, how to take care of the wheelchair, and where to buy replacements or accessories.
+Wheelchair Components
+The choice of which of the various wheelchair components should be used is based on the patient's needs and abilities. With each choice there are positives and negatives. For example, the clinician often has to choose between stability and mobility, or between size and maneuverability. It is
+
+
+
+therefore important for the clinician to make the patient aware not only of the available options but also of the advantages and disadvantages of each.
+Frame
+
+Stainless steel tubing used to be the only frame material available and made the wheelchair very heavy. However, wheelchair users today have their choice of aluminum, airplane steel, aluminum, and titanium. A standard wheelchair (Figure 13 12) with a fixed box frame can be designed to support up to 1000 pounds. However, because the frame is fixed, it results in less shock absorption. Next in terms of durability are wheelchairs with folding frames, which are constructed with a cross brace design. This design allows the right and left sides of the chair to be brought together for ease in transportation and compact storage. Although the folding frame wheelchair provides better suspension than a fixed box frame wheelchair, it requires more energy to propel than the rigid frame design ones.
+
+FIGURE  13 12
+
+
+Standard wheelchair frame
+
+
+In general, the lighter the weight of the frame, the greater the ease of use, but the lesser the structural strength provided. The level of expected activity and the environment where the wheelchair will be used should be taken into account when deciding on frame construction.
+
+Items such as a headrest, lateral trunk support, back panel, armrest trough, and lower extremity supports can be added to a chair to accomplish specific goals. The clinician should observe the position of the head, trunk, pelvis, knees, and feet of the patient in the wheelchair, in addition to determining the patient's sitting balance, stability, reaching ability, ability to change positions, transferability, and preferred method of propulsion.
+Upholstery
+
+Upholstery for wheelchairs must withstand daily use in all kinds of weather. Consequently, manufacturers provide a variety of options to users,
+
+
+
+ranging from cloth to new synthetic fabrics to leather. Many manufacturers also offer a selection of upholstery colors, ranging from black to neon, to allow for individual selection and differing tastes among consumers.
+Seating System
+
+Most standard wheelchairs come with a rigid or sling seat. However, as it is the seat that provides postural support to the patient, the seating system is considered to be one of the most important of the wheelchair components. For example, a sling seat encourages a forward head posture, the hips to slide forward, the thighs to adduct and internally rotate, and the patient to sit asymmetrically, which reinforces poor pelvic position. The aim of proper seating and positioning is to promote function, prevent secondary complications, prevent deformity, improve body alignment, and prevent tissue damage.
+
+Whenever possible, seating must be customized on an individual basis, and in most cases seating surfaces are purchased separately from the wheelchairs themselves. Generally speaking, there are two types of cushions:
+ Uniform cushions. These cushions are fabricated from wood or plastic and padded with foam. They create a stable firm sitting surface, improve pelvic position, and reduce the tendency for the patient to slide forward or sit with a posterior pelvic tilt. Foam cushions are lighter but can also be bulky.
+ Contoured cushions. These cushions, which can be inflatable or made from a gel like substance, function to distribute weight bearing pressures, which assists in preventing decubitus ulcers in patients with decreased sensation, prolongs wheelchair sitting times, and accommodates moderate to severe postural deformities. The inflatable cushions are light, whereas the gel cushions are heavy, more expensive, and require continuous maintenance. However, gel cushions can be custom molded, are designed to accommodate moderate to severe postural deformity, and make it easy for caregivers to reposition the patient.
+
+
+Backrest
+
+As with seat cushion systems, backrests come in rigid and sling varieties. The standard height backrest provides support to the mid scapula region. A number of modifications can be made to suit the user:
+A lower back height may increase functional mobility typically seen in sports chairs but may also increase back strain.
+Lateral trunk supports: improve trunk alignment for patients with scoliosis or poor stability.
+Insert or contour backs: improve trunk extension and overall upright alignment.
+A high back height may be necessary for patients with poor trunk stability or with extensor spasms.
+Reclining wheelchairs. These are designed with an extended back and typically with elevating leg rests. The angle of the back is adjusted by releasing knobs on the side of the wheelchair. A head support is required on a reclining back wheelchair. A bar across the back of the reclining wheelchair provides support and stability. The purpose of the reclining wheelchair is to allow intermittent or constant reclined positioning.
+Reclining wheelchairs are indicated for patients who are unable to independently maintain an upright sitting position. The chairs can be controlled either manually or electrically (if the patient cannot do active push ups or pressure relief maneuvers).
+
+
+
+ Tilt in space. A chair that is designed to allow for a reclining position without losing the required 90  of hip flexion and 90  of knee flexion. This type of chair is indicated for patients with extensor spasms that may throw the patient out of the chair, or for pressure relief.
+Armrests
+
+In addition to providing a place to rest the arms and to support the upper body, correctly positioned armrests also decrease the weight on the buttocks. Armrests are available in several styles depending on the patient's needs, from the standard armrest to the desk length, full length, or wraparound.
+ Desk length. This design, in which one portion of the armrest's length is lower than the remaining portion to allow the user closer access to desks and tables, also allows the patient to remove and reverse the armrest so that the higher part is closer to the front edge in order to aid in pushing to standing. The disadvantage of this type of armrest is that they provide less forearm support and are generally more expensive.
+ Full length. These are designed to support the entire length of the forearm and are usually preferable if the patient weighs over 250 pounds.
+   Wraparound (space saver). This design reduces the overall width of the chair by 1 ?. The height of the armrests can also be adjustable.
+Armrests are usually designed to be fixed or removable. Fixed armrests usually result in a lighter and narrower wheelchair, whereas removable armrests are important for patients who will be performing lateral transfers in and out of a wheelchair or for those who wish to sit closer to a table or desk. The removable armrests (Figure 13 13) are typically released using a lever, latch, or pushbutton.
+
+FIGURE  13 13
+
+
+Removable armrest
+
+
+Many lightweight manual chairs are designed without armrests, which makes it easier for the user to roll up to a desk or table and to perform transfers, in addition to providing a streamlined look. In general, armrests increase the overall width of a wheelchair and decrease the mechanical advantage of the patient's arm position for propelling.
+Front Rigging
+
+
+
+The front rigging of a wheelchair (Figure 13 14), which consists of a footplate attached to either a foot rest or and elevating leg rest, provides support for the lower extremities.
+FIGURE  13 14
+
+
+Front rigging of a wheelchair
+
+ Footplate. A footplate (Figure 13 15) is standard equipment on a wheelchair. For rigid frame chairs, the footplates are usually incorporated into the frame of the chair as part of the design. Cross brace folding chairs often have footplates that swivel, flip up (Figure 13 16), and/or can be removed. Footplates can be adjusted to accommodate the patient's foot and provide a resting base for the feet, so that the feet are in neutral with a knee flexed to 90 . The angle of the footplate can be customized depending on a patient's needs. For example, wheelchair athletes prefer to have a slight inward angle for increased maneuverability. Heel loops can be fitted to help maintain the foot position and prevent posterior sliding of the foot. Ankle and calf straps can be added to stabilize the feet onto the footplates. Toe loops may also be used when the patient has difficulty maintaining the foot on the footplate in a forward direction.
+ Leg rests. The standard leg rest positions the lower extremities at an angle of 70  from the horizontal plane. As with other wheelchair components, leg rests also come in a variety of designs including swing away, removable, and elevating.
+ Swing away (Figure 13 17). This design facilitates in transfers and a clear front approach to the wheelchair when ambulating. The leg rests are snapped into place during wheelchair mobility. The disadvantage of this type of leg rest is that the leg rests are not lockable in the away position, which may allow the leg rest to swing back against the leg.
+ Removable. These can be fully detached from the wheelchair, which can enable the patient to maneuver in smaller spaces and makes the wheelchair easier to transport. The disadvantage of this type of leg rest is that they may be lost.
+Elevating (Figure 13 18). This design can be used when the patient is unable to flex the knee, for postural support, or when a dependent leg contributes to lower extremity edema. The position of the leg rest, which can be raised and fixed at any angle from 90  to 0 , is adjusted by pushing down on a lever on the side of the chair. Articulating leg rests allow the length of the leg rest to be adjusted to accommodate the full length of the patient's leg and to provide a padded calf support. This type of leg rest is suitable for patients with an arthrodesis of the knee, orthostatic hypotension, or a leg cast. Elevating leg rests can typically be released from the wheelchair or pivoted to one side during transfers. Elevated leg rests are contraindicated for patients with hypertonicity or adaptive shortening of the hamstrings. One of the disadvantages of this type of leg rest is that it increases the wheelchair's overall length and weight, which can have a negative impact on maneuverability and transportability.
+
+FIGURE  13 15
+
+
+Wheelchair footplate
+
+
+
+
+
+FIGURE  13 16
+
+
+Wheelchair footplate flipped up
+
+
+FIGURE  13 17
+
+
+Swing away leg rest
+
+
+
+
+FIGURE  13 18
+
+
+Elevating leg rest
+
+
+Wheels
+
+Most wheelchairs use four wheels: two large drive wheels (standard spokes or spokeless) at the back (fitted with an outer rim that allows for hand grip and propulsion) and two smaller ones (casters) at the front (Figure 13 19).
+
+FIGURE  13 19
+
+
+Wheelchair caster
+
+
+
+
+The standard sizes for the drive wheel of a manual wheelchair are 22, 24, and 26 inches. However, smaller and larger wheel sizes are also available. For example, powered wheelchairs often incorporate a 10 inch wheel drive design.
+Wheels that are fitted with an outer rim, referred to as a pushrim or handrim, enable patients to propel themselves without having to place their hands directly on the tires. For patients with only one functional arm, two outer rims can be fitted on one wheel so that arm drive achieves both forward and backward propulsion.
+Projections (vertical, oblique, or horizontal) can be attached to the rims to facilitate with propulsion for patients with poor handgrip. However, the horizontal and oblique extensions add to the overall width of the chair and may reduce maneuverability.
+The drive wheels are positioned nearly perpendicular to the floor in a standard wheelchair, but in chairs requiring more stability and agility, the wheels are often angled in.
+
+Tires 
+
+The tires used for the rear wheels may be solid hard rubber, pneumatic inflatable, semi pneumatic, or radial. In general, solid tires are well suited for indoor use and require less energy to propel. The pneumatic tires provide a smoother ride and increased shock absorption and, if fitted with treads, can allow a patient to traverse uneven terrain. However, pneumatic tires require correct inflation for efficient propulsion and effective application of wheelchair locks. In addition, pneumatic tires are subject to blowouts, although newer designs have solid inserts that make them puncture proof and help to maintain inflation at the expense of being heavier.
+Casters
+
+Casters, the smaller wheels at the front of the wheelchair, vary in size (ranging from 2 to 8 inches in diameter) and composition (pneumatic, solid
+
+
+
+rubber, plastic, or a combination of these). The function of the casters is to allow changes in direction. Large casters create more stability, whereas small casters increase maneuverability. Caster locks can be added to facilitate wheelchair stability during transfers.
+Wheel Locks
+
+Wheel locks or brakes (Figure 13 20) are an important safety feature and must be engaged for all transfers in and out of the chair. The majority of wheel locks consist of a lever system with a cam, or a ratchet. Extensions may be added to increase the ease of both locking and unlocking. When a wheelchair has a reclining back, an additional brake is necessary. A hill holder is a mechanical brake that allows the chair to go forward, but automatically applies the brakes when the chair goes into reverse.
+
+FIGURE  13 20
+
+
+Wheelchair lock
+
+
+Axle
+
+The position of the axle affects the stability and maneuverability of the wheelchair as it determines the drive wheel position. For example, if the front and back wheels are closer together, the wheelchair is more nimble but also more challenging to control. The more recent wheelchair models have adjustable axles.
+
+Seatbelts
+
+Seatbelts can be used for safety or for positioning:
+ Restraining belts are used to prevent patients from falling out of the wheelchair.
+ Seatbelts can be fitted to grasp over the pelvis at a 45  angle to the seat to help position the pelvis. An additional belt can also be added to provide lateral or medial support at the hip and knee to maintain alignment of the lower extremities and/or control spasticity.
+Powered Chairs
+
+This type of chair, which uses a power source (battery) that propels the wheelchair, is usually prescribed for patients who are not capable of self 
+
+
+
+propulsion or who have very low endurance. The battery is stored on the chair. Microprocessors allow the control of the wheelchair to be adapted to various controls (joystick, head, breath). Recent changes in the power bases have allowed for such innovations as power seat functions (power tilt, recline, elevating leg rest, seat elevator), and control interfaces (mini joysticks, head controls). Power wheelchair bases can be classified in one of three categories, based on the drive wheel location relative to the system's center of gravity:
+ Rear wheel drive. In this base design, the drive wheels are located behind the user's COG, and the casters are located in the front, providing predictable drive characteristics and stability. In general, a rear wheel drive allows a chair to move more rapidly than a front wheel drive wheelchair.
+ Mid wheel drive. In this design, the drive wheels are directly below the user's COG and the chair generally has a set of casters or antitippers in the front and rear of the drive wheels. The advantage of this system is a smaller turning radius. The disadvantage is a tendency to rock or pitch forward, especially with sudden stops or fast turns. In addition, this type of design can get stuck going over obstacles.
+ Front wheel drive. In this design, the drive wheels are located in front of the user's COG. This design provides stability and a tight turning radius, and the ability to climb obstacles or curbs more easily than a chair with a rear wheel drive. One of the disadvantages of this design is its rearward COG, which makes it difficult to drive in a straight line, especially on uneven surfaces.
+The disadvantages of power wheelchairs are that they:  Are more expensive
+ Are difficult to transport
+ Have a battery that requires charging
+
+Pediatric Wheelchairs
+
+Children with cerebral palsy, spina bifida, or osteogenesis imperfecta may be candidates for either manual or power wheelchairs, depending on upper extremity strength, rate of fatigue, cognitive abilities, and family circumstances. Those with spinal muscular dystrophy, arthrogryposis, or high level spinal cord injuries and those with progressively worsening Duchenne's muscular dystrophy are typically immediate candidates for powered mobility. Key decisions concerning wheelchair design must be a team effort.
+A pediatric wheelchair must have approximately 4 inches of available space in the frame to accommodate growth. In addition, the seating system should be flexible enough to accommodate tonal or postural changes. Examples of flexibility in the system involve the placement of laterals, which are often attached to tracks, or the backrest can include T nuts placed throughout the back to allow easy hardware mounting. Pediatric chairs often employ linear seating systems (to accommodate the delicate balance between providing contours in the system and accommodating growth) versus molded seats, which are more difficult to increase in size. Similarly, a contoured backrest is more accommodating and provides more contact surface and thus more comfort. Caregivers should be made aware of the proper use of all accessories, including head supports and upper chest supports.
+One must also always consider the aesthetic appeal of the wheelchair. Where possible, the wheelchair should reflect the patient's individuality and personality.
+Wheelchair Measurements
+
+
+
+A correctly sized wheelchair contributes to the patient's overall function and well being by preventing complications, enhancing posture, and optimizing mobility. The range of available pelvic and hip movements as they relate to spinal and pelvic alignment should be determined. To measure the patient for a wheelchair, the patient should be positioned supine on a firm surface in the 90 90 90 position (90  of hip flexion, 90  to 100  of knee flexion, and neutral 90  ankle position) (Table 13 4). The lower extremities must be well supported by the clinician in this position. It is important that the clinician maintain the tape measure in a straight line from one endpoint to the other, rather than allowing the tape to follow the contours of the patient's body, as the latter method will distort the results. The degree of knee flexion must be determined so that the influence of the hamstring muscle group is eliminated.1 Range of motion measurements should include hip flexion, abduction, adduction, and internal and external rotation; their effect on pelvic position and general body alignment should be noted as well.
+TABLE 13 4
+Wheelchair Measurements
+
+
+Dimension 
+
+Guidelines 
+Average Size
+Seat height
+The seat to floor height affects many functional activities, including the ability to eat and work at standard height tables and
+Bariatric:
+
+desks and the ability to use the lower extremities to propel the wheelchair. The measurement is taken from the sole of the
+19.5 20.5
+
+patient's usual footwear to the popliteal fold. If the wheelchair will be propelled, this distance will be used as a seat height.
+inches
+
+However, if the patient will not be using the feet to propel the wheelchair, 2 inches is added to this measurement to allow
+Adult:
+
+clearance between the footplate and the floor. If the patient will be sitting on a cushion, the thickness of the cushion needs to
+18 20.5
+
+be considered in the measurement, bearing in mind that a 3 inch thick cushion may compress to 1 inch under the patient's
+inches.
+
+body weight.
+Sports:
+
+
+Front,
+
+
+16 22
+
+
+inches;
+
+
+rear, 13 
+
+
+23 inches
+
+
+Pediatric:
+
+
+15 21
+
+
+inches
+
+
+Hemi/low
+
+
+seat:
+
+
+15.5 17.5
+
+
+inches.
+
+
+Reclining:
+
+
+19.5 
+
+
+19.75
+
+
+inches
+Seat depth
+This is the most critical measurement for pelvic position and is also the most common measurement for error because the
+Bariatric:
+
+upper leg length varies according to how the patient is sitting. If the patient is allowed to sacral sit during the measurement,
+15.75 
+
+the upper leg measurement will be falsely high; this is why this measurement should be made with the patient positioned in
+17.5
+
+supine. The measurement is taken from the patient's posterior buttock/mat surface along the lateral thigh to the popliteal
+inches
+
+fold. Approximately 2 inches are subtracted from this measurement to avoid pressure from the edge of the seat against the
+Adult:
+
+popliteal space.
+16 18
+
+
+inches
+
+
+Sports:
+
+
+10 20
+
+
+
+
+
+
+inches
+
+
+
+
+
+
+Pediatric:
+
+
+
+
+
+
+8 18
+
+
+
+
+
+
+inches
+
+
+
+
+
+
+Hemi/low
+
+
+
+
+
+
+seat:
+
+
+
+
+
+
+15.5 17.5
+
+
+
+
+
+
+inches
+
+
+
+
+
+
+Reclining:
+
+
+
+
+
+
+16 18
+
+
+
+
+
+
+inches
+
+
+
+
+Seat width
+Measurement taken of the widest aspect of the patient's buttocks, hips or thighs, while taking into account the patient's
+Bariatric:
+
+
+
+
+
+customary clothing. 1 2 inches is added to this measurement so as to provide space for bulky clothing, orthoses, or clearance
+16 30
+
+
+
+
+
+of the trochanters from the armrest side panel. It is important to remember that the greater the seat width, the more difficult
+inches
+
+
+
+
+
+it is to propel the chair and to navigate it through small spaces. To improve the accuracy of this measurement, a book can be
+Adult:
+
+
+
+
+
+placed gently against each of the patient's hips and a measurement taken between the inner edges of the books.
+14 18
+
+
+
+
+
+
+inches
+
+
+
+
+
+
+Sports:
+
+
+
+
+
+
+12 20
+
+
+
+
+
+
+inches
+
+
+
+
+
+
+Pediatric:
+
+
+
+
+
+
+10 16
+
+
+
+
+
+
+inches
+
+
+
+
+
+
+Hemi/low
+
+
+
+
+
+
+seat: 16 
+
+
+
+
+
+
+30 inches
+
+
+
+
+
+
+Reclining:
+
+
+
+
+
+
+14 22
+
+
+
+
+
+
+inches
+
+
+
+
+Seat back
+The height of the seat back determines the level of postural support provided to the patient. For a medium height back, the
+Bariatric:
+
+
+
+
+height
+measurement is taken from the seat of the chair to the floor of the axilla with the patient's shoulder flexed to 90 . 4 inches is
+16 inches
+
+
+
+
+
+subtracted from this measurement to allow the final back height to be below the inferior angles of the scapulae.
+Adult: As
+
+
+
+
+
+NB: This measurement will be affected if a seat cushion is to be used the patient should be measured while seated on the
+required
+
+
+
+
+
+seat cushion, or the thickness of the cushion must be considered by adding that value to the actual measurement.
+Sports:
+
+
+
+
+
+
+9 20
+
+
+
+
+
+
+inches
+
+
+
+
+
+
+Pediatric:
+
+
+
+
+
+
+8 16
+
+
+
+
+
+
+inches
+
+
+
+
+
+
+Hemi/low
+
+
+
+
+
+
+seat: 16
+
+
+
+
+
+
+inches
+
+
+
+
+
+
+Reclining:
+
+
+
+
+
+
+22 24
+
+
+
+
+
+
+inches
+
+
+
+
+Armrest
+Measurement taken from the seat of the chair to the olecranon process with the patient's elbow flexed to 90 . 1 inch is added
+Bariatric:
+
+
+
+
+height
+to this measurement.
+As
+
+
+
+
+
+
+NB: This measurement will be affected if a seat cushion is to be used the patient should be measured while seated on the
+required
+
+
+
+seat cushion, or the thickness of the cushion must be considered by adding that value to the actual measurement.
+Adult: 5 
+
+
+
+
+12 inches
+
+
+
+
+Sports:
+
+
+
+
+None
+
+
+
+
+Pediatric:
+
+
+
+
+4.5 6.75
+
+
+
+
+inches
+
+
+
+
+Hemi/low
+
+
+
+
+seat: 5 
+
+
+
+
+12 inches
+
+
+
+
+Reclining:
+
+
+
+
+5 12
+
+
+
+
+inches
+
+
+
+Data from Dreeben, O: Physical Therapy Clinical Handbook for PTAs. London, Jones & Bartlett, 2008.
+
+Once range of motion is documented, a linear measurement of seat depth should be determined.
+Once examination in the supine position is completed, the patient should be placed in a supported sitting position with the knees flexed to 100  or more to eliminate the influence of the hamstring muscle group. Ideally, seated examination should be done on a simulator, a chair specifically designed for planar seated examinations. If a simulator is not available, the measurement can be done on the mat table with a thin front edge to allow 100  of knee flexion. The clinician should confirm the fit of a new or existing wheelchair by observation, questioning the patient, and physical assessment of the patient's posture and mobility. For example, the thighs should be parallel to the floor, the knees should be at the same height as the hips, and the feet should be flat on the floor or the footplate.
+
+The two finger rule can be used to check for the approximate fit of a standard wheelchair:
+ Seat depth: Leave no more or less than two finger widths of space behind the back of the calf and the front edge of the wheelchair.
+ Seat width: Leave no more or less than two finger widths of space between the hip and the inside of the wheelchair arm.
+ Seat height: Leave no more or less than two finger widths of space between the floor and floor plates.
+
+
+
+
+
+ Seat back height: Leave no more or less than two finger widths of space between the top of the wheelchair back and the patient's axilla.
+ Armrest height: Leave no more or less than two finger widths of space between the top of the drive wheel and the underside of the patient's forearm.
+It is important for the patient to maintain good posture in the wheelchair. He or she should be seated well back in the chair, with the lower extremities on the foot rests or leg rests. Wheelchair users are susceptible to muscle imbalances. Nearly every motion and/or repetitive motion is forward, working such areas as the shoulder flexors (pectoralis major, and anterior deltoid) and shoulder internal rotators. These anterior muscles can become adaptively shortened, while the upper back muscles become weak and elongated. The typical posture of the wheelchair user is rounded shoulders with mild thoracic kyphosis and a forward head. This posture can result in impingement of the soft tissue structures of the acromiohumeral space. The patient should be able to maintain a seated position when his or her balance is challenged.
+Wheelchair Tasks
+A number of wheelchair transfers can be made easier with the following tasks:
+ Forward hip slide. Most of the transfers from a wheelchair require that the patient be able to maneuver to the front edge of the seat, thereby placing their center of mass (COM) over his or her BOS (VIDEO 13 2). To do this, the patient can use one of the following methods:
+ Upward and forward lift. The patient pushes down through the arms and/or legs, lifts the hips up above the seating surface, and then moves the buttocks forward.
+ Weight shift. The patient leans the upper body to one side and then to the other, each time lifting the contralateral hip up and forward until the correct position is attained.
+ Forward hip slide. The patient leans back in the chair and, by extending the trunk, slides the hips to the front edge of the seat before grasping the arms of the chair and pulling the trunk forward into an upright position.
+If the patient is unable to perform this movement independently, the clinician can assist by squatting or half kneeling in front of the patient and placing his or her hands behind patient's hip with the fingers or fingertips over the sacroiliac joints. From this position, the clinician pulls the patient's hips forward simultaneously, or alternating side to side, with the patient participating as much as possible. At the end of this technique, depending on the level of trunk control that the patient possesses, the clinician may need to place his or her hands behind the patient's shoulders and assist the patient in moving the shoulders forward over the pelvis into an erect sitting position.
+ Sitting push up. This technique, which requires the patient to form a series of sitting push ups, can be used to assist the patient to the front edge of the seat. After each sitting push up, the patient lowers himself or herself closer to the front edge of the wheelchair seat. The clinician may assist by lifting under the patient's buttocks, or by guarding at the shoulders. The sitting push up can also be used to relieve pressure on the buttocks and posterior thighs (VIDEO 13 3).
+ Weight shifting side to side. This technique can be used to assist the patient to the front edge of the seat. The clinician places one arm around the patient's shoulders from one side, and the other arm under the thigh at the opposite lower extremity. The patient's weight can then be shifted to one side. For example, if the clinician places his or her left arm around the patient's right shoulder, and the right hand is placed under the patient's left side, the patient's weight can be shifted to the right, which unweights the patient's left buttock, and then the clinician assists the patient in moving the left thigh forward. Once the left lower extremity is lowered to the supporting surface, the patient is returned to an erect sitting position and the technique is performed to the other side. This sequence is repeated until the patient reaches the front edge of the seat.
+ Foot position. Once the patient's hips are moved to the front edge of the wheelchair seat, the patient's feet must be positioned posteriorly and
+	approximately shoulder width apart (closer if both knees will be blocked during the transfer), so that the BOS is directly under the patient's new	
+
+
+
+COM. If the patient is unable to position his or her feet independently, assistance is provided by the clinician. In certain circumstances, such as a weight bearing restriction on one of the lower extremities, only one foot is positioned posteriorly, leaving the other extended out in front of the patient.
+ Trunk flexion. As the mass of the trunk is moved forward over the BOS, so that the nose is over the toes, the patient is able to use the large muscles of the lower extremities more effectively. However, it is important to remember that a patient who has undergone a total hip arthroplasty (posterolateral approach) must limit trunk flexion by maintaining an upright position or lean somewhat posteriorly.
+ Hand positioning. The position of the hands varies greatly depending on the patient's level of independence. If hand positioning can be performed independently, the patient positions the hands posterior to the flexed trunk before initiating a push off from the armrests. Occasionally, the clinician may ask the patient to hold onto the clinician's forearm or hips. If the patient is unable to perform hand positioning independently, the clinician must position the hands and arms inside the armrests, in the patient's lap.
+ Moving backward. The patient is asked to lean forward by flexing the trunk and then to place the hands on the armrests posterior to the shoulder. The feet are then placed as far posteriorly as possible while maintaining contact with the floor. The patient is asked to push down through the arms and legs and lift the hips up and back. This sequence is repeated as often as needed to achieve the correct position.
+VIDEO 13 2 Wheelchair Scoot 
+
+Play Video
+VIDEO 13 3 Wheelchair Pressure Relief 
+
+
+
+Play Video
+Wheelchair Transfers
+A number of areas need to be addressed when training a patient on how to be as functionally independent as possible with a wheelchair. The various components of the wheelchair should be reviewed with the patient, and the patient should perform all of the necessary tasks while being supervised by the clinician.
+Transfer from Wheelchair to Floor Two Person Lift
+
+The two person lift is used when the patient has some trunk control and upper extremity strength. It is important to ensure that the wheelchair is locked and that the foot rests are removed or swung out of the way. The armrest on the side of the wheelchair to which the patient will be transferred is also removed. One of the clinicians is positioned behind the patient, while the other clinician is in front of the patient. The patient is asked to hug himself or herself. The clinician behind the patient reaches under the patient's upper extremities and grasps the opposite wrist of the patient (right arm on left and left on right) to prevent the patient from abducting his or her arms during the lift. The clinician in front of the patient cradles the patient's thighs with one hand and the lower legs with the other hand. On the command from the clinician behind the patient, the patient is lifted by both clinicians to a height that clears all parts of the wheelchair and then, as a unit, the two clinicians step in the required direction before lowering the patient to the floor. Once the patient is correctly and safely positioned, he or she is released.
+Transfer from Floor to Wheelchair Two Person Lift
+
+The transfer of the patient back from the floor to the wheelchair is essentially the reverse of the previous procedure. The wheelchair is prepared the brakes are secured and the armrests and foot rests are removed. The patient is positioned in long sitting. Both clinicians squat down, and then both use the same holding techniques as in the previous transfer. On the command from the clinician at the head of the patient, the patient is lifted to a height that will clear all parts of the wheelchair. Then, as a unit, the two clinicians transfer the patient onto the seat of the wheelchair. Both clinicians ensure that the patient assumes proper sitting posture before replacing the armrests and foot rests, and placing the patient's feet on the foot rests.
+Transfer from Wheelchair to Treatment Table Squat Pivot Transfer
+
+The squat pivot transfer is used in those cases where a patient is able to bear weight but has insufficient strength or control of the lower extremities to stand upright. This is a physically demanding transfer for the clinician, who must decide whether extra assistance is required. Before the transfer can begin, the clinician must position the wheelchair near parallel to the treatment table, lock the wheels, and remove the wheelchair armrest on the side toward which the patient is moving. The clinician then removes or swings away the foot rests so that the patient's feet can be placed on the floor. The patient is fitted with a transfer belt. If the patient is unable to slide his or her hips forward in the wheelchair, the clinician uses one of the methods described under wheelchair tasks, or reaches around the back of the patient's pelvis and slides the patient forward in the seat of the wheelchair (VIDEO 13 4). When possible, the patient's feet should be positioned under the COM and slightly apart to maximize the BOS. If feasible, the patient
+
+
+
+should place each hand on an armrest with the forearms in a near vertical position so that the pushing force will be vertical. Once the patient is positioned correctly, the clinician places each foot and knee outside of the patient's feet and knees in preparation for blocking both of the patient's lower extremities by directing the force at the patient's proximal tibia (squeezing the patient's knees together is not recommended).
+VIDEO 13 4 Wheelchair to Bed Transfer with Knee Block 
+
+Play Video
+
+Throughout the transfer, the patient's lower extremities are not fully extended at any time. If applicable, the patient is asked to push down on the remaining armrest as the transfer is initiated. The clinician simultaneously pivots on the balls of the feet as the patient is lifted and shifts the COM laterally until the patient's hips are above the treatment table. The clinician then lowers the patient's hips to the table in a controlled manner, and then adjusts the patient's position as needed. The transfer from the treatment table back to the wheelchair is essentially the reverse.
+
+
+
+
+Transfer from Wheelchair to Treatment Table Standing Pivot
+
+This technique is used for patients who are unable to stand independently, but are able to bear some weight through one or both of the lower extremities. Before the transfer can begin, the clinician must position the wheelchair parallel to the treatment table and then lock the wheels. The clinician then removes or swings away the foot rests so that the patient's feet can be placed on the floor. If the patient is unable to slide his or her hips forward in the wheelchair, the clinician uses one of the methods described under wheelchair tasks, or reaches around the back of the patient's pelvis and slides the patient forward in the seat of the wheelchair. Once the patient is positioned correctly, the clinician places each foot and knee outside of the patient's feet and knees in preparation for blocking one or both of the patient's lower extremities (VIDEO 13 5). Determining how much blocking will be required is a matter of clinical judgment. Patients who are progressing from dependent pivot transfers to assisted pivot transfers may require blocking of both knees, whereas patients transitioning from assisted pivot transfers may require only one or neither knee to be blocked.
+VIDEO 13 5 Wheelchair to Bed Transfer 
+
+Play Video
+ Blocking one knee: the clinician flexes his or her hips and knees to position his or her proximal tibia against the patient's tibia just inferior and central to the patient's tibial tuberosity. The clinician can also use both of his or her knees to block one of the patient's knees by placing the medial aspect of both knees on either side of the patient's tibial tuberosity.
+ Blocking both knees: the clinician positions the patient's feet together and slightly staggered, and then places the medial aspect of both his or her knees against the anterolateral aspects of the patient's knees.
+ The blocking technique produces a counterforce that is necessary once the patient is upright to counteract the effect of gravity, which creates a flexion 
+
+
+
+moment at the patient's hips and knees. By placing the feet outside of the patient's feet, the clinician creates a wide BOS, which is designed to help support the dynamic weight of two people once the patient is upright. To assist with the pivot, the patient's foot nearer the target surface should be moved slightly forward relative to the other foot. The clinician's foot placement mimics the patient's on the side toward which the patient is turning, the clinician places that foot slightly posteriorly, and the other slightly anteriorly. Having the patient come to a standing position can occur in a number of ways:
+ The clinician places both hands under the patient's buttocks, and the patient is asked to place both of his or her arms around the clinician's upper back (not the neck!) (VIDEO 13 6). On the clinician's count and command, the clinician initiates a rocking motion in time to the counts. On the command "up," the clinician straightens his or her legs and lifts the patient from the wheelchair to a height that is sufficient to clear the wheelchair and any height difference between the wheelchair and the treatment table.
+ The patient places both hands on the wheelchair armrests and, on the clinician's count and command, pushes down on the armrests to bring himself or herself to the standing position while the clinician guards the patient. If a patient has undergone a total hip arthroplasty (posterolateral approach), pushing to a standing position can prove difficult: the patient must maintain his or her trunk position in an upright or slightly backward position during the transfer, which places the COM posterior to the feet, increasing the potential for falling backward. In addition, the clinician must monitor the amount of internal rotation of the patient's involved hip during the transfer. Having the patient transfer toward the uninvolved side creates less risk of hip internal rotation, although it is important that the patient be able to transfer toward both sides.
+VIDEO 13 6 Wheelchair to Bed Transfer Patient Grabbing 
+
+Play Video
+As the patient rises, the clinician leans posteriorly to accommodate the patient's anteriorly moving COM, while simultaneously guarding the patient against a fall. Once the patient's trunk is high enough to clear the chair, the clinician and patient begin to pivot toward the treatment table. The actual pivot may need to be performed in a series of small movements for the first few attempts. At the end of the pivot, the patient should be in the correct position for sitting on the table, and as the patient is lowered, he or she should reach back for the target surface. During the lowering process, the patient should be encouraged to maintain trunk flexion so that the patient's COM does not move too quickly in a posterior direction and so that the descent can be performed in a controlled manner. Once the patient is correctly and safely positioned, he or she can be released. The transfer from the treatment table back to the wheelchair is essentially the reverse.
+
+
+
+
+Transfer from Bed to Wheelchair Assisted Standing Pivot
+
+The assisted standing pivot transfer is similar to the standing pivot transfer, except that the clinician provides less assistance to the patient (VIDEO 13  7). The decision to use this transfer instead of the standing pivot transfer is based on the patient's level of independence. The assisted standing pivot can be used when a patient can bear some weight on the lower extremities but has weakness that necessitates some assistance. The planned transfer is typically set up so that the patient can move toward the uninvolved side during the transfer. The clinician assists the patient by controlling the patient's pelvis. This is accomplished by placing a hand posterior to the pelvis, on the side of the pelvis, or on the anterior aspect of the pelvis, depending on where the assistance is needed. The other hand is placed on the posterior aspect of the patient's opposite shoulder. Stability is provided by guarding or blocking the patient's uninvolved lower extremity using the same lower extremity (the patient's right knee is guarded with the clinician's right knee). On the clinician's command, the patient pushes to the standing position. Once in the full upright position and under control, the patient pivots or reaches for the wheelchair before lowering himself or herself with assistance as appropriate. Once the patient is correctly and safely positioned, he or she can be released. The transfer from the wheelchair back to the bed is essentially the reverse.
+VIDEO 13 7 Bed to Wheelchair Transfer 
+
+Play Video
+Transfer from Wheelchair to Treatment Table Sliding Board
+
+A sliding board transfer allows a patient to transfer between numerous sitting surfaces using a series of small shifts of the trunk without having to bear weight through the lower extremities. However, such transfers require high levels of trunk and upper body strength and sitting balance. Ideally, the transfer should occur between two surfaces that are the same height as each other, or from a slightly higher surface to a slightly lower one. Before the transfer is attempted, the clinician or the patient positions the wheelchair parallel to or at a slight angle to the treatment table, and locks the wheels.
+The foot rests are then removed or swung away, and the patient's feet are placed on the floor. The patient is asked to move forward on the seat of the wheelchair, and the armrest of the wheelchair on the side nearest the treatment table is removed. The patient is asked to lean away from the treatment table, and the sliding board is positioned well under the patient's buttocks before the patient returns to an upright position. The patient is instructed not to grasp the edge of the sliding board to prevent the fingers from being pinched during the technique. The technique for this transfer involves a series of seated push ups straightening the upper extremities, depressing the shoulders, and lifting the body up and across the sliding board toward the treatment table. If the patient's wrists are unable to weight bear sufficiently, the patient can use the outside of the fists. After each push up and slide, the patient repositions his or her hands and the sequence is repeated until the patient is on the treatment table with only one buttock remaining on the sliding board. At this point, the patient leans away from the wheelchair to remove the sliding board, and the clinician ensures that the patient is in a position that can be maintained independently. During the initial attempts to use this technique, the clinician provides as much assistance as necessary. This assistance can vary from standing in front of the patient, observing, to blocking the patient's knees to prevent the patient from sliding off the sliding board. In addition, the patient may require assistance from the clinician to lift up the buttocks to assist with the sliding technique. The transfer from the treatment table back to the wheelchair is essentially the reverse.
+
+
+
+
+Transfer from Wheelchair to Treatment Table Push Up
+
+A push up transfer is similar to the sliding board transfers except that the patient is permitted to bear weight through the lower extremities. Before the transfer is attempted, the clinician or the patient positions the wheelchair parallel to or at a slight angle to the treatment table, and locks the wheels. The foot rests are then removed or swung away, and the patient's feet are placed on the floor. The patient is asked to move forward on the seat of the wheelchair, and the armrest of the wheelchair on the side nearest the treatment table is removed. The patient is asked to place one hand on the treatment table and the other hand on the remaining armrest of the wheelchair. The patient pushes down on both arms and, while maintaining the hand on the treatment table, moves the hand on the armrest to the seat of the wheelchair while pivoting toward the treatment table so that the back of the thighs touch the treatment table. The patient then lowers himself or herself onto the table. The transfer from the treatment table back to the wheelchair is essentially the reverse.
+Transfer from Floor to Wheelchair One Person Dependent
+
+On occasion, a patient can inadvertently fall out of or tip over a wheelchair and be unable to get back into the wheelchair. Depending on the size of the patient, and the physical capability of the clinician, another clinician may be needed for assistance. The following description is for a one person transfer. The clinician positions the wheelchair on its back and at the patient's feet. Using one arm, the clinician places it under the patient's lower extremities and uses the other arm to wrap around the patient's upper back in such a way that the patient's lower extremities are flexed at the hips and knees. Maintaining good body mechanics, the clinician moves the patient so that the patient's ankles are over the front edge of the wheelchair seat, and then uses a series of short lifting and sliding movements to negotiate the patient into the wheelchair. Once the patient is positioned in the wheelchair, the clinician grasps both handles of the wheelchair while maintaining contact with the patient's upper trunk (or one handle of the wheelchair with one hand while supporting the patient's trunk with the other hand), and then lifts the patient and wheelchair as a unit toward the upright position. As the wheelchair and patient approach the upright position, the clinician uses one arm on the anterior aspect of the patient's upper trunk to prevent the patient from falling forward.
+Transfer from Wheelchair to Floor Independent
+
+A variety of methods can be used by patients to transfer from the floor to a wheelchair. The transfer selected depends on the strength, agility, confidence, and range of motion of the patient. The most important strength components for the patient are the strength of the elbow extensors and shoulder extensors. During the initial training sessions, the patient must be guarded and occasionally assisted. In preparation for the transfer, the wheelchair casters are turned forward to prevent the wheelchair from tipping forward, and then the wheelchair is locked.
+Anterior Approach
+
+The patient's feet are placed on the floor, the footplates are raised, and the foot rests are removed or swung out of the way. The patient moves to the front of the wheelchair seat, and the lower extremities are positioned in extension. Using one hand, the patient positions it on the side, and toward the front edge of the wheelchair seat, while the other hand is placed on the caster or floor. The patient then lowers himself or herself to the floor. To independently return from the floor to the wheelchair, the procedure is reversed.
+Posterior Approach
+
+The patient assumes the quadruped position in front of the wheelchair, with the head closest to the seat (VIDEO 13 9). The patient places one hand on the seat toward the front edge, and places the other hand in the same position on the opposite side of the wheelchair seat. The patient then moves into a kneeling position by extending the elbows. One hand of the patient is then moved to the top of the armrest while the other remains on the
+ wheelchair seat. Using a combination of upper extremity extension and shoulder girdle depression, the patient lifts himself or herself and starts to	
+
+
+
+turn. The turn is continued until the patient is able to lower himself or herself onto the seat of the wheelchair. Using a hand on each armrest, the patient pushes down on the armrests and positions himself or herself properly in the wheelchair. To independently return to the floor from the wheelchair, the procedure is reversed (VIDEO 13 10).
+VIDEO 13 8 Bed to Wheelchair using Sliding Board 
+
+Play Video
+VIDEO 13 9 Wheelchair to Floor 
+
+Play Video
+VIDEO 13 10 Floor to Wheelchair 
+
+
+
+Play Video
+Dependent Propulsion
+To transport a patient in a wheelchair, the clinician must ensure that the patient is seated safely, which includes sitting well back in the seat, the arms resting on the armrests or in the patient's lap, and the lower extremities supported by the footplates or leg rests. After unlocking the brakes, the clinician should move the wheelchair as smoothly as possible while maintaining good body mechanics and at a speed that is comfortable and safe for the patient. Maneuvering a wheelchair over a smooth surface is much easier than maneuvering a wheelchair on uneven or yielding surfaces such as gravel, sand, grass, and carpet. In such instances, it is recommended that the wheelchair be tipped back to lift the casters off the ground, or to pull the wheelchair rather than push it.
+Once a clinician has mastered how to maneuver a patient in a wheelchair in a variety of indoor environments and surfaces, further complexities can be added. Although a wide variety of methods can be used for the following tasks, only the safest ones are presented.
+ Assisted navigation through doorways. The clinician determines that the patient is sitting safely and then determines the type of door (automatic or manual), and in which direction the door opens (away or toward). If the door is automatic, the clinician must ensure that the wheelchair is clear of the door's path before engaging the door opener, and must also be prepared to block the closing door if necessary to prevent the wheelchair or patient from being struck by the door. If the door is manual, the method used will depend on which direction the door opens:
+ Door opens away from the patient. In this scenario, the clinician releases the door latch with his or her back to the doorway, backs the wheelchair through the doorway while keeping the door open with his or her foot or shoulder, and then turns the wheelchair to face the desired direction once the wheelchair has cleared the doorway.
+ Door opens toward the patient. In this scenario, the clinician positions the wheelchair on the handle or left side of the door and then uses one hand to open the door while holding one push handle of the wheelchair with the other hand. As soon as the door is open, the clinician locks the door with his or her foot and pushes the wheelchair forward through the doorway. Once the wheelchair has passed completely to the doorway, the clinician releases the door and moves the wheelchair forward.
+ Assisted navigation on ascending an incline. The most efficient way to propel the wheelchair up an incline is to push it forward up the incline with all four wheels in contact with the ground. For very steep slopes, zigzagging may be necessary. If appropriate, the patient can be asked to move the hips forward in the wheelchair, lean the trunk forward, and push equally on both handrims.
+ Assisted navigation on descending an incline. The safest way to descend an incline is to roll the wheelchair backward down the slope with all four wheels in contact with the ground and while glancing back periodically to be sure the pathway is clear. If appropriate, the patient can be asked to position the hips to the rear of the seat and maintain the trunk erect.
+ Assisted navigation up a curb moving forward. The wheelchair is positioned facing the curb (Figure 13 21). The clinician tips the chair back,
+
+
+
+raising the casters above the level of the curb, and then rolls the wheelchair forward until the casters are well over the sidewalk, before lowering the casters gently onto the sidewalk (Figure 13 22). At this point, if appropriate, the patient can be asked to lean the trunk forward and to push forward on the pushrims on the clinician's command. The wheelchair is then rolled forward until the drive wheels are resting against the curb, at which point the clinician gives the patient the command to push forward on the pushrims (if appropriate), and then rolls the drive wheels up onto the sidewalk by lifting on the push handles of the wheelchair using the power from the legs, and keeping the drive wheels in contact with the curb (Figure 13 23).
+ Assisted navigation down a curb moving backward. The back of the wheelchair is positioned close to the edge of the curb (Figure 13 24). The clinician then steps off the edge of the curb while holding the push handles of the wheelchair. Maintaining the thigh against the back of the wheelchair, and while gripping the push handles, the clinician slowly rolls the drive wheels down over the curb, making sure that the tires maintain contact with the curb (Figure 13 25). If appropriate, the patient can assist by leaning the trunk forward as the chair rolls over and down the curb. Once the drive wheels are resting on the lower surface, the clinician tips the wheelchair back and rolls it backward until the casters and footplates fully clear the curb before gently lowering the front casters to the ground in a controlled fashion (Figure 13 26).
+ Assisted navigation up a curb moving backward. The back of the drive wheels of the wheelchair are positioned up against the curb. The clinician stands up on the curb behind the wheelchair, grasps the push handles, and tips the wheelchair backward into a wheelie position. The clinician then pulls the wheelchair back, rolling it up onto the curb while maintaining the wheelie position. The clinician continues to roll the wheelchair back on the sidewalk until the casters are clearly over the sidewalk, before slowly lowering the casters to the ground in a controlled manner.
+ Assisted navigation ascending steps moving backward. This task requires two to three transporters and should only be attempted when absolutely necessary. Normally, the strongest clinician is positioned behind the wheelchair and leads the activity while the other assistants help from the sides by grasping the frame of the chair. However, if the assistants are both strong, having the strongest clinician behind the wheelchair is not as critical. Once the clinician and assistants are in position, the wheelchair locks are disengaged and the wheelchair is backed to the bottom of the stairs until the drive wheels make contact with the bottom step (Figure 13 27). The clinician grasps the push handles and tips the wheelchair backward into a wheelie position so that the caster wheels are elevated (Figure 13 28). This tipped position is maintained throughout the task. On the count of "three," the clinician and the two assistants pull the chair upward by rolling the drive wheels up and over the step (Figure 13 29). This procedure is repeated one step at a time until the stop step is reached (Figures 13 30, 13 31, 13 32, 13 33, 13 34 and 13 35), at which point the wheelchair is rolled backward until the casters are clearly beyond the steps before being slowly lowered in a controlled manner (Figure 13 36).
+ Assisted navigation descending steps moving forward. This task requires two to three transporters and should only be attempted when absolutely necessary. Normally, the strongest clinician is positioned behind the wheelchair and leads the activity while the other assistants help from the sides. However, if the assistants are both strong, having the strongest clinician behind the wheelchair is not as important. The chair is positioned facing forward near the edge of the top step, and the wheelchair locks are disengaged. The clinician tips the wheelchair back into a wheelie position, elevating the casters, and then slowly and carefully rolls the wheelchair forward until the drive wheels are at the edge of the top step (Figure 13 37). This tipped position is maintained throughout the task. On the count of "three," the clinician and the two assistants control the motion of the rear wheels down to the next step (Figures 13 38 and 13 39). The process is repeated one step at a time until the last step is descended (Figures 13 40, 13 41, 13 42 and 13 43), at which point the clinician slowly lower the casters to the ground in a controlled manner (Figure 13 44).
+
+FIGURE  13 21
+
+Wheelchair position to ascend curb
+
+
+
+
+FIGURE  13 22
+
+
+Casters resting on curb
+
+
+FIGURE  13 23
+
+
+Wheelchair on top of curb
+
+
+FIGURE  13 24
+
+
+
+Wheelchair backed up to edge of curb
+
+
+FIGURE  13 25
+
+
+Drive wheels at bottom of curb
+
+
+FIGURE  13 26
+
+
+Wheelchair at bottom of curb
+
+
+
+
+FIGURE  13 27
+
+
+Wheelchair positioned at bottom of steps
+
+
+FIGURE  13 28
+
+
+Wheelchair is tilted back in preparation
+
+
+
+
+FIGURE  13 29
+
+
+Wheelchair is moved up to the first step
+
+
+FIGURE  13 30
+
+
+Wheelchair is gradually moved up one step at a time
+
+
+
+
+FIGURE  13 31
+
+
+Wheelchair is gradually moved to the next step
+
+
+
+
+FIGURE  13 32
+
+
+Wheelchair is prepared for the third step
+
+
+FIGURE  13 33
+
+
+Wheelchair is gradually moved onto the third step
+
+
+
+
+FIGURE  13 34
+
+
+Wheelchair is prepared for the final step
+
+
+FIGURE  13 35
+
+
+Wheelchair is gradually moved to the top step
+
+
+
+
+FIGURE  13 36
+
+
+Wheelchair lowered at the top of the steps
+
+
+
+
+FIGURE  13 37
+
+Wheelchair is tilted back in preparation
+
+
+
+
+FIGURE  13 38
+
+
+Wheelchair is lowered down the first step
+
+
+
+
+FIGURE  13 39
+
+
+Wheelchair arrives at the first step
+
+
+
+
+FIGURE  13 40
+
+
+Wheelchair is gradually moved onto the next step
+
+
+
+
+FIGURE  13 41
+
+
+Wheelchair is lowered onto the next step down
+
+
+
+
+FIGURE  13 42
+
+
+Wheelchair is gradually moved to the edge of the next step
+
+
+
+
+FIGURE  13 43
+
+
+Wheelchair is gradually moved to the penultimate step
+
+
+
+
+FIGURE  13 44
+
+
+Casters of the wheelchair are returned to the ground
+
+
+
+Independent Propulsion
+Depending on functional level, the patient is instructed on how to:
+ Operate the wheel locks, foot supports, and armrests, and to use the mechanisms safely without tipping forward or sideways out of the chair seat.
+ Transfer in and out of the chair with the least possible assistance (see Patient Transfer section). This may involve transfer training from the wheelchair to a car seat. To transfer from a wheelchair to a car seat, the patient applies the same principles as in a bed to chair a transfer. Correct positioning of the wheelchair is critical. The wheelchair armrest and leg rest nearest to the car seat are removed, and the wheelchair is positioned so that it is facing forward between the open door and the car seat, before locking the wheels. Any hand placement during a car transfer must be on a secure surface.
+ Propel the wheelchair in all directions and around corners.
+ Propelling forward. The patient grasps both pushrims simultaneously behind the apex of the wheel at approximately 10 o'clock position and then pushes forward with a long, smooth stroke, releasing the pushrim at about the 2 or 3 o'clock position on the wheels. As the hands are returned to the start position, they remain below the pushrim. This semicircular pattern has been associated with lower stroke frequency, greater time spent in the push phase relative to the recovery phase, less angular joint velocity and acceleration, and increased efficiency.2, 3 and 4
+ Propelling backward. The patient grasps both pushrims simultaneously at about the 2 or 3 o'clock position on the wheels and then pulls the wheels posteriorly.
+ Turning to the left. To turn to the left, the patient holds the left pushrim while pushing on the right.
+ Turning to the right. To turn to the right, the patient holds the right pushrim while pushing on the left.
+More advanced users can benefit from the results of a number of biomechanical studies2, 3, 4, 5, 6, 7 and 8 about the patient's position within the wheelchair during propulsion:
+
+
+
+ To increase efficiency, the axis of the patient's shoulder should be slightly anterior to the rear wheel axle.
+   The most efficient push angle can be achieved with a seat alignment that allows 100  to 120  of elbow flexion relative to the apex of the wheel.
+Although the most common way to maneuver a wheelchair is to use both upper extremities, the wheelchair can also be propelled using the feet, or a combination of the feet and hands.
+ If using the feet to propel a wheelchair, the wheelchair footplates are raised and, if possible, the leg rest is moved out of the way. Using shoes with a good grip, the patient places one foot out in front of the chair, pushes down with the foot, and flexes the knee to move the wheelchair forward. To move the wheelchair backward, the patient places one foot slightly underneath the chair, pushes down on the floor, and extends the knee. If the patient is only able to use one leg, the same technique is used.
+ A patient may need to use the hands and feet to propel a wheelchair. For example a patient with one sided weakness may propel a wheelchair using the arm and leg on the same side.
+Once the patient has demonstrated that he or she can maneuver in all directions independently, the clinician must advance the complexity of the navigational tasks as appropriate.
+ Navigating through a doorway. The patient must determine the type of door (automatic or manual), and in which direction the door opens (away or toward). If the door is automatic, the clinician must be familiar with the speed and closing force of the door. If the door is manual, the method used will depend on the direction in which the door opens, the amount of available space for maneuvering in front of the door, and the patient's abilities.
+ Door opening toward. The patient approaches the door at the latch side and grasps the door handle, pulls the door open extra wide, and then uses the front rigging of the wheelchair, or a hand, to block the door open. Once the door is blocked open, the patient propels the wheelchair forward through the doorway being careful to avoid pinching the fingers between the wheelchair and the closing door.
+ Door opening away. The patient approaches the door at the latch side, grasps the door handle, and pushes the door open extra wide. Once the door is open completely, the patient propels the wheelchair quickly through the doorway. Alternatively, the patient can use the front rigging or hand to block the open door while propelling the wheelchair forward until the wheelchair is clear of the door.
+ Perform more advanced techniques as necessary or appropriate. Advanced techniques are necessary when a patient has to negotiate obstacles independently using a wheelie (Figure 13 45). Wheelies are important for patients who need to go up and down curbs independently when there are no curb ramps. A wheelie is performed by balancing on the rear wheels of a wheelchair while the caster wheels are in the air. Initially the clinician must be positioned behind the chair and move with the chair, with the hands held beneath the wheelchair handles, ready to catch the wheelchair if it tilts too far backward. To perform a wheelie, the patient is asked to place the hands at 11 o'clock on the wheels, then lean forward and arch the back. Initially the patient practices bouncing the body off the back of the chair and leaning back while holding the hands still the front of the chair is raised by pushing backward on the back of the chair. The patient practices until he or she can actually bounce the front end off the ground. By changing the COG (by pushing the chair forward while the body is going backward), the patient will achieve a point of equilibrium. Once the patient is able to bounce the front end off the ground and is able to find a point of equilibrium, he or she can progress to reaching back and placing the hands at about 10 o'clock on the wheels. From this point, the patient leans forward, arches the back, and then begins to push forward quickly while letting the body come back against the chair (when the back hits the chair, the hands should be in the 12 o'clock position). By continuing to lean back and while pushing the chair forward, the front end should start to leave the ground, and by the time the hands get to the 2 o'clock position, the front end should feel weightless, as the chair balances on the rear axle. To maintain equilibrium, the patient will need to be able to move the chair forward if the front end begins to fall down or backward if the chair begins to fall backward. This may be accomplished by sliding the hands back to about the 1 o'clock position, without taking the hands off the wheels. Once the chair is up and balanced, the patient will need to keep just a fraction of weight on the front end, so that if balance is lost the chair will fall forward, not backward.
+FIGURE  13 45
+
+
+Wheelchair wheelie
+
+
+
+Once the patient is ready to try a wheelie independently, a good place to begin practicing is on carpeting, grass, or sand. As part of the wheelie training, the patient should be taught how to fall in a controlled manner.
+ Falling backward. This is probably the most common direction of falling. The patient should be taught on how to tuck the head into the chest if falling backward, so that the back of the head is not hit. In addition, applying a slight braking force to the drive wheels can prevent the wheelchair from sliding too far forward and catching the lower extremities.
+ Falling forward. The patient should be taught on how to land as far forward of the chair as possible by extending the arms and trunk to prevent the upper body from landing on the patient's legs.
+ Falling sideways. The patient should be told to tuck the arms close to the chest and to round the shoulder on the side of the fall while side flexing the head away from the ground.
+Finally, the patient should be taught how to use his or her wheelie skills to:  Ascend a curb forward
+ Descend a curb forward
+REFERENCES
+
+1. Edelstein JE: Prosthetics, in O'Sullivan SB, Schmitz TJ (eds): Physical Rehabilitation (ed 5). Philadelphia, FA Davis, 2007, pp 1251 1286.
+
+2. Rankin JW, Kwarciak AM, Richter WM et al.: The influence of wheelchair propulsion technique on upper extremity muscle demand: a simulation study. Clin Biomech (Bristol, Avon) 27(9):879 886, 2012.
+CrossRef [PubMed: 22835860] 
+
+3. Kwarciak AM, Turner JT, Guo L et al.: The effects of four different stroke patterns on manual wheelchair propulsion and upper limb muscle strain.
+
+
+
+Disabil Rehabil Assist Technol 7(6):459 463, 2012.
+CrossRef [PubMed: 22295946] 
+
+4. Boninger ML, Souza AL, Cooper RA et al.: Propulsion patterns and pushrim biomechanics in manual wheelchair propulsion. Arch Phys Med Rehabil 83:718 723, 2002.
+CrossRef [PubMed: 11994814] 
+
+5. Coutts KD: Kinematics of sport wheelchair propulsion. J Rehabil Res Dev 27:21 26, 1990. CrossRef [PubMed: 2308081] 
+
+6. Cowan RE, Nash MS, Collinger JL et al.: Impact of surface type, wheelchair weight, and axle position on wheelchair propulsion by novice older adults. Arch Phys Med Rehabil 90:1076 1083, 2009.
+CrossRef [PubMed: 19577019] 
+
+7. Desroches G, Dumas R, Pradon D et al.: Upper limb joint dynamics during manual wheelchair propulsion. Clin Biomech (Bristol, Avon) 25:299 306, 2010.
+CrossRef [PubMed: 20106573] 
+
+8. Gorce P, Louis N: Wheelchair propulsion kinematics in beginners and expert users: influence of wheelchair settings. Clin Biomech (Bristol, Avon) 27:7 15, 2012.
+CrossRef [PubMed: 21840091] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

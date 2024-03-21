@@ -1,0 +1,3995 @@
+
+
+
+Introduction to Physical Therapy and Patient Skills?
+
+CHAPTER 11: Range of Motion
+
+
+
+CHAPTER OBJECTIVES
+At the completion of this chapter, the reader will be able to:
+1. List the different types of physiologic motions
+2. Describe the differences among active motions, active assisted motions, and passive motions
+3. Describe the purpose of range of motion exercises
+4. List the different types of diagonal patterns of motion that can be incorporated therapeutically
+5. Interpret the findings of active and passive range of motion testing
+6. Perform a range of motion examination using a goniometer
+7. Apply passive range of motion techniques to the upper extremity
+8. Apply passive range of motion techniques to the lower extremity
+OVERVIEW
+Physiologic motions are joint and soft tissue movements that can be produced actively or passively. Active motions are those that can be produced by the patient alone, whereas passive motions are those motions that require assistance to complete. Active assisted motions are those that are combination of active and passive motions (see Chapter 4).
+RANGE OF MOTION EXERCISES
+Range of motion exercises are designed to move the joint and soft tissues through the available physiologic ranges of motion.
+
+Active range of motion (AROM): performed by the patient independently. AROM exercises are used when the patient is able to voluntarily contract, control, and coordinate a movement when such a movement is not contraindicated. Contraindications to AROM include a healing fracture site, a healing surgical site, severe and acute soft tissue trauma, and cardiopulmonary dysfunction. The presence of a number of conditions requires caution with AROM exercises. These include acute rheumatoid arthritis, significant pain or joint swelling, or if the symptoms are intensified with the exercise. The benefits of AROM exercises are outlined in Table 11 1.
+Active assisted range of motion (AAROM): performed when the patient needs assistance with movement from an external force because of weakness, pain, or changes in muscle tone. The assistance may be applied mechanically, manually, or by gravity while the patient performs a voluntary muscle contraction to the extent he or she is able. AAROM exercises are used in the presence of muscular weakness, fatigue, or pain.
+
+
+
+ Passive range of motion (PROM): usually performed when the patient is unable or not permitted to move the body segment, and the clinician, or family member, moves the body segment. PROM exercises are typically used where there is paralysis, when the patient is comatose, in the presence of a healing fracture, or if pain is elicited during an active muscle contraction. One of the primary goals of PROM is to counteract the detrimental effects of immobilization. However, it is important to remember that PROM exercises cannot prevent muscle atrophy.
+TABLE 11 1
+The Benefits of Active Range of Motion (AROM) Exercises
+
+
+Diagonal Patterns of Motion
+Diagonal patterns of motion, which can be performed using PROM, AAROM, or AROM, or with more advanced techniques using resistance, were first incorporated with the techniques of proprioceptive neuromuscular facilitation (PNF), which were based on the theory that the muscles of the body function around three planes of movement in a three dimensional fashion, with each movement associated with an antagonistic motion. These motions and their antagonists are as follows:
+ Flexion or extension
+ Adduction or abduction in the extremities and lateral movement in the trunk  Internal or external rotation
+Combinations of these movements work together in spiral and diagonal patterns. The patterns, which integrate the motions of sports and daily living, are based on the infant developmental sequences such as rolling, crawling, and walking. The advantages of diagonal patterns include:
+ All of the movements involve a combination of motions.  Rotation is incorporated with all movements.
+ Many of the movements involve crossing of the midline of the body.
+ The movements are more functional than movements performed in a planar direction.
+There are two fundamental diagonal patterns for the lower extremity (Table 11 2) and for the upper extremity and scapula (Table 11 3), which are referred to as the diagonal 1 (D1) and diagonal 2 (D2) patterns.
+
+
+
+TABLE 11 2
+Lower Extremity Proprioceptive Neuromuscular Facilitation Patterns
+
+Start Position for D1 Pattern
+D1 Flexion 
+D1 Extension
+Hip flexed, adducted, and externally rotated
+Hip extended, abducted, and internally rotated
+Knee flexed
+Knee extended
+Tibia internally rotated
+Tibia externally rotated
+Ankle and foot dorsiflexed and inverted
+Ankle and foot plantarflexed and everted
+Toes extended
+Toes flexed
+Movement into hip extension, abduction, and internal rotation; ankle plantarflexion; foot eversion; toe flexion
+Movement into hip flexion, adduction, and external rotation; ankle dorsiflexion; foot inversion; toe extension
+Start Position for D2 Pattern
+D2 Extension
+D2 Flexion 
+Hip extended, adducted, and externally rotated
+Hip flexed, abducted, and internally rotated
+Knee extended
+Knee flexed
+Tibia externally rotated
+Tibia internally rotated
+Ankle and foot plantarflexed and inverted
+Ankle and foot dorsiflexed and everted
+Toes flexed
+Toes extended
+Movement into hip flexion, abduction, and internal rotation; ankle dorsiflexion; foot eversion; toe extension
+Movement into hip extension, adduction, and external rotation; ankle plantarflexion; foot inversion; toe flexion
+
+
+D1, diagonal 1; D2, diagonal 2.
+
+
+
+TABLE 11 3
+Upper Extremity and Scapular Proprioceptive Neuromuscular Facilitation Patterns
+
+Start Position for D1 Pattern
+D1 Flexion 
+D1 Extension
+Scapula depressed and adducted
+Scapula elevated and abducted
+Shoulder extended, abducted, and internally rotated
+Shoulder flexed, adducted, and externally rotated
+Elbow extended
+Elbow extended
+Forearm pronated
+Forearm supinated
+Wrist extended and ulnarly deviated
+Wrist flexed and radially deviated
+Fingers abducted and extended
+Fingers adducted and flexed
+Thumb extended and abducted
+Thumb flexed and adducted
+Movement into shoulder flexion, adduction, and internal rotation; scapular elevation and abduction; forearm supination; wrist flexion and radial deviation; finger flexion
+Movement into shoulder extension, abduction, and internal rotation; scapular depression and adduction; forearm pronation; wrist extension and ulnar deviation; finger extension
+Start Position for D2 Pattern
+D2 Flexion 
+D2 Extension
+Scapula elevated and adducted
+Scapula depressed and abducted
+Shoulder flexed, abducted, and externally rotated
+Shoulder extended, adducted, and internally rotated
+Elbow extended
+Elbow extended
+Forearm supinated
+Forearm pronated
+Wrist extended and radially deviated
+Wrist flexed and ulnarly deviated
+Fingers extended and abducted
+Fingers adducted and flexed
+Thumb extended and adducted
+Thumb flexed and abducted
+Movement into shoulder extension, adduction, and internal rotation; scapular depression and abduction; forearm pronation; wrist flexion and ulnar deviation; finger flexion
+Movement into shoulder flexion, abduction, and external rotation; scapular elevation and adduction; forearm supination; wrist extension and radial deviation; finger extension
+
+
+D1, diagonal 1; D2, diagonal 2.
+These patterns are subdivided into D1 and D2 patterns that move into flexion (diagonal 1 flexion and diagonal 2 flexion) and D1 and D2 patterns that
+
+
+
+
+move into extension (diagonal 1 extension and diagonal 2 extension). Based on whether the upper extremity or lower extremity is being used, the terminology can be expanded to diagonal 1 flexion lower extremity, diagonal one flexion upper extremity, and so on. The patterns are named according to the position of the proximal joint of the pattern (i.e., the shoulder or the hip) at the end position of the pattern. This means the pattern is initiated with the proximal joint positioned opposite to its end position. For example, to initiate a D1 flexion diagonal of the upper extremity, which involves flexion, abduction, and external rotation, the shoulder is positioned in the D1 extension position of the upper extremity (extension, abduction, and internal rotation).
+
+When performing PNF patterns involving patient contribution (active or resisted motions), the clinician's hand placement is designed to provide a tactile contact and stimulus to the major muscles involved in producing the desired movement, so the hands of the clinician are placed over the muscle or muscles that are to contract while avoiding contact with the muscle or muscles that are to relax during the exercise. When performing the diagonal patterns without patient contribution (passive motion), hand placement is not as critical.
+Before prescribing any of the range of motion exercises, it is important that the clinician determine the purpose of the exercise, the amount support necessary for the patient, whether stabilization is necessary, the ability of the patient to perform the exercise, and the effect of gravity.
+Purpose
+
+The most common purpose for range of motion exercises is to enhance the functional capacity of the patient by maintaining or improving joint motion and range. Active range of motion can affect strength, endurance, and coordination, whereas the benefits of passive range of motion are limited to maintaining or improving joint motion range and assisting in the maintenance of local circulation.
+Support Necessary
+
+Support is used to relieve stress on a joint or body segment by controlling the weight of the extremity or body part, or to compensate for the loss of muscle strength.
+Stabilization
+
+Stabilization, which is used to avoid, limit, or prevent movement, is typically used to protect the site of a healing fracture or extensive tissue trauma, and during the acute stage of healing.
+Ability of the Patient
+
+Whenever possible, the patient must be allowed to perform at a level that is challenging without being detrimental. To make such a determination, the clinician must have knowledge of the musculoskeletal, neuromuscular, and cardiopulmonary systems of the patient. In addition, the clinician must have a working knowledge of the various stages of healing, and biomechanical concepts such as stress, force, torque, levers, and axes of motion.
+Effect of Gravity 
+
+Gravity can affect an exercise based on the angle at which the exercise is performed:
+ An active exercise performed perpendicular to the ground is working against gravity if the exercise is performed in a direction away from the ground.
+ An active exercise performed perpendicular to the ground is working with gravity if the exercise is performed in a direction toward the ground.
+
+
+
+
+ An active exercise performed parallel to the ground negates the effect of gravity if the limb is supported.
+INTERPRETATION OF ACTIVE AND PASSIVE RANGE OF MOTION
+Both active and passive motions can provide the clinician with valuable information.
+Active Physiologic Range of Motion of the Extremities
+
+Active movements of the involved area are performed before passive movements if possible. During the history, the clinician should have deduced the general motions that aggravate or provoke the pain. Any movements that are known to be painful are performed last. The range of motion examination should be used to confirm the exact directions of motion that elicit the symptoms. The diagnosis of restricted movement in the extremities can usually be simplified by comparing both sides, provided that at least one side is uninvolved. Under normal circumstances, the normal (uninvolved) side is tested first as this allows the clinician to establish a baseline, while also showing the patient what to expect. Active range of motion testing may be deferred if small and unguarded motions provoke intense pain, because this may indicate a high degree of joint irritability, or other serious condition. The normal active range of motion for each of the joints is depicted in Table 11 4.
+TABLE 11 4
+Active Ranges of Joint Motions
+
+
+
+
+Available 
+
+
+
+
+Joint 
+Action 
+Degrees 
+Expected Range
+Possible Substitutions
+
+
+
+
+of Motion 
+
+
+
+
+Shoulder
+Flexion
+0 180
+120  of pure GH flexion
+Lumbar hyperextension
+
+
+
+
+
+150  with GH, AC, SC, and ST
+Scapular tipping
+
+
+
+
+
+contribution
+NB: Maintain slight elbow flexion so that long head of triceps does not
+
+
+
+
+
+180  if lumbar
+restrict motion
+
+
+
+
+
+hyperextension permitted
+
+
+
+
+Extension
+0 40
+40 
+Lumbar flexion
+
+
+
+Abduction
+0 180
+90  of pure GH abduction
+Lumbar side bending
+
+
+
+
+
+150  with GH, AC, SC, and ST
+Excessive scapular upward rotation can contribute to movement
+
+
+
+
+
+contribution
+
+
+
+
+
+
+180  if lumbar side bending is
+
+
+
+
+
+
+allowed
+
+
+
+
+Internal/external
+Internal: 0 
+70  internal rotation; 90 
+The amount of motion available is influenced by the position of
+
+
+
+rotation
+70
+external rotation
+abduction in the frontal plane and whether the measurement is
+
+
+
+
+External: 0 
+
+performed in the scapular or frontal planes.
+
+
+
+
+90
+
+
+
+
+
+Horizontal
+Varies
+45 
+Trunk rotation
+
+
+
+adduction
+
+
+
+
+
+Elbow
+Flexion
+0 150
+150 
+Position of forearm (supination/pronation) can affect results
+
+
+
+Extension
+Varies
+Males: 0 
+Towel roll may need to be placed posterior to elbow to allow
+
+
+
+
+according
+Females: 10 15 
+hyperextension to occur
+
+
+
+
+to gender
+
+
+
+
+
+
+
+Forearm
+Pronation
+80 90
+80 90 
+Wrist flexion and/or ulnar deviation, abduction and IR of the shoulder, and/or contralateral trunk side bending
+
+
+
+Supination
+80 90
+80 90 
+Wrist extension and/or radial deviation, adduction and ER of the shoulder, and ipsilateral trunk side bending
+
+
+Wrist
+Flexion
+0 75
+Varies according to generalized hypermobility
+Excessive radial or ulnar deviation
+
+
+
+Extension
+0 75
+75 
+Excessive radial or ulnar deviation
+
+
+
+Radial deviation
+0 20
+20 
+MCP abduction or adduction
+
+
+
+Ulnar deviation
+0 30
+30 
+MCP abduction or adduction
+
+
+Hip
+Flexion
+0 120
+Typically decreases with age
+Lumbar spine flexion
+
+
+
+Extension
+0 30
+Typically decreases with age
+Lumbar spine extension
+
+
+
+Abduction
+0 45
+45 
+Hip external rotation, knee flexion/internal rotation, or lateral pelvic tilt
+
+
+
+Adduction
+0 30
+30 
+Hip internal rotation or lateral pelvic tilt
+
+
+
+Internal rotation
+0 45
+45  (can be decreased in elderly population secondary to osteoarthritis)
+Thigh adduction
+
+
+
+External rotation
+0 45
+45 
+Thigh abduction
+
+
+Knee
+Flexion
+0 150
+135  (depends on degree of musculature)
+May be decreased with adaptive shortening of the rectus femoris
+
+
+Ankle
+Plantarflexion
+0 50
+30 50 
+None
+
+
+
+Dorsiflexion
+0 20
+10  with knee extended 20  with knee flexed
+Affected by degree of gastrocnemius adaptive shortening
+
+
+Subtalar
+Inversion
+0 20
+20 
+None
+
+
+
+Eversion
+0 10
+10 
+None
+
+
+
+GH: glenohumeral; AC: acromioclavicular; SC: sternoclavicular; ST: scapulothoracic.
+Active range of motion testing gives the clinician information about the following:  Quantity of available physiologic motion
+ Presence of muscle substitutions  Willingness of the patient to move
+
+
+
+
+ Integrity of the contractile and inert tissues  Quality of motion
+ Symptom reproduction
+ Pattern of motion restriction (e.g., capsular or noncapsular)
+Capsular and Noncapsular Patterns of Restriction
+
+Cyriax1 introduced us the terms capsular and noncapsular patterns of restriction, which link impairment to pathology (Table 11 5). A capsular pattern of restriction is a limitation of pain and movement in a joint specific ratio, which is usually present with arthritis or following prolonged immobilization.1 It is worth remembering that a consistent capsular pattern for a particular joint might not exist and that these patterns are based on empirical findings and tradition, rather than on research.2,3 Significant degeneration of the articular cartilage presents with crepitus (joint noise) on movement when compression of the joint surfaces is maintained.
+TABLE 11 5
+Capsular Patterns of Restriction
+
+
+Joint 
+Limitation of Motion (Passive Angular Motion)
+
+
+Glenohumeral
+External rotation > abduction > internal rotation (3:2:1)
+
+
+Acromioclavicular
+No true capsular pattern; possible loss of horizontal adduction and pain (and sometimes slight loss of end range) with each motion
+
+
+Sternoclavicular
+See acromioclavicular joint
+
+
+Humeroulnar
+Flexion > extension ( 4:1)
+
+
+Humeroradial
+No true capsular pattern; possible equal limitation of pronation and supination
+
+
+Superior radioulnar
+No true capsular pattern; possible equal limitation of pronation and supination with pain at end ranges
+
+
+Inferior radioulnar
+No true capsular pattern; possible equal limitation of pronation and supination with pain at end ranges
+
+
+Wrist (carpus)
+Flexion = extension
+
+
+Radiocarpal
+See wrist (carpus)
+
+
+Carpometacarpal
+
+
+
+Midcarpal
+
+
+
+Carpometacarpal 1
+Retroposition
+
+
+Carpometacarpals 2 5
+Fan > fold
+
+
+Metacarpophalangeal 2 5
+Flexion > extension ( 2:1)
+
+
+Interphalangeal
+Flexion > extension ( 2:1)
+
+
+
+
+
+
+
+
+Proximal (PIP)
+
+
+
+Distal (DIP)
+
+
+
+Hip
+Internal rotation > flexion > abduction = extension > other motions
+
+
+Tibiofemoral
+Flexion > extension ( 5:1)
+
+
+Superior tibiofibular
+No capsular pattern; pain at end range of translatory movements
+
+
+Talocrural
+Plantar flexion > dorsiflexion
+
+
+Talocalcaneal (subtalar)
+Varus > valgus
+
+
+Midtarsal
+Inversion (plantar flexion, adduction, supination)
+
+
+Talonavicular calcaneocuboid
+> Dorsiflexion
+
+
+Metatarsophalangeal 1
+Extension > flexion ( 2:1)
+
+
+Metatarsophalangeals 2 5
+Flexion ? extension
+
+
+Interphalangeals 2 5
+
+
+
+Proximal
+Flexion ? extension
+
+
+Distal
+Flexion ? extension
+
+
+
+Data from Cyriax J: Textbook of Orthopaedic Medicine, Diagnosis of Soft Tissue Lesions (ed 8). London, Bailliere Tindall, 1982.
+A noncapsular pattern of restriction is a limitation in a joint in any pattern other than a capsular one and may indicate the presence of a joint derangement, a restriction of one part of the joint capsule, or an extra articular lesion that obstructs joint motion.1
+A positive finding for joint hypomobility would be a reduced range in a capsular or noncapsular pattern. The hypomobility can be painful, suggesting an acute sprain of a structure, or painless, suggesting a contracture or adhesion of the tested structure.
+Although abnormal motion is typically described as being reduced, abnormal motion may also be excessive. Excessive motion is often missed and is erroneously classified as normal motion. To help determine whether the motion is normal or excessive, passive range of motion, in the form of passive overpressure, and the end feel are assessed (see next section).
+
+Full and pain free active range of motion suggests normalcy for that movement, although it is important to remember that normal range of motion is not synonymous with normal motion.4 Normal motion implies that the control of motion must also be present. This control is a factor of muscle flexibility, joint stability, and central neurophysiologic mechanisms. These factors are highly specific in the body.5 A loss of motion at one joint may not
+
+
+
+prevent the performance of a functional task, although it may result in the task being performed in an abnormal manner. For example, the act of walking can still be accomplished in the presence of a knee joint that has been fused into extension. Because the essential mechanisms of knee flexion in the stance period and foot clearance in the swing period are absent, the patient compensates for these losses by hiking the hip on the involved side, by side bending the lumbar spine to the uninvolved side, and through excessive motion of the foot.
+Single motions in the cardinal planes are usually tested first. These tests are followed by dynamic and static testing. Dynamic testing involves repeated movements. Static testing involves sustaining a position. Sustained static positions may be used to help detect postural syndromes.6 McKenzie advocates the use of repeated movements in specific directions in the spine and the extremities. Repeated movements can give the clinician some valuable insight into the patient's condition6:
+ Symptoms of a postural dysfunction remain unchanged with repeated motions.
+ Pain from a dysfunction syndrome is increased with tissue loading but ceases at rest.  Repeated motions can indicate the irritability of the condition.
+ Repeated motions can indicate to the clinician the direction of motion to be used as part of the intervention. If pain increases during repeated motion in a particular direction, exercising in that direction is not indicated. If pain only worsens in part of the range, repeated motion exercises can be used for that part of the range that is pain free or that does not worsen the symptoms.
+ Pain that is increased after the repeated motions may indicate a retriggering of the inflammatory response, and repeated motions in the opposite direction should be explored.
+Combined motion testing may be used when the symptoms are not reproduced with the cardinal plane motions (flexion, extension, abduction, etc.), repeated motions, or sustained positions. Compression and distraction also may be added to all of the active motion tests in an attempt to reproduce the symptoms.
+
+
+Active Physiologic Range of Motion of the Spine
+
+Active physiologic intervertebral mobility, or active mobility, tests of the spine were originally designed by osteopaths to assess the ability of each spinal joint to move actively through its normal range of motion, by palpating over the transverse processes of a joint during the motion. Theoretically, by palpating over the transverse processes, the clinician can indirectly assess the motions occurring at the zygapophysial joints at either side of the intervertebral disk. However, the clinician must remember that, although it is convenient to describe the various motions of the spine occurring in a certain direction, these involve the integration of movements of a multijoint complex.
+The human zygapophysial joints are capable of only two major motions: gliding upward and gliding downward. If these movements occur in the same direction, flexion or ext ension of the spine occurs, whereas if the movements occur in opposite directions, side flexion occurs.
+Osteopaths use the terms opening and closing to describe flexion and extension motions, respectively, at the zygapophysial joint. Under normal circumstances, an equal amount of gliding occurs at each zygapophysial joint with these motions.
+During flexion, both zygapophysial joints glide superiorly (open). During extension, both zygapophysial joints glide inferiorly (close).
+
+
+
+ During side flexion, one joint is gliding inferiorly (closing), while the other joint is gliding superiorly (opening). For example, during right side flexion, the right joint is gliding inferiorly (closing), while the left joint is gliding superiorly (opening).
+By combining flexion or extension movements with side flexion, the joint can be "opened" or "closed" to its limits. Thus, flexion and right side flexion of a segment assesses the ability of the left joint to maximally open (flex), whereas extension and left side flexion of a segment assesses the ability of the left joint to maximally close (extend).
+There is a point that may be considered as the center of segmental rotation, about which all segmental motion must occur. In the case of a zygapophysial joint impairment (hypermobility or hypomobility), it is presumed that this center of rotation will be altered.
+If one zygapophysial joint is rendered hypomobile (i.e., the superior facet cannot move to the extreme of superior or inferior motion), then the pure motions of flexion and extension cannot occur. This results in a relative asymmetric motion of the two superior facets, as the end of range of flexion or extension is approached (i.e., a side flexion motion will occur). However, this side flexion motion will not be about the normal center of segmental rotation. The structure responsible for the loss of zygapophysial joint motion, whether it is a muscle, disk protrusion, or the zygapophysial joint itself, will become the new axis of vertebral motion, and a new component of rotation about a vertical axis, normally unattainable, will be introduced into the segmental motion. The degree of this rotational deviation is dependent on the distance of the impairment from the original center of rotation.
+Because the zygapophysial joints in the spine are posterior to the axis of rotation, an obvious rotational change occurring between full flexion and full extension (in the position of a vertebral segment) is indicative of zygapophysial joint motion impairment.
+By observing any marked and obvious rotation of a vertebral segment occurring between the positions of full flexion and full extension, one may deduce the probable pathologic impairment.
+
+
+Passive Physiologic Range of Motion of the Extremities
+
+Passive motions are movements performed by the clinician without the assistance of the patient. Passive movements are performed in the anatomic range of motion for the joint and normally demonstrate slightly greater range of motion than active motion the barrier to active motion should occur earlier in the range than the barrier to passive motion.
+If the patient can complete the active physiologic range of motion easily, without presenting pain or other symptoms, then passive testing of that motion is usually unnecessary. However, if the active motions do not reproduce the patient's symptoms, because the patient avoids going into the painful part of the range, or the active range of motion appears incomplete, it is important to perform gentle passive overpressure. Pain during passive overpressure is often due to moving, stretching, or pinching of noncontractile structures. Pain that occurs at the mid end range of active and passive movement is suggestive of a capsular contraction or scar tissue that has not been adequately remodeled.6 Pain occurring at the end of PROM may be due to stretching contractile structures, as well as noncontractile structures.8 Thus, PROM testing gives the clinician information about the integrity of the contractile and inert tissues, and with gentle overpressure, the end feel. Cyriax1 introduced the concept of the end feel, which is the quality of resistance at end range. To execute the end feel, the point at which resistance is encountered is evaluated for quality and tenderness. Additional forces are needed as the end range of a joint is reached and the elastic limits are challenged. This space, termed the end play zone, requires a force of overpressure to be reached so that, when that force is released, the joint springs back from its elastic limits. The end feel can indicate to the clinician the cause of the motion restriction (Tables 11 6 and 11 7).
+
+
+
+TABLE 11 6
+Normal End Feels 
+
+Type 
+Cause 
+Characteristics and Examples
+Bony
+Produced by bone to bone approximation
+Abrupt and unyielding; gives impression that further forcing will break something
+Examples:
+Normal: elbow extension
+Abnormal: cervical rotation (may indicate osteophyte)
+Elastic
+Produced by muscle tendon unit; may occur with adaptive shortening
+Stretches with elastic recoil and exhibits constant length phenomenon; further forcing feels as if it will snap something
+Examples:
+  Normal: wrist flexion with finger flexion, the straight leg raise, and ankle dorsiflexion with the knee extended
+Abnormal: decreased dorsiflexion of the ankle with the knee flexed
+Soft tissue approximation
+Produced by contact of two muscle bulks on either side of a flexing joint where joint range exceeds other restraints
+Very forgiving end feel that gives impression that further normal motion is possible if enough force could be applied
+Examples:
+Normal: knee flexion and elbow flexion in extremely muscular subjects Abnormal: elbow flexion with obese subject
+Capsular
+Produced by capsule or ligaments
+Various degrees of stretch without elasticity; stretch ability is dependent on thickness of tissue
+Strong capsular or extracapsular ligaments produce hard capsular end  feel, whereas thin capsule produces softer one
+Impression given to clinician is that if further force is applied, something will tear
+Examples:
+  Normal: wrist flexion (soft), elbow flexion in supination (medium), and knee extension (hard)
+  Abnormal: inappropriate stretch ability for specific joint; if too hard, may indicate hypomobility due to arthrosis; if too soft, hypermobility
+
+Data from Meadows JTS: Manual Therapy: Biomechanical Assessment and Treatment, Advanced Technique. Calgary, Swodeam Consulting, 1995. TABLE 11 7
+Abnormal End Feels 
+
+
+
+
+
+Type 
+Causes 
+Characteristics and Examples
+Springy
+Produced by articular surface rebounding from intra articular meniscus or disk; impression is that if forced further, something will collapse
+Rebound sensation as if pushing off from a rubber pad
+Examples:
+Normal: axial compression of cervical spine
+Abnormal: knee flexion or extension with displaced meniscus
+Boggy
+Produced by viscous fluid (blood) within joint
+"Squishy" sensation as joint is moved toward its end range; further forcing feels as if it will burst joint
+Examples:
+Normal: none
+Abnormal: hemarthrosis at knee
+Spasm
+Produced by reflex and reactive muscle contraction in response to irritation of nociceptor, predominantly in articular structures and muscle; forcing it further feels as if nothing will give
+Abrupt and "twangy" end to movement that is unyielding while the structure is being threatened but disappears when threat is removed (kicks back)
+With joint inflammation, it occurs early in range, especially toward close packed position, to prevent further stress With irritable joint hypermobility, it occurs at end of what
+should be normal range, as it prevents excessive motion from further stimulating the nociceptor
+Spasm in grade II muscle tears becomes apparent as muscle is passively lengthened and is accompanied by a painful weakness of that muscle
+Note: Muscle guarding is not a true end feel, as it involves co  contraction
+Examples:
+Normal: none
+  Abnormal: significant traumatic arthritis, recent traumatic hypermobility, and grade II muscle tears
+Empty
+Produced solely by pain; frequently caused by serious and severe pathologic changes that do not affect joint or muscle and so do not produce spasm; demonstration of this end feel is, with exception of acute subdeltoid bursitis, de facto evidence of serious pathology; further forcing simply increases pain to unacceptable levels
+Limitation of motion has no tissue resistance component, and resistance is from patient being unable to tolerate further motion due to severe pain; it is not same feeling as voluntary guarding, but rather it feels as if patient is both resisting and trying to allow movement simultaneously
+Examples:
+Normal: none
+Abnormal: acute subdeltoid bursitis and sign of the buttock
+Facilitation
+Not truly an end feel, as facilitated hypertonicity does not restrict motion; it can, however, be perceived near end range
+Light resistance as from constant light muscle contraction throughout latter half of range that does not prevent end of range being reached; resistance is unaffected by rate of movement
+Examples:
+Normal: none
+Abnormal: spinal facilitation at any level
+
+
+
+
+Data from Meadows JTS: Manual Therapy: Biomechanical Assessment and Treatment, Advanced Technique. Calgary, Swodeam Consulting, 1995.
+
+Although some clinicians feel that overpressure should not be applied in the presence of pain, this is erroneous. Most, if not all, of the end feels that suggest acute or serious pathology are to be found in the painful range, including spasm and the empty end feel.
+The end feel is very important in joints that have only very small amounts of normal range, such as those of the spine. The type of end feel can help the clinician determine the presence of dysfunction. For example, a hard, capsular end feel indicates a pericapsular hypomobility, whereas a jammed or pathomechanical end feel indicates a pathomechanical hypomobility. A normal end feel would indicate normal range, whereas an abnormal end feel would suggest abnormal range, either hypomobile or hypermobile. An association between an increase in pain and abnormal pathologic end feels compared with normal end feels has been demonstrated.9
+The planned intervention, and its intensity, is based on the type of tissue resistance to movement, demonstrated by the end feel, and on the acuteness of the condition (Table 11 8).1 This information may indicate whether the resistance is caused by pain, muscle, capsule ligament, disturbed mechanics of the joint, or a combination.
+TABLE 11 8
+Abnormal Barriers to Motion and Recommended Manual Techniques
+
+Barrier
+End Feel 
+Technique 
+Pain
+Empty
+None
+Pain
+Spasm
+None
+Pain
+Capsular
+Oscillations (I, IV)
+Joint adhesions
+Early capsular
+Passive articular motion stretch (I V)
+Muscle adhesions
+Early elastic
+Passive physiologic motion stretch
+Hypertonicity
+Facilitation
+Muscle energy (hold/relax, etc.)
+Bone
+Bony
+None
+
+
+
+The quantity and quality of movement refer to the ability to achieve end range without deviation from the intended movement plane.
+
+
+
+Both the passive and active physiologic ranges of motion can be measured using a goniometer, which has been shown to have a satisfactory level of intraobserver reliability.10, 11 and 12 Visual observation in experienced clinicians has been found to be equal to measurements by goniometry.13
+The recording of range of motion varies. The American Medical Association recommends recording the range of motion on the basis of the neutral position of the joint being zero, with the degrees of motion increasing in the direction the joint moves from the zero starting point.14 A plus sign (+) is used to indicate joint hyperextension and a minus sign (?) to indicate an extension lag. The method of recording chosen is not important, provided the clinician chooses a recognized method and documents it consistently with the same patient.
+Passive Physiologic Range of Motion of the Spine
+
+The passive physiologic intervertebral mobility, or passive mobility, tests use the same principles as the active physiologic intervertebral mobility tests to assess the ability of each joint in the spine to move passively through its normal range of motion, while the clinician palpates over the interspinous spaces. During extension, the spinous processes should approximate, whereas during flexion, they should separate.
+If pain is reproduced, it is useful to associate the pain with the onset of tissue resistance to gain an appreciation of the acuteness of the problem.
+RANGE OF MOTION TECHNIQUES
+As previously discussed, range of motion can be assessed to provide the clinician with information, but it can also be used therapeutically when a patient is unable to independently maintain his or her mobility whether globally or at a specific joint. The measurement of range of motion is described in the Goniometry section later in the chapter.
+Range of Motion Upper Extremity
+For all of the following techniques, it is assumed that the patient is in the supine position, unless otherwise stated.
+Glenohumeral Joint
+
+Flexion and Extension
+
+Glenohumeral flexion/extension occurs in the sagittal plane around the frontal axis (see Chapter 4).
+Pure glenohumeral motion can be assessed by stabilizing the scapula which will significantly limit motion at the glenohumeral joint to approximately 90 . In the following example, the scapular is not stabilized.
+
+Hand Placement 
+
+
+The clinician uses one hand to grasp the patient's wrist, while using the other hand to grasp the patient's elbow (Figure 11 1).
+
+FIGURE  11 1
+
+
+Shoulder flexion
+
+
+
+
+Technique 
+
+
+The clinician lifts the patient upper extremity through the available range of motion (Figure 11 1) and then returns to the start position. Shoulder extension beyond the midline of the body can be accomplished by lowering the arm below the table or bed.
+
+Normal End feel 
+
+
+The normal end feel for glenohumeral flexion is firm, resulting from tension in the posterior joint capsule, the posterior band of the coracohumeral ligament, teres major, teres minor, and infraspinatus muscles. If the scapular is stabilized, the end feel for shoulder complex flexion is also firm, but results from tension in the latissimus dorsi muscle and the costosternal fibers of the pectoralis major muscle. The normal end feel for glenohumeral extension is firm because of the tension in the anterior band of the coracohumeral ligament and the anterior joint capsule. For shoulder complex extension, the end feel is also firm as a result of the tension in the clavicular fibers of the pectoralis major muscle and the serratus anterior muscle.
+
+
+Abduction and Adduction
+
+Motion occurs in the frontal plane around an anterior posterior (A P) axis (see Chapter 4).
+
+Hand Placement 
+
+
+The clinician uses one hand to grasp the patient's wrist and the other hand to grasp the patient's elbow (Figure 11 2). The patient's elbow may be extended or flexed.
+
+FIGURE  11 2
+
+
+Shoulder abduction
+
+
+
+
+Technique 
+
+
+The clinician moves the extremity away from the patient's trunk and returns to the start position while avoiding shoulder flexion by maintaining the arm horizontal to the floor (Figure 11 2). If the elbow is extended, the clinician must move his or her feet and step toward the patient's head (Figure 11  2). To avoid impingement of the humeral head on the acromion process, it is important to externally rotate the humerus during this technique. The technique may be modified to prevent excessive elevation of the scapula by using one hand to stabilize the scapula over its superior border.
+
+Normal End feel 
+
+
+The end feel for pure glenohumeral abduction is usually firm because of the tension in the middle and inferior bands of the glenohumeral ligament, the inferior joint capsule, and latissimus dorsi and pectoralis major muscles. For shoulder abduction, the end feel is also firm because of tension in the middle and inferior portion of the trapezius muscle, and the rhomboid major and minor muscles.
+Horizontal Abduction and Adduction
+
+Hand Placement 
+
+
+Using one hand, the clinician grasps the wrist of the patient while using the other hand to grasp the patient's elbow (Figure 11 3). The patient's elbow can be flexed or extended.
+
+FIGURE  11 3
+
+
+Shoulder horizontal abduction and adduction
+
+
+
+
+Technique 
+
+
+The technique begins with the patient's shoulder abducted to 90  and parallel to the floor. The clinician lifts the arm up and across the upper chest of the patient (Figure 11 3) and then returns to the start position. If possible, the patient's arm is lowered below the height of the bed or table to achieve full horizontal abduction.
+External Rotation
+
+With the patient in the reference position, external rotation of the shoulder occurs in the transverse plane around a longitudinal axis.
+
+Hand Placement 
+
+
+Using one hand, the clinician grasps the patient's elbow, while grasping the patient's wrist with the other hand (Figure 11 4). The patient's arm is typically positioned in 90  of abduction and 90  of elbow flexion. However, if this is not possible, the patient's arm can be positioned by the side with the elbow extended or flexed.
+
+FIGURE  11 4
+
+
+Shoulder external rotation
+
+
+Technique 
+
+
+The clinician moves the patient's forearm backward toward the floor so that the humerus externally rotates to a point when the forearm is horizontal
+
+
+
+to the floor (Figure 11 4)
+or at the point when the shoulder girdle is felt to move into retraction, and is then returned to the start position. If the technique requires the arm to be by the patient's side and the elbow extended, the clinician uses one hand to grasp the humerus just above the epicondyles and the other hand to grasp the forearm of the wrist and then rotates or rolls the entire upper extremity in an outward direction. If the technique requires the arm to be by the patient's side and the elbow flexed, the clinician uses one hand to grasp the patient's elbow and the other hand to grasp the distal end of the forearm, and the forearm is moved away from the chest without abducting or abducting the shoulder.
+
+Normal End feel 
+
+
+Using the described motion, the end feel is firm because of tension in the three bands of the glenohumeral ligament, the coracohumeral ligament, the anterior joint capsule, and the latissimus dorsi, pectoralis major, subscapularis, and teres major muscles. The end feel for pure glenohumeral external rotation is also firm because of tension in the pectoralis minor and serratus anterior muscles.
+Internal Rotation
+
+With the patient in the reference position, external rotation of the shoulder occurs in the transverse plane around a longitudinal axis.
+
+Hand Placement 
+
+
+Using one hand, the clinician grasps the patient's elbow, while grasping the patient's wrist with the other hand (Figure 11 5). The patient's arm is typically positioned in 90  of abduction and 90  of elbow flexion. However, if this is not possible, the patient's arm can be positioned differently (see below).
+
+FIGURE  11 5
+
+
+Shoulder internal rotation
+
+
+Technique 
+
+
+The clinician moves the patient's forearm forward toward the floor so that the humerus internally rotates to a point when the acromion process rises toward the ceiling, signifying that the humeral head is being blocked by the acromion (Figure 11 5) and the shoulder is beginning to move into protraction, and is then returned to the start position. If the technique requires the arm to be by the patient's side and the elbow extended, the clinician uses one hand to grasp the humerus just above the epicondyles and the other hand to grasp the forearm of the wrist and then rotates or rolls the entire upper extremity in an inward direction. It is not advised to use the technique where the patient's arm is by the side and the elbow is flexed, as the motion of internal rotation is blocked by the patient's body, thereby preventing the attainment of complete range of motion.
+
+Normal End feel 
+
+
+Using the described motion, the end feel is firm because of tension in the middle and inferior portions of the trapezius muscle, and the rhomboid major and minor muscles. The end feel for pure glenohumeral internal rotation is also firm because of tension in the posterior joint capsule and the teres minor and infraspinatus muscles.
+Scapulothoracic Joint
+
+Mobilization of the scapulothoracic joint is not commonly performed with the inpatient population. However, in cases of shoulder impingement syndrome, these techniques can prove useful in helping improve the scapular humeral rhythm. For these techniques, the patient is positioned in sidelying. The hand placement for the first two of these techniques is essentially the same; the only difference is the direction of force applied to the scapula.
+Scapular Elevation and Depression
+
+Hand Placement 
+
+
+Using one hand, the clinician cups the inferior angle of the scapula while placing the other hand on the superior border of the scapula.
+
+Technique 
+
+
+The scapular is moved in an upward and downward direction (Figure 11 6).
+
+FIGURE  11 6
+
+
+Scapular elevation and depression
+
+
+Scapular Protraction (Abduction) and Retraction (Adduction)
+
+Hand Placement 
+
+
+Using one hand, the clinician cups the inferior angle of the scapula while placing the other hand on the superior border of the scapula.
+
+Technique 
+
+
+The scapula is moved toward and away from the spinous processes (Figure 11 7).
+
+FIGURE  11 7
+
+
+ Scapular protraction and retraction	
+
+
+
+
+Scapular Winging 
+
+The patient is positioned in sidelying.
+
+Hand Placement 
+
+
+Using one hand, the clinician slides the fingertips under the vertebral (medial) border of the scapula (Figure 11 8).
+
+FIGURE  11 8
+
+
+Scapular winging
+
+
+Technique 
+
+
+The clinician gently lifts the scapula from the ribs. This technique is made easier if the patient's arm is placed behind the trunk.
+Elbow Joint
+
+Flexion and Extension
+
+Motion occurs in the sagittal plane around the frontal axis.
+
+Hand Placement 
+
+
+Using one hand, the clinician grasps the distal forearm and hand of the patient while using the other hand to support and stabilize the distal end of the patient's humerus.
+
+Technique 
+
+
+While preventing any shoulder motion, the clinician flexes and extends the patient's elbow with the patient's forearm positioned in neutral (Figure 11 9), then with the patient's forearm positioned in pronation (Figure 11 10), and finally with the patient's forearm positioned in supination (Figure 11 11).
+
+FIGURE  11 9
+
+
+Elbow flexion
+
+
+FIGURE  11 10
+
+
+Approaching the end range of elbow extension and pronation
+
+
+FIGURE  11 11
+
+
+The end range of elbow extension and supination
+
+
+
+
+Normal End feel 
+
+
+The end feel for elbow flexion is normally one of soft tissue approximation due to compression of the muscle bulk of the anterior forearm with that of the anterior upper arm. However, in a very slight individual with a small muscle bulk, the end feel may be either:
+ Hard because of the contact between the coronoid process of the ulna and the coronoid fossa of the humerus, and contact between the head of the radius and the radial fossa of the humerus
+ Firm because of the tension in the posterior joint capsule and the triceps brachii muscle
+The end feel for elbow extension is typically hard because of contact between the olecranon process of the ulna and the olecranon fossa of the humerus. On occasion, the end feel can be firm because of tension in the anterior joint capsule, the collateral ligaments, and the biceps brachii and brachialis muscles.
+Forearm Pronation and Supination
+
+With the patient in the anatomic reference position, motion occurs in the transverse plane around a longitudinal axis.
+
+Hand Placement 
+
+
+The clinician uses one hand to grasp the patient's distal forearm and the patient's hand while using the other hand to support and stabilize the patient's humerus.
+
+Technique 
+
+
+The technique can be performed with the patient's elbow flexed or extended. While ensuring that no motion is occurring at the shoulder, the clinician supinates (Figure 11 11) and pronates (Figure 11 10) the patient's forearm.
+
+Normal End feel 
+
+
+The normal end feel for forearm pronation is either hard because of contact between the ulna and the radius, or firm because of tension in the posterior (dorsal) radioulnar ligament of the distal (inferior) radioulnar joint, the supinator and biceps brachii muscles, and the interosseous membrane. The normal end feel for forearm supination is firm as a result of tension in the anterior radioulnar ligament of the distal radioulnar joint, interosseous membrane, and the pronator teres and pronator quadratus muscles.
+Wrist Joint
+
+Flexion and Extension
+
+
+
+Motion occurs in the sagittal plane around a frontal axis.
+
+Hand Placement 
+
+Using one hand, the clinician grasps the patient's hand over the posterior and anterior surfaces, while using the other hand to support and stabilize the forearm.
+
+Technique 
+
+
+The technique can be performed with the patient's elbow flexed or extended. While allowing the patient's fingers to relax, the clinician moves the patient's palm toward the forearm (flexion) (Figure 11 12) and then the posterior aspect of the hand toward the forearm (extension) (Figure 11 13). The technique can then be repeated with the patient's fingers fully flexed in a closed fist position.
+
+FIGURE  11 12
+
+
+Wrist flexion
+
+
+FIGURE  11 13
+
+
+Wrist extension
+
+
+Normal End feel 
+
+
+
+The end feel for wrist flexion is firm because of tension in the posterior (dorsal) radio carpal ligament and the posterior (dorsal) joint capsule. The end feel for wrist extension is usually firm because of the tension in the anterior (palmar) radiocarpal ligament and the anterior (palmar) joint capsule, but it can be hard as a result of contact between the radius and the carpal bones.
+
+
+Radial and Ulnar Deviation
+
+Hand Placement 
+
+
+While maintaining the patient's wrist in neutral flexion extension, the clinician uses one hand to grasp the patient's hand over the posterior and anterior surfaces, while using the other hand to support and stabilize the forearm.
+
+Technique 
+
+
+While avoiding any wrist flexion extension, the clinician moves the patient's hand in a radial (Figure 11 14) and ulnar (Figure 11 15) direction.
+
+FIGURE  11 14
+
+
+Radial deviation
+
+
+FIGURE  11 15
+
+
+Ulnar deviation
+
+
+
+
+Normal End feel 
+
+
+The end feel for radial deviation is typically hard because of contact between the radial styloid process and the scaphoid. However, if there is tension in the ulnar collateral ligament, the ulnar carpal ligament, and the ulnar portion of the joint capsule, the end feel may be firm. The end feel for ulnar deviation is firm because of tension in the radial collateral ligament and the radial portion of the joint capsule.
+Hand and Thumb Joints
+
+Metacarpophalangeal (MCP) Flexion and Extension
+
+Motion occurs in the sagittal plane around a frontal axis.
+
+Hand Placement 
+
+
+Using the thumb and index finger of one hand, the clinician grasps the posterior and anterior surfaces of a metacarpal just proximal to the metacarpal head, while using the thumb and index finger of the other hand to grasp the posterior and anterior surfaces of a proximal phalanx (Figure 11 16).
+
+FIGURE  11 16
+
+
+MCP flexion of the index finger
+
+
+Technique 
+
+
+
+While stabilizing the metacarpal with one hand, the other hand moves the phalanx in an upward and downward direction (Figure 11 16). The technique is repeated for each MCP of the fingers on each hand.
+Normal End feel 
+
+
+The end feel for MCP flexion can vary from hard because of contact between the palmar aspect of the proximal phalanx and metacarpal, to firm because of tension in the posterior joint capsule and the collateral ligaments. The end feel for MCP extension is firm as a result of tension in the anterior (palmar) joint capsule and anterior (palmar) fibrocartilaginous plate.
+Metacarpophalangeal (MCP) Joint of the Thumb Flexion and Extension
+
+Motion occurs in the frontal plane around an A P axis, when the patient is in the anatomic reference position.
+
+Hand Placement 
+
+
+Using one hand, the clinician stabilizes the first metacarpal to prevent wrist motion, and flexion and opposition of the CMC joint of the thumb, while using the other hand to move the thumb at the MCP joint.
+
+Technique 
+
+
+Once correct stabilization is attained, the clinician moves the thumb around the MCP joint into flexion, toward the palm (Figure 11 17), and then into extension (Figure 11 18), away from the hand.
+
+FIGURE  11 17
+
+
+MCP flexion of the thumb
+
+
+FIGURE  11 18
+
+
+MCP extension of the thumb
+
+
+
+
+Normal End feel 
+
+The end feel for MCP flexion is either hard because of contact between the anterior aspect of the proximal phalanx and the first metacarpal, or firm because of tension in the posterior joint capsule, the extensor policies brevis muscle, and the collateral ligaments. The end feel for MCP extension is firm, resulting from tension in the anterior joint capsule, anterior (palmar) fibrocartilaginous plate, and the flexor pollicis brevis muscle.
+Metacarpophalangeal (MCP) Abduction
+
+Motion occurs in the frontal plane around an A P axis.
+
+Hand Placement 
+
+
+The clinician uses one hand to grasp and stabilize the PIP joints of the first, second, and third fingers, while using the other hand to grasp the forefinger.
+
+Technique 
+
+
+While maintaining the MCP and IP joint in extension, the clinician gently moves the fourth finger away from the third finger. Then, the clinician stabilizes the first and second fingers and moves the third finger away from the second finger. Next, the second finger can be moved to the left and to the right without stabilization of any of the other fingers.
+
+Normal End feel 
+
+
+The normal end feel for MCP abduction is firm because of tension in the collateral ligaments of the MCP joints, the anterior (palmar) interossei muscles, and the fascia of the web space between the fingers.
+Thumb (Carpometacarpal) Abduction and Adduction
+
+Motion occurs in the sagittal plane around a frontal axis, when the patient is in the anatomic reference position.
+
+Hand Placement 
+
+
+Using the fingers and thumb of one hand, the clinician grasps the patient's thumb, while using the other hand to stabilize the second metacarpal.
+
+Technique 
+
+
+The clinician lifts the thumb away from the palm so that it is perpendicular to the palm while maintaining the MCP and IP joint in extension (Figure 11  1 9). The thumb is then returned to the palm parallel to the second metatarsal.
+
+
+
+
+FIGURE  11 19
+
+
+Thumb abduction
+
+
+Normal End feel 
+
+
+The end feel for carpometacarpal (CMC) joint abduction is firm because of tension in the fascia and skin of the web space between the thumb and index finger, and tension in the adductor pollicis and first posterior interossei muscles.
+Thumb (CMC) Extension and Flexion
+
+Motion occurs in the frontal plane around an A P axis, when the patient is in the anatomic reference position.
+
+Hand Placement 
+
+
+Using the fingers and thumb of one hand, the clinician grasps the patient's thumb, while using the other hand to stabilize the second metacarpal.
+
+Technique 
+
+
+The clinician moves the thumb away from the index finger and horizontal to the palm, thereby widening the web space to its maximum. The thumb is then returned so that it rests next to the side of the second metacarpal.
+
+Normal End feel 
+
+
+The end feel for CMC joint flexion can be either soft because of contact between the muscle bulk of the thenar eminence in the palm of the hand, or firm because of tension in the posterior joint capsule and the extensor pollicis brevis and abductor pollicis brevis muscles. The end feel for CMC joint extension is firm as a result of tension in the anterior joint capsule and the adductor pollicis, flexor pollicis brevis, opponens pollicis, and the first posterior interossei muscles.
+Thumb Opposition
+
+This motion is a combination of flexion, abduction, and medial axial rotation.
+
+Hand Placement 
+
+
+The clinician uses the thumb and index finger of one hand to grasp the patient's thumb, while using the other hand to grasp the fifth metacarpal and finger.
+
+
+
+Technique 
+
+
+The clinician rolls the patient's thumb toward the fifth finger while maintaining the MCP and IP joint in extension (Figure 11 20), and then returns the thumb to a position of full extension.
+
+FIGURE  11 20
+
+
+Thumb opposition
+
+
+Normal End feel 
+
+
+The end feel can be soft because of contact between the muscle bulk of the thenar eminence and the palm, or firm because of tension in the joint capsule, extensor pollicis brevis muscle, and transverse metacarpal ligament (when moving the fifth finger).
+Interphalangeal (IP) Joint of the Thumb Flexion and Extension
+
+Motion occurs in the frontal plane around an A P axis, when the patient is in the anatomic reference position.
+
+Hand Placement 
+
+
+The clinician uses one hand to stabilize the proximal phalanx to prevent flexion or extension of the MCP joint and the other hand to flex the thumb about the IP joint.
+
+Technique 
+
+
+Using the tip of the index finger and the thumb of one hand, the clinician flexes the tip of thumb around the IP joint into flexion (Figure 11 21), and extension.
+
+FIGURE  11 21
+
+
+Flexion of the thumb interphalangeal joint
+
+
+
+
+Normal End feel 
+
+
+The normal end feel for IP flexion is firm because of tension in the collateral ligaments and the posterior joint capsule. The normal end feel for IP extension is firm because of tension in the anterior joint capsule and the anterior (palmar) fibrocartilaginous plate.
+Finger Joints
+
+Flexion and Extension of the Proximal Interphalangeal (PIP) and Distal Interphalangeal (DIP) Joints
+
+Motion occurs in the sagittal plane around a frontal axis.
+
+Hand Placement 
+
+
+Using the thumb and index finger of one hand, the clinician grasps the more proximal phalanx, while using the thumb and index finger of the other hand to grasp the more distal phalanx. The same technique is used for the PIP (Figure 11 22) and the DIP (Figure 11 23) joints.
+
+FIGURE  11 22
+
+
+PIP flexion
+
+
+FIGURE  11 23
+
+DIP flexion
+
+
+
+
+Technique 
+
+
+While stabilizing the more proximal phalanx, the clinician moves the more distal phalanx in an upward (extension) and downward (flexion) direction. The technique is repeated for each articulation on each hand, including the thumb. Depending on the intent, the PIP and DIP joints can be flexed (Figure 11 24) and extended as a unit.
+
+FIGURE  11 24
+
+
+Combined flexion of the PIP and DIP joints
+
+
+Normal End feel 
+
+
+The end feel for PIP flexion can be either hard because of contact between the anterior aspect of the middle phalanx and the proximal phalanx, or soft because of compression of soft tissue between the anterior aspect of the middle and proximal phalanges. The end feel for PIP extension is firm as a result of tension in the anterior (palmar) joint capsule and anterior (palmar) fibrocartilaginous plate. The end feel for DIP flexion is firm because of tension in the posterior (dorsal) joint capsule, the contralateral ligaments, and the oblique retinacular ligament. The end feel for DIP extension is firm as a result of tension in the anterior (palmar) joint capsule and the anterior (palmar) fibrocartilaginous plate.
+Diagonal Patterns of the Upper Extremity
+
+Diagonal patterns of motion, incorporating the PNF patterns, can be performed using AROM, AAROM, or PROM as part of a range of motion regime, although it must always be remembered that because these patterns employ a number of planes simultaneously, they do not produce the same
+
+
+
+amount of range of motion to the muscles and joints as when the anatomic planes are used. However, there are times when these more functional movements are appropriate, particularly in the case where a patient is able to participate. As described in the Diagonal Patterns of Motion section earlier, there are four major patterns of motions that are commonly used, two for the upper extremities (D1 and D2 flexion and extension), and two for the lower extremities (D1 and D2 flexion and extension). Perhaps the major benefit of using PNF patterns as opposed to the standard anatomic range of motion exercises is that they induce some degree of spinal rotation, which can be particularly beneficial for the immobile patient. When used as a method of applying range of motion to a patient, hand placement is not as critical. The two patterns for the upper extremities are depicted in Figs. 11  2 5, 11 26, 11 27 and 11 28 and VIDEO 11 1 and 11 2.
+VIDEO 11 1 Upper Extremity Diagonal Pattern D1 Flexion 
+
+Play Video
+VIDEO 11 2 Upper Extremity Diagonal Pattern D2 Flexion 
+
+Play Video
+
+FIGURE  11 25
+
+
+Upper extremity D1 extension
+
+
+
+
+FIGURE  11 26
+
+
+Upper extremity D1 flexion
+
+
+FIGURE  11 27
+
+
+Upper extremity D2 flexion
+
+
+
+
+FIGURE  11 28
+
+Upper extremity D2 extension
+
+
+Range of Motion Lower Extremity
+For all of the following techniques, it is assumed that the patient is in the supine position, unless otherwise stated.
+Hip Joint
+
+Hip Flexion
+
+Motion occurs in the sagittal plane around a frontal axis.
+The range of motion exercises for the hip can incorporate motion at the knee and at the pelvis. Although the knee motion is more obvious, it is important to remember that hip flexion can induce posterior pelvic rotation and hip extension can induce anterior pelvic rotation. Based on the desired outcome of the range of motion exercise, the clinician may determine that the end ranges of hip motion that induce pelvic motion may be necessary.
+
+Hand Placement 
+
+
+The clinician uses one hand to grasp the patient's ankle, and the other hand to support the patient's knee.
+
+Technique 
+
+
+The clinician moves the patient's lower extremity into a combination of hip and knee flexion (Figure 11 29) to the appropriate end feel. Ankle dorsiflexion can also be included. In addition, the clinician may decide to omit the knee flexion and perform hip flexion with knee extension, also known as a straight leg raise (Figure 11 30). This particular maneuver serves the function of lengthening the multijoint muscles of the posterior thigh
+
+
+
+(the hamstrings) across both the knee and the hip. The straight leg maneuver can be performed in neutral hip rotation, adduction, and abduction, or can be performed with varying degrees of these motions. For example, the clinician may decide to perform the straight leg raise with the hip in internal rotation and adduction in order to stretch a specific structure, or group of structures.
+FIGURE  11 29
+
+
+Hip and knee flexion
+
+
+FIGURE  11 30
+
+
+Hip flexion and knee extension
+
+
+Normal End feel 
+
+
+The normal end feel for hip flexion is usually soft tissue approximation because of contact between the muscle bulk of the anterior thigh and the lower abdomen.
+Hip Extension
+
+Motion occurs in the sagittal plane around a frontal axis. The patient is positioned in prone.
+Hand Placement 
+
+
+
+
+The clinician uses one hand to grasp the patient's knee while using the other hand to stabilize the patient's pelvis.
+
+Technique 
+
+
+The clinician raises the patient's thigh from the bed to the point when the pelvis is felt to begin to rotate anteriorly.
+This technique can also be performed with the patient in sidelying, with the lower extremity to be treated uppermost. As before, the clinician uses one hand to monitor the pelvis while using the other hand and arm to support the patient's lower extremity. A modification to the sidelying technique can be used to apply tension to the tensor fasciae latae by using a combination of hip extension and hip adduction while stabilizing the pelvis.
+
+Normal End feel 
+
+
+The end feel is firm as a result of tension in the anterior joint capsule, iliofemoral ligament, and, to a lesser degree, the ischiofemoral and pubofemoral ligaments.
+Hip Abduction and Adduction
+
+Motion occurs in a frontal plane around an A P axis.
+
+Hand Placement 
+
+
+The clinician uses one hand to grasp the patient's foot and ankle, and the other hand to support the patient's knee, or to stabilize the pelvis to prevent rotation and lateral tilting.
+
+Technique 
+
+
+The clinician moves the patient's lower extremity so that the hip is abducted (Figure 11 31) and then adducted (Figure 11 32). In order to ensure that hip abduction occurs beyond the midline, the patient's contralateral lower extremity may need to be elevated or positioned in hip abduction.
+
+FIGURE  11 31
+
+
+Hip abduction
+
+
+FIGURE  11 32
+
+
+Hip adduction
+
+
+
+
+Normal End feel 
+
+
+The end feel for abduction is firm because of tension in the inferior medial joint capsule, pubofemoral ligament, ischiofemoral ligament, and the inferior band of the iliofemoral ligament. In addition, depending on the degree of adaptive shortening, the adductor magnus, adductor longus, adductor brevis, pectineus, and gracilis muscles may contribute to the firmness of the end feel. The end feel for adduction is firm because of tension in the superior lateral joint capsule and the superior band of the iliofemoral ligament. In addition, depending on the degree of adaptive shortening, the gluteus medius and minimus and the tensor fascia latae muscles may also contribute to the firmness of the end feel.
+Hip External and Internal Rotation
+
+Motion occurs in a transverse plane around a longitudinal axis, when the subject is in the anatomic reference position.
+
+Hand Placement 
+
+
+The clinician uses one hand to grasp the patient's foot and ankle, and the other hand to support the patient's knee. The patient's hip and knee are positioned in approximately 90 .
+
+Technique 
+
+
+The clinician moves the foot of the patient toward the midline for external rotation of the hip (Figure 11 33), and away from the midline for internal rotation of the hip (Figure 11 34).
+
+FIGURE  11 33
+
+
+Hip external rotation
+
+
+
+
+FIGURE  11 34
+
+
+Hip internal rotation
+
+
+Normal End feel 
+
+
+The end feel for internal rotation is firm because of tension in the posterior joint capsule and the ischiofemoral ligament, and muscle tension from the external rotators of the hip (piriformis, obturator internis and externus, gemelli superior and inferior, quadratus femoris, and the posterior fibers of the gluteus medius and gluteus maximus). The end feel for external rotation is also firm as a result of tension in the anterior joint capsule, iliofemoral ligament, and pubofemoral ligament. In addition, tension from the internal rotators of the hip (the anterior portion of the gluteus medius, the gluteus minimus, the adductor magnus and longus, and the pectineus muscles) may also enhance the firmness of the end feel.
+Knee Joint
+
+Knee Flexion and Extension
+
+Motion occurs in the sagittal plane around a frontal axis.
+
+Hand Placement 
+
+
+The clinician uses one hand to grasp the patient's foot and ankle, and the other hand to support the patient's knee.
+
+Technique 
+
+
+
+The patient's knee is flexed (Figure 11 35) to the appropriate end feel. This technique can be modified by positioning the patient prone (with a pillow under the hips to maintain pelvic neutral) in order to stretch the two joint muscles of the hip and knee, especially the rectus femoris. The clinician uses one hand to grasp the patient's ankle and the other hand to monitor the patient's pelvis. The clinician flexes the patient's knee to the point where anterior pelvic rotation motion is felt to occur.
+
+FIGURE  11 35
+
+
+Knee flexion
+
+
+Normal End feel 
+
+
+The end feel for knee flexion is normally one of soft tissue approximation because of contact between the muscle bulk of the posterior calf and thigh, or between the heel and the buttocks. However, if there is significant adaptive shortening of the rectus femoris muscle, the end feel is firm because of tension in this muscle. The end feel for knee extension is firm because of tension in the posterior joint capsule, the oblique and arcuate popliteal ligaments, collateral ligaments, and the anterior posterior cruciate ligaments.
+Ankle Joint
+
+Dorsiflexion and plantarflexion motions occur in the sagittal plane around a frontal axis. The motions of inversion and eversion consist of a combination of motions:
+ Inversion: a combination of supination, adduction, and plantarflexion occurring in varying degrees throughout the various joints of the ankle and foot.
+ Eversion: a combination of pronation, abduction, and dorsiflexion occurring in varying degrees throughout the various joints of the ankle and foot.
+Dorsiflexion
+
+Hand Placement 
+
+
+Using one hand, the clinician stabilizes the patient's lower leg, while using the other hand on the sole of the patient's foot.
+
+Technique 
+
+
+The clinician uses the hand on the sole of the patient's foot to apply motion into dorsiflexion (Figure 11 36).
+
+FIGURE  11 36
+
+
+
+Ankle dorsiflexion
+
+
+Normal End feel 
+
+
+The end feel is firm because of tension in the joint capsules, the calcaneofibular ligament, the anterior and posterior talofibular ligament, the posterior calcaneal ligaments, the anterior, posterior, lateral, and interosseous talocalcaneal ligaments, the posterior talonavicular ligament, the posterior calcaneocuboid ligament, the lateral band of the bifurcate ligament, the transverse metatarsal ligament, and various anterior and posterior and interosseous ligaments of the smaller joints of the foot. In addition, tension from the fibularis longus and brevis muscles can also enhance the firmness of the end feel.
+Plantarflexion
+
+Hand Placement 
+
+
+Using one hand, the clinician stabilizes the patient's lower leg, while placing the other hand on the posterior aspect of the patient's foot.
+
+Technique 
+
+
+The clinician uses the hand on the posterior aspect of the patient's foot to apply motion into plantarflexion (Figure 11 37).
+
+FIGURE  11 37
+
+
+Ankle plantarflexion
+
+
+
+
+Normal End feel 
+
+
+The end feel can be either hard because of contact between the calcaneus and the floor of the sinus tarsi, or firm because of tension in the joint capsules, the deltoid ligament, the plantar calcaneonavicular and calcaneocuboid ligaments, the medial talocalcaneal ligament, the medial band of the bifurcate ligament, the transverse metatarsal ligament, the posterior talonavicular ligament and, various posterior, anterior and interosseous ligaments of the smaller joints of the foot. In addition, tension from the tibialis posterior muscle can also enhance the firmness of the end feel.
+Inversion
+
+Hand Placement 
+
+
+Using one hand, the clinician stabilizes the patient's lower leg, while placing the other hand around the patient's foot.
+
+Technique 
+
+
+The clinician uses the hand around the patient's foot to apply motion into inversion (Figure 11 38).
+
+FIGURE  11 38
+
+
+Ankle inversion
+
+
+Normal End feel 
+
+
+
+The end feel is firm because of tension in the lateral joint capsule, the calcaneofibular ligament, the anterior and posterior talofibular ligaments, and the lateral, posterior, anterior, and interosseous talocalcaneal ligaments.
+Eversion
+
+Hand Placement 
+
+
+Using one hand, the clinician stabilizes the patient's lower leg, while placing the other hand around the patient's foot.
+
+Technique 
+
+
+The clinician uses the hand around the patient's foot to apply motion into eversion (Figure 11 39).
+
+FIGURE  11 39
+
+
+Ankle eversion
+
+
+Normal End feel 
+
+
+The end feel is either hard because of contact between the calcaneus and the floor of the sinus tarsi, or firm because of tension in the deltoid ligament, the medial talocalcaneal ligament, and the tibialis posterior muscle.
+Toe Joints
+
+Flexion and extension of the toe joints occurs in the sagittal plane around a frontal axis.
+Metatarsophalangeal (MTP) Flexion
+
+Hand Placement 
+
+
+Using one hand, the clinician stabilizes the patient's foot, while using the other hand to grasp the patient's toes.
+
+Technique 
+
+
+The clinician moves the toes into flexion around the MTP joint (Figure 11 40). This technique can be performed at each of the MTP joints for more specificity.
+
+FIGURE  11 40
+
+
+
+MTP flexion
+
+
+Normal End feel 
+
+
+The end feel is firm because of tension in the posterior joint capsule and the collateral ligaments, in addition to tension in the extensor digitorum brevis muscle.
+Metatarsophalangeal (MTP) Extension
+
+Hand Placement 
+
+
+Using one hand, the clinician stabilizes the patient's foot, while using the other hand to grasp the patient's toes.
+
+Technique 
+
+
+The clinician moves the toes into extension around the MTP joint (Figure 11 41). The technique can be performed at each of the MTP joints for more specificity.
+
+FIGURE  11 41
+
+
+MTP extension
+
+
+Normal End feel 
+
+
+
+The end feel is firm because of tension in the plantar joint capsule, the plantar fibrocartilaginous plate, and the flexor hallucis brevis, flexor digitorum brevis, and flexor digiti minimi muscles.
+Interphalangeal (IP) Flexion and Extension
+
+Hand Placement 
+
+
+Using one hand, the clinician stabilizes the patient's foot, while using the other hand to grasp the patient's toes.
+
+Technique 
+
+
+The clinician moves each toe into flexion (Figure 11 42) and extension (Figure 11 43). The technique is repeated with the great toe into flexion (Figure 11 44) and extension (Figure 11 45).
+
+FIGURE  11 42
+
+
+Interphalangeal joint flexion
+
+
+FIGURE  11 43
+
+
+Interphalangeal joint extension
+
+
+FIGURE  11 44
+
+
+
+Great toe flexion
+
+
+FIGURE  11 45
+
+
+Great toe extension
+
+
+Diagonal Patterns of the Lower Extremity
+
+As with the upper extremity, diagonal patterns of motion, incorporating the PNF patterns, can be performed using AROM, AAROM, or PROM as part of a range of motion of a regime [VIDEO 11 3 and 11 4]. The diagonal patterns of the lower extremity have a greater potential for inducing motion at the lumbar and thoracic spine, particularly at the extremes of range. The clinician must determine whether range of motion into these regions is desired or not and place limits on the range of motion accordingly. As stated earlier, although it would appear that the use of diagonal patterns is a more efficient method of applying range of motion to a series of joints rather than ranging a series of individual joints, these PNF patterns do not produce the same amount of range of motion to the muscles and joints as when the individual joints are moved through their various ranges of motion. When used as a method of applying range of motion to a patient, hand placement is not as critical. The two patterns for the lower extremities are depicted in Figures 11 46, 11 47, 11 48 and 11 49.
+VIDEO 11 3 Lower Extremity Diagonal Pattern D1 Flexion 
+
+
+
+Play Video
+VIDEO 11 4 Lower Extremity Diagonal Pattern D2 Flexion 
+
+Play Video
+
+FIGURE  11 46
+
+
+Lower extremity D1 extension
+
+
+
+
+FIGURE  11 47
+
+
+Lower extremity D1 flexion
+
+
+FIGURE  11 48
+
+
+Lower extremity D2 flexion
+
+
+
+
+FIGURE  11 49
+
+Lower extremity D2 extension
+
+Combined Ranges of Motion
+When performing passive range of motion exercises, the clinician may decide to apply combined motions simultaneously (VIDEO 11 5). For example, when performing range of motion to the lower extremities, the clinician may use a technique that incorporates ankle dorsiflexion, knee flexion, and hip flexion. In addition, the clinician may decide to superimpose hip internal rotation and hip external rotation to the technique.
+VIDEO 11 5 Combined Motion 
+
+Play Video
+
+Range of Motion The Spine
+
+
+
+Cervical Spine
+
+Hand Placement 
+
+
+Standing at the foot of the bed, the clinician uses both hands to support patient's head.
+
+Technique 
+
+
+While supporting the patient's head, the clinician moves the patient's head and cervical spine into flexion (Figure 11 50), rotation to the right (Figure 11 51) and left, and side flexion to the right (Figure 11 52) and left.
+
+FIGURE  11 50
+
+
+Cervical flexion
+
+
+FIGURE  11 51
+
+
+Cervical rotation to the right
+
+
+FIGURE  11 52
+
+
+Cervical side bending to the right
+
+
+
+Wherever possible, cervical spine motion should be tested actively in either the sitting or standing position (VIDEO 11 6), so that the effect of the compression of the head on the range of motion can be noted.
+VIDEO 11 6 Neck Active Range of Motion 
+
+Play Video
+
+
+Lumbar Spine
+
+Although passive range of motion can be applied to the lumbar spine, to achieve end ranges of motion is very difficult. Whenever possible, active range of motion of the lumbar spine in the sitting or standing position (VIDEO 11 7) should be assessed so that the effect of the compression of the trunk and head on the range of motion can be noted.
+VIDEO 11 7 Lumbar Active Range of Motion 
+
+
+
+Play Video
+
+GONIOMETRY
+The term goniometry is derived from two Greek words, gonia, meaning angle, and metron, meaning measure. Thus, a goniometer is an instrument used to measure angles. Within the field of physical therapy, goniometry is used to measure the total amount of available motion at a specific joint. Goniometry can be used to measure both active and passive range of motion.
+Goniometers are produced in a variety of sizes and shapes and are usually constructed of either plastic or metal (Figure 11 53). The two most common types of instruments used to measure joint angles are the bubble inclinometer and the traditional goniometer.
+
+FIGURE  11 53
+
+
+The various types of goniometers
+
+
+
+ Bubble goniometer (Figure 11 54). The bubble goniometer, which has a 360  rotating dial and scale with fluid indicator, can be used for flexion and extension; abduction and adduction; and rotation in the neck, shoulder, elbow, wrist, hip, knee, ankle, and spine.
+ Traditional goniometer. The traditional goniometer, which can be used for flexion and extension; abduction and adduction; and rotation in the shoulder, elbow, wrist, hip, knee, and ankle, consists of three parts:
+ A body. The body of the goniometer is designed like a protractor and may form a full or half circle. A measuring scale is located around the body. The scale can extend either from 0  to 180  and 180  to 0  for the half circle models, or from 0  to 360  and from 360  to 0  on the full  circle models. The intervals on the scales can vary from 1  to 10 .
+ A stationary arm. The stationary arm is structurally a part of the body and therefore cannot move independently of the body.
+ A moving arm. The moving arm is attached to the fulcrum in the center of the body by a rivet or screwlike device that allows the moving arm to move freely on the body of the device. In some instruments, the screwlike device can be tightened to fix the moving arm in a certain position or loosened to permit free movement.
+
+FIGURE  11 54
+
+
+Bubble goniometer
+
+
+
+The correct selection of which goniometer device to use depends on the joint angle to be measured. The length of arms varies among instruments and can range from 3 to 18 inches. Extendable goniometers (Figure 11 55) allow varying ranges from 9  inches to 26 inches. The longer armed goniometers or the bubble inclinometer are recommended when the landmarks are farther apart, such as when measuring hip, knee, elbow, and shoulder movements. In the smaller joints such as the wrist, hand, foot, and ankle, a traditional goniometer with a shorter arm is used.
+FIGURE  11 55
+
+
+Extendable goniometer
+
+The general procedure for measuring range of motion involves the following:
+1. The patient is positioned in the recommended testing position close to the edge of the treatment table or bed and should be correctly draped. While stabilizing the proximal joint component, the clinician gently moves the distal joint component through the available range of motion until the end feel is determined (see Range of Motion Examination). An estimate is made of the available range of motion, and the distal joint component is returned to the starting position. For the sake of brevity, the following descriptions of goniometric measurements do not include assessment of passive range of motion, but the reader should consider it as read.
+
+
+
+2. The clinician palpates the relevant bony landmarks and aligns the goniometer.
+3. A record is made of the starting measurement. The goniometer is then removed and the patient moves the joint through the available range of motion. Once the joint has been moved through the available range of motion, the goniometer is replaced and realigned, and a measurement is read and recorded.
+The standard testing procedures for each of the upper and lower extremity joints are outlined in Tables 11 9 and 11 10.
+TABLE 11 9
+Goniometric Techniques for the Upper Extremity
+
+
+Joint 
+Motion 
+Fulcrum 
+Proximal Arm 
+Distal Arm 
+
+
+Shoulder
+Flexion
+Acromion process
+Mid axillary line of the thorax
+Lateral midline of the humerus using the lateral epicondyle of the humerus for reference
+
+
+
+Extension
+Acromion process
+Mid axillary line of the thorax
+Lateral midline of the humerus using the lateral epicondyle of the humerus for reference
+
+
+
+Abduction
+Anterior aspect of the acromion process
+Parallel to the midline of the anterior aspect of the sternum
+Medial midline of the humerus
+
+
+
+Adduction
+Anterior aspect of the acromion process
+Parallel to the midline of the anterior aspect of the sternum
+Medial midline of the humerus
+
+
+
+Internal rotation
+Olecranon process
+Parallel or perpendicular to the floor
+Ulna using the olecranon process and ulnar styloid for reference
+
+
+
+External rotation
+Olecranon process
+Parallel or perpendicular to the floor
+Ulna using the olecranon process and ulnar styloid for reference
+
+
+Elbow
+Flexion
+Lateral epicondyle of the humerus
+Lateral midline of the humerus using the center of the acromion process for reference
+Lateral midline of the radius using the radial head and radial styloid process for reference
+
+
+
+Extension
+Lateral epicondyle of the humerus
+Lateral midline of the humerus using the center of the acromion process for reference
+Lateral midline of the radius using the radial head and radial styloid process for reference
+
+
+Forearm
+Pronation
+Lateral to the ulnar styloid process
+Parallel to the anterior midline of the humerus
+Dorsal aspect of the forearm, just proximal to the styloid process of the radius and ulna
+
+
+
+Supination
+Medial to the ulnar styloid process
+Parallel to the anterior midline of the humerus
+Ventral aspect of the forearm, just proximal to the styloid process of the radius and ulna
+
+
+Wrist
+Flexion
+Lateral aspect of the wrists over the
+Lateral midline of the ulna using the olecranon and ulnar styloid process for
+Lateral midline of the fifth metacarpal
+
+
+
+
+
+
+
+triquetrum
+reference
+
+
+
+
+
+
+Extension
+Lateral aspect of the
+Lateral midline of the ulna using the
+Lateral midline of the fifth metacarpal
+
+
+
+
+
+
+wrists over the
+olecranon and ulnar styloid process for
+
+
+
+
+
+
+
+triquetrum
+reference
+
+
+
+
+
+
+Radial deviation
+Over the middle of the
+Posterior midline of the forearm using the
+Posterior midline of the third metacarpal
+
+
+
+
+
+
+posterior aspect of the
+lateral epicondyle of the humerus for
+
+
+
+
+
+
+
+wrist over the capitate
+reference
+
+
+
+
+
+
+Ulnar deviation
+Over the middle of the
+Dorsal midline of the forearm using the
+Posterior midline of the third metacarpal
+
+
+
+
+
+
+posterior aspect of the
+lateral epicondyle of the humerus for
+
+
+
+
+
+
+
+wrist over the capitate
+reference
+
+
+
+
+
+Thumb
+Carpometacarpal
+Over the anterior aspect
+Anterior midline of the radius using the
+Anterior midline of the first metacarpal
+
+
+
+
+
+flexion
+of the first
+anterior surface of the radial head and
+
+
+
+
+
+
+
+carpometacarpal joint
+radial styloid process for reference
+
+
+
+
+
+
+Carpometacarpal
+Over the anterior aspect
+Anterior midline of the radius using the
+Anterior midline of the first metacarpal
+
+
+
+
+
+extension
+of the first
+anterior surface of the radial head and
+
+
+
+
+
+
+
+carpometacarpal joint
+radial styloid process for reference
+
+
+
+
+
+
+Carpometacarpal
+Over the lateral aspect
+Lateral midline of the second metacarpal
+Lateral midline of the first metacarpal
+
+
+
+
+
+abduction
+of the radial styloid
+using the center of the second metacarpal
+using the center of the first metacarpal
+
+
+
+
+
+
+process
+or phalangeal joint for reference
+or phalangeal joint for reference
+
+
+
+
+
+Carpometacarpal
+Over the lateral aspect
+Lateral midline of the second metacarpal
+Lateral midline of the first metacarpal
+
+
+
+
+
+adduction
+of the radial styloid
+using the center of the second metacarpal
+using the center of the first metacarpal
+
+
+
+
+
+
+process
+or phalangeal joint for reference
+or phalangeal joint for reference
+
+
+
+
+Fingers
+Metacarpophalangeal
+Over the posterior
+Over the posterior midline of the
+Over the posterior midline of the
+
+
+
+
+
+flexion
+aspect of the
+metacarpal
+proximal phalanx
+
+
+
+
+
+
+metacarpophalangeal
+
+
+
+
+
+
+
+
+joint
+
+
+
+
+
+
+
+Metacarpophalangeal
+Over the posterior
+Over the posterior midline of the
+Over the posterior midline of the
+
+
+
+
+
+extension
+aspect of the
+metacarpal
+proximal phalanx
+
+
+
+
+
+
+metacarpophalangeal
+
+
+
+
+
+
+
+
+joint
+
+
+
+
+
+
+
+Metacarpophalangeal
+Over the posterior
+Over the posterior midline of the
+Over the posterior midline of the
+
+
+
+
+
+abduction
+aspect of the
+metacarpal
+proximal phalanx
+
+
+
+
+
+
+metacarpophalangeal
+
+
+
+
+
+
+
+
+joint
+
+
+
+
+
+
+
+Metacarpophalangeal
+Over the posterior
+Over the posterior midline of the
+Over the posterior midline of the
+
+
+
+
+
+adduction
+aspect of the
+metacarpal
+proximal phalanx
+
+
+
+
+
+
+metacarpophalangeal
+
+
+
+
+
+
+
+
+joint
+
+
+
+
+
+
+
+Proximal
+Over the posterior
+Over the posterior midline of the proximal
+Over the posterior midline of the middle
+
+
+
+
+
+
+interphalangeal flexion
+aspect of the proximal interphalangeal joint
+phalanx
+phalanx
+
+
+
+Proximal interphalangeal extension
+Over the posterior aspect of the proximal interphalangeal joint
+Over the posterior midline of the proximal phalanx
+Over the posterior midline of the middle phalanx
+
+
+
+Distal interphalangeal flexion
+Over the posterior aspect of the proximal interphalangeal joint
+Over the posterior midline of the middle phalanx
+Over the posterior midline of the distal phalanx
+
+
+
+Distal interphalangeal extension
+Over the posterior aspect of the proximal interphalangeal joint
+Over the posterior midline of the middle phalanx
+Over the posterior midline of the distal phalanx
+
+
+TABLE 11 10
+Goniometric Techniques for the Lower Extremity
+
+
+
+Joint 
+Motion 
+Fulcrum 
+Proximal Arm 
+Distal Arm 
+
+
+Hip
+Flexion
+Over the lateral aspect of the hip joint using the greater trochanter of the femur for reference
+Lateral midline of the pelvis
+Lateral midline of the femur using the lateral epicondyle for reference
+
+
+
+Extension
+Over the lateral aspect of the hip joint using the greater trochanter of the femur for reference
+Lateral midline of the pelvis
+Lateral midline of the femur using the lateral epicondyle for reference
+
+
+
+Abduction
+Over the anterior superior iliac spine (ASIS) of the extremity being measured
+Aligned with imaginary horizontal line extending from one ASIS to the other ASIS
+Anterior midline of the femur using the midline of the patella for reference
+
+
+
+Adduction
+Over the anterior superior iliac spine (ASIS) of the extremity being measured
+Aligned with imaginary horizontal line extending from one ASIS to the other ASIS
+Anterior midline of the femur using the midline of the patella for reference
+
+
+
+Internal rotation
+Anterior aspect of the patella
+Perpendicular to the floor or parallel to the supporting surface
+Anterior midline of the lower leg using the crest of the tibia and a point midway between the two malleoli for reference
+
+
+
+External rotation
+Anterior aspect of the patella
+Perpendicular to the floor or parallel to the supporting surface
+Anterior midline of the lower leg using the crest of the tibia and a point midway between the two malleoli for reference
+
+
+Knee
+Flexion
+Lateral epicondyle of the femur
+Lateral midline of the femur using the greater trochanter for reference
+Lateral midline of the fibula using the lateral malleolus and fibular head for reference
+
+
+
+Extension
+Lateral epicondyle of the femur
+Lateral midline of the femur
+Lateral midline of the fibula using the lateral
+
+
+
+
+
+
+
+using the greater trochanter for reference
+malleolus and fibular head for reference
+
+
+Ankle
+Dorsiflexion
+Lateral aspect of the lateral malleolus
+Lateral midline of the fibula using the head of the fibula for reference
+Parallel to the lateral aspect of the fifth metatarsal
+
+
+
+Plantarflexion
+Lateral aspect of the lateral malleolus
+Lateral midline of the fibula using the head of the fibula for reference
+Parallel to the lateral aspect of the fifth metatarsal
+
+
+
+Inversion
+Anterior aspect of the ankle midway between the malleoli
+Anterior midline of the lower leg using the tibial tuberosity for reference
+Anterior midline of the second metatarsal
+
+
+
+Eversion
+Anterior aspect of the ankle midway between the malleoli
+Anterior midline of the lower leg using the tibial tuberosity for reference
+Anterior midline of the second metatarsal
+
+
+Subtalar
+Inversion
+Posterior aspect of the ankle midway between the malleoli
+Posterior midline of the lower leg
+Posterior midline of the calcaneus
+
+
+
+Eversion
+Posterior aspect of the ankle midway between the malleoli
+Posterior midline of the lower leg
+Posterior midline of the calcaneus
+
+
+
+Upper Extremity
+The following sections describe in detail how to measure joint range of motion for the major joints of the upper extremity.
+Shoulder Complex
+
+Shoulder motion occurs at the glenohumeral, scapulothoracic, acromioclavicular, and sternoclavicular joints. In addition, for full shoulder motion to occur, there must also be available motion in the cervical and upper thoracic spine. For the following measurements, the patient is positioned in supine with both hips and knees flexed and the feet placed on the bed to flatten the lumbar spine, unless otherwise stated.
+Shoulder Flexion
+
+When measuring glenohumeral flexion, allowing motion to occur at the other joints provides a more functional reading. However, if the clinician requires a measurement of pure glenohumeral motion, the other joints must be manually blocked. This is best achieved by stabilizing the scapula to prevent it from elevating, upwardly rotating, and posteriorly tilting. In the following description, the scapula is not stabilized; instead the thorax is stabilized to prevent extension of the spine.
+
+Upper Extremity Position 
+
+
+The glenohumeral joint is initially positioned in 0  of abduction, adduction, and rotation, and the forearm is positioned in 0  of supination and pronation so that the palm of the hand faces the body.
+
+Goniometer Placement 
+
+The fulcrum is centered close to the acromion process, the proximal arm is aligned with the mid axillary line of the thorax, and the distal arm is aligned
+
+
+
+with the lateral midline of the humerus, using the lateral epicondyle of the humerus as a landmark.
+
+Technique 
+
+
+The shoulder is moved passively or actively to the end range of available shoulder flexion (Figure 11 56), and a measurement is made (Figure 11  5 7).
+
+FIGURE  11 56
+
+
+Passive shoulder flexion
+
+
+FIGURE  11 57
+
+
+Goniometric measurement of shoulder flexion
+
+
+Shoulder Extension
+
+The patient is positioned in prone.
+
+Upper Extremity Position 
+
+
+The glenohumeral joint is positioned in 0  of abduction and rotation, the elbow is positioned in slight flexion, and the forearm is positioned in 0  of supination and pronation. If a measurement of pure glenohumeral extension is required, the scapula must be stabilized prevent elevation and anterior
+
+
+
+tilting.
+
+Goniometer Placement 
+
+
+The fulcrum is centered close to the acromion process, the proximal arm is aligned with the midaxillary line of the thorax, and the distal arm is aligned with the lateral midline of the humerus, using the lateral epicondyle of the humerus as a landmark.
+
+Technique 
+
+
+The shoulder is moved passively or actively to the end range of available shoulder extension (Figure 11 58). The clinician can take a measurement of active range of motion (Figure 11 59) or passive range of motion, or both if a comparison is to be made.
+
+FIGURE  11 58
+
+
+Passive shoulder extension
+
+
+FIGURE  11 59
+
+
+Goniometric measurement of shoulder extension
+
+
+Shoulder Abduction
+
+Although measured here with the patient positioned in supine, shoulder abduction can be measured with the patient in sitting or prone, which has the
+
+
+
+advantage of allowing free motion of the scapula.
+
+Upper Extremity Position 
+
+
+The glenohumeral joint is positioned in 0  of flexion and extension, and full external rotation so that the palm of the hand faces anteriorly to prevent the greater tubercle of the humerus from impacting on the upper portion of the glenoid fossa or acromion process. Pure glenohumeral abduction can be measured by stabilizing the scapula to prevent its upward rotation and elevation.
+
+Goniometer Placement 
+
+
+The fulcrum is centered close to the anterior aspect of the acromion process, the proximal arm is aligned so that it is parallel to the midline of the anterior aspect of the sternum, and the distal arm is aligned with the medial midline of the humerus using the medial epicondyle as a landmark. If shoulder abduction is measured with the patient in the seated position, the fulcrum is centered close to the posterior aspect of the acromion process, the proximal arm is aligned parallel to the spinous processes of the vertebral column, and the distal arm is aligned with the lateral midline of the humerus, using the lateral epicondyle as a landmark.
+
+Technique 
+
+The shoulder is moved passively or actively to the end range of available shoulder abduction (Figure 11 60), and a goniometric measurement is made (Figure 11 61).
+
+FIGURE  11 60
+
+
+Passive shoulder abduction
+
+
+FIGURE  11 61
+
+
+Goniometric measurement of shoulder abduction
+
+
+
+
+
+Shoulder Internal Rotation
+
+Upper Extremity Position 
+
+The patient is positioned in prone. The glenohumeral joint is positioned in 90  of shoulder abduction with the forearm perpendicular to the supporting surface and in 0  of supination/pronation so that the palm of the hand faces the feet. If necessary, a rolled up towel can be placed under the humerus so that the humerus is positioned level with the acromion process.
+
+Goniometer Placement 
+
+
+The fulcrum is centered over the olecranon process, the proximal arm is aligned so that it is either parallel to or perpendicular to the floor, and the distal arm is aligned with the ulna, using the olecranon process and ulnar styloid as landmarks.
+
+Technique 
+
+
+The shoulder is moved passively or actively to the end range of shoulder internal rotation (Figure 11 62), and a measurement is taken (Figure 11  6 3).
+
+FIGURE  11 62
+
+
+Passive shoulder internal rotation
+
+
+
+
+FIGURE  11 63
+
+
+Goniometric measurement of shoulder internal rotation
+
+
+Shoulder External Rotation
+
+The patient position is the same as for internal rotation of the shoulder.
+
+Goniometer Placement 
+
+
+The goniometer alignment is the same as for shoulder internal rotation.
+
+Technique 
+
+
+The shoulder is moved passively or actively to the end range of shoulder external rotation (Figure 11 64), and a measurement is taken (Figure 11  6 5).
+
+FIGURE  11 64
+
+
+Passive shoulder external rotation
+
+
+
+
+FIGURE  11 65
+
+
+Goniometric measurement of shoulder external rotation
+
+Alternatively, shoulder internal rotation can be measured with the patient in supine (Figure 11 66), as can shoulder external rotation (Figure 11 67), using the start position for the goniometer as depicted in Figure 11 68.
+
+FIGURE  11 66
+
+
+Goniometric measurement of shoulder internal rotation with the patient in supine
+
+
+
+
+FIGURE  11 67
+
+
+Goniometric measurement of shoulder external rotation with the patient in supine
+
+
+
+
+FIGURE  11 68
+
+
+Start position for the goniometer to measure internal and external rotation with the patient in supine
+
+
+
+Elbow/Forearm Complex
+
+For the following measurements, the patient is positioned in supine with both hips and knees flexed and the feet placed on the bed to flatten the lumbar spine, unless otherwise stated.
+Flexion/Extension
+
+A pad can be placed under the distal end of the humerus to allow for elbow extension.
+
+Upper Extremity Position 
+
+
+The glenohumeral joint is positioned in 0  of flexion, extension, and abduction, so that the arm is close to the side of the body.
+
+Goniometer Placement 
+
+
+The goniometer placement is the same for flexion and extension. The fulcrum is centered over the lateral epicondyle of the humerus, the proximal arm is aligned with the lateral midline of the humerus (using the acromion process as a landmark), and the distal arm is aligned with the lateral midline of the radius, using the styloid process as a landmark.
+
+Technique 
+
+
+The elbow is passively or actively flexed to the end of the available range, and a measurement is taken (Figure 11 69). To measure elbow extension, the upper extremity is positioned correctly and a measurement is taken (Figure 11 70).
+
+FIGURE  11 69
+
+
+Goniometric measurement of elbow flexion
+
+
+
+
+FIGURE  11 70
+
+
+Goniometric measurement of elbow extension
+
+
+Forearm Pronation
+
+This measurement can also be performed with the patient in sitting.
+
+Upper Extremity Position 
+
+
+The glenohumeral joint is positioned in 0  of flexion, extension, abduction, and rotation so that the upper arm is close to the side of the body, and the elbow is flexed to 90  with the forearm midway between supination and pronation.
+
+Goniometer Placement 
+
+
+The fulcrum is centered lateral to the ulnar styloid process, the proximal arm is aligned parallel to the anterior midline of the humerus, and the distal arm is aligned across the posterior aspect of the forearm, just proximal to the styloid processes of the radius and ulna (Figure 11 71).
+
+FIGURE  11 71
+
+
+Start position for goniometric measurement of forearm supination/pronation
+
+
+
+
+Technique 
+
+
+The forearm is moved passively or actively to the end of the available range of motion (Figure 11 72), and a measurement is taken (Figure 11 73).
+
+FIGURE  11 72
+
+
+Passive forearm pronation
+
+
+FIGURE  11 73
+
+
+Goniometric measurement of forearm pronation
+
+
+
+
+Forearm Supination
+
+The patient position is the same as for forearm pronation.
+
+Goniometer Placement 
+
+
+The fulcrum is aligned medial to the ulnar styloid process, the proximal arm is aligned parallel to the anterior midline of the humerus, and the distal arm is aligned across the anterior aspect of the forearm, just proximal to the styloid process (Figure 11 71).
+
+Technique 
+
+
+The forearm is moved passively or actively to the end of the available range of motion (Figure 11 74), and a measurement is taken (Figure 11 75).
+
+FIGURE  11 74
+
+
+Passive forearm supination
+
+
+FIGURE  11 75
+
+
+Goniometric measurement of forearm supination
+
+
+
+An alternative technique to measure forearm supination and pronation involves having the patient holding a pen or pencil in a close fisted hand. The goniometer can then be aligned using the end of the pen as a landmark (Figure 11 76).
+
+FIGURE  11 76
+
+
+Alternative method for measuring forearm supination/pronation
+
+
+Wrist Joints
+
+For the following measurements, the patient is positioned in sitting next to a supporting surface so that the forearm is supported but the hand is free to move.
+Wrist Flexion and Extension
+
+The clinician should stabilize the forearm to prevent supination or pronation.
+
+Goniometer Placement 
+
+
+The goniometer placement is the same for wrist flexion and wrist extension. The fulcrum is centered over the lateral aspect of the wrist close to the triquetrum, the proximal arm is aligned with the lateral midline of the ulna, using the olecranon process as a landmark, and the distal arm is aligned with the lateral midline of the fifth metacarpal. The palm of the patient is moved downward for wrist flexion, and upward for wrist extension while avoiding extension of the fingers.
+
+
+
+
+Technique 
+
+
+To measure wrist flexion, the wrist is actively or passively flexed to the end of the available range of motion (Figure 11 77), and a measurement is taken (Figure 11 78). To measure wrist extension, the wrist is actively or passively extended to the end of the available range of motion (Figure 11  7 9), and a measurement is taken (Figure 11 80).
+
+FIGURE  11 77
+
+
+Passive wrist flexion more motion occurs if the fingers are extended
+
+
+FIGURE  11 78
+
+
+Goniometric measurement of wrist flexion
+
+
+FIGURE  11 79
+
+
+Passive wrist extension less motion occurs if the fingers are extended
+
+
+
+
+FIGURE  11 80
+
+
+Goniometric measurement of wrist extension
+
+
+Radial Deviation and Ulnar Deviation
+
+The patient position is the same as for wrist flexion/extension.
+
+Goniometer Placement 
+
+The goniometer placement is the same for radial deviation and ulnar deviation. The fulcrum is centered over the middle of the posterior aspect of the wrist close to the capitate, the proximal arm is aligned with the posterior midline of the forearm, using the lateral epicondyles as a landmark, and the distal arm is aligned with the posterior midline of the third metacarpal. For radial deviation, the patient's hand moves toward the patient's body, whereas for ulnar deviation, the patient's hand moves away from the patient's body.
+
+Technique 
+
+
+To measure radial deviation, the wrist is passively or actively moved to the end of the available range of motion for radial deviation (Figure 11 81), and a measurement is taken (Figure 11 82). To measure ulnar deviation, the wrist is passively or actively moved to the end of the available range of motion for ulnar deviation (Figure 11 83), and a measurement is taken (Figure 11 84).
+
+FIGURE  11 81
+
+
+
+Passive radial deviation
+
+
+FIGURE  11 82
+
+
+Goniometric measurement of radial deviation
+
+
+FIGURE  11 83
+
+
+Passive ulnar deviation
+
+
+
+
+FIGURE  11 84
+
+
+Goniometric measurement of ulnar deviation
+
+
+Finger Joints
+
+The patient position for these joints is typically in sitting, with the forearm supported and midway between pronation and supination, the wrist positioned in 0  of flexion and extension, and in neutral radial and ulnar deviation.
+Metacarpophalangeal (MCP) Joint Flexion/Extension
+
+While performing these measurements, the clinician must ensure that the MCP joint is maintained in a neutral position relative to abduction and adduction and to avoid too much motion occurring at the proximal interphalangeal and distal interphalangeal joints. The same technique is used for all of the MCP joints of the fingers.
+
+Goniometer Placement 
+
+
+The goniometer placement is the same for MCP flexion and MCP extension. The fulcrum is centered over the posterior aspect of the MCP joint, the proximal arm is aligned over the posterior midline of the metacarpal, and the distal arm is aligned over the posterior midline of the proximal phalanx. For the index finger, the fulcrum is centered over the thumb side of the MCP joint, the proximal arm is aligned with the radial styloid, and the distal arm is aligned over the thumb side of the phalanx (Figure 11 85).
+
+FIGURE  11 85
+
+
+
+Goniometer placement for MCP flexion/extension
+
+
+Technique 
+
+
+A measurement is taken for MCP flexion (Figure 11 86), and MCP extension (Figure 11 87).
+
+FIGURE  11 86
+
+
+Goniometric measurement for MCP flexion of the index finger
+
+
+FIGURE  11 87
+
+
+Goniometric measurement for MCP extension of the index finger
+
+
+
+
+Metacarpophalangeal (MCP) Joint Abduction/Adduction
+
+The same technique is used for all of the MCP joints of the fingers.
+
+Goniometer Placement 
+
+
+The goniometer placement is the same for MCP joint abduction and MCP joint adduction. The fulcrum is centered over the posterior aspect of the MCP joint, the proximal arm is aligned over the posterior midline of the metacarpal, and the distal arm is aligned over the posterior midline of the proximal phalanx (Figure 11 88).
+
+FIGURE  11 88
+
+
+Goniometer placement for MCP abduction/adduction
+
+
+Technique 
+
+
+A measurement is taken for MCP abduction (Figure 11 89), and for MCP abduction (Figure 11 90).
+
+FIGURE  11 89
+
+
+Goniometric measurement for MCP abduction
+
+
+
+
+FIGURE  11 90
+
+
+Goniometric measurement for MCP adduction
+
+
+Proximal Interphalangeal (PIP) Joint Flexion/Extension
+
+The clinician attempts to stabilize the proximal phalanx to prevent motion at the wrist and MCP joint.
+
+Goniometer Placement 
+
+
+The goniometer placement is the same for PIP joint flexion and PIP joint extension. The fulcrum is centered over the posterior aspect of the PIP joint, the proximal arm is aligned over the posterior midline of the proximal phalanx, and the distal arm is aligned over the posterior midline of the middle phalanx. The same technique is used for each of the PIP joints of the fingers. It is questionable whether a measurement of PIP joint extension is possible, as any loss of PIP extension is technically a measurement of PIP flexion.
+
+Technique 
+
+
+A measurement is taken for PIP joint flexion (Figure 11 91).
+
+FIGURE  11 91
+
+
+Goniometric measurement for PIP joint flexion
+
+
+
+
+Distal Interphalangeal (DIP) Joint Flexion/Extension
+
+The MCP joint is positioned in 0  of flexion, extension, abduction, and adduction, with the PIP joint positioned in approximately 70  to 90  of flexion. The clinician attempts to stabilize the middle phalanx to prevent further flexion or extension of the wrist, MCP joints, and PIP joints.
+
+Goniometer Placement 
+
+
+The goniometer placement is the same for DIP joint flexion and DIP joint extension. The fulcrum is centered over the posterior aspect of the PIP joint, the proximal arm is aligned over the posterior midline of the middle phalanx, and the distal arm is aligned over the posterior midline of the distal phalanx. The same technique is used for each of the DIP joints of the fingers. As with PIP joint extension, it is questionable whether a measurement of DIP joint extension is possible, as any loss of DIP extension is technically a measurement of DIP flexion.
+
+Technique 
+
+
+A measurement is taken for DIP joint flexion (Figure 11 92).
+
+FIGURE  11 92
+
+
+Goniometric measurement for DIP joint flexion
+
+
+Thumb Joints
+
+The patient position for these joints is typically in sitting, with the forearm supported in supination, the wrist positioned in 0  of flexion and extension,
+
+
+
+and in neutral radial and ulnar deviation. The MCP and IP joints of the thumb are positioned in 0  of flexion and extension.
+Carpometacarpal (CMC) Flexion and Extension
+
+Goniometer Placement 
+
+
+The goniometer placement is the same for CMC flexion and CMC extension. The fulcrum is centered over the anterior aspect of the first CMC joint, the proximal arm is aligned parallel to the anterior midline of the radius, and the distal arm is aligned with the anterior midline of the first metacarpal. CMC flexion occurs when the thumb moves toward the palm of the hand, and CMC extension occurs when the thumb moves away from the palm of the hand.
+
+Technique 
+
+
+The CMC joint is passively or actively moved into the available range of motion for flexion (Figure 11 93), and a measurement is taken (Figure 11 94). The CMC joint is passively or actively moved into the available range of motion for extension (Figure 11 95), and a measurement is taken (Figure 11  9 6).
+
+FIGURE  11 93
+
+
+Passive thumb CMC joint flexion
+
+
+FIGURE  11 94
+
+
+Goniometric measurement of thumb CMC joint flexion
+
+
+
+
+FIGURE  11 95
+
+
+Passive thumb CMC joint extension
+
+
+FIGURE  11 96
+
+
+Goniometric measurement of thumb CMC joint extension
+
+
+
+
+Carpometacarpal (CMC) Abduction and Adduction
+
+The patient positioning is the same as for CMC flexion and extension.
+
+Goniometer Placement 
+
+
+The goniometer placement is the same for CMC abduction and CMC adduction. The fulcrum is centered midway between the posterior aspect of the first and second carpometacarpal joints, the proximal arm is aligned with the lateral midline of the second metacarpal, and the distal arm is aligned with the lateral midline of the first metacarpal. CMC abduction occurs when the thumb moves away from the hand, whereas CMC adduction occurs when the thumb moves toward the hand.
+
+Technique 
+
+
+The CMC joint is passively or actively moved into the available range of motion for abduction (Figure 11 97), and a measurement is taken (Figure 11  9 8).
+
+FIGURE  11 97
+
+
+Passive thumb CMC joint abduction
+
+
+FIGURE  11 98
+
+Goniometric measurement of thumb CMC joint abduction
+
+
+
+
+Thumb Opposition
+
+The patient positioning is the same as for CMC flexion and extension.
+
+Goniometer Placement 
+
+
+The ruler component of a goniometer is typically used to measure the amount of thumb opposition by calculating the distance between the tip of the thumb and the tip of the fifth digit.
+
+Technique 
+
+
+The thumb and little finger are actively or passively moved together in the direction of opposition (Figure 11 99), and a measurement is taken (Figure 11 100).
+
+FIGURE  11 99
+
+
+Passive opposition of thumb and little finger
+
+
+FIGURE  11 100
+
+
+Goniometric measurement of active thumb opposition
+
+
+Metacarpophalangeal (MCP) Joint of the Thumb Flexion and Extension
+
+
+
+The patient positioning is the same as for CMC flexion and extension.
+
+Goniometer Placement 
+
+
+The goniometer placement is the same for MCP joint flexion and MCP joint extension. The fulcrum is centered over the posterior aspect of the MCP joint, the proximal arm is aligned over the posterior midline of the metacarpal, and the distal arm is aligned with the posterior midline of the proximal phalanx.
+
+Technique 
+
+
+The MCP joint of the thumb is actively or passively flexed to the end of the available range of motion, and a measurement is taken (Figure 11 101).
+
+FIGURE  11 101
+
+
+Goniometric measurement of thumb MCP flexion
+
+
+Interphalangeal (IP) Joint of the Thumb Flexion and Extension
+
+The patient positioning is the same as for CMC flexion and extension.
+
+Goniometer Placement 
+
+
+The goniometer placement is the same for IP flexion and IP extension. The fulcrum is centered over the posterior surface of the IP joint, the proximal arm is aligned over the posterior aspect of the proximal phalanx, and the distal arm is aligned with the posterior midline of the distal phalanx.
+
+Technique 
+
+
+The IP joint of the thumb is actively or passively flexed to the end of the available range of motion, and a measurement is taken.
+Lower Extremity
+The following sections describe in detail how to measure joint range of motion for the major joints of the lower extremity.
+Hip Joint
+
+The patient is positioned in supine to measure hip flexion, hip abduction, and hip adduction, seated to measure hip internal rotation and external rotation, and prone to measure hip extension.
+
+
+
+Hip Flexion
+
+Hip flexion can be measured in one of two ways, with the knee allowed to flex, or with the knee extended. Measuring hip flexion with the knee extended is merely an indication of the length of the patient's hamstrings rather than a true measurement of hip joint motion. Hip flexion with the knee flexed is described here.
+
+Lower Extremity Position 
+
+
+The hip is positioned in 0  of abduction, abduction, and rotation, with the knee motion unrestricted.
+
+Goniometer Placement 
+
+
+The fulcrum is centered over the lateral aspect of the hip joint using the greater trochanter of the femur as a landmark, the proximal arm is aligned with the lateral midline of the pelvis, and the distal arm is aligned with the lateral midline of the femur, using the lateral epicondyle of the femur as a landmark (Figure 11 102).
+
+FIGURE  11 102
+
+
+Goniometer position for hip flexion
+
+
+Technique 
+
+
+The hip is actively or passively flexed to the end of the available range of motion, and a measurement is taken (Figure 11 103).
+
+FIGURE  11 103
+
+
+Goniometric measurement of hip flexion
+
+
+
+
+Hip Extension
+
+The patient is positioned in prone. As with hip flexion, hip extension can be measured in one of two ways, with the knee allowed to flex, or with the knee extended. Measuring hip extension with the knee flexed can be misleading due to tension from the rectus femoris muscle which can restrict motion.
+
+Lower Extremity Position 
+
+
+The hip is positioned in 0  of abduction, abduction, and rotation, with the knee motion unrestricted.
+
+Goniometer Placement 
+
+
+The goniometer placement and alignment is the same as for hip flexion, except that the patient is positioned in prone (Figure 11 104).
+
+FIGURE  11 104
+
+
+Goniometer position for hip extension
+
+
+Technique 
+
+
+The hip is actively or passively extended to the end of the available range of motion, and a measurement is taken (Figure 11 105).
+
+FIGURE  11 105
+
+
+
+Goniometric measurement of hip extension
+
+
+Hip Abduction/Adduction
+
+Lower Extremity Position 
+
+
+The lower extremity is kept as straight as possible. It is worth remembering that, in order for full hip adduction to take place, the contralateral hip must be abducted to allow the hip being measured to complete its full range of motion.
+
+Goniometer Placement 
+
+
+The goniometer placement for hip abduction and hip adduction is the same. The fulcrum is centered over the anterior superior iliac spine (ASIS) of the extremity being measured, the proximal arm is aligned with an imaginary horizontal line extending from one ASIS to the other ASIS, and the distal arm is aligned with the anterior midline of the femur using the midline of the patella as a landmark.
+
+Technique 
+
+
+The hip is actively or passively abducted to the end of the available range of motion (Figure 11 106), and a measurement is taken (Figure 11 107). To measure hip adduction, the hip is actively or passively adducted to the end of the available range of motion (Figure 11 108), and a measurement is taken (Figure 11 109).
+
+FIGURE  11 106
+
+
+Passive hip abduction while monitoring contralateral ASIS
+
+
+
+
+FIGURE  11 107
+
+
+Goniometric measurement of hip abduction
+
+
+FIGURE  11 108
+
+
+Passive hip adduction while monitoring contralateral ASIS
+
+
+
+
+FIGURE  11 109
+
+Goniometric measurement of hip adduction
+
+
+Hip Internal Rotation/External Rotation
+
+The patient is positioned in sitting on the supporting surface, with the knee flexed over the edge of the table surface.
+
+Lower Extremity Position 
+
+
+The hip is in 0  of abduction and adduction and 90  of flexion. If necessary, a towel roll is placed under the distal end of the femur to maintain the femur in a horizontal plane.
+
+Goniometer Placement 
+
+
+The goniometer placement for hip internal rotation and hip external rotation is the same. The fulcrum is centered over the anterior aspect of the patella, the proximal arm is aligned so that it is perpendicular to the floor all parallel to the supporting surface, and the distal arm is aligned with the anterior midline of the lower leg, using the tibial crest and a point midway between the two malleoli as reference points.
+
+Technique 
+
+
+The hip is actively or passively internally rotated to the end of the available range of motion (Figure 11 110), and a measurement is taken (Figure 11  111). To measure external rotation of the hip, the hip is actively or passively externally rotated to the end of the available range of motion (Figure 11  112), and a measurement is taken (Figure 11 113).
+
+FIGURE  11 110
+
+
+Passive hip internal rotation
+
+
+
+
+FIGURE  11 111
+
+
+Goniometric measurement of hip internal rotation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FIGURE  11 112
+
+
+Passive hip external rotation
+
+
+
+FIGURE  11 113
+
+Goniometric measurement of hip external rotation
+
+
+Tibiofemoral Joint
+
+To assess tibiofemoral joint flexion and extension, the patient is typically positioned in prone. However, in the presence of significant adaptive shortening of the rectus femoris muscle, knee flexion can be measured with the patient in supine.
+Tibiofemoral Joint Flexion/Extension
+
+During these measurements, it is important to stabilize the femur to prevent rotation, flexion, or extension of the hip.
+
+Lower Extremity Position 
+
+
+The hip is positioned in 0  of abduction, adduction, flexion, extension, and rotation.
+
+Goniometer Placement 
+
+
+The goniometer placement for tibiofemoral flexion and tibiofemoral extension is the same. The fulcrum is centered over the lateral epicondyle of the femur, the proximal arm is aligned with the lateral midline of the femur, using the greater trochanter at a landmark, and the distal arm is aligned with the lateral midline of the fibula, using the lateral malleolus as a landmark.
+
+Technique 
+
+
+The knee is actively or passively flexed to the end of the available range of motion (Figure 11 114), and a measurement is taken (Figure 11 115).
+
+FIGURE  11 114
+
+
+Passive knee flexion
+
+
+
+
+FIGURE  11 115
+
+
+Goniometric measurement of knee flexion with the patient prone
+
+
+Ankle Joint
+
+The ankle joint can be assessed with the patient in sitting, prone or supine. For a more accurate measurement of ankle motion, the patient's knee should be flexed to at least 30  to remove any influence from the gastrocnemius complex.
+Dorsiflexion and Plantarflexion
+
+The patient is positioned in sitting or supine.
+
+Goniometer Placement 
+
+
+The goniometer placement is the same for dorsiflexion and plantarflexion. The fulcrum is centered over the lateral aspect of the lateral malleolus, the proximal arm is aligned with the lateral midline of the fibula, using the head of the fibula as a landmark, and the distal arm is aligned parallel to the lateral aspect of the fifth metatarsal, or parallel to the inferior aspect of the calcaneus.
+
+Technique 
+
+
+The ankle is actively or passively dorsiflexed to the end of the available range of motion (Figure 11 116), and a measurement is taken (Figure 11  117). To measure ankle plantarflexion, the ankle is actively or passively plantarflexed to the end of the available range of motion (Figure 11 118), and
+
+
+
+a measurement is taken (Figure 11 119).
+
+FIGURE  11 116
+
+
+Passive ankle dorsiflexion
+
+
+FIGURE  11 117
+
+
+Goniometric measurement of ankle dorsiflexion
+
+
+FIGURE  11 118
+
+
+Passive ankle plantarflexion
+
+
+
+
+FIGURE  11 119
+
+
+Goniometric measurement of ankle plantarflexion
+
+
+Subtalar Joint Inversion and Eversion
+
+The patient is positioned in sitting or prone.
+
+Goniometer Placement 
+
+
+The goniometer placement is the same for inversion and eversion. The fulcrum is centered over the posterior aspect of the ankle, midway between the malleoli, the proximal arm is aligned with the posterior midline of the lower leg, and the distal arm is aligned with the posterior midline of the calcaneus.
+
+Technique 
+
+
+The ankle is actively or passively inverted to the end of the available range of motion (Figure 11 120), and a measurement is taken (Figure 11 121). For ankle eversion, the ankle is actively or passively everted to the end of the available range of motion (Figure 11 122), and a measurement is taken (Figure 11 123).
+
+FIGURE  11 120
+
+
+Passive subtalar joint inversion
+
+
+
+
+
+FIGURE  11 121
+
+
+Goniometric measurement of subtalar joint inversion
+
+
+FIGURE  11 122
+
+
+Passive subtalar joint eversion
+
+
+
+
+FIGURE  11 123
+
+
+Goniometric measurement of subtalar joint eversion
+
+
+Tarsal Joint Inversion and Eversion
+
+The patient is positioned in sitting.
+
+Goniometer Placement 
+
+
+The goniometer placement is the same for inversion and eversion. The fulcrum is centered over the anterior aspect of the ankle midway between the malleoli, the proximal arm is aligned with the anterior midline of the lower leg, using the tibial crest for reference, and the distal arm is aligned with the anterior midline of the second metatarsal.
+
+Technique 
+
+
+The tarsal joints are actively or passively inverted to the end of the available range of motion (Figure 11 124), and a measurement is taken (Figure 11 125). For tarsal joint eversion, the tarsal joints are actively or passively everted to the end of the available range of motion (Figure 11 126), and a measurement is taken (Figure 11 127).
+
+FIGURE  11 124
+
+
+Passive tarsal joint inversion
+
+
+
+
+FIGURE  11 125
+
+
+Goniometric measurement of tarsal joint inversion
+
+
+FIGURE  11 126
+
+
+Passive tarsal joint eversion
+
+
+FIGURE  11 127
+
+
+Goniometric measurement of tarsal joint eversion
+
+
+
+Toe Joints
+
+Metatarsophalangeal (MTP) Joint Flexion and Extension
+
+The patient is positioned in sitting or supine with the MTP and IP joints positioned in 0  of flexion and extension.
+
+Goniometer Placement 
+
+
+The goniometer placement is the same for MTP joint flexion and MTP joint extension. The fulcrum is aligned over the posterior aspect of the MTP joint, the proximal arm is aligned over the posterior midline of the metatarsal, and the distal arm is aligned over the posterior midline of the proximal phalanx.
+
+Technique 
+
+
+The MTP joint is actively or passively flexed to the end of the available range of motion (Figure 11 128), and a measurement is taken (Figure 11 129). To measure MTP joint extension, the MTP joint is actively or passively extended to the end of the available range of motion (Figure 11 130), and a measurement is taken (Figure 11 131).
+
+FIGURE  11 128
+
+
+Passive MTP joint flexion of the great toe
+
+
+FIGURE  11 129
+
+
+
+Goniometric measurement of flexion of the great toe
+
+
+FIGURE  11 130
+
+
+Passive MTP joint extension of the great toe
+
+
+FIGURE  11 131
+
+
+Goniometric measurement of extension of the great toe
+
+
+
+
+
+FIGURE  11 132
+
+
+Goniometric measurement of great toe abduction
+
+The Spine
+Goniometric measurement of spinal motion brings its own set of challenges. Over the years, various methods have been put forward that have incorporated the use of a tape measure, the use of standard goniometers, and the use of specialized goniometers, such as the bubble goniometer. Most of the problems have stemmed from determining the best appropriate landmarks, the wide variations in body types, and whether such measurements have sufficient inter rater and intrarater reliability.
+Whichever method is chosen, it is important remember that, as with other joints in the body, the range of motion in the spine may vary according to a number of factors including structural alterations, the individual's age, neck girth and length, body habitus, diurnal changes,15 neurologic disease, or other factors unrelated to the disability for which the exam is being performed. Without taking body size into account, measurements may
+
+
+
+underestimate or overestimate range of motion.16
+Cervical Spine
+
+Cervical Rotation
+
+Traditional Goniometer Method 
+
+
+The fulcrum is centered over the center of the superior aspect of the head, the proximal arm is aligned parallel to an imaginary line between the two acromion processes, and the distal arm is aligned with the tip of the nose.
+
+Tape Measure Method 
+
+
+A tape measure can be used to measure the distance between the tip of the chin and the acromion process.
+
+Bubble Goniometer Method 
+
+The dual inclinometer method, using two bubble goniometers is the approach recommended in the American Medical Association's Guides to the Evaluation of Permanent Impairment14 and is often considered the clinical standard for assessing cervical ROM in the clinic.17,18 This method requires accurate identification of anatomic landmarks (Table 11 11). Both inter  and intrarater reliability studies have shown the inclinometry method to be reliable.19, 20, 21 and 22 Others dispute this conclusion and contend that the inclinometer method is flawed and should not be used in clinical settings.23,24 The normal range of motion using this method is 80  or greater from the neutral position for active motion. To measure cervical rotation using a bubble goniometer, the patient is positioned in prone, and the goniometer is aligned over the crown of the head in the transverse plane (Figure 11 133). The goniometer is zeroed out and the patient is asked to rotate the head to the right (Figure 11 134), and then to the left (Figure 11 135).
+TABLE 11 11
+The American Medical Association Inclinometer Technique for Measuring Cervical ROM
+
+Range 
+Method 
+Flexion
+Two inclinometers are used, which are aligned in the sagittal plane. The center of the first inclinometer is placed over the T1 spinous process. The center of the second one is placed on top of the head, parallel to a line drawn from the corner of the eye to the ear, where the temple of eyeglasses would sit. The patient is asked to flex the neck, and both inclinometer angles are recorded. The cervical flexion angle is calculated by subtracting the T1 from the calvarium inclinometer angle.
+Extension
+Two inclinometers can be used, which are aligned as for measuring cervical flexion. The patient is asked to extend the neck, and both inclinometer angles are recorded. The cervical extension angle is calculated by subtracting the T1 from the calvarium inclinometer angle.
+Rotation
+The patient is positioned supine. One inclinometer is used, and it is aligned in the transverse plane. The base of the inclinometer is placed over the forehead. The patient is asked to rotate the neck, and the inclinometer angle is recorded. The test is repeated on the other side.
+Side bending
+Two inclinometers are used, which are aligned in the frontal plane. The center of the first inclinometer is placed over the T1 spinous process. The center of the second one is placed on top of the head, over the calvarium. The patient is asked to side bend the neck, and both inclinometer angles are recorded. The cervical side bending angle is calculated by subtracting the T1 from the calvarium inclinometer angle.
+
+
+ROM: range of motion
+Data from American Medical Association: Guides to the Evaluation of Permanent Impairment (ed 5). Chicago, American Medical Association, 2001.
+
+
+
+FIGURE  11 133
+
+
+Bubble goniometer placement for cervical rotation
+
+
+FIGURE  11 134
+
+
+Goniometric measurement for right cervical rotation
+
+
+FIGURE  11 135
+
+
+Goniometric measurement for left cervical rotation
+
+
+
+
+
+Cervical Flexion and Extension
+
+Traditional Goniometer Method 
+
+
+The fulcrum is centered over the external auditory meatus, the proximal arm is aligned so that it is either perpendicular or parallel to the ground, and the distal arm is aligned with the base of the skull or with the end of the eye brow (the tip of the nose can also be used). (Figure 11 136). The patient is then asked to flex the cervical spine (Figure 11 137) and to extend the cervical spine (Figure 11 138).
+
+FIGURE  11 136
+
+
+Goniometer placement for the start position for cervical flexion
+
+
+
+
+FIGURE  11 137
+
+Goniometric measurement of cervical flexion
+
+
+FIGURE  11 138
+
+
+Goniometric measurement of cervical extension
+
+
+Tape Measure Method 
+
+
+A tape measure can be used to measure the distance between the tip of the chin and the sternal notch, while making sure that the patient's mouth remains closed.
+
+Bubble Goniometer Method 
+
+
+See Table 4 11. The normal range of motion for cervical flexion using this technique is 60  or greater from the neutral position, and 75  or greater from the neutral position for active motion.7 From the start position (Figure 11 139), the patient is asked to flex the cervical spine (Figure 11 140), and then to extend the cervical spine (Figure 11 141).
+
+FIGURE  11 139
+
+
+Bubble goniometer placement for the start position for cervical flexion
+
+
+
+
+FIGURE  11 140
+
+
+Goniometric measurement of cervical flexion
+
+
+FIGURE  11 141
+
+
+Goniometric measurement of cervical extension
+
+
+
+
+
+
+Cervical Side Bending
+
+When measuring cervical side bending, the clinician should stabilize the shoulder girdle to prevent lateral flexion of the thoracic and lumbar spine.
+
+Traditional Goniometer Method 
+
+
+The fulcrum is centered over the spinous process of the C7 vertebra, the proximal arm is aligned with the spinous processes of the thoracic vertebra so that the arm is perpendicular to the ground, and the distal arm is aligned with the posterior midline of the head, using the occipital protuberance as a landmark.
+
+Tape Measure Method 
+
+
+A tape measure can be used to measure the distance between the mastoid process and the acromion process.
+
+Bubble Goniometer Method 
+
+
+See Table 11 11. The normal range of cervical side bending using this method is 45  or greater from the neutral position for active motion. From the start position (Figure 11 142), the patient is asked to side bend the cervical spine to the left (Figure 11 143), and then to the right (Figure 11 144).
+
+FIGURE  11 142
+
+
+Bubble goniometer placement for the start position for cervical side bending
+
+
+FIGURE  11 143
+
+
+Goniometric measurement of cervical side bending to the left
+
+
+
+
+FIGURE  11 144
+
+
+Goniometric measurement of cervical side bending to the right
+
+
+Thoracic Spine
+
+Oftentimes, thoracic spine motion is measured simultaneously with lumbar spine motion using a variety of methods, none of which are really satisfactory. To objectively measure thoracic motion and differentiate thoracic spine motion from lumbar spine motion, the bubble goniometer techniques recommended by the American Medical Association are recommended.14
+Flexion
+
+
+
+To measure thoracic flexion, two inclinometers are used and are aligned in the sagittal plane. The center of the first inclinometer is placed over the T1 spinous process. The center of the second one is placed over the T12 or L1 spinous process (Figure 11 145). The patient is asked to slump forward as though trying to place the forehead on the knees (Figure 11 146), and both inclinometer angles are recorded. The thoracic flexion angle is calculated by subtracting the T12 from the T1 inclinometer angle. The patient should be able to flex approximately 50  from the neutral position.25,26 The clinician observes for any paravertebral fullness during flexion, which might alter the measurement. The thoracic spine during flexion should curve forward in a smooth and even manner, and there should be no evidence of segmental rotation or side bending. To decrease pelvic and hip movements, McKenzie advocates examining thoracic flexion with the patient seated.27
+FIGURE  11 145
+
+
+Bubble goniometer placement for the start position of thoracic flexion and extension
+
+
+FIGURE  11 146
+
+
+Goniometric measurement of thoracic flexion
+
+
+
+
+Extension
+
+Clinical guidelines for measurements of thoracic extension recommend that range of motion be defined with reference to the magnitude of the kyphosis measured in standing. However, to date, the relationship between the magnitude of the thoracic kyphosis and the amount of thoracic extension movement has not been reported.28 Thoracic extension may be measured using the same technique and inclinometer positions as described for flexion (Figure 11 147). The thoracic extension angle is calculated by subtracting the T12 or L1 from the T1 inclinometer angle. The patient should be able to extend approximately 15  to 20  from the neutral position.26 Alternatively, thoracic extension can be measured using a tape measure. The distance between two points (the C7 and T12 spinous processes) is measured. A 2.5 cm difference between neutral and extension measurements is considered normal.29,30 During thoracic extension, the thoracic curve should curve backward or straighten. As with flexion, there should be no evidence of segmental rotation or side bending.
+
+FIGURE  11 147
+
+
+Goniometric measurement of thoracic extension
+
+
+
+
+Rotation
+
+Rotation is a primary movement of the thoracic spine and a key component of functional activities. Thoracic rotation can be measured objectively using a tape measure, or two bubble goniometers.
+
+Tape Measure Method 
+
+
+Pavelka31 devised a simple objective clinical method to measure thoracolumbar rotation using a tape measure that can be used to detect asymmetries in rotation. The tape is placed over the L5 spinous process and over the jugular notch on the superior aspect of the manubrium. A measurement is taken before and after full trunk rotation. The measurements from each side are then compared.
+
+Bubble Goniometer Method 
+
+
+The patient is positioned in sitting, and is then asked to flex forward as close to horizontal as possible. One bubble goniometer is positioned at the T1 level and the other at the T12 level, both in the frontal plane. Both goniometers are zeroed out, and then the patient is instructed to rotate the trunk to one side. The clinician records both the T1 and the T12 inclinations and subtracts the T12 from the T1 inclination to arrive at the thoracic rotation angle. The technique is then repeated to the opposite side. The patient should be able to rotate 30  or greater from the neutral position.32,33 Active thoracic rotation of less than 20  can result in an
+impairment of function during activities of daily living involving the thoracic spine.29
+Side Bending
+
+Side bending can be measured objectively using a tape measure,34 or using two bubble goniometers.
+
+Tape Measure Method 
+
+
+
+Two ink marks are placed on the skin of the lateral trunk. The upper mark is made at a point where a horizontal line through the xiphisternum crosses the frontal line. The lower mark is made at the highest point on the iliac crest. The distance between the two marks is measured in centimeters, with the patient standing erect, and again after full ipsilateral side bending. The second measurement is subtracted from the first, and the remainder is taken as an index of lateral spinal mobility.
+Bubble Goniometer Method 
+
+
+The patient is positioned in standing, and one goniometer is placed flat against the T1 spinous process and the other flat against the T12/L1 spinous process (Figure 11 148). Both goniometers are zeroed out, and then the patient is asked to side bend the thoracic spine to the left side (Figure 11  149) and then to the right side (Figure 11 150). The T1 inclination angle is subtracted from the T12/L1 inclination angle to arrive at the thoracic side bending angle. The patient should be able to side bend 20  to 40  from the neutral position.
+
+FIGURE  11 148
+
+
+Bubble goniometer placement for the start position of thoracic side bending
+
+
+FIGURE  11 149
+
+
+Goniometric measurement of thoracic side bending to the left
+
+
+
+
+FIGURE  11 150
+
+
+Goniometric measurement of thoracic side bending to the right
+
+
+
+Lumbar Spine
+
+Lumbar spine motion can be measured using a variety of methods.
+Flexion and Extension
+
+Flexion and extension can be measured using two bubble goniometers or a tape measure.
+
+Tape Measure Method 
+
+
+Using the modified Schober technique, the patient is positioned in relaxed standing. A point is drawn with the skin marker at the spinal intersection of a line joining S1. Additional marks are made 10 cm above and 5 cm below S1 (Figure 11 151). The patient is then asked to bend forward and the distance between the marks 10 cm above and 5 cm below S1 is measured (Figure 11 152). Despite this method's simplicity, Reynolds35 found this measurement of motion to have good reliability, with Pearson correlation coefficients of 0.59 for lumbar flexion and 0.75 for extension. In another study by Fitzgerald and colleagues,36 the Pearson correlation coefficient was found to be 1.0 for lumbar flexion and 0.88 for lumbar extension in a study of young healthy subjects.
+
+FIGURE  11 151
+
+
+Start position for the modified Schober technique
+
+
+
+
+FIGURE  11 152
+
+
+End position for the modified Schober technique
+
+
+Bubble Goniometer Method 
+
+
+The patient is positioned in standing with the lumbar spine in a neutral position. The clinician places one bubble goniometer over the T12/L1 spinous process in the sagittal plane, and the other goniometer at the level of the sacrum, also in the sagittal plane (Figure 11 153). Both goniometers are zeroed out, and the patient is then asked to flex the trunk forward (Figure 11 154). The clinician notes the inclinations of both goniometers and subtracts the sacral inclination from the T12/L1 inclination to obtain the lumbar flexion angle. The patient is then asked to extend the trunk (Figure 11 155). The clinician subtracts the sacral inclination from the T12/L1 inclination to obtain the lumbar extension angle. The normal ranges of motion for flexion and extension vary according to patient age and gender37 (Table 11 12).
+
+
+
+TABLE 11 12
+Normal Ranges of Motion for Lumbar Spine Flexion and Extension Based on Patient Age and Gender
+
+Gender 
+Age Range 
+Normal Range of Flexion in Degrees
+Normal Range of Extension in Degrees
+Male
+15 30 years old
+66
+38
+
+31 60 years old
+58
+35
+
+>61 years old
+49
+33
+Female
+15 30 years old
+67
+42
+
+31 60 years old
+60
+40
+
+>61 years old
+44
+36
+
+
+Data from Loebl WY: Measurement of spinal posture and range of spinal movement. Ann Phys Med 9:103 110, 1967.
+
+
+FIGURE  11 153
+
+
+Bubble goniometer placement for the start position of lumbar spine flexion and extension
+
+
+FIGURE  11 154
+
+
+
+Goniometric measurement for lumbar spine flexion
+
+
+FIGURE  11 155
+
+
+Goniometric measurement for lumbar spine extension
+
+
+
+
+Side Bending
+
+Side bending can be measured with the patient standing with the feet together using a standard goniometer, a tape measure, or two bubble goniometers.
+
+Standard Goniometer Method 
+
+
+The fulcrum is centered over the posterior aspect of the spinous process of S1, the proximal arm is aligned so that it is perpendicular to the ground, and the distal arm is aligned with the posterior aspect of the spinous process of C7.
+
+Tape Measure Method 
+
+
+A tape measure is used to measure the distance between the tip of the middle finger and the floor.
+
+Bubble Goniometer Method 
+
+
+The clinician places one a goniometer flat at the T12/L1 spinous process in the frontal plane and the other goniometer at the superior aspect of the sacrum, also in the frontal plane (Figure 11 156). Both goniometers are zeroed out, and then the patient is asked to side bend the trunk to the right side (Figure 11 157) and the inclination is recorded from both goniometers. The clinician subtracts the sacral inclination from the T12/L1 inclination to obtain the lumbar side bending angle. The technique is then repeated to the left side (Figure 11 158). The normal ranges of motion for flexion and extension vary according to patient age and gender (Table 11 13).36,38
+
+
+
+TABLE 11 13
+Normal Ranges of Motion for Lumbar Side Bending Based on Gender and Age
+
+Gender 
+Age Range 
+Normal Range of Flexion in Degrees
+Male
+20 29 years old
+38   5.8
+
+31 60 years old
+29   6.5
+
+>61 years old
+19   4.8
+Female
+15 30 years old
+35   6.4
+
+31 60 years old
+30   5.8
+
+>61 years old
+23   5.4
+
+
+Data from Fitzgerald GK, Wynveen KJ, Rheault W, et al: Objective assessment with establishment of normal values for lumbar spinal range of motion. Phys Ther 63:1776 1781, 1983; Einkauf DK, Gohdes ML, Jensen GM, et al: Changes in spinal mobility with increasing age in women. Phys Ther 67:370 375, 1987.
+
+
+FIGURE  11 156
+
+
+Bubble goniometer placement for the start position of lumbar spine side bending
+
+
+FIGURE  11 157
+
+
+
+Goniometric measurement of lumbar spine side bending to the right
+
+
+FIGURE  11 158
+
+
+Goniometric measurement of lumbar spine side bending to the left
+
+
+
+REFERENCES
+
+1. Cyriax J: Textbook of Orthopaedic Medicine, Diagnosis of Soft Tissue Lesions (ed 8). London, Bailliere Tindall, 1982.
+
+2. Hayes KW: An examination of Cyriax's passive motion tests with patients having osteoarthritis of the knee. Phys Ther 74:697, 1994. [PubMed: 8047559] 
+
+3. Rothstein JM: Cyriax reexamined. Phys Ther 74:1073, 1994. [PubMed: 7818716] 
+
+4. Farfan HF: The scientific basis of manipulative procedures. Clin Rheum Dis 6:159 177, 1980.
+
+5. Harris ML: Flexibility. Phys Ther 49:591 601, 1969. [PubMed: 4894575] 
+
+6. McKenzie R, May S: Physical examination, in McKenzie R, May S (eds): The Human Extremities: Mechanical Diagnosis and Therapy. Waikanae, New Zealand, Spinal Publications New Zealand, 2000, pp 105 121.
+
+7. Dvorak J, Antinnes JA, Panjabi M et al.: Age and gender related normal motion of the cervical spine. Spine 17:S393 S398, 1992. CrossRef [PubMed: 1440033] 
+
+8. White DJ: Musculoskeletal examination, in O'Sullivan SB, Schmitz TJ (eds): Physical Rehabilitation (ed 5). Philadelphia, FA Davis, 2007, pp 159 192.
+
+9. Petersen CM, Hayes KW: Construct validity of Cyriax's selective tension examination: association of end feels with pain at the knee and shoulder. J Orthop Sports Phys Ther 30:512 527, 2000.
+CrossRef [PubMed: 10994861] 
+
+
+
+
+
+11. Mayerson NH, Milano RA: Goniometric measurement reliability in physical medicine. Arch Phys Med Rehabil 65:92 94, 1984. [PubMed: 6696609]
+
+
+12. Riddle DL, Rothstein JM, Lamb RL: Goniometric reliability in a clinical setting: shoulder measurements. Phys Ther 67:668 673, 1987. [PubMed: 3575423] 
+
+13. Williams JG, Callaghan M: Comparison of visual estimation and goniometry in determination of a shoulder joint angle. Physiotherapy 76:655 657, 1990.
+CrossRef
+
+14. American Medical Association: Guides to the Evaluation of Permanent Impairment (ed 5). Chicago, American Medical Association, 2001.
+
+15. Wing P, Tsang I, Gagnon F: Diurnal changes in the profile shape and range of motion of the back. Spine 17:761 766, 1992. CrossRef [PubMed: 1502639] 
+
+16. Chibnall JT, Duckro PN, Baumer K: The influence of body size on linear measurements used to reflect cervical range of motion. Phys Ther 74:1134  1137, 1994. [PubMed: 7991655] 
+
+17. Mayer TG, Kondraske G, Beals SB et al.: Spinal range of motion. Accuracy and sources of error with inclinometric measurement. Spine 22:1976  1984, 1997.
+CrossRef [PubMed: 9306526] 
+
+18. Mayer T, Brady S, Bovasso E et al.: Noninvasive measurement of cervical tri planar motion in normal subjects. Spine 18:2191 2195, 1993. CrossRef [PubMed: 8278830] 
+
+19. Capuano Pucci D, Rheault W, Aukai J et al.: Intratester and intertester reliability of the cervical range of motion device. Arch Phys Med Rehabil 72:338 340, 1991. [PubMed: 2009054] 
+
+20. Ordway NR, Seymour R, Donelson RG et al.: Cervical sagittal range of motion analysis using three methods. Cervical range of motion device, 3space, and radiography. Spine 22:501 508, 1997.
+CrossRef [PubMed: 9076881] 
+
+21. Nilsson N, Christensen HW, Hartvigsen J: The interexaminer reliability of measuring passive cervical range of motion, revisited. J Manipulative Physiol Ther 19:302 305, 1996. [PubMed: 8792318] 
+
+22. Nilsson N: Measuring passive cervical motion: a study of reliability. J Manipulative Physiol Ther 18:293 297, 1995. [PubMed: 7673795]
+
+
+23. Youdas JW, Carey JR, Garrett TR: Reliability of measurements of cervical spine range of motion: comparison of three methods. Phys Ther 71:98  104, 1991. [PubMed: 1989013] 
+
+24. Chen SP, Samo DG, Chen EH et al.: Reliability of three lumbar sagittal motion measurement methods: surface inclinometers. J Occup Environ Med 39:217 223, 1997.
+CrossRef [PubMed: 9093973] 
+
+
+
+
+25. Raou RJP: Recherches sur la mobilit  vertebrale en fonction des types rachidiens. Paris, Th se, 1952.
+
+26. Lawrence DJ, Bakkum B: Chiropractic management of thoracic spine pain of mechanical origin, in Giles LGF, Singer KP (eds): Clinical Anatomy and Management of Thoracic Pain. Oxford, Butterworth Heinemann, 2000, pp 244 256.
+
+27. McKenzie RA: The Cervical and Thoracic Spine: Mechanical Diagnosis and Therapy. Waikanae, New Zealand, Spinal Publications, 1990.
+
+28. Edmondston SJ, Waller R, Vallin P et al.: Thoracic spine extension mobility in young adults: influence of subject position and spinal curvature. J Orthop Sports Phys Ther 41:266 273, 2011.
+CrossRef [PubMed: 21335925] 
+
+29. Evans RC: Illustrated Essentials in Orthopedic Physical Assessment. St. Louis, Mosby Year book, 1994.
+
+30. Magee DJ: Orthopedic Physical Assessment. Philadelphia, WB Saunders, 1997.
+
+31. Pavelka K, Von: Rotationsmessung der Wirbelsaule. A Rheumaforschg 29:366, 1970.
+
+32. Gonon JP, Dimnet J, Carret JP et al.: Utilit  de l'analyse cin matique de radiographies dynamiques dans le diagnostic de certaines affections de la colonne lombaire, in Simon L, Rabourdin JP (eds): Lombalgies et m decine de r  ducation. Paris, Masson, 1983, pp 27 38.
+
+33. White AA: An analysis of the mechanics of the thoracic spine in man. Acta Orthop Scand 127 (Suppl):8 92, 1969.
+
+34. Moll JMH, Wright V: Measurement of spinal movement, in Jayson MIV (ed): The Lumbar Spine and Back Pain. New York, Grune and Stratton, 1981, pp 93 112.
+
+35. Reynolds PM: Measurement of spinal mobility: a comparison of three methods. Rheumatol Rehabil 14:180 185, 1975. CrossRef [PubMed: 1162237] 
+
+36. Fitzgerald GK, Wynveen KJ, Rheault W et al.: Objective assessment with establishment of normal values for lumbar spinal range of motion. Phys Ther 63:1776 1781, 1983. [PubMed: 6634943] 
+
+37. Loebl WY: Measurement of spinal posture and range of spinal movement. Ann Phys Med 9:103 110, 1967. [PubMed: 6037346] 
+
+38. Einkauf DK, Gohdes ML, Jensen GM et al.: Changes in spinal mobility with increasing age in women. Phys Ther 67:370 375, 1987. [PubMed: 3823151] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

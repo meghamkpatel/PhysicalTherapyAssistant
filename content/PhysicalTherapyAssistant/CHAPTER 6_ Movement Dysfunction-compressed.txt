@@ -1,0 +1,2330 @@
+
+
+
+Introduction to Physical Therapy and Patient Skills?
+
+CHAPTER 6: Movement Dysfunction
+
+
+
+CHAPTER OBJECTIVES
+At the completion of this chapter, the reader will be able to:
+1. List some of the various causes of movement dysfunction that have been considered over the years
+2. Describe some of the musculoskeletal causes of movement dysfunction
+3. Describe some of the neurologic causes of movement dysfunction
+4. Describe some of the cardiovascular causes of movement dysfunction
+5. Describe some of the respiratory causes of movement dysfunction
+6. Describe some of the integumentary causes of movement dysfunction
+7. Describe the systematic changes that occur with a pregnancy
+OVERVIEW
+The content of this chapter will likely seem overwhelming, but it's intent is to demonstrate how comprehensive the knowledge base needs to be for a practicing clinician. A qualified physical therapist is an expert in recognizing movement dysfunction, which makes an early introduction to the causes of movement dysfunction essential even at an early level of understanding.
+Over the past hundred years, various causes of movement dysfunction have been considered1:
+ Peripheral neuromuscular dysfunction. This early approach resulted from findings following war injuries and poliomyelitis (see Chapter 1). The physical therapy diagnosis was based on the results from manual muscle testing (MMT), and the focus of the treatment was to maintain range of motion through the use of stretching exercises and braces followed by exercises based on the results from the MMT, designed to strengthen the recovering and uninvolved muscles.
+ Central nervous system (CNS) dysfunction. This approach was based on patients with stroke, brain or spinal cord injury, and cerebral palsy. As the previous focus on using MMT to determine the diagnosis was no longer effective, a number of new theories evolved to address the diagnosis and management of the patient with CNS dysfunction.
+Joint dysfunction. This approach incorporated the testing of accessory joint motions based on the belief that soft tissue or joint restrictions were the cause of dysfunction.
+However, as outlined in Chapter 4, purposeful and skilled movement is a factor of the integration of many systems, many of which are vulnerable to compromise. Of particular importance are the musculoskeletal, neurologic, cardio vascular, respiratory, integumentary, and metabolic systems. Compromise to any one of these systems can result in movement dysfunction, either directly or indirectly. Thus, any approach that examines and treats each of these systems in isolation is clearly inadequate. Instead, the examination and treatment must in corporate all of these systems as appropriate, how they relate to one another, and how the clinical findings relate to the subjective complaints and any alteration in function.
+Much of the detail provided in this chapter will be covered in depth layer in the curriculum, so this chapter can be revisited as each of these specialties are introduced. It is important that the reader become aware that the vast majority of conditions seen by physical therapists do not occur in isolation
+
+
+
+and that many are manifested by both direct and indirect (secondary) impairments. Although this is more obvious in the serious conditions such as a spinal cord injury, cerebrovascular accident, and traumatic brain injury, many so called benign conditions can also have associated complications. For this reason, pregnancy is included at the end of the chapter. It serves as a good illustration of how a physical therapist must combine all of the findings from the examination in order to determine the best plan of care and not to treat each impairment as an individual entity.
+MUSCULOSKELETAL CAUSES
+Many studies have evaluated the effect of injury to the musculoskeletal system.2, 3, 4, 5, 6, 7 and 8 The musculoskeletal system undergoes continuous development as various parts of the body grow at different rates. This results in a change of bodily proportions over time. For example, a neonate's head is 70% of its adult size at birth, and then increases in size from birth to maturity, whereas the trunk grows the fastest during the first year of life, contributing about 60% of the increase in body length.
+Two types of mechanical forces act on the musculoskeletal system and continually affect the development of movement (see Chapter 4):
+ Internal. Internal forces include the center of mass (COM), the line of gravity, and the base of support (BOS).
+ External. External forces include gravity, ground reaction, and inertia of the body segment.
+The development of strength and endurance typically follows the development of movement as maintaining posture against gravity begins to play a greater role in function. As individuals age, repeated motions together with sustained postures begin to have an impact on function.
+Structural Misalignment
+Changes in the contours or orientation of the body shape can be so subtle that it often is impossible to isolate the structure involved, the movements affected, and the related joint dysfunction from observation alone.9 For example, a change in a soft tissue contour as compared to the other side could indicate muscle atrophy or muscle hypertrophy.
+
+
+The ability to maintain correct musculoskeletal alignment appears to be related to a number of factors10,11:
+ Energy cost.11 The increase in metabolic rate over the basal rate when standing is so insignificant as to be negligible, compared with a metabolic cost of moving and exercising. This posture is one in which the knees are hyperextended, the hips are pushed forward to the limit of extension, the thoracic curve is increased, the head is projected forward, and the upper trunk is inclined backward in a posterior lean. In contrast, other postures, such as leaning the trunk forward, require greater energy expenditure.
+Strength and flexibility. Pathologic changes to the musculoskeletal system (e.g., excessive wearing of the articular surfaces of joints, the development of osteophytes and traction spurs, and maladaptive changes in the length tension development and angle of pull of muscles and tendons) may be the result of the cumulative effect of repeated small stresses (microtrauma) over a long phase of time or of constant abnormal stresses (macrotrauma) over a short phase of time. Strong, flexible muscles are able to resist the detrimental effects of faulty postures for longer periods and are able to unload the structures through a change of position. However, these changes in position are not possible if the joints are stiff (hypomobile) or too mobile (hypermobile), or if the muscles are weak, shortened, or lengthened.
+Age. As the human body develops from infancy to old age, several physical and neurologic factors may affect posture. At birth, a series of primary curves cause the entire vertebral column to be concave forward, or flexed, giving a kyphotic posture to the whole spine, although the overall contour in the coronal plane is straight. In contrast, the contour of the sagittal plane changes with growth. With development of the erect posture, secondary curves appear in the cervical and lumbar spines, producing a lordosis in these regions. The curves in the spinal column provide it with
+
+
+
+increased flexibility and shock absorbing capabilities.2 At the other end of the life span, the aging adult tends to alter posture in several ways. A common function of aging, at least in women, is the development of a stooped posture associated with osteoporosis with a resultant kyphosis of the thoracic spine. In addition degeneration of the lumbar spine tends to flatten the lumbar lordosis.
+Psychological aspects.11 Not all posture problems can be explained in terms of physical causes. Atypical postures may be symptoms of personality problems or emotional disturbances.
+Evolutionary and heredity influences.11 The transformation of the human race from arboreal quadrupeds to upright bipeds is likely related to the need of the male hominid to have the upper extremities available for carrying a wider variety of foods from fairly long distances.12 This transformation from quadruped to biped was responsible not only for the changes in the weight bearing parts of the musculoskeletal structures but also for adaptations in the upper extremities, which were now free for the development of a greater variety of manipulative skills.
+Structural deformities. The normal coronal and sagittal alignment of the spine can be altered by many conditions, including leg length inequality, congenital anomalies, developmental problems, or trauma.13, 14 and 15 For example, scoliosis represents a progressive disturbance of the intercalated series of spinal segments that produces a three dimensional deformity (lateral curvature and vertebral rotation) of the spine.
+Scoliosis can be idiopathic, a result of congenital deformity, pain, or degeneration, or it can be associated with numerous neuromuscular conditions.
+Disease. The normal coronal alignment of the spine can be altered by many disease conditions, including joint pathology such as ankylosing spondylitis. Sagittal plane alignment can also be altered by disease and injury. Kyphosis, which is a condition of overcurvature of the thoracic vertebrae, can be the result of degenerative diseases (e.g., arthritis), developmental problems (e.g., Scheuermann's disease), osteoporosis with associated compression fractures of the vertebrae, or trauma. Respiratory conditions (e.g., emphysema), general weakness, excess weight, loss of proprioception, or muscle spasm (as seen in cerebral palsy or with trauma) may also lead to adaptive changes to posture.16
+Habit. The most common postural problem is poor postural habit and its associated adaptive changes. In particular, poor sitting posture is considered to be a major contributing factor in the development and perpetuation of shoulder, neck, and back pain.
+
+It is difficult to determine why a particular posture becomes dysfunctional in one individual, yet not in another. Differing adaptive potentials of the tissues between individuals may be among the causes in addition to neurologic, neurodevelopmental, and neurophysiologic factors.
+
+
+Edema
+
+
+
+Edema is an observable swelling resulting from the accumulation of fluid in certain body tissues. Edema occurs as a result of changes in the local circulation and an inability of the lymphatic system to maintain equilibrium, usually as a result of one or more of four basic physiologic events:
+1. An increase in capillary pressure
+2. A decrease in osmotic pressure
+3. An increase in capillary permeability
+4. An obstruction in the lymphatic system
+Most of the body's fluids that are found outside of the cells are normally stored in two spaces: the blood vessels (referred to as blood volume) and the interstitial spaces (referred to as interstitial fluid). When functioning correctly, fluid leaks out of the arterial end of the capillaries and is reabsorbed at the venous end. However, because this exchange is not perfectly balanced, a small but significant net filtration of fluid into the interstitial spaces occurs. The drainage of this excess fluid occurs through the lymphatic system.
+
+Two types of edema are recognized: local and general.
+ Local edema is often associated with trauma to the musculoskeletal system. At the time of the injury, fluid leaks into intercellular spaces because of disrupted tissue and torn vessels, and then further edema occurs through the action of various chemicals released in the inflammatory process of healing, which act on the permeability of the capillary membranes. In general, the amount of swelling is related to the severity of the injury.
+However, in some cases, serious injuries produce very limited swelling. Similarly, minor injuries can cause significant swelling. A report of rapid joint swelling (within 2 to 4 hours) following a traumatic event may indicate bleeding into the joint. Swelling of a joint that is more gradual, occurring 8 to 24 hours after the trauma, is likely caused by an inflammatory process or synovial swelling.
+ General. Generalized edema typically results from surgical, pharmaceutical, or pathologic causes. This type of edema most commonly occurs in the feet and legs, where it is also referred to as peripheral edema. In various diseases, such as peripheral vascular disease, excess fluid can accumulate in either one or both of the interstitial spaces or blood vessels. An edematous limb indicates poor venous return. Pitting edema is characterized by an indentation of the skin after the pressure has been removed.
+
+Impaired Muscle Performance
+Clinical findings of weakness can have many causes. A distinction must be made among weakness that occurs throughout the range of motion (pathologic weakness), weakness that only occurs in certain positions (positional weakness), and weakness that only occurs in specific muscles or muscle groups (neurologic weakness). A finding of muscle weakness must also be differentiated from weakness due to fatigue. Muscle fatigue is a complex mix of objective and subjective sensations. The simplest definition of fatigue is the feeling of tiredness or exhaustion. Fatigue can also refer to the gradual or sudden inability of a tissue to perform the purpose for which it is designed.
+
+
+
+
+As outlined in Chapter 4, all tissues demonstrate an upper limit of tolerance to loading, after which signs of fatigue or failure may occur. Whereas most connective tissues (bone, cartilage, ligament, and tendon) react to excessive loading by breaking down, muscle reacts by ceasing to function.
+According to Cyriax,19,20 strength testing can provide the clinician with the following findings:
+ A weak and painless contraction may indicate palsy or a complete rupture of the muscle tendon unit. The motor disorder of peripheral neuropathy is first manifested by weakness and diminished or absent tendon reflex21
+ A strong and painless contraction indicates a normal finding.
+ A weak and painful contraction. A study by Franklin22 indicated that the conditions related to this finding need to be expanded to include not only serious pathology, such as a significant muscle tear or tumor, but relatively minor muscle damage and inflammation such as that induced by eccentric isokinetic exercise.23
+ A strong and painful contraction indicates a grade I contractile lesion.
+Pain that does not occur during the test, but occurs on the release of the contraction, is thought to have an articular source, produced by the joint glide that occurs following the release of tension.
+
+Range of Motion and Flexibility
+In order for a joint to function normally, both the osteokinematic and arthrokinematic motions have to occur fully (see Chapter 4). It, therefore, follows that if a joint is not functioning completely, either the physiologic range of motion is limited compared with the expected norm or there is no passive range of motion (ROM) available between the physiologic barrier and the anatomic barrier. In general, the physiologic motion is controlled by the contractile tissues, whereas the accessory motion is controlled by the integrity of the joint surfaces and the noncontractile (inert) tissues. This guideline may change in the case of a joint that has undergone degenerative changes, which can result in a decrease in the physiologic motions (capsular pattern of restriction).
+A decrease in ROM and/or in the flexibility of one joint can affect the entire kinetic chain (see Chapter 4). For example, a decrease in ROM or flexibility at the shoulder can affect the function of the entire upper extremity. To provide a treatment for a loss of motion, the clinician must make the determination as to the specific cause that is, a loss of ROM or a decrease in flexibility. For example, a determination must be made as to whether the specific cause is due to joint effusion, adaptive shortening of the connective tissue structures, a change in bony architecture, or an alteration in the alignment of the articular surfaces.
+
+
+
+
+Normal flexibility and ROM are necessary for efficient movement. Joint movement may be viewed as a combination of the amount of joint ROM and the arthrokinematic glide that occurs at the joint surfaces (referred to as joint play), whereas flexibility is a factor of the degree of extensibility of the periarticular and connective tissues that cross the joint. A number of anatomic factors can limit the ability of a joint to move through a full, unrestricted range of motion. These include:
+ Muscles and their tendons  Connective tissue
+ Bone
+ Adipose tissue  Skin
+ Neural tissue
+Central Control Dysfunction
+A loss of active control of muscle function can result in a loss of force output, which in turn can produce aberrant movement patterns, ineffective force production, or a change in the timing of the onset of muscle activity in one of the partners or synergists of the movement. Thus, if muscle control is poor, joint strain and pain may result.25,26
+Trauma to tissues that contain mechanoreceptors may result in involvement of the nervous system, which can include partial deafferentation, proprioceptive deficits, and altered joint function.27,28 For example, in addition to the mechanical restraint provided by ligaments, it has been observed that ligaments provide neurologic feedback that directly mediates reflex muscle contractions about a joint.27,29
+A normal muscle at rest has some resistance to passive lengthening, whereas a muscle affected by neurologic injury demonstrates an alteration to this characteristic resistance in one of two ways:
+Increased resistance to passive lengthening and poor active muscle control combine to hold joints rigidly immobile in positions that favor contracture formation.
+Decreased resistance to passive lengthening results in flaccidity that, accompanied by a lack of active muscle control, can result in a general vascular and fluid status in the involved area that predisposes the segment to edema formation and eventual contracture development.
+Aging
+The musculoskeletal changes associated with aging affect all of the soft tissues, including skeletal muscle, articular cartilage, and intervertebral disks. Many of these changes are associated with a decrease in physical activity and the subsequent loss of strength due to disuse. In addition, many diseases can cause degeneration of the connective tissues, including myopathies, neuropathies, neoplasms, and a host of rheumatic diseases. Aging is the accumulation of diverse adverse changes that increase the risk of death.30 The rate of aging, that is, the rate at which aging changes occur, normally varies from individual to individual, resulting in differences in the age of death, the onset of various diseases, and the impact of aging on function.30
+
+
+
+Changes as the result of aging can be attributed to a combination of development, genetic defects, the environment, disease, and the aging process. A number of sequential alterations that accompany advancing age increase the probability of experiencing a chronic debilitating disease.30 This increase in the incidence of chronic conditions with advancing age occurs largely because aging is often accompanied by several comorbidities, such as cardiovascular disorders, osteoporosis, arthritis, and diabetes, which increase the vulnerability of the geriatric patient.
+Musculoskeletal impairments are among the most prevalent and symptomatic health problems of middle and old age.31 The gradual loss of strength and motion, and increasing pain, that accompany the aging process prevent elderly individuals from making full use of their abilities and from participating in the regular physical activity necessary to maintain optimum mobility, general health, and, in some cases, independence.32
+
+
+Muscle size can decrease an average of 30% to 40% over one's lifetime and affects the lower extremities more than the upper extremities.35 Fiber loss appears to be more accelerated in type II muscle fibers, which decrease from an average of 60% of total muscle fiber type in sedentary young men to below 30% after the age of 80.36 Type II fibers are used primarily in activities requiring more power, such as sprinting or strength training, and are not stimulated by normal activities of daily living.32 In addition, a loss of range in the lower extremities can have a negative impact on functional activities such as gait (see Chapter 14).
+
+Studies have noted that individuals over 65 tend to walk with a slower self selected gait speed, a shorter stride width, an increase in double support time, and with increased gait variability. Some of these changes are the inevitable effects of aging, whereas others are due to pathology or disuse. For example, elderly individuals tend to go through a decreased range of dorsiflexion during midstance.37,38 However, significant changes in gait are not noted unless multiple joints are involved or there are impairments in other systems such as loss of strength or motor control.
+
+Fractures commonly occur among seniors and can have a significant impact on the morbidity, mortality, and functional dependence of this population.
+
+
+
+
+Most commonly, such fractures include pathologic fractures, proximal femur fractures, stress fractures, distal radius fractures, proximal humerus fractures, and compression fractures of the spine.
+
+Fractures in the elderly have their own set of problems:
+ The fractures heal more slowly.
+ Older adults are prone to secondary complications, including:
+ Pneumonia if the fracture causes a period of immobility or bed rest  Changes in mental status due to adverse reaction to anesthesia
+ Pressure ulcers  Comorbidities
+ Falls due to decreased vision and poor balance
+It is important to remember that frailty is not a natural consequence of aging and that the performance of physical activity throughout the aging years can produce a number of physiologic benefits:
+ Substantial improvements can be made in almost all aspects of cardiovascular functioning.
+ Individuals of all ages can benefit from muscle strengthening exercises. In particular, resistance training can have a significant impact on the maintenance of independence in old age.
+   Regular activity helps prevent and/or postpone the age associated declines in flexibility, balance, and coordination. Conversely, disuse exacerbates the aging process and negatively affects the physiologic reserve in the face of disease and injury.
+NEUROLOGIC CAUSES
+With the exception of pain (see Chapter 5), the vast majority of the neurologic causes of movement dysfunction are the result of trauma, a congenital or developmental disorder of the nervous system, or disease involving compromise to either the central nervous system (CNS) or the peripheral nervous system (PNS).
+Motor Neuron Dysfunction
+This group of conditions involves compromise to the anterior horn cells, which contain the motor neurons that control the axial muscles (the muscles of the head of the trunk). Compromise to these cells can result from trauma or mechanical disruption (avulsion of the anterior root from the cord), inflammation (poliomyelitis), degeneration (amyotrophic lateral sclerosis), genetic defect (spinal muscular atrophy), infections, and chemical
+
+
+
+imbalances. As these conditions progress, speaking, breathing, and swallowing become negatively affected, producing progressive disability and death.
+Axonal Dysfunction
+These dysfunctions primarily fall into two categories:
+ Segmental demyelination. Segmental demyelination involves a destructive loss of myelin (see Chapter 4) at the segments of the axons they cover. This loss of myelin removes the ability of the nerve to communicate using salutatory conduction (see Chapter 4), thereby slowing the velocity.
+Examples of demyelination diseases of the PNS include Guillain Barr  syndrome and Charcot Marie Tooth disease. Examples of demyelination diseases of the central nervous system include multiple sclerosis and tabes dorsalis.
+ Involvement of both the axon and the myelin. This type, which is often caused by trauma, involves Wallerian degeneration. Wallerian degeneration, which occurs after axonal injury in both the PNS and CNS, involves degeneration of the entire axon and the myelin sheath distal to the site of lesion. This results in the loss of both sensory and motor functions. Regeneration in the PNS is rapid, occurring at rates of up to 1 millimeter a day of regrowth. Regeneration in the CNS is not as rapid. An example of axonal dysfunction of the PNS includes a traumatic transection of the radial nerve resulting in paralysis of the wrist extensors and loss of sensation of the thumb in the posterior lateral surface of the hand.
+Neuromuscular Junction Diseases
+The function of the neuromuscular junction (NMJ) is described in Chapter 4. Dysfunction of the NMJ is usually the result of a chemical imbalance that results either in a decreased amount of released neurotransmitter, or in various substances competing with the neurotransmitter for the membrane receptor site. An example of an NMJ disease is myasthenia gravis, which is manifested by fluctuating muscle weakness and fatigability.
+Motor Neuron Lesions
+Motor neuron lesions are generally of two types:
+ Upper motor neuron (UMN). Upper motor neurons are located in the white columns of the spinal cord and the cerebral hemispheres. A UMN lesion, also known as a central palsy, is a lesion of the neural pathway above the anterior horn cell or motor nuclei of the cranial nerves. These lesions are characterized by spastic paralysis or paresis, little or no muscle atrophy, hyper reflexive muscle stretch (deep tendon) reflexes in a nonsegmental distribution, and the presence of pathologic signs (e.g., spasticity) and pathologic reflexes (e.g., Babinski).
+ Lower motor neuron (LMN). The lower motor neuron begins at the ? motor neuron and includes the posterior (dorsal) and anterior (ventral) roots, spinal nerve, peripheral nerve, neuromuscular junction, and muscle fiber complex.48 The LMN consists of a cell body located in the anterior gray column and its axon, which travels to a muscle by way of the cranial or peripheral nerve. Lesions to the LMN can occur in the cell body or anywhere along the axon. An LMN lesion is also known as a peripheral palsy. These lesions can be the result of direct trauma, toxins, infections, ischemia, or compression. The characteristics of an LMN lesion include muscle atrophy and hypotonus, diminished or absent muscle stretch (deep tendon) reflex of the areas served by a spinal nerve root or a peripheral nerve, and absence of pathologic signs or reflexes.
+Vascular Diseases
+Cerebrovascular Accident
+
+A cerebrovascular accident (CVA) or stroke syndrome encompasses a heterogeneous group of pathophysiologic causes, including thrombosis, embolism, and hemorrhage, that result in a sudden loss of circulation to an area of the brain, resulting in a corresponding loss of neurologic function.
+
+
+
+
+Strokes currently are classified as either hemorrhagic or ischemic, although the two can coexist.
+ Hemorrhagic: account for only 10% to 15% of all strokes but are associated with higher mortality rates than the ischemic variety.49 This type results from abnormal bleeding into the extravascular areas of the brain. Causes include, but are not limited to, intracranial aneurysm, hypertension, arteriovenous malformation (AVM), and anticoagulant therapy.
+ Ischemic50, 51, 52, 53 and 54: the most common type, affecting about 80% of individuals with stroke. This type results when a clot blocks or impairs blood flow. Risk factors for ischemic stroke include advanced age (the risk doubles every decade), hypertension, smoking, heart disease (coronary artery disease, left ventricular hypertrophy, chronic atrial fibrillation), and hypercholesterolemia. Ischemic strokes most often are caused by extracranial embolism or intracranial thrombosis.
+ Emboli may arise from the heart, the extracranial arteries, or rarely, the right sided circulation (paradoxical emboli). The sources of cardiogenic emboli include valvular thrombi (e.g., in mitral stenosis, endocarditis, prosthetic valves); mural thrombi (e.g., in myocardial infarction [MI], atrial fibrillation, dilated cardiomyopathy); and atrial myxomas.
+ Lacunar infarcts, which are cystic cavities that form after an infarct, commonly occur in patients with small vessel disease such as diabetes and hypertension.
+ Thrombosis: the most common sites of thrombotic occlusion are cerebral artery branch points, especially in the distribution of the internal carotid artery. Arterial stenosis, atherosclerosis, and platelet adherence cause the formation of blood clots that either embolize or occlude the artery. Less common causes of thrombosis include polycythemia and sickle cell anemia.
+
+Common symptoms of a stroke include an abrupt onset of hemiparesis, monoparesis, or quadriparesis; monocular or binocular visual loss; visual field deficits; diplopia; dysarthria; ataxia; vertigo; aphasia; or sudden decrease in the level of consciousness.
+
+A stroke is largely preventable. Potentially modifiable risk factors include smoking, obesity, physical inactivity, diet, and excess alcohol consumption. The major neuroanatomic stroke syndromes are caused by disruption of their respective cerebrovascular distributions.
+Trauma
+Traumatic Brain Injury
+
+Traumatic brain injury (TBI) is a nondegenerative, noncongenital insult to the brain caused by an external mechanical force, which can lead to permanent or temporary impairments of cognitive, physical, and psychosocial functions with an associated diminished or altered state of
+
+
+
+consciousness.55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66 and 67 TBI is the major cause of death related to injury among Americans. The risk of TBI is highest for
+individuals aged 15 to 24 years.
+
+TBI can manifest clinically from concussion to coma and death. Injuries are divided into a number of categories:
+ Focal injuries: tend to be caused by contact forces.
+ Hypoxic ischemic injury: results from a lack of oxygenated blood flow to the brain tissue.
+ Increased intracranial pressure (ICP): can lead to cerebral hypoxia, cerebral ischemia, cerebral edema, hydrocephalus, and brain herniation.
+ Diffuse injuries: likely to be caused by noncontact, acceleration deceleration, or rotational forces. A diffuse axonal injury (DAI), caused by forces associated with acceleration deceleration and rotational injuries, such as high impact collisions of MVAs, contact sports, and shaken baby syndrome. Impact loading (i.e., collision of the head with a solid object at a tangible speed) causes brain injury through a combination of contact forces and inertial forces:
+ Inertial force ensues when the head is set in motion with or without any contact force, leading to acceleration of the head.
+ Coup contusions occur at the area of direct impact to the skull and occur because of the creation of negative pressure when the skull, distorted at the site of impact, returns to its normal shape.
+ Contrecoup contusions are similar to coup contusions but are located opposite the site of direct impact. Cavitation in the brain, from negative pressure due to translational acceleration impacts from inertial loading, may cause contrecoup contusions as the skull and dura matter start to accelerate before the brain on initial impact. The three basic types of tissue deformation include the following:
+ Compressive tissue compression  Tensile tissue stretching
+     Shear tissue distortion produced when tissue slides over other tissue.  Impulsive loading (i.e., sudden motion without significant physical contact)
+Complications associated with TBI include:
+ Epidural hematoma: occurs from impact loading to the skull with associated laceration of the dural arteries or veins with subsequent neurologic deterioration. More often, a tear in the middle meningeal artery causes this type of hematoma.
+ Subdural hematoma: tends to occur in patients with injuries to the cortical veins or pial artery in severe TBI.
+ Intracerebral hemorrhage: occurs within the cerebral parenchyma secondary to lacerations or contusion of the brain with injury to larger deeper cerebral vessels with extensive cortical contusion.
+ Subarachnoid hemorrhage: may occur in cases of TBI in a manner other than secondary to ruptured aneurysms caused by lacerations of the superficial microvessels in the subarachnoid space.
+ Increased intracranial pressure (ICP):
+
+
+
+ Cerebral edema: Edema may be caused by effects of neurochemical transmitters and by increased ICP.
+ Hydrocephalus: The communicating type of hydrocephalus is more common in TBI than the noncommunicating type.
+ Brain herniation: Supratentorial herniation is attributable to direct mechanical compression by an accumulating mass or to increased intracranial pressure.
+Direct impairments associated with TBI include:
+ Cognitive impairments (Table 6 1)  Behavioral impairments
+ Communication impairments
+ Visual perceptual impairments  Swallowing impairments
+TABLE 6 1
+Levels of Consciousness a Continuum of Physiologic Readiness for Activity
+
+Term 
+Description
+Alert
+A quality of mind characterized by attentiveness to normal levels of stimulation, self awareness, subjectivity, sapience, and sentience.
+Lethargic
+The patient appears drowsy and may fall asleep if not stimulated in some way. Patient has difficulty in focusing or maintaining attention on the question or task.
+Obtunded
+A state of consciousness characterized by a state of sleep, reduced alertness to arousal, and delayed responses to stimuli.
+Stupor (semicoma)
+The patient responds only to strong, generally noxious stimuli and returns to the unconscious state when stimulation is stopped. When aroused, the patient is unable to interact with the clinician.
+Vegetative state (unresponsive vigilance)
+Absence of the capacity for self aware mental activity due to overwhelming damage or dysfunction of the cerebral hemispheres with sufficient sparing of the diencephalon and brain stem to preserve autonomic and motor reflexes as well as normal sleep/wake cycles. Characterized by a lack of cognitive responsiveness but with the return of sleep/wake cycles, and normalization of vegetative functions (respiration, heart rate, blood pressure, digestion).
+Coma
+The patient is unarousable and unresponsive, and any response to repeated stimuli is only primitive avoidance reflexes; in profound coma, all brainstem and myotatic reflexes may be absent.
+
+
+Secondary impairments include soft tissue contractures, skin breakdown, deep vein thrombosis, heterotropic ossification, decreased bone density, muscle atrophy, decreased endurance, infection, and pneumonia.
+A number of clinical rating scales exist that can be used to evaluate change in the patient over time. Two of the more commonly used scales are the Glasgow Coma Scale (GCS), which defines severity of TBI within 48 hours of injury (Table 6 2), and the Ranchos Los Amigos Cognitive Functioning Scale (Table 6 3), which can be used to determine the severity of deficit in cognitive functioning.
+
+
+
+TABLE 6 2
+Glasgow Coma Scale (GCS)
+
+
+Test 
+Patient Response 
+Score
+Eye opening
+Spontaneous
+Opens eyes
+4
+
+To speech
+Opens eyes
+3
+
+To pain
+Opens eyes
+2
+
+To pain
+Doesn't open
+1
+Best verbal response
+Speech
+Conversation carried out correctly
+5
+
+
+Confused, disoriented
+4
+
+
+Inappropriate words
+3
+
+
+Unintelligible sounds only
+2
+
+
+Mute
+1
+Best motor response
+Commands
+Follows simple commands
+6
+
+To pain
+Pulls examiner's hand away
+6
+
+To pain
+Pulls part of body away
+4
+
+To pain
+Flexes body to pain
+3
+
+To pain
+Decerebrates
+3
+
+To pain
+No motor response
+1
+
+
+TABLE 6 3
+Modified Rancho Los Amigos Cognitive Functioning Scale
+
+
+
+Level I
+No Response: Total Assistance
+Complete absence of observable change in behavior when presented visual, auditory, tactile, proprioceptive, vestibular, or painful stimuli.
+
+
+Level II 
+Generalized Response: Total Assistance 
+Demonstrates generalized reflex response to painful stimuli.
+Responds to repeated auditory stimuli with increased or decreased activity.
+Responds to external stimuli with physiological changes and/or generalized gross body movement but not purposeful vocalization.
+Responses noted above may be same regardless of type and location of stimulation. Responses may be significantly delayed.
+
+
+Level 
+Localized Response: Total
+Demonstrates withdrawal or vocalization to painful stimuli.
+
+
+
+
+
+III 
+Assistance
+Turns toward or away from auditory stimuli. Blinks when strong light crosses visual field. Follows moving object passed within visual field.
+Responds to discomfort by pulling tubes or restraints. Responds inconsistently to simple commands.
+Responses directly related to type of stimulus.
+May respond to some persons (especially family and friends) but not to others.
+
+
+
+
+Level IV 
+Confused/Agitated: Maximal Assistance
+Alert and in heightened state of activity.
+Purposeful attempts to remove restraints or tubes or crawl out of bed.
+May perform motor activities such as sitting, reaching and walking but without any apparent purpose or upon another's request.
+Very brief and usually non purposeful moments of sustained alternatives and divided attention. Absent short term memory.
+May cry out or scream out of proportion to stimulus even after its removal. May exhibit aggressive or flight behavior.
+Mood may swing from euphoric to hostile with no apparent relationship to environmental events. Unable to cooperate with treatment efforts.
+Verbalizations are frequently incoherent and/or inappropriate to activity or environment.
+
+
+
+
+Level V
+Confused, Inappropriate Non Agitated: Maximal Assistance
+Alert, not agitated but may wander randomly or with a vague intention of going home.
+May become agitated in response to external stimulation, and/or lack of environmental structure. Not oriented to person, place or time.
+Frequent brief periods, non purposeful sustained attention.
+Severely impaired recent memory, with confusion of past and present in reaction to ongoing activity. Absent goal directed, problem solving, self monitoring behavior.
+Often demonstrates inappropriate use of objects without external direction.
+May be able to perform previously learned tasks when structured and cues provided. Unable to learn new information.
+Able to respond appropriately to simple commands fairly consistently with external structures and cues. Responses to simple commands without external structure are random and non purposeful in relation to command.
+Able to converse on a social, automatic level for brief periods of time when provided external structure and cues.
+Verbalizations about present events become inappropriate and confabulatory when external structure and cues are not provided.
+
+
+
+
+Level VI 
+Confused, Appropriate: Moderate Assistance
+Inconsistently oriented to person, time and place.
+Able to attend to highly familiar tasks in non distracting environment for 30 minutes with moderate redirection.
+Remote memory has more depth and detail than recent memory. Vague recognition of some staff.
+Able to use assistive memory aide with maximum assistance.
+Emerging awareness of appropriate response to self, family and basic needs. Moderate assist to problem solve barriers to task completion.
+Supervised for old learning (e.g., self care).
+Shows carryover for relearned familiar tasks (e.g., self care). Maximum assistance for new learning with little or no carryover. Unaware of impairments, disabilities and safety risks.
+Consistently follows simple directions.
+
+
+
+
+
+
+
+Verbal expressions are appropriate in highly familiar and structured situations.
+
+
+Level VII 
+Automatic, Appropriate: Minimal Assistance for Daily Living Skills
+Consistently oriented to person and place, within highly familiar environments. Moderate assistance for orientation to time.
+Able to attend to highly familiar tasks in a non distraction environment for at least 30 minutes with minimal assist to complete tasks.
+Minimal supervision for new learning. Demonstrates carryover of new learning.
+Initiates and carries out steps to complete familiar personal and household routine but has shallow recall of what he/she has been doing.
+Able to monitor accuracy and completeness of each step in routine personal and household ADLs and modify plan with minimal assistance.
+Superficial awareness of his/her condition but unaware of specific impairments and disabilities and the limits they place on his/her ability to safely, accurately and completely carry out his/her household, community, work and leisure ADLs.
+Minimal supervision for safety in routine home and community activities. Unrealistic planning for the future.
+Unable to think about consequences of a decision or action. Overestimates abilities.
+Unaware of others' needs and feelings. Oppositional/uncooperative.
+Unable to recognize inappropriate social interaction behavior.
+
+
+Level VIII 
+Purposeful, Appropriate: Stand By Assistance
+Consistently oriented to person, place, and time.
+Independently attends to and completes familiar tasks for 1 hour in distracting environments. Able to recall and integrate past and recent events.
+Uses assistive memory devices to recall daily schedule, "to do" lists and record critical information for later use with stand by assistance.
+Initiates and carries out steps to complete familiar personal, household, community, work and leisure routines with stand by assistance and can modify the plan when needed with minimal assistance.
+Requires no assistance once new tasks/activities are learned.
+Aware of and acknowledges impairments and disabilities when they interfere with task completion but requires stand by assistance to take appropriate corrective action.
+Thinks about consequences of a decision or action with minimal assistance. Overestimates or underestimates abilities.
+Acknowledges others' needs and feelings and responds appropriately with minimal assistance. Depressed.
+Irritable.
+Low frustration tolerance/easily angered. Argumentative.
+Self centered.
+Uncharacteristically dependent/independent.
+Able to recognize and acknowledge inappropriate social interaction behavior while it is occurring and takes corrective action with minimal assistance.
+
+
+Level IX 
+Purposeful, Appropriate: Stand By Assistance on Request 
+Independently shifts back and forth between tasks and completes them accurately for at least two consecutive hours.
+Uses assistive memory devices to recall daily schedule, "to do" lists and record critical information for later
+use with assistance when requested.
+
+
+
+
+
+
+Initiates and carries out steps to complete familiar personal, household, work, and leisure tasks independently and unfamiliar personal, household, work, and leisure tasks with assistance when requested. Aware of and acknowledges impairments and disabilities when they interfere with task completion and takes appropriate corrective action but requires stand by assist to anticipate a problem before it occurs and takes action to avoid it.
+Able to think about consequences of decisions or actions with assistance when requested. Accurately estimates abilities but requires stand by assistance to adjust to task demands. Acknowledges others' needs and feelings and responds appropriately with stand by assistance. Depression may continue.
+May be easily irritable.
+May have low frustration tolerance.
+Able to self monitor appropriateness of social interaction with stand by assistance.
+
+
+Level X
+Purposeful, Appropriate: Modified Independent
+Able to handle multiple tasks simultaneously in all environments but may require periodic breaks. Able to independently procure, create and maintain own assistive memory devices.
+Independently initiates and carries out steps to complete familiar and unfamiliar personal, household, community, work and leisure tasks but may require more than usual amount of time and/or compensatory strategies to complete them.
+Anticipates impact of impairments and disabilities on ability to complete daily living tasks and takes action to avoid problems before they occur but may require more than usual amount of time and/or compensatory strategies.
+Able to independently think about consequences of decisions or actions but may require more than usual amount of time and/or compensatory strategies to select the appropriate decision or action.
+Accurately estimates abilities and independently adjusts to task demands.
+Able to recognize the needs and feelings of others and automatically respond in appropriate manner. Periodic periods of depression may occur.
+Irritability and low frustration tolerance when sick, fatigued and/or under emotional stress. Social interaction behavior is consistently appropriate.
+
+
+
+Data from Malkmus D, Stenderup K: Rancho Los Amigos Cognitive Scale Revised, Rancho Los Amigos Hospital, 1972.
+
+Spinal Cord Injury
+
+Patients with spinal cord injury (SCI) usually have permanent and often devastating neurologic deficits and disability. The extent and seriousness of the consequences depends on the location and severity of the lesion.
+
+Injury to the corticospinal tract or posterior columns, respectively, results in ipsilateral paralysis or loss of sensation of light touch, proprioception, and vibration.
+Injury to the lateral spinothalamic tract causes contralateral loss of pain and temperature sensation.
+Because the anterior spinothalamic tract also transmits light touch information, injury to the posterior columns may result in complete loss of vibration sensation and proprioception, but only partial loss of light touch sensation.
+
+
+
+Spinal cord injuries can be categorized as complete or incomplete. A complete cord syndrome is characterized clinically as complete loss of motor and sensory function below the level of the traumatic lesion.
+
+Incomplete cord syndromes have variable neurologic findings with partial loss of sensory and/or motor function below the level of injury.
+
+A spinal cord concussion is characterized by a transient neurologic deficit localized to the spinal cord that fully recovers without any apparent structural damage.
+
+Complications associated with a SCI include:
+Autonomic dysreflexia (AD). AD is a syndrome of massive imbalanced reflex sympathetic discharge occurring in patients with SCI above the T5 T6 level.68, 69, 70, 71, 72, 73 and 74 Progressively higher spinal cord lesions or injuries cause increasing degrees of autonomic dysfunction. Typical clinical manifestations include
+A sudden significant rise in both systolic and diastolic blood pressures, usually associated with bradycardia Profuse sweating above the level of lesion, especially in the face, neck, and shoulders
+Complaints of a headache (caused by vasodilation of pain sensitive intracranial vessels) Piloerection (goose bumps) above, or possibly below, the level of the lesion
+Flushing of the skin above the level of the lesion, especially in the face, neck, and shoulders
+
+
+
+ Visual disturbances
+The potential triggers for AD are numerous and include:
+ Bladder distention/urinary catheter blockage from twisting  Urinary tract infection
+ Bowel distention or impaction  Hemorrhoids
+ Deep vein thrombosis  Pulmonary emboli
+ Pressure ulcers  Ingrown toenail
+Spinal/neurogenic shock. Spinal shock is associated with autonomic dysfunction and is characterized by hypotension, relative bradycardia, peripheral vasodilation, and hypothermia.
+Spasticity. Spasticity, which occurs when there is damage to the spinal cord or CNS, involves altered skeletal muscle performance in muscle tone resulting in hypertonia. Supraspinal and interneuronal mechanisms appear to be responsible for spasticity. In general, spasticity develops because of an imbalance between the excitatory and inhibitory input to ? motor neurons such that the reflex arc to the muscle remains anatomically intact despite the loss of cerebral innervation and control via the long tracts. Spasticity is manifested by a quite forceful, increased resistance to passive motion when an involved muscle is moved with speed and/or is stretched.
+Heterotopic ossification (HO). HO is a process by which bone tissue forms outside of the skeleton. Heterotopic ossification often begins as a painful palpable mass that gradually becomes nontender and smaller but firmer to palpation.
+Orthostatic hypotension. Orthostatic hypotension results from an inability to control all or most of the sympathetic nervous system (SNS) function. It is common following an upper thoracic or cervical SCI, especially with complete injuries. Orthostatic hypertension is manifested by a rapid increase in blood pressure, cutaneous vasodilatation, lack of sympathetic vasoconstrictor activity, and absent sympathetic input to the heart.
+Pressure ulcers (see Integumentary Causes).76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87 and 88
+Deep vein thrombosis (DVT). Factors predisposing individuals with acute SCI to DVT (see Cardiovascular Causes) include venous stasis secondary to muscle paralysis.89, 90, 91 and 92
+Impaired temperature control. After damage to the spinal cord, the hypothalamus can no longer control the cutaneous blood flow or the level of sweating.93 This lack of sweating is often associated with excessive compensatory diaphoresis above the level of the lesion.93
+Respiratory impairment. Respiratory function varies considerably, depending on the level of the lesion. Between C1 and C3, phrenic nerve innervation and spontaneous respiration are significantly impaired or lost.93
+Bladder/bowel and sexual dysfunction. Urinary tract infections are among the most frequent medical complications during the initial medical  rehabilitation period.93
+
+
+
+
+
+
+
+One of two types of bladder conditions can develop, depending on location of the lesion:
+ Spastic or reflex (automatic) bladder: lesions that occur within the spinal cord above the conus medullaris.
+  Flaccid or nonreflex (autonomous) bladder: a lesion of the conus medullaris or cauda equina. As with the bladder, the neurogenic bowel condition that develops can be of two types:
+ Spastic or reflex (automatic) bowel: lesion that occurs within the spinal cord above the conus medullaris.
+Flaccid or nonreflex (autonomous) bowel: a lesion of the conus medullaris or cauda equina.
+As with bowel and bladder function, sexual capabilities are broadly divided between UMN and LMN lesions.
+Congenital and Developmental Disorders
+Cerebral Palsy
+
+Cerebral palsy (CP), which is the neurologic condition most frequently encountered by pediatric physical therapists, is generally considered to be a nonprogressive defect or lesion in single or multiple locations in the immature brain.94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113,
+114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139 and 140 CP is diagnosed when a child does not reach motor
+milestones and exhibits abnormal muscle tone or qualitative differences in movement patterns such as asymmetry. Despite advances in neonatal care, CP remains a significant clinical problem. In most cases of CP the exact cause is unknown but is most likely multifactorial (intracranial hemorrhage,
+
+
+
+intrauterine infection, birth asphyxia, multiple births, early prenatal, perinatal, or postnatal injury due to vascular insufficiency, or CNS malformation).
+CP has been classified in a number of ways. A classification based on the area of the body exhibiting motor impairment yield the designations of monoplegia (one limb), diplegia (lower limbs), hemiplegia (upper and lower limbs on one side of the body), and quadriplegia (all limbs). Another classification is based on the most obvious movement abnormality resulting from common brain lesions: spastic, athetoid, ataxic, low tone, or a combination (Tables 6 4 and 6 5). Impairments in CP are problems of the neuromuscular and skeletal systems that are either an immediate result of the existing pathophysiologic process or an indirect consequence that has developed over time:
+ Primary impairments of the muscular system: insufficient force generation, spasticity, abnormal extensibility, and exaggerated or hyperactive reflexes.
+ Primary impairments of the neuromuscular system: Poor selected control of muscle activity, poor regulation of activity in muscle groups in anticipation of postural changes and body movement (anticipatory regulation), and decreased ability to learn unique movements.
+ Secondary impairments of the skeletal system: misalignment such as torsion or hip deformities.
+
+
+
+TABLE 6 4
+Cerebral Palsy Classifications and Manifestations
+
+
+Spastic
+Athetoid 
+Ataxic
+Hypotonic 
+Muscle stiffness
+Excessively stiff and taut, especially during attempted movement
+Low
+
+Diminished resting muscle tone and decreased ability to generate voluntary muscle force
+Posture
+Abnormal postures and movements with mass patterns of flexion/extension
+Poor functional stability especially in proximal joint
+Low postural tone with poor balance
+
+Visual tracking
+Some deficits
+Poor visual tracking
+Poor visual tracking, nystagmus
+
+Muscle tone
+Increased in antigravity muscles. Imbalance of tone across joints that can cause contractures and deformities
+Fluctuates, but generally decreased floppy baby syndrome
+Slightly decreased
+Minimal to none
+Initiating movement
+Difficult
+No problems
+No problems
+Difficult
+Sustaining movement
+Able to in some
+Unable
+No problems
+Unable
+Terminating movement
+Unable
+
+No problems
+Uncontrolled
+Muscle coactivation
+Abnormal
+Poorly timed
+No problems
+None
+ROM
+limitations
+Passive ROM, overall decreased
+Hypermobile
+In spine
+Hypermobile
+
+
+
+TABLE 6 5
+Physical Attributes of Different Types of Cerebral Palsy
+
+Type 
+Attributes 
+Spastic (i.e., pyramidal)
+Constitutes 75% of patients with cerebral palsy. Patients have signs of upper motor neuron involvement, including hyperreflexia, clonus, extensor Babinski response, persistent primitive reflexes, and overflow reflexes (i.e., crossed adductor). Cognitive impairment is present in approximately 30% of spastic diplegic patients, but most patients with spastic quadriplegia have some cognitive impairment.
+Dyskinesia (i.e., extrapyramidal)
+Characterized by extrapyramidal movement patterns, abnormal regulation of tone, abnormal postural control, and coordination deficits. Athetosis, chorea, and choreoathetoid or dystonic movements can be seen. Patients often have pseudobulbar involvement with dysarthria, swallowing difficulties, drooling, oromotor difficulties, and abnormal speech patterns. Generally, the child is hypotonic at birth with abnormal movement patterns emerging at 1 to 3 years. The arms are usually more involved than the legs. Abnormal movement patterns may increase with stress or purposeful activity. Muscle tone is normal during sleep. Intelligence is normal in 78% of patients with athetoid cerebral palsy. A high incidence of sensorineural hearing loss is reported.
+Spastic diplegia
+Patients with often have a period of hypotonia followed by extensor spasticity in the lower extremities with little or no functional limitation of the upper extremities. Patients have a delay in developing gross motor skills. Spastic muscle imbalance often causes persistence of infantile coxa valga and femoral anteversion. Scissoring gait (i.e., hips flexed and adducted, knees flexed with valgus stress, equinus ankles) is observed.
+Hemiplegia
+Characterized by weak hip flexion and ankle dorsiflexion, overactive posterior tibialis, hip hiking/circumduction, supinated foot in stance, upper extremity posturing (e.g., often held with shoulder adducted, elbow flexed, forearm pronated, wrist flexed, hand clenched in a fist with the thumb in the palm), impaired sensation, impaired 2 point discrimination, and/or impaired position sense. Some cognitive impairment is found in about 28% of these patients.
+
+
+
+Syringomyelia
+
+Syringomyelia is the development of a fluid filled cavity or syrinx within the spinal cord (hydromyelia is a dilatation of the central canal by cerebrospinal fluid [CSF] and may be included within the definition of syringomyelia).141, 142, 143, 144 and 145 Although many mechanisms for syrinx formation have been postulated, the exact pathogenesis is still unknown. Syringomyelia usually progresses slowly; the course may extend over many years. The condition may have a more acute course, especially when the brainstem is affected (i.e., syringobulbia). Syringomyelia usually involves the cervical area. Clinical manifestations include the following:
+ Dissociated sensory loss: a loss of pain and temperature sensibility, while light touch, vibration, and position senses are preserved.
+ Motor changes: diffuse muscle atrophy that begins in the hands and progresses proximally to include the forearms and shoulder girdles.  Upper extremity muscles stretch (deep tendon) reflexes are diminished early in the clinical course.
+ Lower extremity spasticity, which may be asymmetrical, appears with paraparesis, hyperreflexia, and extensor plantar responses.  Respiratory insufficiency, which usually is related to changes in position, may occur.
+
+
+
+Spina Bifida
+
+Spina bifida includes a continuum of congenital anomalies of the spine due to insufficient closure of the neural tube and failure of the vertebral arches to fuse.146, 147, 148, 149, 150, 151 and 152 Spina bifida is classified into aperta (visible or open) and occulta (not visible or hidden). The three main types of spina bifida are listed in Table 6 6. Spina bifida aperta is often used interchangeably with myelomeningocele, which is an open spinal cord defect that usually protrudes dorsally. The neurologic complications associated with spina bifida are outlined in Table 6 7.
+TABLE 6 6
+Types of Spina Bifida
+
+Type 
+Description
+Spina bifida occulta
+Occulta means "hidden," and the defect is not visible. Rarely linked with complications or symptoms.
+Usually discovered accidentally during an x ray or MRI for some other reason.
+Meningocele (spina bifida aperta)
+The membrane that surrounds the spinal cord may enlarge, creating a lump or "cyst." This is often invisible through the skin and causes no problems.
+If the spinal canal is cleft, or "bifid," the cyst may expand and come to the surface. In such cases, because the cyst does not enclose the spinal cord, the cord is not exposed.
+The cyst varies in size, but it can almost always be removed surgically if necessary, leaving no permanent disability.
+Myelomeningocele (spina bifida cystica)
+The most complex and severe form of spina bifida.
+Usually involves neurologic problems that can be very serious or even fatal.
+A section of the spinal cord and the nerves that stem from the cord are exposed and visible on the outside of the body; or, if there is a cyst, it encloses part of the cord and the nerves.
+This condition accounts for 94% of cases of true spina bifida.
+The most severe form of spina bifida cystica is myelocele, or myeloschisis, in which the open neural plate is covered secondarily by epithelium and the neural plate has spread out onto the surface.
+
+
+
+TABLE 6 7
+The Neurologic Complications Associated with Spina Bifida
+
+Complication 
+Description
+Syringomeningocele
+The Greek word syrinx, meaning tube or plate, is combined with meninx (membrane) and kele (tumor); the term thus describes a hollow center with the spinal fluid connecting with the central canal of the cord enclosed by a membrane with very little cord substance.
+Syringomyelocele
+Protrusion of the membranes and spinal cord lead to increased fluid in the central canal, attenuating the cord tissue against a thin  walled sac.
+Diastematomyelia
+From the Greek root diastema (interval) and myelon (marrow); is accompanied by a bony septum in some cases.
+Myelodysplasia
+From the Greek term myelos, meaning spinal cord, with dys for difficult and plasi for molding. This is a defective development of any part of the cord.
+Arnold Chiari deformity
+Malformation of the cerebellum, with elongation of the cerebellar tonsils. The cerebellum is drawn into the fourth ventricle. The condition also is characterized by smallness of the medulla and pons and internal hydrocephalus. In fact, all patients with spina bifida cystica (failure to close caudally) have some form of Arnold Chiari malformation (failure to close cranially). The Chiari II malformation is a complex congenital malformation of the brain, nearly always associated with myelomeningocele. This condition includes downward displacement of the medulla, fourth ventricle, and cerebellum into the cervical spinal canal, as well as elongation of the pons and fourth ventricle, probably due to a relatively small posterior fossa. Signs and symptoms include stridor, apnea, irritability, cerebellar ataxia, and hypertonia.
+Craniorachischisis (total dysraphism)
+A condition in which the brain and spinal cord are exposed. This often results in early spontaneous abortion, often associated with malformations of other organ systems.
+Tethered cord
+A longitudinal stretch of the spinal cord that occurs with growth resulting in progressive loss of sensory and motor function, long tract signs, and changes in posture and gait. Presence may be signaled by foot deformities previously braced easily, new onset of hip dislocation, or worsening of a spinal deformity, particularly scoliosis. Progressive neurologic defects in growing children may suggest a lack of extensibility of the spine, or that it is tethered and low lying in the lumbar canal, with the potential for progressive irreversible neurologic damage and requiring surgical release.
+Hydrocephalus
+Characterized by a tense, bulging fontanel and increased occipital frontal circumference. Signs and symptoms include decreased upper extremity coordination, disturbed balance, strabismus, and ocular problems. Medical intervention involves placement of a shunt between ventricle and heart/abdomen.
+Neurogenic bowel and bladder
+Incontinence.
+
+
+Data from Shaer CM, Chescheir N, Erickson K, et al: Obstetrician gynecologists' practice and knowledge regarding spina bifida. Am J Perinatol 23:355 362, 2006; Woodhouse CR: Progress in the management of children born with spina bifida. Eur Urol 49:777 778, 2006; Verhoef M, Barf HA, Post MW, et al: Functional independence among young adults with spina bifida, in relation to hydrocephalus and level of lesion. Dev Med Child Neurol 48:114 119, 2006; Ali L, Stocks GM: Spina bifida, tethered cord and regional anaesthesia. Anaesthesia 60:1149 1150, 2005; Spina bifida. Nurs Times 101:31, 2005; Mitchell LE, Adzick NS, Melchionne J, et al: Spina bifida. Lancet 364:1885 1895, 2004; Dias L: Orthopaedic care in spina bifida: past, present, and future. Dev Med Child Neurol 46:579, 2004.
+
+Aging
+
+
+
+
+A wide variety of neurologic disorders and diseases can affect the aging population, including cerebrovascular accident; Parkinson's disease; cerebellar dysfunction; neuropathies; cognitive, psychological, and sensory problems (depression, fear, and anxiety); pain; and impaired vision. Age  related changes in the brain start at around age 60. Normal, nonprogressive, and negligible declines among the aged do not dramatically affect daily functioning (until the early 1980s), but the more serious disorders/diseases can significantly affect cognitive function in old age. Not all cognitive disorders are irreversible, but many require timely identification and intercession to offset permanent dysfunction.
+ Dementia. Primarily a disease of the elderly, dementia is a generic term most often applied to geropsychological problems applying broadly to a progressive, persistent loss of cognitive and intellectual functions. Dementia presents with a history of chronic, steady decline in short  and long  term memory and is associated with difficulties in social relationships, work, and activities of daily life. In contrast to delirium, the patient's perception is clear. However, delirium can be superimposed on an underlying dementing process. Earlier stages of dementia may present subtly, and patients may minimize or attempt to hide their impairments. Patients at this stage often have associated depression. The typical end result of dementia is impairment of cognition that affects some or all of the following: alertness, orientation, emotion, behavior, memory, perception, language, praxis (applying knowledge), problem solving, judgment, and psychomotor activity.
+ Balance dysfunction. Age related balance dysfunctions can occur through a loss of sensory elements such as degenerative changes in the vestibular apparatus of the inner ear, an inability to integrate sensory information, and muscle weakness. Diseases common in aging populations lead to further deterioration in balance function in some patients (M ni re's disease, benign paroxysmal positional vertigo [BPPV], cerebrovascular disease, vertebrobasilar artery insufficiency, cerebellar dysfunction, and cardiac disease). Balance disorders can be associated with a number of other causes, including:
+ Cardiac abnormalities  Medications
+ Postural hypotension  Sensory loss
+ Visual/auditory deficits
+CARDIOVASCULAR CAUSES
+The cardiovascular system (see Chapter 4) plays an important role in allowing muscle activity to continue over a sustained period by providing vascular support to the working muscles. The maximum work capacity of the cardio respiratory system is a factor of the maximal amount of oxygen that can be taken in and used by the body, or VO2 max, whereas the capacity of the neuromuscular system is a factor of the maximum tension that can be
+developed by the working muscle, or muscles the maximal voluntary contraction. Assessment of the cardiovascular system provides the clinician with the justification for monitoring or not monitoring activities during a patient's rehabilitation or providing modifications in the exercise prescription.153
+Physical therapists often examine and treat patients with one or more chronic medical conditions that are the inherent cause of dependence, dysfunction, and disability and/or increase the risk of other pathologic conditions.
+ Comorbidity154,155
+ Atherosclerosis: a major contributing factor to coronary heart disease, including angina pectoris and myocardial infarction.156
+ Hypertension: causes mechanical damage to vascular endothelium resulting in areas that are stripped of normal endothelial cells. Associated with increased thrombus and plaque formation, intracerebral aneurysms and hemorrhage, and left ventricular hypertrophy.157,158
+ Hyperlipidemia (high blood cholesterol).159
+ Diabetes: a complex mix of physiologic abnormalities that accelerates the development of atherosclerosis and leads to many cardiovascular complications.160, 161 and 162
+
+
+
+ Osteoporosis: can be associated with classic spinal deformities including increased kyphosis with loss of height, thoracic vertebral body fractures, back pain, and decreased vital capacity.
+ Ankylosing spondylitis: pulmonary involvement including nonspecific fibrosis, dilated bronchi, stiffening, and straightening of the spine, and decreased intestinal compliance, the last of which increases the potential for pneumothorax, atelectasis, and aspiration.
+ Idiopathic scoliosis: the lateral curve plus the rotation of the involved thoracic vertebrae around a vertical axis causes a decrease in lung function.
+ Pectus deformities: includes pectus excavatum (funnel chest) and pectus carinatum (pigeon breast).
+ Sarcoidosis: a systemic disease that primarily affects the lungs and the lymphatic system.
+ Systemic lupus erythematosus (SLE): affects the pulmonary system more frequently than any other collagen vascular disease. SLE can be associated with pleuritis, pneumonitis, pulmonary interstitial fibrosis, and pulmonary hypertension.
+ Neurologic disease
+ Cerebrovascular accident: cardiovascular disease is the most common cause of death in long term survivors of stroke.163, 164, 165 and 166
+ Spinal cord injury: stimulation of the cardiopulmonary system is impaired due to lack of innervation to the autonomic nervous system, thereby reducing the ability to support higher rates of aerobic metabolism.167,168
+ Multiple sclerosis: the loss of myelin reduces the speed of nerve conduction, thus interfering with smooth, rapid, and coordinated movement.169
+ Parkinson's disease: associated with bradykinesia, slow and shuffling gait, freezing, kyphotic posture, and overall flexed posture.170
+ Medications. Aspirin resistance may increase the risk of major adverse cardiac events (MACE) more than threefold in patients with stable coronary artery disease (CAD).171
+ Lifestyle: cigarette smoking substantially increases the risk for cardiovascular disease in addition to other diseases, notably chronic obstructive pulmonary disease and lung cancer.172
+ Obesity: many of the effects of obesity appear to be mediated through other risk factors including diabetes and hypertension.173
+ Physical inactivity: physical inactivity may exert much of its influence through other risk factors.174 However, numerous public health and medical associations have identified physical inactivity as a significant risk factor for cardiovascular and other diseases.175
+ Race. African American women have the highest risk of death from heart disease; Native Americans, particularly those living in North Dakota and South Dakota, also have a higher risk.176
+Gender: CAD is the number one killer of women, surpassing all forms of cancer, including breast cancer, combined.177 At the onset of menopause, women's CAD risk begins to approach that of men.177,178
+Family history: family history is considered positive if myocardial infarction or sudden cardiac death occurred in a primary male relative, age 55 or less, or in a primary female relative, age 65 or less.179
+Psychosocial factors: an individual's response to stress can be a determinant factor in the development of CAD. Depression, social isolation, and chronic stress have all been shown to be associated with CAD.180
+Poor Cardiac Function
+
+
+
+Heart failure is the pathophysiologic state in which the heart fails to pump blood at a rate commensurate with the requirements of the metabolizing tissues.181
+Congestive Heart Failure
+
+CHF can be categorized as forward or backward ventricular failure:
+ Forward ventricular failure is secondary to reduced forward flow into the aorta and systemic circulation.  Backward failure is secondary to elevated systemic venous pressure.
+Heart failure can also be subdivided into systolic and diastolic dysfunction.
+ Systolic (left heart) failure: decrease in stroke volume, which leads to activation of peripheral and central baroreflexes and chemoreflexes that are capable of eliciting marked increases in sympathetic nerve activity. This in turn produces a temporary improvement in systolic blood pressure and tissue perfusion. Signs and symptoms of left sided heart failure include progressive severity of (1) exertional dyspnea, (2) orthopnea, (3) paroxysmal nocturnal dyspnea, (4) dyspnea at rest, and (5) acute pulmonary edema (termed congestive heart failure). Systolic failure can be further categorized as ischemic or nonischemic heart failure:
+ Ischemic: the breakdown of the heart muscle because of lack of blood flow to the coronary vessels that may occur with or without myocardial infarction.
+ Nonischemic: results from any process other than coronary artery disease (CAD).
+ Diastolic (right heart) failure: a decrease in stroke volume with the same outcome as with systolic failure but through different mechanisms. The altered relaxation of the ventricle (due to a delay in calcium uptake and a delay in calcium efflux) occurs in response to an increase in ventricular afterload (pressure overload). This impaired relaxation of the ventricle leads to impaired diastolic filling of the left ventricle. Signs and symptoms of left sided heart failure include ascites, congestive hepatomegaly, and anasarca (generalized edema).
+Regardless of the etiology of classification, heart failure is characterized by the inability of the heart to meet the demands of the body the finite adaptive mechanisms that may be adequate to maintain the overall contractile performance of the heart at relatively normal levels become maladaptive when trying to sustain adequate cardiac performance at higher levels. This results in the hallmark symptom of heart failure: exercise intolerance. The New York Heart Association uses the following functional classification:
+ Class I describes a patient who is not limited with normal physical activity by symptoms.
+ Class II occurs when ordinary physical activity results in fatigue, dyspnea, or other symptoms.  Class III is characterized by a marked limitation in normal physical activity.
+ Class IV is defined by symptoms at rest or with any physical activity.
+A normal exercise response requires the coordination of multiple systems, including the cardiac, pulmonary, vascular, and musculoskeletal. During exercise, cardiac output should be able to increase to four to six times its resting level. Patients with heart failure can often only achieve half this normal increase in cardiac output during exercise.182, 183 and 184
+
+
+
+
+The medical intervention for heart failure focuses on improving central hemodynamics through three main goals: (1) preload reduction, (2) reduction of systemic vascular resistance (afterload reduction) through administration of vasodilators, and (3) inhibition of both the renin angiotensin  aldosterone systems and the vasoconstrictor neurohumoral factors (inotropic support) produced by the sympathetic nervous system in patients with heart failure.
+Cor Pulmonale
+
+Cor pulmonale is defined as an alteration in the structure and function of the right ventricle caused by a disorder of the respiratory system, including pulmonary hypertension or a wide variety of cardiopulmonary disease processes.185, 186, 187, 188 and 189 Although cor pulmonale commonly has a chronic and slowly progressive course, acute onset or worsening cor pulmonale with life threatening complications can occur. Clinical manifestations of cor pulmonale include complaints of fatigue, exertional dyspnea/chest pain, syncope with exertion, and hemoptysis.
+Cardiac Impulse Abnormalities
+A rhythm is either regular or irregular. Arrhythmias are a group of conditions that affect the cardiac nervous system. Arrhythmias (dysrhythmias) are usually classified according to their origin (ventricular, or supraventricular [atrial]), pattern (fibrillation or flutter), or the speed or rate at which they occur (tachycardia or bradycardia). Causes include congenital defects, hypertrophy of the heart muscle fibers, valvular heart disease, degeneration of conductive tissue, ischemic conditions of the myocardium, electrolyte imbalance, chemical imbalances, hypoxemia, hypertension, emotional stress, drugs, alcohol, and caffeine.190
+Cardiomyopathies
+Cardiomyopathy is part of a group of conditions affecting the heart muscle itself so that the fibers involved with contraction and relaxation of the myocardial muscle are impaired. Causes include CAD (see later), valvular disorders, hypertension, congenital defects, and pulmonary vascular disorders. Heart problems that occur secondary to impairment of the valves may be caused by infection such as endocarditis, congenital deformity, or disease.
+
+Coronary Artery Disease
+ Coronary artery disease (CAD) is a complex disease involving a narrowing of the lumen of one or more of the arteries that encircle and supply the heart, 
+
+
+
+resulting in ischemia to the myocardium. Injury to the endothelial lining of arteries, an inflammatory reaction, thrombosis, calcification, and hemorrhage all contribute to arteriosclerosis or scarring of an artery wall.
+Atherosclerosis
+
+Atherosclerosis, the most common form of arteriosclerosis, is a chronic thickening of the arterial wall of medium and large sized vessels, through the accumulation of lipids, macrophages, T lymphocytes, smooth muscle cells, extracellular matrix, calcium, and necrotic debris. Atherosclerosis primarily affects the lower extremities. When the arteries of the heart are affected it is referred to as coronary artery disease (CAD) or coronary heart disease (CHD); when the arteries to the brain are affected, cerebrovascular disease (CVD) develops.191 Common symptoms of atherosclerosis include:
+ Decreased or absent peripheral pulses.
+ Skin color: pale on elevation, dusky red on dependency.
+ Intermittent claudication (early stages): pain is described as burning, searing, aching, tightness, or cramping.  In the later stages, patients exhibit ischemia and rest pain; ulcerations and gangrene, trophic changes.
+Risk factors for CAD are classified as modifiable or unmodifiable.
+ Modifiable risk factors include smoking, exposure to second hand smoke, hypertension, hyperlipidemia, high cholesterol (total or LDL C) levels, low HDL C levels, high triglyceride levels, diabetes, abdominal obesity, and a sedentary lifestyle.
+ Unmodifiable risk factors include age, male sex, race, and family history.
+The clinical symptoms of CAD include any symptoms that may represent cardiac ischemia, such as an ache, pressure, pain, other discomfort, or possibly just decreased activity tolerance due to fatigue, shortness of breath, or palpitations.
+Angina Pectoris
+
+Angina pectoris is the result of myocardial ischemia caused by an imbalance between myocardial blood supply and oxygen demand, which causes myocardial cells to switch from aerobic to anaerobic metabolism, with a progressive impairment of metabolic, mechanical, and electrical functions.192
+Most patients with angina pectoris complain of retrosternal chest discomfort rather than frank pain. The former is usually described as a pressure, heaviness, squeezing, burning, or choking sensation in the epigastrium, back, neck, or jaw. Typical locations for radiation of pain are the arms, shoulders, and neck (C8 T4 dermatomes). Typically, exertion, eating, exposure to cold, or emotional stress precipitate angina. Episodes typically last for approximately 1 to 5 minutes and are relieved by rest or by taking nitroglycerin.
+The New York Heart Association classification (see Congestive Heart Failure) may be used to quantify the functional limitation imposed by patients' symptoms.
+Myocardial Infarction
+
+Myocardial infarction (MI) is the rapid development of myocardial necrosis caused by a critical imbalance between the oxygen supply and demand of the myocardium.193 This usually results from plaque rupture with thrombus formation in a coronary vessel, resulting in an acute reduction of blood supply to a portion of the myocardium.
+ Atherosclerotic causes of MI are the most common cause and result from a plaque rupture with subsequent exposure of the basement membrane that results in platelet aggregation, thrombus formation, fibrin accumulation, hemorrhage into the plaque, and varying degrees of vasospasm. MI occurs most frequently in persons older than 45 years.
+ Nonatherosclerotic causes of MI include coronary vasospasm, coronary emboli from sources such as an infected heart valve, occlusion of the coronaries due to vasculitis, or other causes leading to mismatch of oxygen supply and demand, such as acute anemia from GI bleeding.
+
+
+
+Signs and symptoms of MI include:
+Chest pain, typically described as tightness, pressure, or squeezing, located across the anterior precordium. Pain may radiate to the jaw, neck, arms, back, and epigastrium. The left arm is affected more frequently; however, pain may be felt in both arms.
+Dyspnea, which may accompany chest pain or occur as an isolated complaint (especially in an elderly person or the diabetic patient). Nausea and/or abdominal pain often are present in infarcts involving the inferior or posterior wall.
+Anxiety.
+Lightheadedness with or without syncope. Cough.
+Nausea with or without vomiting. Diaphoresis.
+Wheezing.
+
+Vascular System Abnormalities
+Arterial Disease
+
+Arterial diseases can include the following:
+ Arteriosclerosis. Arteriosclerosis is a group of diseases characterized by thickening and loss of elasticity of the arterial wall, often referred to as hardening of the arteries.
+ Arteriovenous malformation (AVM). AVMs are congenital vascular malformations of the cerebral vasculature the result of localized poor development of the primitive vascular plexus of the heart. AVMs vary in size and location and therefore in clinical presentation. Early diagnosis can reduce the chance of hemorrhage.
+Aneurysm. An aneurysm is an abnormal stretching in the wall of an artery, a vein, or the heart with a diameter that is at least 50% greater than normal.194 Aneurysms are named according to the specific site of formation. Aortic aneurysms can form a thoracic aneurysm (involving the ascending, transverse, or first half of the descending portion of the aorta) or an abdominal aneurysm (involving the aorta between the renal arteries and iliac branches). The underlying causes of aortic aneurysms are associated with many factors, including atherosclerosis, hypertension, medial degeneration of an arterial wall and aging, aortitis, congenital abnormalities, trauma, smoking, cellular enzyme dysfunction, and hyperlipidemia.195
+Arteritis. Arteritis (giant cell arteritis, cranial or temporal arteritis) is a vasculitis primarily involving multiple sites of temporal and cranial arteries. Early diagnosis is important to prevent blindness.
+Thromboangiitis obliterans. Thromboangiitis obliterans (Buerger's disease) is a chronic, inflammatory vasculitis affecting the peripheral blood vessels (small arteries and veins), which occurs commonly in young adults, largely male, who smoke heavily. Risk of ulceration, gangrene, and amputation if left untreated. The condition usually progresses proximally in both upper and lower extremities, accompanied by a thrombus
+
+
+
+formation and vasospasm. Patients exhibit paresthesias or pain, cyanotic cold extremity, diminished temperature sensation, or fatigue (intermittent claudication) due to occlusion of the arteries.
+Raynaud's disease. Raynaud's disease or phenomenon results in intermittent spasms of small arteries and arterioles, causing temporary pallor and cyanosis of the digits, usually exacerbated by exposure to cold or emotional stress.
+ Abnormal vasoconstrictor reflex results in pallor, cyanosis, numbness and tingling of digits (fingertips more often than toes).  Affects largely females.
+ Occlusive disease is not usually a factor.
+Hypertension. Hypertension (hypertensive vascular disease) includes hypertensive heart disease, pulmonary hypertension, and pulmonary heart disease.
+Hypotension. Blood pressure that is too low is known as hypotension. Low blood pressure may be a sign of severe disease and requires more urgent medical attention. When blood pressure and blood flow are very low, the perfusion of the brain may be critically decreased (i.e., the blood supply is not sufficient), causing lightheadedness, dizziness, weakness, and fainting. Sometimes the blood pressure drops significantly when a patient stands up from sitting orthostatic hypotension (see next). Other causes of low blood pressure include:
+ Sepsis.
+ Hemorrhage.
+ Toxins including toxic doses of blood pressure medicine.  Hormonal abnormalities, such as Addison's disease.
+ Shock. Shock is a complex condition that leads to critically decreased blood perfusion. The usual mechanisms are loss of blood volume, pooling of blood within the veins reducing adequate return to the heart, and/or low effective heart pumping. Low blood pressure, especially low pulse pressure, is a sign of shock and contributes to/reflects decreased perfusion.
+Orthostatic hypotension. Orthostatic hypotension, in addition to being a complication of a spinal cord injury (see Neurologic Causes) can occur in all age groups and populations, but is more common in the elderly, especially in persons who are sick and frail. In cases of suspected orthostatic hypotension, the clinician should position the patient in the supine position, take a blood pressure measurement, and then repeat the blood pressure measurement at 1 and 3 minutes after the patient assumes a standing or sitting position.
+
+
+
+
+
+
+Venous Insufficiency
+
+In venous insufficiency states, venous blood escapes from its normal antegrade path of flow and refluxes backward down the veins into an already congested leg. Venous insufficiency syndromes are caused by valvular incompetence in the high pressure deep venous system, low pressure superficial venous system, or both. Physical examination alone is not a reliable means of assessing the venous system diagnostic testing nearly always is necessary to rule out deep venous obstruction, to assess the paths of reflux, and to guide treatment planning.
+Deep Venous Insufficiency
+
+Deep venous insufficiency occurs when the valves of the deep veins are damaged as a result of deep venous thrombosis (DVT) see Deep Vein Thrombophlebitis. With no valves to prevent deep system reflux, the hydrostatic venous pressure in the lower extremity increases dramatically. This condition is often referred to as a postphlebitic syndrome.
+Superficial Venous Insufficiency
+
+Superficial venous incompetence is the most common form of venous disease. In superficial venous insufficiency, the deep veins are normal, but venous blood escapes from a normal deep system and flows backwards through dilated superficial veins in which the valves have failed. Most cases of superficial vein valve failure occur after a single point of high pressure leakage develops between the deep system and the superficial system. High pressure causes secondary valve failure when otherwise normal superficial veins become so widely dilated that the thin flaps of the venous valves can no longer make contact in the lumen of the vessel. Over time, these incompetent superficial veins become visibly dilated and tortuous, at which point they are recognized as varicose veins.
+Patients with venous insufficiency often report subjective symptoms that are typically bothersome early in the disease, become less severe in the middle phases, and then worsen again with advancing age. Common symptoms include the following:
+ Burning  Swelling
+ Throbbing  Cramping Aching
+Heaviness Restless legs Leg fatigue
+Pain caused by venous insufficiency often is improved by walking or by elevating the legs.
+Thrombophlebitis
+
+Microscopic thrombosis is a normal part of the dynamic balance of hemostasis. There are two types of venous thrombosis: superficial vein
+
+
+
+thrombophlebitis and deep vein thrombophlebitis. Both types share the same pathophysiology, pathogenesis, and risk factors.
+Superficial Vein Thrombophlebitis
+
+Superficial vein thrombophlebitis may occur spontaneously or as a complication of medical or surgical interventions. Patients with superficial thrombophlebitis often give a history of a gradual onset of localized tenderness, followed by the appearance of an area of erythema along the path of a superficial vein. There may be a history of local trauma, prior similar episodes, varicose veins, prolonged travel, or enforced stasis. Swelling may result from acute venous obstruction (as in deep vein thrombosis) or from deep or superficial venous reflux, or it may be caused by an unrelated disease condition such as hepatic insufficiency, renal failure, cardiac decompensation, infection, trauma, or environmental effects. Palpation of a painful or tender area may reveal a firm, thickened, thrombosed vein.
+Deep Vein Thrombophlebitis
+
+Deep venous thrombosis (DVT) and its sequela, pulmonary embolism, are the leading causes of preventable in hospital mortality in the United States.199 The Virchow triad, as first formulated (i.e., venous stasis, vessel wall injury, hypercoagulable state), is still the primary mechanism for the development of venous thrombosis.199 Hypercoagulable states include:
+ Genetic: includes antithrombin C deficiency, protein C deficiency, and protein S efficiency
+ Acquired: includes postoperative, postpartum, prolonged bed rest or immobilization, severe trauma, cancer, congestive heart failure, obesity, and prior thromboembolism
+
+The signs and symptoms of DVT are related to the degree of obstruction to venous outflow and inflammation of the vessel wall. No single physical finding or combination of symptoms and signs is sufficiently accurate to establish the diagnosis of DVT.199 The following is a list outlining the most sensitive and specific physical findings in DVT199,201, 202 and 203:
+ Edema, principally unilateral.
+ Tenderness, if present, is usually confined to the calf muscles or over the course of the deep veins in the thigh.
+ Pain and/or tenderness away from these areas is not consistent with venous thrombosis and usually indicates another diagnosis.
+ Fever: Patients may have a fever, usually low grade. High fever is usually indicative of an infectious process such as cellulitis or lymphangitis.
+
+Aging
+The patient admitted to a rehabilitation program may not have been physically active for some time, and the level of fitness may have declined considerably. Age related anatomic and physiologic changes of the heart and blood vessels, which can either be mitigated or exacerbated with activity level, typically result in reduced capacity for oxygen transport at rest and in response to situations imposing an increase in metabolic demand for
+
+
+
+oxygen.32 In addition, maximal oxygen consumption (PO2 max), an index of maximal cardiovascular function, decreases 5% to 15% per decade after the
+age of 25 years.204 As a result, at submaximal exercise, heart rate responses such as cardiac output and stroke volume are lower in older adults at the same absolute work rates, whereas blood pressures tends to be higher.204 It is very important that elderly patients have a physician's evaluation of their cardiovascular status before engaging in a rehabilitation program. In addition, the patient should be carefully monitored for cardiovascular response and tolerance to exercise during rehabilitation sessions. HR, BP, and RPE (rate of perceived exertion) should be assessed before, during, and after exercise, and the physician should be notified of any abnormal or unusual findings. In addition to the normal aging changes, a number of complications can occur in the elderly, acute inactivity, such as that which occurs with hospitalization, can significantly reduce VO2 max and increase
+blood viscosity and venous status, which increases the risk of thromboembolic disease.34 Immobility is a common pathway by which a host of diseases and problems in the elderly produce further disability. Persons who are chronically ill, aged, or disabled are particularly susceptible to the adverse effects of prolonged bed rest, immobilization, and inactivity. Common causes for immobility in the elderly include arthritis, osteoporosis, fractures (especially hip and femur), podiatric problems, and neurologic disorders and diseases.
+RESPIRATORY CAUSES
+An individual's ability to move is based on the capacity of the pulmonary and vascular systems (Table 6 8) to deliver oxygen and nutrients to the exercising muscles (Table 6 9). Patients with heart or lung disease or dysfunction are unable to supply or transport nutrients or eliminate waste products and can therefore suffer from generalized fatigue during motor activities.
+
+
+
+TABLE 6 8
+Segments and Branches of the Aorta
+
+Segment of Aorta 
+Arterial Branch
+General Region or Organ Served
+Ascending portion of aorta
+Right and left coronary aa.
+Heart
+Aortic arch
+Brachiocephalic trunk
+Right common carotid a. Right subclavian a.
+Left common carotid a. Left subclavian a.
+Right side of head and neck
+Right shoulder and right upper extremity. Left side of head and neck
+Left shoulder and left upper extremity
+Thoracic portion of aorta
+Pericardial aa.
+Posterior intercostal aa. Bronchial aa.
+Superior phrenic aa. Esophageal aa.
+Pericardium of heart
+Intercostal and thoracic muscles and pleurae Bronchi of lungs
+Superior surface of diaphragm Esophagus
+Abdominal portion of aorta
+Inferior phrenic aa. Celiac trunk
+Common hepatic a. Left gastric a.
+Splenic a.
+
+Superior mesenteric a. Suprarenal aa.
+Lumbar aa. Renal aa. Gonadal aa.
+Testicular aa. Ovarian aa.
+Inferior surface of diaphragm
+Liver, upper pancreas, and duodenum Stomach and esophagus
+Spleen, pancreas, and stomach
+Small intestine, pancreas, cecum, appendix, ascending colon, and transverse colon Adrenal (suprarenal) glands
+Muscles and spinal cord of lumbar region Kidneys
+Testes Ovaries
+Transverse colon, descending colon, sigmoid colon, and rectum Lower extremities
+Genital organs and gluteal muscles
+
+Inferior mesenteric a. Common iliac aa.
+External iliac aa. Internal iliac aa.
+
+
+
+aa. = arteries; a. = artery
+Data from Van de Graaff KM, Fox SI: Circulatory system, in Van de Graaff KM, Fox SI (eds): Concepts of Human Anatomy and Physiology. New York, WCB/McGraw Hill, 1999, pp 610 691.
+
+
+
+
+
+
+
+
+TABLE 6 9
+Ventilation Terminology 
+
+Term 
+Definition
+Air spaces
+Alveolar ducts, alveolar sacs, and alveoli.
+Airways
+Structures that conduct air from the mouth and nose to the respiratory bronchioles.
+Alveolar ventilation
+Removal and replacement of gas in pulmonary alveoli; equal to the tidal volume minus the volume of dead space times the ventilation rate.
+Anatomical dead space
+Volume of the conducting airways to the zone where gas exchange occurs.
+Apnea
+Cessation of breathing.
+Dyspnea
+Unpleasant subjective feeling of difficult or labored breathing.
+Eupnea
+Normal, comfortable breathing at rest.
+Hyperventilation
+Alveolar ventilation that is excessive in relation to metabolic rate; results in abnormally low alveolar CO2.
+Hypoventilation
+An alveolar ventilation that is low in relation to metabolic rate; results in abnormally high alveolar CO2.
+Physiological dead space
+Combination of anatomical dead space and underventilated or underperfused alveoli that do not contribute normally to blood  gas exchange.
+Pneumothorax
+Presence of gas in the intrapleural space (the space between the visceral and parietal pleurae), causing lung collapse.
+Torr
+Unit of pressure very nearly equal to the millimeter of mercury (760 mm Hg = 760 torr).
+
+
+Data from Van de Graaff KM, Fox SI: Respiratory system, in Van de Graaff KM, Fox SI (eds): Concepts of Human Anatomy and Physiology. New York, WCB/McGraw Hill, 1999, pp 728 777.
+
+Inflammation of Respiratory Structures
+Cystic Fibrosis
+
+Cystic fibrosis (CF) is an autosomal recessive disorder of exocrine gland function, involving multiple organ systems (lungs, liver, intestine, pancreas) and chiefly resulting in chronic respiratory infections, pancreatic enzyme insufficiency, and associated complications in young patients. The failure of epithelial cells to conduct chloride and the associated water transport abnormalities result in viscous secretions in the respiratory tract, pancreas, gastrointestinal tract, sweat glands, and other exocrine tissues. The increased viscosity of these secretions makes them difficult to clear.
+The clinical characteristics of CF are listed in Table 6 10. Sweat chloride analysis is critical to distinguish CF from other causes of severe pulmonary and pancreatic insufficiencies and to define patients who require further analysis.205
+
+
+
+TABLE 6 10
+Clinical Manifestations of Cystic Fibrosis
+
+System 
+Signs and Symptoms
+Gastrointestinal tract
+Intestinal, pancreatic, and hepatobiliary. Meconium ileus.
+Recurrent abdominal pain and constipation. Diabetes.
+Patients may present with a history of jaundice or gastrointestinal tract bleeding. Minimal weight gain failure to thrive (FTT).
+Integumentary
+Salty perspiration ("Kiss your Baby week" for early detection). Clubbing of nail beds.
+Central and peripheral cyanosis.
+Respiratory tract
+Wheezing, rales, or rhonchi.
+Chronic or recurrent cough, which can be dry and hacking at the beginning and can produce mucoid (early) and purulent (later) sputum.
+Recurrent pneumonia, atypical asthma, pneumothorax, hemoptysis are all complications and may be the initial manifestation. Dyspnea on exertion, history of chest pain, recurrent sinusitis, nasal polyps, and hemoptysis may occur.
+Pulmonary artery hypertension. Cor pulmonale.
+Bronchospasm.
+Urogenital tract
+Males are frequently sterile because of the absence of the vas deferens. Undescended testicles or hydrocele may exist.
+
+
+Data from: Lucas SR, Platts Mills TA: Physical activity and exercise in asthma: relevance to etiology and treatment. J Allergy Clin Immunol 115:928 934, 2005; Mintz M: Asthma update: part I. Diagnosis, monitoring, and prevention of disease progression. Am Fam Physician 70:893 898, 2004; Ram FS, Robinson SM, Black PN, et al: Physical training for asthma. Cochrane Database Syst Rev:CD001116, 2005; Welsh L, Kemp JG, Roberts RG: Effects of physical conditioning on children and adolescents with asthma. Sports Med 35:127 141, 2005.
+
+Asthma (Hyperreactive Airway Disease)
+
+Asthma is a chronic inflammatory disorder of the airways. In susceptible individuals, the inflammation (acute, subacute, or chronic) causes an airway inflammation, intermittent airflow obstruction, and an associated increase in the existing bronchial responsiveness to a variety of stimuli.
+Asthma is characterized by (particularly at night, or in the early morning) recurrent episodes of wheezing, breathlessness, chest tightness, and coughing. The medical intervention for asthma may include pharmacologic therapy.
+
+
+
+
+Chronic Bronchitis
+
+Chronic bronchitis is a clinical diagnosis a persistent productive cough that produces sputum for more than three months per year for at least two consecutive years in the absence of another definable medical cause.206 Chronic bronchitis produces inflammation and eventual scarring of the lining of the bronchial tubes. Presenting symptoms (patients are sometimes referred to as blue bloaters) include207,208:
+ Patient may be obese.
+ Chronic cough with frequent clearing of the throat.  Low grade fever.
+ Increased mucus.
+ Dyspnea on exertion.
+ Use of accessory muscles for breathing.
+ Coarse rhonchi and wheezing may be heard on auscultation.
+ May have signs of right heart failure (i.e., cor pulmonale), such as edema and cyanosis.
+Pneumonia
+
+Pneumonia is an inoculation of the respiratory tract by infectious organisms that leads to an acute inflammatory response of the alveoli and terminal airspaces in response to invasion by an infectious agent that is introduced into the lungs through hematogenous spread or inhalation.209, 210, 211, 212, 213, 214, 215, 216, 217 and 218 The inflammatory response differs according to the type of infectious agent present. A large variety of organisms cause pneumonia. Bacterial, viral, mycoplasmal, chlamydial, fungal, and mycobacterial infections are relatively common. The infectious agents have predilections for certain age groups (Table 6 11).
+
+
+
+TABLE 6 11
+Predilections of Pneumonia in Certain Age Groups
+
+Age Group 
+Type of Pneumonia 
+Newborns (aged 0 30 days)
+Bacterial pneumonia with group B Streptococcus, Listeria monocytogenes, or gram negative rods (e.g., Escherichia coli, Klebsiella pneumoniae) are a common cause.
+Pneumocystis jirovecii pneumonia (PCP): an opportunistic infection that occurs in immunosuppressed populations, primarily patients with advanced human immunodeficiency virus infection. The classic presentation of nonproductive cough, shortness of breath, and fever. Community acquired viral infections: The most commonly isolated virus is respiratory syncytial virus (RSV).
+Infants and toddlers
+Viruses are the most common cause of pneumonia. RSV is the most common viral pathogen, followed by parainfluenza types 1, 2, 3, and influenza A or B.
+Bacterial infections in this age group are uncommon and attributable to Streptococcus pneumoniae, Haemophilus influenzae type B, or
+Staphylococcus aureus.
+Children younger than 5 years
+Children enrolled in day care or those with frequent ear infections are at increased risk for invasive pneumococcal disease and infection with resistant pneumococcal strains.
+Children aged 5 years, ready to start school
+Mycoplasma pneumoniae is the most common cause of community acquired pneumonia. Chlamydia pneumoniae is also fairly common in this age group and presents similarly.
+School aged children and adolescents
+Bacterial pneumonia (10%) is common, and these children are often febrile and look ill. Tuberculosis (TB) pneumonia in children warrants special mention. These children may present with fever, night sweats, chills, cough, and weight loss. If TB is not treated in the early stages of infection, approximately 25% of children younger than 15 years develop extrapulmonary disease.
+Viral pneumonias are still common in this age group and are usually mild and self limited, although they are occasionally severe and can rapidly progress to respiratory failure.
+
+
+Data from: Coughlin AM: Combating community acquired pneumonia. Nursing 37:61 63, 2007; Clark JE, Donna H, Spencer D, et al: Children with pneumonia how do they present and how are they managed? Arch Dis Child 29:29, 2007; Parienti JJ, Carrat F: Viral pneumonia and respiratory sepsis: association, causation, or it depends? Crit Care Med 35:639 640, 2007; Hospital acquired pneumonia. J Hosp Med 1:26 27, 2006; Community acquired pneumonia. J Hosp Med 1:16 17, 2006; Flaherty KR, Martinez FJ: Nonspecific interstitial pneumonia. Semin Respir Crit Care Med. 27:652 658, 2006; Lynch JP 3rd, Saggar R, Weigt SS, et al: Usual interstitial pneumonia. Semin Respir Crit Care Med 27:634 651, 2006; Leong JR, Huang DT: Ventilator associated pneumonia. Surg Clin North Am 86:1409 1429, 2006; Agusti C, Rano A, Aldabo I, et al: Fungal pneumonia, chronic respiratory diseases and glucocorticoids. Med Mycol 44 Suppl:207 211, 2006; Scannapieco FA: Pneumonia in nonambulatory patients: The role of oral bacteria and oral hygiene. J Am Dent Assoc 137 Suppl:21S 25S, 2006.
+
+The typical clinical presentation for pneumonia includes fever and a productive cough with sputum production that is usually yellowish green or rust  colored.206 Fatigue, weight loss, dyspnea, and tachycardia may also be present, depending on the extent of the disease.206 Identifying the infectious
+
+
+
+agent is the most valuable piece of information in managing a complicated pneumonia. Several diagnostic studies are available:  Sputum culture.
+ Bronchoscopy: most useful in immunocompromised patients or patients who are severely ill.
+ Blood culture: rarely positive in the presence of pneumonia.  Lung aspirate.
+ Thoracentesis: performed for diagnostic and therapeutic purposes in children with pleural effusions.  Serology.
+ Radiography: This is the primary imaging study used to confirm the diagnosis of pneumonia.
+Once the diagnosis of pneumonia is made, antibiotic decisions are made based on the likely organism, bearing in mind the age of the patient, the history of exposure, the possibility of resistance, and other pertinent history.
+Pneumoconiosis
+
+Coal worker's pneumoconiosis (CWP) can be defined as the accumulation of coal dust in the lungs and the tissue's reaction to its presence.220 Inhaled coal dust enters the terminal bronchioles, and the carbon pigment is engulfed by alveolar and interstitial macrophages.221 Phagocytosed coal particles are transported by macrophages up the mucociliary elevator and are expelled in the mucus or through the lymphatic system.222 When this system becomes overwhelmed, the dust laden macrophages accumulate in the alveoli and may trigger an immune response.221,222
+Certain jobs within coal mining require more exposure to respirable dust. For example, most dust is found at the coalface where the cutting machine operator works.
+Interstitial Lung Disease/Pulmonary Fibrosis
+
+Interstitial lung disease (ILD), also referred to as idiopathic pulmonary fibrosis and interstitial pulmonary fibrosis, is a general term that includes a variety of chronic lung disorders.
+The initial injury appears to damage the alveolar and epithelial cells. The damage causes inflammatory cells to release cytokines, tumor necrosis factor, and platelet derived growth factor.
+
+The inflammatory chemicals result smooth muscle proliferation, degradation of the alveoli, and the proliferation of fibroblasts and collagen deposition.223 Fibrosis, or scarring of the lung tissue, results in permanent loss of that tissue's ability to transport oxygen.
+The insidious onset of breathlessness and a nonproductive cough can be the first symptoms of these diseases. The patient may also complain of systemic symptoms of low grade fever, malaise, arthralgias, weight loss, and clubbing of the fingers and toenails.223
+
+
+
+The patient history should investigate environmental and occupational factors, hobbies, legal and illegal drug use, arthritis, and risk factors for diseases that affect the immune system. Specific tests include bronchoalveolar lavage (BAL), a test, performed during bronchoscopy, which permits removal and examination of cells from the lower respiratory tract and open lung biopsy.
+
+Structural Abnormalities
+Emphysema
+
+Emphysema begins insidiously with the destruction of alveoli in the lungs, the walls of which become thin and fragile. Damage is irreversible and results in permanent destruction of the acini.* As the acini are destroyed, the lungs are able to transfer less and less oxygen to the bloodstream, causing shortness of breath/hyperinflation, and compensatory changes of the chest wall. Hyperinflation causes shortening of the inspiratory muscles and flattening of the diaphragm with loss of sarcomeres.206 The end result is a loss of diaphragmatic excursion, a decline in the mechanical effectiveness of the diaphragm, and other respiratory muscles to support the increased demand of ventilation.224 Signs and symptoms of emphysema (patients are sometimes referred to as pink puffers) include:
+ In later stages of the disease, the patient becomes emaciated and may adopt the tripod sitting position.  Barrel chest (enlarged anterior posterior dimension), with an increased rib angle.
+ The presence of a chronic cough and sputum production will vary and depend on the infectious history of the patient.  Diminished breath sounds and wheezing.
+ Shortness of breath, especially with exertion (dyspnea on exertion) assisted by pursed lips and use of accessory respiratory muscles, the latter of which may be hypertrophied through overuse.
+ Heart sounds appear very distant.
+Diagnosis is made by pulmonary function tests, chest x ray (reveals hyperinflation with flattened diaphragm, decreased vascular markings, and possibly enlargement of the right side of the heart), along with the patient's history and physical examination.
+There are a number of treatment options for the care of patients with emphysema:
+ Smoking cessation is instrumental.
+ Pharmacology (bronchodilators, anticholinergic drugs, corticosteroids).  Long term oxygen therapy, including the use of BiPap ventilation.
+ Bullectomy: a bulla is a large airspace that is the result of destruction of the parenchyma, and which no longer participates in gas exchange or diffusion.
+ Lung volume reduction surgery.
+ Lung transplantation (single or double): for those patients with end stage disease who have maximized medical intervention.
+
+
+
+*Each acinus, the functional unit of the lung for gas exchange, is composed of one of three respiratory bronchioles and the alveolar ducts and sacs.
+Idiopathic Scoliosis
+
+Scoliosis represents a disturbance of the intercalated series of spinal segments that produces a three dimensional deformity (lateral curvature and vertebral rotation) of the spine.225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237 and 238 Despite an extensive amount of research devoted to discovering the cause of idiopathic scoliosis, the mechanics and specific etiology are not clearly understood. It is known, however, that there is a familial prevalence of idiopathic scoliosis.
+Using the James classification system, scoliosis has three age distinctions. These distinctions, though seemingly arbitrary, have prognostic significance.
+ Infantile idiopathic: children diagnosed when they are younger than 3 years, usually manifesting shortly after birth. This type accounts for less than 1% of all cases. In the most common curve pattern (right thoracic), the right shoulder is consistently rotated forward and the medial border of the right scapula protrudes posteriorly.
+ Juvenile idiopathic: children diagnosed when they are aged 3 9 years.
+   Adolescent idiopathic: manifesting at or around the onset of puberty and accounting for approximately 80% of all cases of idiopathic scoliosis. The following are the main factors that influence the probability of progression in the skeleton of the immature patient:
+1. The younger the patient at diagnosis, the greater the risk of progression.
+2. Double curve patterns have a greater risk for progression than single curve patterns.
+3. Curves with greater magnitude are at a greater risk to progress.
+4. Risk of progression in females is approximately 10 times that of males with curves of comparable magnitude.
+5. Greater risk of progression is present when curves develop before menarche.
+Scoliosis is generally described by the location of the curve or curves. One should also describe whether the convexity of the curve points to the right or left. If there is a double curve, each curve must be described and measured. The magnitude of a rib hump is quantified using a scoliometer (an inclinometer) with the forward bending test. Radiographs, which are usually only considered when a patient has a curve that might require treatment or could progress to a stage requiring treatment (usually 40  to 100 ), can be used to deter mine location, type, and magnitude of the curve (using the Cobb method), as well as skeletal age. Skeletal maturity is determined using the Risser sign, which is defined by the amount of calcification present in the iliac apophysis, measuring the progressive ossification from anterolaterally to posteromedially (Table 6 12). Children can progress from a Risser grade 1 to a grade 5 over a two year period.
+
+
+
+TABLE 6 12
+Risser Grades
+
+Grade 
+Interpretation 
+0
+Absence of ossification
+1
+25% ossification of the iliac apophysis
+2
+50% ossification of the iliac apophysis
+3
+75% ossification of the iliac apophysis
+4
+100% ossification of the iliac apophysis
+5
+The iliac apophysis has fused to the iliac crest after 100% ossification
+
+
+Data from: Biondi J, Weiner DS, Bethem D, et al: Correlation of Risser sign and bone age determination in adolescent idiopathic scoliosis. J Pediatr Orthop 5:697 701, 1985; Little DG, Sussman MD: The Risser sign: a critical analysis. J Pediatr Orthop 14:569 575, 1994.
+
+Most curves can be treated nonoperatively through observation with appropriate intermittent radiographs to check for the presence or absence of curve progression. However, 60% of curvatures in rapidly growing prepubertal children will progress and may require bracing (Boston, or custom thoracolumbosacral [TLSO]) or surgery. The primary goal of scoliosis surgery is to achieve a solid bony fusion. Even in the setting of adequate correction and solid fusion, up to 38% of patients still have occasional back pain.
+
+Ankylosing Spondylitis
+
+Ankylosing spondylitis (AS, also known as Bekhterev's or Marie Str mpell disease) is a chronic rheumatoid disorder. Thoracic involvement in AS occurs almost universally. The patient is usually between 15 and 40 years of age.239 Although males are affected more frequently than females, mild courses of AS are more common in the latter.240
+The disease includes involvement of the anterior longitudinal ligament and ossification of the vertebral disk, thoracic zygapophyseal joints, costovertebral joints, and manubriosternal joint. In time, AS progresses to involve the whole spine and results in spinal deformities, including flattening of the lumbar lordosis, kyphosis of the thoracic spine, and hyperextension of the cervical spine. As the disease progresses, the pain and stiffness can spread up the entire spine, pulling it into forward flexion, so that the patient adopts the typical stooped over position. The patient gazes downward, the entire back is rounded, the hips and knees are semiflexed, and the arms cannot be raised beyond a limited amount at the shoulders.241
+
+
+
+The most characteristic feature of the back pain associated with AS is pain at night.242 Patients often awaken in the early morning (between 2 and 5 am) with back pain and stiffness, and usually either take a shower or exercise before returning to sleep.240 Backache during the day is typically intermittent irrespective of exertion or rest.240
+Calin and colleagues243 describe five screening questions for AS:
+1. Is there morning stiffness?
+2. Is there improvement in discomfort with exercise?
+3. Was the onset of back pain before age 40 years?
+4. Did the problem begin slowly?
+5. Has the pain persisted for at least 3 months?
+Using at least four positive answers to define a "positive" result, the sensitivity of these questions was 0.95 and specificity, 0.85.243 A human leukocyte antigen (HLA) haplotype association (HLA B27) has been found with ankylosing spondylitis and remains one of the strongest known associations of disease with HLA B27, but other diseases are also associated with the antigen.240
+Peripheral arthritis is uncommon in AS, but when it occurs, it is usually late in the course of the arthritis.244 The arthritis usually occurs in the lower extremities in an asymmetric distribution, with involvement of the "axial" joints, including shoulders and hips, more common than involvement of more distal joints.240,245
+Chronic Obstructive Pulmonary Disease
+
+Chronic obstructive pulmonary disease (COPD) is a generic term that refers to lung diseases that result in air trapping in the lungs (Table 6 13), causing hyperinflation of the lungs and a barrel chest deformity.206 COPD is characterized by airway narrowing, parenchymal destruction, and pulmonary vascular thickening. COPD can be subdivided into:
+ Nonseptic obstructive pulmonary diseases, including such diseases as asthma, chronic bronchitis, emphysema, and ?1 antitrypsin (?1 ATD) deficiency.
+ Septic obstructive pulmonary diseases, including cystic fibrosis and bronchiectasis.
+Risk factors for the development of COPD include both host factors and environmental factors:
+ Host factors: hyperreactivity of the airways, overall lung growth, and genetics.
+ Environmental factors: Smoking is the primary risk factor for COPD, with approximately 80% to 90% of COPD deaths caused by smoking.246 Other risk factors of COPD include air pollution, second hand smoke, history of childhood respiratory infections, and heredity.247, 248 and 249 Occupational exposure to certain industrial pollutants also increases the odds for COPD.250 The quality of life for a person suffering from COPD diminishes as the disease progresses. At the onset, there is minimal shortness of breath, but as the disease progresses, these people may eventually require supplemental oxygen and may have to rely on mechanical respiratory assistance.251
+
+
+
+TABLE 6 13
+Diseases or Conditions That May Be Associated with Obstruction to Airflow
+
+Lower airway obstruction:
+Asthma
+Chronic bronchitis Emphysema Cystic fibrosis Sarcoidosis
+Upper airway obstruction:
+Croup Laryngotracheobronchitis Epiglottitis
+Various tumors and foreign bodies that may involve the upper airway
+
+
+
+Neurologic Compromise
+Paralysis of the diaphragm can result from a number of conditions that compromise the phrenic nerve. Phrenic nerve involvement has been described in several neuropathies, including critical illness, polyneuropathy, Guillain Barr  syndrome, brachial neuritis, and hereditary motor and sensory neuropathy type 1.252,253 The symptoms depend largely on the degree of involvement and whether one or both of the nerves are involved.254
+ Unilateral paralysis of the diaphragm causes few or no symptoms except with heavy exertion.
+ Bilateral paralysis of the diaphragm may be well tolerated if the person is in the upright position and is not engaged in heavy exercise, and if the other respiratory muscles are intact. However, because the vital capacity has been decreased by 25% to 50%, these patients become severely short of breath if lying supine for even 15 to 20 seconds.
+
+In quadriplegia, the muscles of respiration may be weakened or paralyzed. Fortunately, the phrenic nerve exits the spinal cord at a high level (C3 C5) so can be spared, but the intercostal abdominal muscles are often paralyzed, requiring the use of abdominal binders to ensure proper diaphragmatic positioning in the upright posture.
+Burns
+An individual who has been burned in a closed space is likely to have an inhalation injury. Signs of an inhalation injury include facial burns, singed nasal hairs, harsh cough, hoarseness, abnormal breath sounds, respiratory distress, and carbonaceous sputum and/or hypoxemia.255,256 The primary complications associated with this injury are carbon monoxide poisoning, tracheal damage, upper airway obstruction, pulmonary edema, and pneumonia.255 Thermal damage to the lower respiratory tract can be caused by steam inhalation or by inhalation of hot gases, which produces immediate upper airway obstruction. Burns can affect the respiratory system in one of two ways:
+1. An inhalation injury. Thermal damage to the respiratory tract can result from:
+ Inhalation of hot gases/steam, which produces immediate upper airway obstruction.
+	Inhaling toxic products (e.g., cyanide, carbon monoxide) generated by burning material (e.g., wood, plastics) may result in thermal injuries to	
+
+
+
+the pharynx and upper airway as well as in ventilation injuries. Chemical injury to small airway alveolar capillaries can cause delayed progressive respiratory failure.
+ Inhalation of carbon monoxide, which binds to hemoglobin, greatly reducing O2 transport.
+
+2. An increased demand in metabolic rate and energy metabolism. Because thermal injury results in more loss of body mass than any other disease, continued demands are placed on the metabolic system for the significant healing process. Metabolic acidosis may result from poor tissue perfusion due to hypovolemia (monitored through urine output) or to heart failure.
+INTEGUMENTARY CAUSES
+The integumentary system consists of the dermal and epidermal layers of the skin, hair follicles, nails, sebaceous glands, and sweat glands. The integument or skin is the largest organ system of the body and constitutes 15% to 20% of the body weight.255
+
+Anatomically, the skin consists of two distinct layers of tissue: the epidermis and the dermis. A third layer involved in the anatomic consideration of the skin is the subcutaneous fat cell layer directly under the dermis and above muscle fascial layers.255 The epidermis serves as the superficial, protective layer. All but the deepest layers of the epidermis are composed of dead cells, which contain no blood vessels. The dermis, considered the "true" skin because it contains blood vessels, lymphatics, nerves, collagen, and elastic fibers, is deeper and thicker than the epidermis.255 This inner layer of the dermis is composed primarily of collagen and elastin fibrous connective tissue. The amount of elastin decreases with age. The dermis also contains sebaceous and sweat glands.
+The extent to which the integumentary system can cause movement dysfunction is based on the size or amount of body surface area that is involved, and the extent or depth of injury. A significant injury to the integumentary system causes pain, edema, and tissue destruction.
+ Pain. Superficial skin damage generally results in more pain than deeper injuries because the free endings are not destroyed in the former. However, as the nerve endings regenerate following damage to the deeper layers, intense pain may result. Pain is the major deterrent in preventing burn patients from participating in exercises and positioning following a burn injury, which in turn can cause contractures and joint dysfunction.
+ Edema. The buildup of edema occurs as joints try to accommodate to a position that allows maximum space for fluid accumulation and
+
+
+
+distributes the fluid pressure. This position, which is often the so called open position of the joint, is the position of maximal comfort but is also a position that encourages contractures if maintained for a prolonged period.
+Tissue destruction. Damage to the integumentary system can occur in many ways, including causative agents (e.g., electricity, chemicals, and heat), continued pressure to the skin resulting in ischemia, or excessive scar formation (eschar). Eschars can form in an organized manner termed normotrophic scarring, or in a disorganized manner such as that seen with hypertrophic or keloid scars.
+Infection. An infection, which can occur when the skin's bacterial barrier is compromised by an organism, is a major source of mortality and the most significant cause of loss of function and cosmetic appearance. A number of factors play a role in the development of an infection:
+ Vasoconstriction leading to peripheral hypoperfusion, particularly in the burned areas, creates a major defect in local host defense, enhancing bacterial invasion.
+ Dead tissue, warmth, peripheral hypoperfusion, and moisture are ideal for bacterial growth.
+ Streptococci and staphylococci usually predominate shortly after a burn, and gram negative bacteria after 5 to 7 days; mixed flora is always present.
+Breakdown due to pressure. The terms pressure ulcer and decubitus ulcer often are used interchangeably. Because the common denominator of all such ulcerations is pressure, pressure ulcer is the better term to describe this condition. Pressure ulcers result from sustained or prolonged pressure at levels greater than the level of the capillary filling pressure on the tissue (approximately 32 mm Hg) resulting in localized ischemia and/or tissue necrosis.76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87 and 88 Most pressure ulcers can be avoided by anticipating and avoiding conditions that promote them. Prevention of pressure ulcers involves multiple members of the healthcare team (Table 6 14). The groups of patients most susceptible include elderly individuals, those who are neurologically impaired, and those who are acutely hospitalized (Table 6 15). Pressure against the skin over a bony prominence increases the risk for the development of necrosis and ulceration (Table 6 16). Bacterial contamination from improper skin care or urinary or fecal incontinence, although not truly an etiologic factor, is an important factor to consider in the treatment of pressure sores and can delay wound healing. Other contributing factors to pressure ulcers include shear, friction, heat, maceration (softening associated with excessive moisture), medication, malnutrition, and muscle atrophy (Table 6 17). Pressure ulcers can be graded using a staging system (Table 6 18). The clinician must remember when staging a healing ulcer that the staging system is not reversible. For example, a healing stage III ulcer cannot be documented as a stage II ulcer, because the healing involves the laying down of granulation tissue rather than replacement of the lost muscle, fat, and dermal tissues. Instead, pressure ulcer healing is documented in terms of improvement in the various characteristics of the wound, including size, depth, and tissue type.
+
+
+
+TABLE 6 14
+Pressure Ulcer Prevention
+
+Prevention Technique 
+Suggested Strategies
+Proper positioning in bed and in wheelchair
+Bony prominences protected and pressure distributed equally over large surface areas.
+Use of pressure distribution equipment such as wheelchair cushions, custom mattresses, and alternating pressure mattress pads.
+Frequent changes in position
+Every two hours when in bed.
+Every 15 to 20 minutes when seated.
+Keep skin clean and dry
+Good bowel and bladder care with immediate cleansing after episode of incontinence. Current cleansing and drying of skin at least once daily.
+Inspect skin for areas of redness in am and pm.
+Nutrition
+Diet with adequate calories, protein, vitamins, and minerals. Sufficient water intake.
+Clothing
+Avoid clothes that are either too tight or too loose fitting.
+Avoid clothes with thick seams, buttons, or zippers in areas of pressure.
+Activity
+Regular cardiovascular exercise.
+Gradual buildup of skin tolerance for new activities, equipment, and positions. Avoid movements that rub, drag, or scratch the skin.
+
+
+Data from Spangler LL: Nonprogressive spinal cord disorders, in Cameron MH, Monroe LG (eds): Physical Rehabilitation: Evidence Based Examination, Evaluation, and Intervention. St Louis, MO, Saunders/Elsevier, 2007, pp 538 579.
+
+
+
+TABLE 6 15
+The Norton Score for Anticipating Pressure Ulcers
+
+General physical condition
+1. Poor
+2. Fair
+3. Good
+4. Excellent
+Score:	
+Mobility
+1. Immobilized
+2. Tubes and restraints
+3. Tubes or restraints
+4. No impairment
+Score:	
+Activity
+1. Bedridden
+2. Bed to chair
+3. Walk with assist
+4. Up at liberty
+Score:	
+Mental status
+1. Stuporous
+2. Withdrawn
+3. Confused
+4. Alert and oriented
+Score:	
+Continence
+1. Doubly incontinent
+2. Frequently incontinent of urine
+3. Occasionally incontinent
+4. Fully continent
+Score:	
+Grading
+Add the scores for all five categories. If cumulative score is greater than 15, there is little risk for pressure sore development; if cumulative score is less than 15, then there is a significant risk for pressure sore development.
+
+
+Data from: 1. Sever R, Gold A, Segal O, et al: Admission Norton scale scores (ANSS) are associated with post operative complications following spine fracture surgery in the elderly. Arch Gerontol Geriatr 55:177 180, 2012; Gold A, Sever R, Lerman Y, et al: Admission Norton scale scores (ANSS) and postoperative complications following hip fracture surgery in the elderly. Arch Gerontol Geriatr 55:173 176, 2012; Guy N, Lerman Y, Justo D: Admission Norton scale scores (ANSS) correlate with rehabilitation outcome and length in elderly patients with deconditioning. Arch Gerontol Geriatr 54:381 384, 2012; Lewko J, Demianiuk M, Krot E, et al: Assessment of risk for pressure ulcers using the Norton scale in nursing practice. Rocz Akad Med Bialymst 50 Suppl 1:148 151, 2005; Norton D: Calculating the risk: reflections on the Norton Scale. 1989. Adv Wound Care 9:38 43, 1996.
+
+
+
+TABLE 6 16
+Bony Prominences Associated with Pressure Ulcers
+
+Supine 
+Prone 
+Sidelying
+Seated 
+Occiput
+Forehead
+Ears
+Spine of scapula
+Spine of scapula
+Anterior portion of the acromion process
+Lateral portion of acromion process
+Vertebral spinous processes
+Inferior angle of scapula
+Anterior head of humerus
+Lateral head of humerus
+Ischial tuberosities
+Vertebral spinous processes
+Sternum
+Lateral epicondyle of humerus
+
+Medial epicondyle of humerus
+Anterior superior iliac spine
+Greater trochanter
+
+Posterior iliac crest
+Patella
+Head of fibula
+
+Sacrum
+Dorsum of foot
+Lateral malleolus
+
+Coccyx
+
+Medial malleolus
+
+
+TABLE 6 17
+Risk Factors Associated with Pressure Ulcers
+
+
+
+
+TABLE 6 18
+National Pressure Ulcer Advisory Panel (NPUAP) Pressure Ulcers Stages
+
+Stage
+Characteristics
+Stage I
+An observable pressure related alteration of intact skin whose indicators as compared to an adjacent or opposite area of the body may include changes in skin color, skin temperature (warm or cool), tissue consistency (firm or boggy) and/or sensation (pain, itching).
+Stage II
+A partial thickness tissue loss that involves the epidermis and/or dermis. The ulcer is superficial and presents clinically as an abrasion, a blister, or shallow crater.
+Stage III
+A full thickness tissue loss that involves damage or necrosis of subcutaneous tissue that may extend down to, but not through, underlying fascia. The ulcer presents clinically as a deep crater with or without undermining adjacent tissue.
+Stage IV
+A full thickness tissue loss with extensive destruction, tissue necrosis or damage to muscle, bone or supporting structures (e.g., tendon, joint capsule). Undermining or sinus tracts may be present.
+Unstageable
+A full thickness tissue loss where the base of the ulcer is covered by slough and/or eschar so that its depth cannot be determined.
+
+
+Data from Pressure ulcer prevention and treatment following spinal cord injury: a clinical practice guideline for health care professionals. J Spinal Cord Med 24 Suppl 1:S40 S101, 2001.
+Because the integumentary system is closely related to the cardiovascular, renal, pulmonary, metabolic, musculoskeletal, and nervous systems, damage to the integumentary system often results in involvement of one or more of these systems.
+Cardiovascular and renal systems. In cases of severe damage to the integumentary system, leaking of the intravascular substances results in depletion of the circulating cardiovascular volume, which can ultimately compromise cardiac output and kidney function.
+Pulmonary system (see Respiratory Causes).
+Metabolic system. A significant thermal injury can result in a substantial increase in metabolic activity as a result of a loss of the skin's ability to regulate body temperature and control evaporation, and because of the enormous healing process that is necessary. How an individual responds to the increased energy demands often dictates recovery.
+Musculoskeletal system. An integumentary system compromise that is significant enough to prevent movement for a prolonged period may result in muscle atrophy, contracture formation, and compensations by other parts of the body. If the level of destruction is high, amputation of the affected areas may be necessary.
+Nervous system. Any imbalance in tissue perfusion can result in dysfunction of the central nervous system. Early signs and symptoms that the clinician should be aware of include lethargy, disorientation, and episodes of confusion. Direct trauma to the integumentary system can result in damage to the peripheral motor and sensory nerves.
+
+
+
+
+
+SYSTEMIC CAUSES
+There are many conditions that affect many systems. Pregnancy, which spans approximately 40 weeks from conception to delivery, is a state of wellness despite the number of physiologic changes that occur during pregnancy and the postpartum period within the various body systems. These changes can occur within the endocrine, musculoskeletal, neurologic, gastrointestinal, respiratory, cardiovascular, metabolic, renal, and urologic systems.
+Endocrine System
+Changes that occur in the endocrine system include, but are not limited to, the following:
+ The adrenal, thyroid, parathyroid, and pituitary glands enlarge.
+ Hormone levels increase to support the pregnancy and the placenta, and to prepare the mother's body for labor.
+Musculoskeletal System
+The recommended weight gain during pregnancy is 25 to 27 pounds.257 Pregnancy can produce a number of changes within the musculoskeletal system, including:
+The abdominal muscles are stretched and weakened as pregnancy develops.
+The development of relative ligamentous laxity, both capsular and extracapsular. During pregnancy, a female hormone (relaxin) is released that assists in the softening of the pubic symphysis so that during delivery, the female pelvis can expand sufficiently to allow birth. However, these hormonal changes are also thought to induce a greater laxity in all joints.258,259 This can result in increased susceptibility to musculoskeletal injury.
+The rib cage circumference increases, increasing the subcostal angle and the transverse diameter. This results in an increase in tidal volume and minute ventilation a natural state of hyperventilation to meet the oxygen demands.
+
+
+
+Pelvic floor weakness. The term pelvic floor muscles primarily refers to the levator ani, a muscle group composed of the pubococcygeus, puborectalis, and iliococcygeus. The levator ani muscles join the coccygeus muscles to complete the pelvic floor. Pelvic floor weakness can develop with advanced pregnancy and childbirth because of the increased weight and pressure directly over these muscles they must sustain the pelvic floor drops as much as 2.5 cm (1 inch) as a result of pregnancy.260 This can result in a condition called stress incontinence. The pelvic floor muscles can also become stretched or torn during childbirth, producing an even greater risk of urinary incontinence.
+Postural changes related to the weight of growing breasts, and the uterus and fetus, result in a shift in the woman's center of gravity in an anterior and superior direction, resulting in the need for postural compensations to maintain stability and balance. Although never substantiated, postural changes have often been implicated as a major cause of back pain in pregnant women.261,262 The relationship between posture and the back pain experienced during pregnancy is unclear. This may be because significant skeletal alignment changes that are related to back pain are occurring at the pelvis during pregnancy but may not be directly measured by postural assessments, such as lumbar lordosis, sacral base angle, and pelvic tilt. Moore et al.263 found a significant relationship (r = 0.49) between change in lordosis during 16 24 and 34 42 weeks of pregnancy and an increase in low back pain. Ostgaard et al.264 found that abdominal sagittal diameter (r = 0.15), transverse diameter (r = 0.13), and depth of lordosis (r = 0.11) were related to the development of back pain during pregnancy. Bullock et al,262 in the only study that used a validated and reliable posture assessment instrument, found no relationship between spinal posture (thoracic kyphosis, lumbar lordosis, and pelvic tilt) magnitude or changes during pregnancy and back pain. The results from a study by Franklin and Conner Kerr265 suggest that from the first to the third trimester of pregnancy, lumbar lordosis, posterior head position, lumbar angle, and pelvic tilt increase; however, the magnitudes and the changes of these posture variables are not related to back pain.
+In advanced pregnancy, the patient develops a wider base of support and increased external rotation at the hips and has increased difficulty with walking, stair climbing, and rapid changes in position. Specific postural changes include263:
+ Increased thoracic kyphosis with scapular retraction  Increased cervical lordosis and forward head
+ Increased lumbar lordosis
+These changes in posture do not automatically correct postpartum and can become habitual.
+Symphysis pubis dysfunction (SPD).266, 267, 268 and 269 SPD can occur during pregnancy or, more commonly, as a result of trauma during vaginal delivery. On examination, the patient typically demonstrates an antalgic, waddling gait. Subjectively, the patient reports pain with any activity that involves lifting one leg at a time or parting the legs. Lifting the leg to put on clothes, getting out of a car, bending over, turning over in bed, sitting down or getting up, walking up stairs, standing on one leg, lifting heavy objects, and walking in general are all painful. Palpation reveals anterior pubic symphyseal tenderness. Occasional clicking can be felt or heard. The amount of symphyseal separation does not always correlate with severity of symptoms or the degree of disability. Therefore, the intervention is based on the severity of symptoms rather than the degree of separation as measured by imaging studies.270
+Low back pain.261, 262, 263 and 264,271, 272, 273, 274 and 275 Low back pain (LBP) is said to occur in 50% to 70% of pregnant women.276 However, it is not clear whether the LBP is the result of the shift in the center of gravity and concomitant postural changes in the spinal curvature. Because the annulus is a ligamentous structure, and therefore softens with the release of relaxin, it could be postulated that the LBP may be related to structural changes in the intervertebral disk. However, frank disk herniations are no more common during pregnancy than at other times. Thus, the pain is likely mechanical in nature.
+Peripartum posterior pelvic pain. More than 50% of women experience peripartum posterior pelvic pain (PPPP) during pregnancy, with one third of these women experiencing severe pain.275,277,278 The etiology of PPPP has been linked to the physiologic adaptation of the pelvis in preparation for childbirth, which is accomplished through softening of connective tissue structures around the pelvis, pubic symphysis, and sacroiliac joint.279 Patients with PPPP typically complain of weight bearing LBP with symptoms referred below the level of the buttocks (with no findings suggesting nerve root involvement) and with the first episode of pain occurring during pregnancy.
+
+
+
+Coccydynia.280, 281, 282, 283 and 284 Coccygeal pain, pain in and around the region of the coccyx, is relatively common postpartum. Symptoms include pain with sitting. The patient should be provided with seating adaptation (donut cushion) to lessen the weight on the coccyx and to support the lumbar lordosis.
+Diastasis recti abdominis (DRA). A DRA, which is common in the pre  and postpartum phases, refers to a split between the two rectus abdominis muscles to the extent that the linea alba may split under strain. Predisposing factors for a DRA in women include obesity, a narrow pelvis, multiparity, multiple births, excess uterine fluid, large babies, and weak abdominals before pregnancy. It is believed that a DRA may hinder the abdominal wall function related to posture, trunk stability and strength, respiration, visceral support, diminished pelvic floor facilitation, and delivery of the fetus. An umbilical hernia may result as well. A DRA is also believed to contribute to chronic pelvic pain and LBP. According to Noble,285 exercises for the abdominals to prevent, decrease, and/or eliminate a DRA should be prescribed. Proper exercise intensity is essential, and intervention should occur as soon as possible.
+
+
+
+Neurologic
+Swelling and increased fluid volume can cause symptoms of thoracic outlet syndrome due to compression of the brachial plexus, carpal tunnel syndrome due to median nerve compression, or meralgia paresthetica, which is compression of the lateral femoral cutaneous nerve of the thigh.286, 287 and 288
+Pregnancy related depression and postpartum depression may occur. Postnatal depression has been documented to occur in 5% to 20% of all postpartum mothers,289, 290 and 291 but can also occur in fathers.292 Depressive postpartum disorders range from "postpartum blues," which occurs from one to five days after birth and lasts for only a few days, to postpartum depression and postpartum psychosis. The latter two are more serious conditions and require medical or social intervention to avoid serious ramifications for the family unit.293, 294 and 295
+Gastrointestinal
+Nausea and vomiting may occur in early pregnancy. They are generally confined to the first 16 weeks but occasionally remain throughout the entire pregnancy (hyperemesis gravidarum).293,296, 297, 298 and 299 The causes of hyperemesis gravidarum are largely unknown. Indications that the patient may have this condition include persistent and excessive nausea and vomiting throughout the day and an inability to keep down any solids or liquids. If the condition is prolonged, the patient may also report296,299:
+Fatigue, lethargy Headache
+
+
+
+ Faintness
+Various degrees of dehydration may be present: skin may be pale, there may be dark circles under eyes, eyes may appear sunken, mucous membranes may be dry, and skin flexibility may be poor.296,299
+Other changes related to the gastrointestinal system include296, 297, 298 and 299:
+ A slowing of intestinal motility.
+ The development of constipation, abdominal bloating, and hemorrhoids.  Esophageal reflux.
+ Heartburn (pyrosis) 50% to 80% of women report heartburn during pregnancy, with its incidence peaking in the third trimester.293  An increase in the incident and symptoms of gallbladder disease.
+Respiratory System
+Adaptive changes that occur in the pulmonary system during pregnancy include:
+ The diaphragm elevates with a widening of the thoracic cage. This results in a predominance of costal versus abdominal breathing.
+ Mild increases in oxygen consumption, which is caused by increased respiratory center sensitivity and drive due to the increased oxygen requirement of the fetus.300 With mild exercise, pregnant women have a greater increase in respiratory frequency and oxygen consumption to meet their greater oxygen demand.300 As exercise increases to moderate and maximal levels, however, pregnant women demonstrate decreased respiratory frequency and maximal oxygen consumption.300
+Cardiovascular System
+The pregnancy induced changes in the cardiovascular system develop primarily to meet the increased metabolic demands of the mother and fetus. These include:
+ Increased blood volume: increases progressively beginning at 6 to 8 weeks' gestation (pregnancy) and reaches a maximum at approximately 32 to 34 weeks, with little change thereafter.301 The increased blood volume serves two purposes302,303:
+ It facilitates maternal and fetal exchanges of respiratory gases, nutrients, and metabolites.
+ It reduces the impact of maternal blood loss at delivery. Typical losses of 300 500 ml for vaginal births and 750 1000 ml for cesarean sections are thus compensated by the so called autotransfusion of blood from the contracting uterus.
+ Increased plasma volume (40% to 50%) is relatively greater than that of red cell mass (20% 30%) resulting in hemodilution and a decrease in hemoglobin concentration (intake of supplemental iron and folic acid is necessary to restore hemoglobin levels to normal [12 g/dl]).302,304,305
+ Increased cardiac output: increases to a similar degree as the blood volume.302,303 During the first trimester cardiac, output is 30% to 40% higher than in the nonpregnant state.304 During labor, further increases are seen. The heart is enlarged by both chamber dilation and hypertrophy.
+
+
+
+
+During pregnancy, a condition called supine hypotension (also known as inferior vena cava syndrome) may develop in the supine position, especially after the first trimester. The decrease in blood pressure is thought to be caused by the occlusion of the aorta and inferior vena cava by the increased weight and size of the uterus. Spontaneous recovery usually occurs on change of maternal position. However, patients should not be allowed to stand up quickly to decrease the potential for orthostatic hypotension. Signs and symptoms of this condition include:
+ Bradycardia
+ Shortness of breath  Syncope (fainting)
+ Dizziness
+ Nausea and vomiting
+ Sweating or cold, clammy skin  Headache
+ Numbness in extremities  Weakness
+ Restlessness
+In general, limiting the time the patient spends in supine to approximately 5 minutes helps to minimize the effects of this problem. Alternative positions include left sidelying (best position for minimizing compression), right sidelying, supine reclined, or supine with a small wedge under the right hip.
+Metabolic System
+Because of the increased demand for tissue growth, insulin is elevated from plasma expansion, and blood glucose is reduced for a given insulin load. Fats and minerals are stored for maternal use. The metabolic rate increases during both exercise and pregnancy, resulting in greater heat production. Fetoplacental metabolism generates additional heat, which maintains fetal temperature at 0.5 to 1.0 C (0.9 to 1.8 F) above maternal levels.306, 307 and 308
+Gestational diabetes is defined as carbohydrate intolerance of variable severity, with onset or first recognition during pregnancy. After the birth, blood
+ sugars usually return to normal levels; however, frank diabetes often develops later in life. Typical causes include:	
+
+
+
+ Genetic predisposition.
+ High risk populations include people of Aboriginal, Hispanic, Asian or African descent.  Family history of diabetes, gestational diabetes, or glucose intolerance.
+   Increased tissue resistance to insulin during pregnancy, due to increased levels of estrogen and progesterone. Current risk factors include:
+ Maternal obesity (>20% above ideal weight).  Excessive weight gain during pregnancy.
+ Low level of high density lipoprotein (HDL) cholesterol (<0.9 mmol/L) or elevated fasting level of triglycerides (>2.8 mmol/L).  Hypertension or preeclampsia (risk for gestational diabetes is increased to 10% to 15% when hypertension is diagnosed).
+ Maternal age >25 years.
+Most individuals with gestational diabetes are asymptomatic. However, subjectively the patient may complain of:  Polydipsia
+ Polyuria
+ Polyphagia  Weight loss
+Renal and Urologic Systems
+During pregnancy, the renal threshold for glucose drops because of an increase in the glomerular filtration rate, and there is an increase in sodium and water retention.293 Anatomic and hormonal changes during pregnancy place the pregnant woman at risk for both lower and upper urinary tract infections and for urinary incontinence.293 As the fetus grows, stress on the mother's bladder can occur. This can result in urinary incontinence.
+REFERENCES
+
+1. Sahrmann SA: Introduction, in Sahrmann SA (ed): Movement Impairment Syndromes. St Louis, Mosby, 2001, pp 1 8.
+
+2. Barrack RL, Skinner HB, Cook SD et al.: Effect of articular disease and total knee arthroplasty on knee joint position sense. J Neurophysiol 50:684  687, 1983. [PubMed: 6619913] 
+
+3. Barrack RL, Skinner HB, Buckley SL: Proprioception in the anterior cruciate deficient knee. Am J Sports Med 17:1 6, 1989. CrossRef [PubMed: 2929825] 
+
+4. Corrigan JP, Cashman WF, Brady MP: Proprioception in the cruciate deficient knee. J Bone Joint Surg 74 B:247 250, 1992.
+
+5. Fremerey RW, Lobenhoffer P, Zeichen J et al.: Proprioception after rehabilitation and reconstruction in knees with deficiency of the anterior cruciate ligament: a prospective, longitudinal study. J Bone Joint Surg [Br] 82:801 806, 2000.
+CrossRef [PubMed: 10990300] 
+
+
+
+6. Payne KA, Berg K, Latin RW: Ankle injuries and ankle strength, flexibility and proprioception in college basketball players. J Athl Training 32:221  225, 1997.
+
+7. Sell S, Zacher J, Lack S: Disorders of proprioception of arthrotic knee joint. Z Rheumatol 52:150 155, 1993. [PubMed: 8368019] 
+
+8. Voight M, Blackburn T: Proprioception and balance training and testing following injury, in Ellenbecker TS (ed): Knee Ligament Rehabilitation. Philadelphia, Churchill Livingstone, 2000, pp 361 385.
+
+9. Vasilyeva LF, Lewit K: Diagnosis of muscular dysfunction by inspection, in Liebenson C (ed): Rehabilitation of the Spine: A Practitioner's Manual. Baltimore, Lippincott Williams & Wilkins, 1996, pp 113 142.
+
+10. Darnell MW: A proposed chronology of events for forward head posture. J Craniomandib Prac 1:49 54, 1983.
+
+11. Hamilton N, Luttgens K: The Standing Posture, in Hamilton N, Luttgens K (eds): Kinesiology: Scientific Basis of Human Motion (ed 10). New York, McGraw Hill, 2002, pp 399 411.
+
+12. Lovejoy CO: Evolution of human walking. Sci Am 259:118 125, 1988. CrossRef [PubMed: 3212438] 
+
+13. Korr IM, Wright HM, Thomas PE: Effects of experimental myofascial insults on cutaneous patterns of sympathetic activity in man. J Neural Transm 23:330 355, 1962.
+
+14. Travell JG, Simons DG: Myofascial Pain and Dysfunction The Trigger Point Manual. Baltimore, Williams & Wilkins, 1983.
+
+15. Beal MC: The short leg problem. JAOA 76:745 751, 1977. [PubMed: 873819] 
+
+16. Magee DJ: Assessment of posture, in Magee DJ (ed): Orthopedic Physical Assessment. Philadelphia, WB Saunders, 2002, pp 873 903.
+
+17. Smith A: Upper limb disorders Time to relax? Physiotherapy 82:31 38, 1996. CrossRef
+
+18. Wilder DG, Pope MH, Frymoyer JW: The biomechanics of lumbar disc herniation and the effect of overload and instability. J Spinal Disord 1:16, 1988.
+CrossRef [PubMed: 2980059] 
+
+19. Cyriax J: Textbook of Orthopaedic Medicine, Diagnosis of Soft Tissue Lesions (ed 8). London, Bailliere Tindall, 1982.
+
+20. Cyriax JH, Cyriax PJ: Illustrated Manual of Orthopaedic Medicine. London, Butterworth, 1983.
+
+21. Rowland LP: Diseases of the motor unit, in Kandel ER, Schwartz JH, Jessell TM (eds): Principles of Neural Science (ed 4). New York, McGraw Hill, 2000, pp 695 712.
+
+22. Franklin ME: Assessment of exercise induced minor lesions: The accuracy of Cyriax's diagnosis by selective tissue tension paradigm. J Orthop Sports Phys Ther 24:122, 1996.
+CrossRef [PubMed: 8866270] 
+
+23. White DJ: Musculoskeletal examination, in O'Sullivan SB, Schmitz TJ (eds): Physical Rehabilitation (ed 5). Philadelphia, FA Davis, 2007, pp 159  192.
+
+24. Williams PL, Warwick R, Dyson M et al.: Gray's Anatomy (ed 37). London, Churchill Livingstone, 1989.
+
+
+
+
+25. Panjabi MM: The stabilizing system of the spine. Part 1. Function, dysfunction adaption and enhancement. J Spinal Disord 5:383 389, 1992. CrossRef [PubMed: 1490034] 
+
+26. Panjabi M, Hult EJ, Crisco J, III et al.: Biomechanical studies in cadaveric spines, in Jayson MIV (ed): The Lumbar Spine and Back Pain. New York, Churchill Livingstone, 1992, pp 133 135.
+
+27. Lephart SM, Pincivero DM, Giraldo JL et al.: The role of proprioception in the management and rehabilitation of athletic injuries. Am J Sports Med 25:130 137, 1997.
+CrossRef [PubMed: 9006708] 
+
+28. Schutte MJ, Happel RT: Joint innervation in joint injury. Clin Sports Med 9:511 517, 1990. [PubMed: 2183957] 
+
+29. Kennedy JC, Alexander IJ, Hayes KC: Nerve supply of the human knee and its functional importance. Am J Sports Med 10:329 335, 1982. CrossRef [PubMed: 6897495] 
+
+30. Harman D: Aging: Phenomena and theories. Ann N Y Acad Sci 854:1 7, 1998. CrossRef [PubMed: 9928414] 
+
+31. Jette AM, Branch LG, Berlin J: Musculoskeletal impairments and physical disablement among the aged. J Gerontol 45:M203 M208, 1990. CrossRef [PubMed: 2229943] 
+
+32. Voight C: Rehabilitation considerations with the geriatric patient, in Prentice WE Jr, Voight ML (eds): Techniques in Musculoskeletal Rehabilitation. New York, McGraw Hill, 2001, pp 679 696.
+
+33. Lewis CB, Bottomley JM: Geriatric Physical Therapy: A Clinical Approach. Norwalk, Conn, Appleton & Lange, 1994.
+
+34. Bennett JL, Shoemaker MJ: Rehabilitation considerations for the geriatric patient, in Voight ML, Hoogenboom BJ, Prentice WE (eds): Musculoskeletal Interventions: Techniques for Therapeutic Exercise. New York, McGraw Hill, 2007, pp 783 802.
+
+35. Gallagher D, Visser M, De Meersman RE et al.: Appendicular skeletal muscle mass: effects of age, gender, and ethnicity. J Appl Physiol 83:229 239, 1997. [PubMed: 9216968] 
+
+36. Larsson L, Sjodin B, Karlsson J: Histochemical and biochemical changes in human skeletal muscle with age in sedentary males, age 22 65 years. Acta Physiol Scand 103:31 39, 1978.
+CrossRef [PubMed: 208350] 
+
+37. Nigg BM, Fisher V, Allinger TL et al.: Range of motion of the foot as a function of age. Foot Ankle 13:336 343, 1992. CrossRef [PubMed: 1398363] 
+
+38. Kegelmeyer D: Stability of gait and fall prevention, in Hughes C (ed): Movement Disorders and Neuromuscular Interventions for the Trunk and Extremities Independent Study Course 18.2.6. La Crosse, Wisc, Orthopaedic Section, APTA, Inc, 2008, pp 1 20.
+
+39. Bloem BR, Haan J, Lagaay AM et al.: Investigation of gait in elderly subjects over 88 years of age. J Geriatr Psychiatr Neurol 5:78 84, 1992. CrossRef
+
+40. Snijders AH, van de Warrenburg BP, Giladi N et al.: Neurological gait disorders in elderly people: Clinical approach and classification. Lancet Neurol 6:63 74, 2007.
+
+
+
+
+41. van Hedel HJ, Dietz V: The influence of age on learning a locomotor task. Clin Neurophysiol 115:2134 2143, 2004. CrossRef [PubMed: 15294216] 
+
+42. Howard L, Kirkwood G, Leese M: Risk of hip fracture in patients with a history of schizophrenia. Br J Psychiatry 190:129 134, 2007. CrossRef [PubMed: 17267929] 
+
+43. Liporace FA, Egol KA, Tejwani N et al.: What's new in hip fractures? Current concepts. Am J Orthop 34:66 74, 2005. [PubMed: 15789524]
+
+
+44. Woolf AD, Pfleger B: Burden of major musculoskeletal conditions. Bull World Health Organ 81:646 56, 2003. [PubMed: 14710506] 
+
+45. Van Balen R, Essink Bot ML, Steyerberg E et al.: Quality of life after hip fracture: a comparison of four health status measures in 208 patients. Disabil Rehabil 25:507 519, 2003.
+CrossRef [PubMed: 12745962] 
+
+46. Braithwaite RS, Col NF, Wong JB: Estimating hip fracture morbidity, mortality and costs. J Am Geriatr Soc 51:364 370, 2003. CrossRef [PubMed: 12588580] 
+
+47. Clough TM: Femoral neck stress fracture: the importance of clinical suspicion and early review. Br J Sports Med 36:308 309, 2002. CrossRef [PubMed: 12145125] 
+
+48. Jermyn RT: A nonsurgical approach to low back pain. JAOA 101 (suppl 2):S6  S11, 2001. [PubMed: 11392208] 
+
+49. Locksley HB: Hemorrhagic strokes. Principal causes, natural history, and treatment. Med Clin North Am 52:1193 1212, 1968. [PubMed: 4876834]
+
+
+50. Khealani BA, Syed NA, Maken S et al.: Predictors of ischemic versus hemorrhagic strokes in hypertensive patients. J Coll Physicians Surg Pak 15:22 25, 2005. [PubMed: 15670519] 
+
+51. Leys D, Lamy C, Lucas C et al.: Arterial ischemic strokes associated with pregnancy and puerperium. Acta Neurol Belg 97:5 16, 1997. [PubMed: 9107339] 
+
+52. Ryglewicz D, Hier DB, Wiszniewska M et al.: Ischemic strokes are more severe in Poland than in the United States. Neurology 54:513 515, 2000. CrossRef [PubMed: 10668729] 
+
+53. Sagui E, M'Baye PS, Dubecq C et al.: Ischemic and hemorrhagic strokes in Dakar, Senegal: a hospital based study. Stroke 36:1844 1847, 2005. CrossRef [PubMed: 16081856] 
+
+54. Yahia AM, Kirmani JF, Xavier AR et al.: Characteristics and predictors of aortic plaques in patients with transient ischemic attacks and strokes. J Neuroimaging 14:16 22, 2004.
+CrossRef [PubMed: 14748204] 
+
+55. Agha A, Phillips J, Thompson CJ: Hypopituitarism following traumatic brain injury (TBI). Br J Neurosurg 21:210 216, 2007. CrossRef [PubMed: 17453791] 
+
+
+
+56. Kokiko ON, Hamm RJ: A review of pharmacological treatments used in experimental models of traumatic brain injury. Brain Inj 21:259 274, 2007. CrossRef [PubMed: 17453754] 
+
+57. Zehtabchi S, Sinert R, Soghoian S et al.: Identifying traumatic brain injury in patients with isolated head trauma: are arterial lactate and base deficit as helpful as in polytrauma? Emerg Med J 24:333 335, 2007.
+CrossRef [PubMed: 17452699] 
+
+58. Hartl R: Back to basics, or the evolution of traumatic brain injury management since Scipione Riva Rocci. Crit Care Med 35:1196 1197, 2007. CrossRef [PubMed: 17413787] 
+
+59. Irdesel J, Aydiner SB, Akgoz S: Rehabilitation outcome after traumatic brain injury. Neurocirugia (Astur) 18:5 15, 2007. CrossRef [PubMed: 17393041] 
+
+60. Teasell R, Bayona N, Lippert C et al.: Post traumatic seizure disorder following acquired brain injury. Brain Inj 21:201 214, 2007. CrossRef [PubMed: 17364531] 
+
+61. Scherer M: Gait rehabilitation with body weight supported treadmill training for a blast injury survivor with traumatic brain injury. Brain Inj 21:93  100, 2007.
+CrossRef [PubMed: 17364524] 
+
+62. Pressman HT: Traumatic brain injury rehabilitation: Case management and insurance related issues. Phys Med Rehabil Clin North Am 18:165 174, viii, 2007.
+CrossRef
+
+63. Young JA: Pain and traumatic brain injury. Phys Med Rehabil Clin North Am 18:145 63, vii viii, 2007. CrossRef
+
+64. Yen HL, Wong JT: Rehabilitation for traumatic brain injury in children and adolescents. Ann Acad Med Singapore 36:62 66, 2007. [PubMed: 17285188] 
+
+65. Chua KS, Ng YS, Yap SG et al.: A brief review of traumatic brain injury rehabilitation. Ann Acad Med Singapore 36:31 42, 2007. [PubMed: 17285184]
+
+
+66. Ducrocq SC, Meyer PG, Orliaguet GA et al.: Epidemiology and early predictive factors of mortality and outcome in children with traumatic severe brain injury: Experience of a French pediatric trauma center. Pediatr Crit Care Med 7:461 467, 2006.
+CrossRef [PubMed: 16885795] 
+
+67. Chesnut RM: The evolving management of traumatic brain injury: Don't shoot the messenger. Crit Care Med 34:2262; author reply 2262 2263, 2006. CrossRef [PubMed: 16883207] 
+
+68. Osgood SL, Kuczkowski KM: Autonomic dysreflexia in a parturient with spinal cord injury. Acta Anaesthesiol Belg 57:161 162, 2006. [PubMed: 16916187] 
+
+69. Wu KP, Lai PL, Lee LF et al.: Autonomic dysreflexia triggered by an unstable lumbar spine in a quadriplegic patient. Chang Gung Med J. 28:508  511, 2005. [PubMed: 16231536] 
+
+ 70. Adiga S: Further lessons in autonomic dysreflexia. Arch Phys Med Rehabil 86:1891; author reply 1891, 2005.	
+
+
+
+
+71. Sullivan Tevault M: Autonomic dysreflexia in spinal cord injury. Emerg Med Serv 34:79 80, 85, 2005. [PubMed: 15974317] 
+
+72. Jacob C, Thwaini A, Rao A et al.: Autonomic dysreflexia: the forgotten medical emergency. Hosp Med 66:294 296, 2005. CrossRef [PubMed: 15920860] 
+
+73. Bycroft J, Shergill IS, Chung EA et al.: Autonomic dysreflexia: a medical emergency. Postgrad Med J 81:232 235, 2005. CrossRef [PubMed: 15811886] 
+
+74. Taylor AG: Autonomic dysreflexia in spinal cord injury. Nurs Clin North Am 9:717 25, 1974. [PubMed: 4496899] 
+
+75. Bailey MK: Physical examination procedures to screen for serious disorders of the low back and lower quarter, in Wilmarth MA (ed): Medical Screening for the Physical Therapist. Orthopaedic Section Independent Study Course 14.1.1 La Crosse, Wisc, Orthopaedic Section, APTA, Inc, 2003, pp 1 35.
+
+76. Thomas DR: Prevention and management of pressure ulcers. Mo Med 104:52 57, 2007. [PubMed: 17410826] 
+
+77. Evans J, Stephen Haynes J: Identification of superficial pressure ulcers. J Wound Care 16:54 56, 2007. CrossRef [PubMed: 17319617] 
+
+78. McNees P, Meneses KD: Pressure ulcers and other chronic wounds in patients with and patients without cancer: a retrospective, comparative analysis of healing patterns. Ostomy Wound Manage 53:70 78, 2007. [PubMed: 17293631] 
+
+79. Stewart TP, Magnano SJ: Burns or pressure ulcers in the surgical patient? Adv Skin Wound Care 20:74,  77 78, 80 passim, 2007. CrossRef [PubMed: 17287617] 
+
+80. Spilsbury K, Nelson A, Cullum N et al.: Pressure ulcers and their treatment and effects on quality of life: hospital inpatient perspectives. J Adv Nurs 57:494 504, 2007.
+CrossRef [PubMed: 17284276] 
+
+81. Whitney J, Phillips L, Aslam R et al.: Guidelines for the treatment of pressure ulcers. Wound Repair Regen 14:663 679, 2006. CrossRef [PubMed: 17199832] 
+
+82. Dini V, Bertone M, Romanelli M: Prevention and management of pressure ulcers. Dermatol Ther 19:356 364, 2006. CrossRef [PubMed: 17199678] 
+
+83. Rycroft Malone J, McInnes L: The prevention of pressure ulcers. Worldviews Evid Based Nurs 1:14614 9, 2004.
+
+84. Effective methods for preventing pressure ulcers. J Fam Pract 55:942, 2006. [PubMed: 17115495] 
+
+85. Benbow M: Guidelines for the prevention and treatment of pressure ulcers. Nurs Stand 20:42 4, 2006. CrossRef [PubMed: 16989340] 
+
+86. Cullum N, Nelson EA, Nixon J: Pressure ulcers. Clin Evid 15:2592 2606, 2006. [PubMed: 16973095] 
+
+
+
+87. Reddy M, Gill SS, Rochon PA: Preventing pressure ulcers: a systematic review. JAMA 296:974 984, 2006. CrossRef [PubMed: 16926357] 
+
+88. Baranoski S: Pressure ulcers: a renewed awareness. Nursing 36:36 41; quiz 42, 2006.
+CrossRef [PubMed: 16888508] 
+
+89. Czell D, Schreier R, Rupp R et al.: Influence of passive leg movements on blood circulation on the tilt table in healthy adults. J Neuroengineering Rehabil 1:4, 2004.
+CrossRef
+
+90. Jacobs PL, Mahoney ET, Robbins A et al.: Hypokinetic circulation in persons with paraplegia. Med Sci Sports Exerc 34:1401 1407, 2002. CrossRef [PubMed: 12218730] 
+
+91. Houtman S, Colier WN, Oeseburg B et al.: Systemic circulation and cerebral oxygenation during head up tilt in spinal cord injured individuals. Spinal Cord 38:158 163, 2000.
+CrossRef [PubMed: 10795936] 
+
+92. Johnson RH, Spaulding JM: Disorders of the autonomic nervous system. Chapter 7. Some disorders of regional circulation. Contemp Neurol Ser:114 128, 1974.
+
+93. Fulk GD, Schmitz TJ, Behrman AL: Traumatic spinal cord injury, in O'Sullivan SB, Schmitz TJ (eds): Physical Rehabilitation (ed 5). Philadelphia, FA Davis, 2007, pp 937 996.
+
+94. Witt P, Parr C: Effectiveness of Trager psychophysical integration in promoting trunk mobility in a child with cerebral palsy, a case report. Phys Occup Ther Pediatr 8:75 94, 1988.
+
+95. Gage JR, Deluca PA, Renshaw TS: Gait analysis: Principles and applications with emphasis on its use with cerebral palsy. Inst Course Lect 45:491  507, 1996.
+
+96. Abel MH, Damiano DL, Pannunzio M et al.: Muscle tendon surgery in diplegic cerebral palsy: functional and mechanical changes. J Pediatr Orthop 19:366 375, 1999. [PubMed: 10344322] 
+
+97. Blair E, Stanley F: Issues in the classification and epidemiology of cerebral palsy. Mental Retard Devel Disab Res Rev 3:184 193, 1997. CrossRef
+
+98. Davids JR, Foti T, Dabelstein J et al.: Voluntary (normal) versus obligatory (cerebral palsy) toe walking in children: a kinematic, kinetic, and electromyographic analysis. J Pediatr Orthop 19:461 469, 1999.
+CrossRef [PubMed: 10412994] 
+
+99. Gage JR: Gait Analysis in Cerebral Palsy. London, MacKeith Press, 1991.
+
+100. Mayston M: Evidence based physical therapy for the management of children with cerebral palsy. Dev Med Child Neurol 47:795, 2005. CrossRef [PubMed: 16288666] 
+
+101. Harris SR, Roxborough L: Efficacy and effectiveness of physical therapy in enhancing postural control in children with cerebral palsy. Neural Plast 12:229 243, 2005.
+CrossRef [PubMed: 16097491] 
+
+
+
+102. Palisano RJ, Snider LM, Orlin MN: Recent advances in physical and occupational therapy for children with cerebral palsy. Semin Pediatr Neurol 11:66 77, 2004.
+CrossRef [PubMed: 15132255] 
+
+103. Wilton J: Casting, splinting, and physical and occupational therapy of hand deformity and dysfunction in cerebral palsy. Hand 5Clin 19:573 84, 2003.
+CrossRef
+
+104. Engsberg JR, Ross SA, Wagner JM et al.: Changes in hip spasticity and strength following selective dorsal rhizotomy and physical therapy for spastic cerebral palsy. Dev Med Child Neurol 44:220 226, 2002.
+CrossRef [PubMed: 11995889] 
+
+105. Engsberg JR, Ross SA, Park TS: Changes in ankle spasticity and strength following selective dorsal rhizotomy and physical therapy for spastic cerebral palsy. J Neurosurg 91:727 732, 1999.
+CrossRef [PubMed: 10541227] 
+
+106. Barry MJ: Physical therapy interventions for patients with movement disorders due to cerebral palsy. J Child Neurol 11 (Suppl 1):S51  S60, 1996. [PubMed: 8959462] 
+
+107. Campbell SK, Gardner HG, Ramakrishnan V: Correlates of physicians' decisions to refer children with cerebral palsy for physical therapy. Dev Med Child Neurol 37:1062 1074, 1995.
+CrossRef [PubMed: 8566464] 
+
+108. Harryman SE: Lower extremity surgery for children with cerebral palsy: physical therapy management. Phys Ther 72:16 24, 1992. [PubMed: 1728044] 
+
+109. Mayo NE: The effect of physical therapy for children with motor delay and cerebral palsy. A randomized clinical trial. Am J Phys Med Rehabil 70:258 267, 1991.
+CrossRef [PubMed: 1910651] 
+
+110. Stine SB: Therapy physical or otherwise in cerebral palsy. Am J Dis Child 144:519 520, 1990. [PubMed: 2330912] 
+
+111. Campbell SK, Anderson JC, Gardner HG: Use of survey research methods to study clinical decision making: referral to physical therapy of children with cerebral palsy. Phys Ther 69:610 615, 1989. [PubMed: 2740450] 
+
+112. Bower E: The effects of physical therapy on cerebral palsy. Dev Med Child Neurol 31:266, 1989. CrossRef [PubMed: 2737378] 
+
+113. Harris SR: Commentary on "The effects of physical therapy on cerebral palsy: a controlled trial in infants with spastic diplegia." Phys Occup Ther Pediatr 9:1 4, 1989.
+CrossRef [PubMed: 15772032] 
+
+114. Horton SV, Taylor DC: The use of behavior therapy and physical therapy to promote independent ambulation in a preschooler with mental retardation and cerebral palsy. Res Dev Disabil 10:363 375, 1989.
+CrossRef [PubMed: 2587827] 
+
+115. Physical therapy for cerebral palsy. N Engl J Med 319:796 797, 1988.
+
+
+
+
+116. Palmer FB, Shapiro BK, Wachtel RC et al.: The effects of physical therapy on cerebral palsy. A controlled trial in infants with spastic diplegia. N Engl J Med 318:803 808, 1988.
+CrossRef [PubMed: 3280999] 
+
+117. Sommerfeld D, Fraser BA, Hensinger RN et al.: Evaluation of physical therapy service for severely mentally impaired students with cerebral palsy. Phys Ther 61:338 344, 1981. [PubMed: 7465628] 
+
+118. Sussman MD, Cusick B: Preliminary report: the role of short leg, tone reducing casts as an adjunct to physical therapy of patients with cerebral palsy. Johns Hopkins Med J 145:112 114, 1979. [PubMed: 470289] 
+
+119. Abdel Salam E, Maraghi S, Tawfik M: Evaluation of physical therapy techniques in the management of cerebral palsy. J Egypt Med Assoc 61:531  541, 1978. [PubMed: 556106] 
+
+120. Marx M: Integrating physical therapy into a cerebral palsy early education program. Phys Ther 53:512 514, 1973. [PubMed: 4695556]
+
+
+121. Mathias A: Management of cerebral palsy. Physical therapy in relation to orthopedic surgery. Phys Ther 47:473 482, 1967. [PubMed: 6045858]
+
+
+122. Stroumbou Alamani S: Current concepts in the medical treatment of cerebral palsy. Physical therapy. Arch Ital Pediatr Pueric 25:113 120, 1967. [PubMed: 5621615] 
+
+123. D'Wolf N, Donnelly E: Physical therapy and cerebral palsy. Clin Pediatr (Phila) 5:351 355, 1966. CrossRef [PubMed: 5937860] 
+
+124. Footh WK, Kogan KL: Measuring the Effectiveness of Physical Therapy in the Treatment of Cerebral Palsy. J Appl Toxicol 43:867 873, 1963.
+
+125. Paine RS: Physical therapy in the management of cerebral palsy. Dev Med Child Neurol 5:193, 1963. CrossRef [PubMed: 13941124] 
+
+126. Gelperin A, Payton O: Evaluation of equanil as adjunct to physical therapy for children with severe cerebral palsy. Phys Ther Rev 39:383 388, 1959. [PubMed: 13657707] 
+
+127. Schwartz FF: Physical therapy for children with cerebral palsy. J Int Coll Surg 21:84 87, 1954. [PubMed: 13118228] 
+
+128. Brooks W, Callahan M, Schleich Korn J: Physical therapy and the adult with cerebral palsy; report of a conference on vocational guidance. Phys Ther Rev 33:426 428, 1953. [PubMed: 13073455] 
+
+129. Bailey LA: Physical therapy in the treatment of cerebral palsy. Phys Ther Rev 30:230 231, 1950. [PubMed: 15424028] 
+
+130. Grogan DP, Lundy MS, Ogden JA: A method for early postoperative mobilization of the cerebral palsy patient using a removable abduction bar. J Pediatr Orthop 7:338 340, 1987.
+CrossRef [PubMed: 3584453] 
+
+ 131. Katz K, Arbel N, Apter N et al.: Early mobilization after sliding Achilles tendon lengthening in children with spastic cerebral palsy. Foot Ankle Int	
+
+
+
+
+132. Palisano R, Rosenbaum P, Walter S et al.: Development and reliability of a system to classify gross motor function in children with cerebral palsy. Dev Med Child Neurol 39:214 223, 1997.
+CrossRef [PubMed: 9183258] 
+
+133. Prechtl HF: State of the art of a new functional assessment of the young nervous system. An early predictor of cerebral palsy. Early Hum Dev 50:1  11, 1997.
+CrossRef [PubMed: 9467689] 
+
+134. Olney SJ, Wright MJ: Cerebral Palsy, in Campbell SK, Vander Linden DW, Palisano RJ (eds): Physical Therapy for Children. St Louis, Saunders, 2006, pp 625 664.
+
+135. Rosenbaum P: Cerebral palsy: what parents and doctors want to know. BMJ 326:970 974, 2003. CrossRef [PubMed: 12727772] 
+
+136. Lepage C, Noreau L, Bernard PM: Association between characteristics of locomotion and accomplishment of life habits in children with cerebral palsy. Phys Ther 78:458 469, 1998. [PubMed: 9597060] 
+
+137. Sterba JA: Does horseback riding therapy or therapist directed hippotherapy rehabilitate children with cerebral palsy? Dev Med Child Neurol 49:68 73, 2007.
+CrossRef [PubMed: 17209981] 
+
+138. Westberry DE, Davids JR, Jacobs JM et al.: Effectiveness of serial stretch casting for resistant or recurrent knee flexion contractures following hamstring lengthening in children with cerebral palsy. J Pediatr Orthop 26:109 114, 2006.
+CrossRef [PubMed: 16439913] 
+
+139. Hoare B, Wasiak J, Imms C et al.: Constraint induced movement therapy in the treatment of the upper limb in children with hemiplegic cerebral palsy. Cochrane Database Syst Rev 2:CD004149, 2007. [PubMed: 17443542] 
+
+140. Casady RL, Nichols Larsen DS: The effect of hippotherapy on ten children with cerebral palsy. Pediatr Phys Ther 16:165 172, 2004. CrossRef [PubMed: 17057544] 
+
+141. Greitz D: Unraveling the riddle of syringomyelia. Neurosurg Rev 29:2512 63; discussion 264, 2006. CrossRef
+
+142. Milhorat TH: Classification of syringomyelia. Neurosurg Focus 8:E1, 2000. CrossRef [PubMed: 16676921] 
+
+143. Pearce JM: Syringes and syringomyelia. Eur Neurol 54:243, 2005. CrossRef [PubMed: 16401904] 
+
+144. Todor DR, Mu HT, Milhorat TH: Pain and syringomyelia: a review. Neurosurg Focus 8:E11, 2000. [PubMed: 16676923] 
+
+145. Wollman DE: Syringomyelia: an uncommon cause of myelopathy in the geriatric population. J Am Geriatr Soc 52:1033 1034, 2004. CrossRef [PubMed: 15161486] 
+
+
+
+
+146. Shaer CM, Chescheir N, Erickson K et al.: Obstetrician gynecologists' practice and knowledge regarding spina bifida. Am J Perinatol 23:355 362, 2006.
+CrossRef [PubMed: 16841273] 
+
+147. Woodhouse CR: Progress in the management of children born with spina bifida. Eur Urol 49:777 778, 2006. CrossRef [PubMed: 16487651] 
+
+148. Verhoef M, Barf HA, Post MW et al.: Functional independence among young adults with spina bifida, in relation to hydrocephalus and level of lesion. Dev Med Child Neurol 48:114 119, 2006.
+CrossRef [PubMed: 16417666] 
+
+149. Ali L, Stocks GM: Spina bifida, tethered cord and regional anaesthesia. Anaesthesia 60:1149 1150, 2005. CrossRef [PubMed: 16229704] 
+
+150. Spina bifida. Nurs Times 101:31, 2005.
+
+151. Mitchell LE, Adzick NS, Melchionne J et al.: Spina bifida. Lancet 364:1885 1895, 2004. CrossRef [PubMed: 15555669] 
+
+152. Dias L: Orthopaedic care in spina bifida: past, present, and future. Dev Med Child Neurol 46:579, 2004. CrossRef [PubMed: 15344516] 
+
+153. Haykowsky MJ, Hillegass EA: Integration of the cardiovascular system in assessment and interventions in musculoskeletal rehabilitation, in Magee D, Zachazewski JE, Quillen WS (eds): Scientific Foundations and Principles of Practice in Musculoskeletal Rehabilitation. St Louis, MI, WB Saunders, 2007, pp 414 431.
+
+154. Cay S, Metin F, Korkmaz S: Association of renal functional impairment and the severity of coronary artery disease. Anadolu Kardiyol Derg 7:44  48, 2007. [PubMed: 17347076] 
+
+155. Junnila JL, Runkle GP: Coronary artery disease screening, treatment, and follow up. Prim Care 33:863 885, vi, 2006. CrossRef [PubMed: 17169671] 
+
+156. Sbarsi I, Falcone C, Boiocchi C et al.: Inflammation and atherosclerosis: the role of TNF and TNF receptors polymorphisms in coronary artery disease. Int J Immunopathol Pharmacol 20:145 154, 2007. [PubMed: 17346438] 
+
+157. Ask the doctors. I recently read that patients with coronary artery disease ought to have their blood pressure reduced to less than 120/80. I thought 120/80 was normal blood pressure, so why would you want blood pressure to be lower than normal? Heart Advis 10:8, 2007.
+
+158. Dzielinska Z, Januszewicz A, Demkow M et al.: Cardiovascular risk factors in hypertensive patients with coronary artery disease and coexisting renal artery stenosis. J Hypertens 25:663 670, 2007.
+CrossRef [PubMed: 17278983] 
+
+159. DeFaria Yeh D, Freeman MW, Meigs JB et al.: Risk factors for coronary artery disease in patients with elevated high density lipoprotein cholesterol. Am J Cardiol 99:1 4, 2007.
+CrossRef [PubMed: 17196452] 
+
+160. Carneiro AV: Coronary heart disease in diabetes mellitus: risk factors and epidemiology. Rev Port Cardiol 23:1359 1366, 2004. [PubMed:
+
+
+
+
+161. Graner M, Syvanne M, Kahri J et al.: Insulin resistance as predictor of the angiographic severity and extent of coronary artery disease. Ann Med 39:137 144, 2007.
+CrossRef [PubMed: 17453676] 
+
+162. Orchard TJ, Costacou T, Kretowski A et al.: Type 1 diabetes and coronary artery disease. Diabetes Care 29:2528 2538, 2006. CrossRef [PubMed: 17065698] 
+
+163. Pepine CJ, Kowey PR, Kupfer S et al.: Predictors of adverse outcome among patients with hypertension and coronary artery disease. J Am Coll Cardiol 47:547 551, 2006.
+CrossRef [PubMed: 16458134] 
+
+164. Hennessey JV, Westrick E: Coronary artery disease and cerebrovascular disease prevention in diabetes mellitus: early identification and aggressive modification of risk factors. Med Health R I 81:350 352, 1998. [PubMed: 15580789] 
+
+165. Sukhija R, Aronow WS, Yalamanchili K et al.: Prevalence of coronary artery disease, lower extremity peripheral arterial disease, and cerebrovascular disease in 110 men with an abdominal aortic aneurysm. Am J Cardiol 94:1358 1359, 2004.
+CrossRef [PubMed: 15541269] 
+
+166. Ness J, Aronow WS: Prevalence of coronary artery disease, ischemic stroke, peripheral arterial disease, and coronary revascularization in older African Americans, Asians, Hispanics, whites, men, and women. Am J Cardiol 84:932 933, A7, 1999.
+CrossRef [PubMed: 10532515] 
+
+167. Lee CS, Lu YH, Lee ST et al.: Evaluating the prevalence of silent coronary artery disease in asymptomatic patients with spinal cord injury. Int Heart J 47:325 330, 2006.
+CrossRef [PubMed: 16823238] 
+
+168. Bauman WA, Spungen AM, Raza M et al.: Coronary artery disease: metabolic risk factors and latent disease in individuals with paraplegia. Mt Sinai J Med 59:163 168, 1992. [PubMed: 1574072] 
+
+169. White LJ, McCoy SC, Castellano V et al.: Effect of resistance training on risk of coronary artery disease in women with multiple sclerosis. Scand J Clin Lab Invest 66:351 355, 2006.
+CrossRef [PubMed: 16777763] 
+
+170. Steffens DC, O'Connor CM, Jiang WJ et al.: The effect of major depression on functional status in patients with coronary artery disease. J Am Geriatr Soc 47:319 322, 1999.
+CrossRef [PubMed: 10078894] 
+
+171. Pamukcu B, Oflaz H, Onur I et al.: Clinical relevance of aspirin resistance in patients with stable coronary artery disease: a prospective follow up study (PROSPECTAR). Blood Coagul Fibrinolysis 18:187 192, 2007.
+CrossRef [PubMed: 17287637] 
+
+172. Ludvig J, Miner B, Eisenberg MJ: Smoking cessation in patients with coronary artery disease. Am Heart J 149:565 572, 2005. CrossRef [PubMed: 15990735] 
+
+
+
+
+173. Schooling CM, Lam TH, Leung GM: Effect of obesity in patients with coronary artery disease. Lancet 368:1645; author reply 1645 1646, 2006. CrossRef [PubMed: 17098072] 
+
+174. Lundberg GD: A new aggressive approach to screening and early intervention to prevent death from coronary artery disease. MedGenMed 8:22, 2006. [PubMed: 17406162] 
+
+175. Boekholdt SM, Sandhu MS, Day NE et al.: Physical activity, C reactive protein levels and the risk of future coronary artery disease in apparently healthy men and women: the EPIC Norfolk prospective population study. Eur J Cardiovasc Prev Rehabil 13:970 976, 2006.
+CrossRef [PubMed: 17143130] 
+
+176. Prayaga S: Asian Indians and coronary artery disease risk. Am J Med 120:e15; author reply e19, 2007. CrossRef [PubMed: 17349422] 
+
+177. Chambers TA, Bagai A, Ivascu N: Current trends in coronary artery disease in women. Curr Opin Anaesthesiol 20:75 82, 2007. CrossRef [PubMed: 17211172] 
+
+178. Turhan S, Tulunay C, Gulec S et al.: The association between androgen levels and premature coronary artery disease in men. Coron Artery Dis 18:159 162, 2007.
+CrossRef [PubMed: 17429287] 
+
+179. Saghafi H, Mahmoodi MJ, Fakhrzadeh H et al.: Cardiovascular risk factors in first degree relatives of patients with premature coronary artery disease. Acta Cardiol 61:607 613, 2006.
+CrossRef [PubMed: 17205917] 
+
+180. Ahmed A, Lefante CM, Alam N: Depression and nursing home admission among hospitalized older adults with coronary artery disease: a propensity score analysis. Am J Geriatr Cardiol 16:76 83, 2007.
+CrossRef [PubMed: 17380615] 
+
+181. Zevitz ME: Heart failure. Available at: http://www.emedicine.com/med/topic3552.htm, 2005.
+
+182. Rees K, Taylor RS, Singh S et al.: Exercise based rehabilitation for heart failure. Cochrane Database Syst Rev 3:CD003331, 2004. [PubMed: 15266480] 
+
+183. Pina IL, Daoud S: Exercise and heart failure. Minerva Cardioangiol 52:537 546, 2004. [PubMed: 15729214] 
+
+184. Pina IL, Apstein CS, Balady GJ et al.: Exercise and heart failure: A statement from the American Heart Association Committee on exercise, rehabilitation, and prevention. Circulation 107:1210 1225, 2003.
+CrossRef [PubMed: 12615804] 
+
+185. Budev MM, Arroliga AC, Wiedemann HP et al.: Cor pulmonale: an overview. Semin Respir Crit Care Med 24:233 244, 2003. CrossRef [PubMed: 16088545] 
+
+186. Weitzenblum E: Chronic cor pulmonale. Heart 89:225 230, 2003.
+CrossRef [PubMed: 12527688] 
+
+187. Lehrman S, Romano P, Frishman W et al.: Primary pulmonary hypertension and cor pulmonale. Cardiol Rev 10:265 278, 2002.
+
+
+
+
+188. Romano PM, Peterson S: The management of cor pulmonale. Heart Dis 2:431 437, 2000. [PubMed: 11728294] 
+
+189. Missov ED, De Marco T: Cor Pulmonale. Curr Treat Options Cardiovasc Med 2:149 158, 2000. CrossRef [PubMed: 11096520] 
+
+190. DeTurk WE, Cahalin LP: Electrocardiography, in DeTurk WE, Cahalin LP (eds): Cardiovascular and pulmonary physical therapy: an evidence  based approach. New York, McGraw Hill, 2004, pp 325 359.
+
+191. Roffe C: Aging of the heart. Br J Biomed Sci 55:136 148, 1998. [PubMed: 10198472] 
+
+192. Alaeddini J, Alimohammadi B: Angina pectoris. Available at: http://www.emedicine.com/med/topic133.htm, 2006.
+
+193. Fenton DE, Stahmer S: Myocardial infarction. Available at: http://www.emedicine.com/EMERG/topic327.htm, 2006.
+
+194. Goodman CC: The cardiovascular system, in Goodman CC, Boissonnault WG, Fuller KS (eds): Pathology: Implications for the Physical Therapist (ed 2). Philadelphia, Saunders, 2003, pp 367 476.
+
+195. Nauer K, A.: Acute dissection of the aorta: a review for nurses. Crit Care Nurs Q 23:20 27, 2000. CrossRef [PubMed: 11852953] 
+
+196. McKnight JT, Adcock BB: Paresthesias: a practical diagnostic approach. Am Fam Physician 56:2253 2260, 1997. [PubMed: 9402811] 
+
+197. Poncelet AN: An algorithm for the evaluation of peripheral neuropathy. Am Fam Physician 57:755 764, 1998. [PubMed: 9490998] 
+
+198. Gillette PD: Exercise in aging and disease, in Placzek JD, Boyce DA (eds): Orthopaedic Physical Therapy Secrets. Philadelphia, Hanley & Belfus, 2001, pp 235 242.
+
+199. Motsch J, Walther A, Bock M et al.: Update in the prevention and treatment of deep vein thrombosis and pulmonary embolism. Curr Opin Anaesthesiol 19:52 58, 2006.
+CrossRef [PubMed: 16547433] 
+
+200. Garmon RG: Pulmonary embolism: incidence, diagnosis, prevention, and treatment. J Am Osteopath Assoc 85:176 185, 1985. [PubMed: 3980263]
+
+
+201. Bounameaux H, Reber Wasem MA: Superficial thrombophlebitis and deep vein thrombosis: a controversial association. Arch Intern Med 157:1822 1824, 1997.
+CrossRef [PubMed: 9290540] 
+
+202. Gorman WP, Davis KR, Donnelly R: ABC of arterial and venous disease. Swollen lower limb 1: general assessment and deep vein thrombosis. BMJ 320:1453 1456, 2000.
+CrossRef [PubMed: 10827054] 
+
+203. Aschwanden M, Labs KH, Engel H et al.: Acute deep vein thrombosis: early mobilization does not increase the frequency of pulmonary embolism. Thromb Haemost 85:42 46, 2001. [PubMed: 11204585] 
+
+
+
+
+204. Heath GW, Hagberg JM, Ehsani AA et al.: A physiological comparison of young and older endurance athletes. J Appl Physiol 51:634 640, 1981. [PubMed: 7327965] 
+
+205. Shah U, Moatter T: Screening for cystic fibrosis: the importance of using the correct tools. J Ayub Med Coll Abbottabad 18:7 10, 2006. [PubMed: 16773960] 
+
+206. Wells C: Pulmonary pathology, in DeTurk WE, Cahalin LP (eds): Cardiovascular and Pulmonary Physical Therapy: an Evidence Based Approach. New York, McGraw Hill, 2004, pp 151 188.
+
+207. Chang AB, Masters IB, Everard ML: Re: membranous obliterative bronchitis: a proposed unifying model. Pediatr Pulmonol 41:904; author reply 905 906, 2006.
+CrossRef [PubMed: 16850443] 
+
+208. Wang JS, Tseng HH, Lai RS et al.: Sauropus androgynus constrictive obliterative bronchitis/bronchiolitis histopathological study of pneumonectomy and biopsy specimens with emphasis on the inflammatory process and disease progression. Histopathology 37:402 410, 2000. CrossRef [PubMed: 11119121] 
+
+209. Coughlin AM: Combating community acquired pneumonia. Nursing 37:64hn1 3, 2007. CrossRef
+
+210. Clark JE, Donna H, Spencer D et al.: Children with pneumonia how do they present and how are they managed? Arch Dis Child 29:29, 2007.
+
+211. Parienti JJ, Carrat F: Viral pneumonia and respiratory sepsis: association, causation, or it depends? Crit Care Med 35:639 640, 2007. CrossRef [PubMed: 17251709] 
+
+212. Hospital acquired pneumonia. J Hosp Med 1:26 27, 2006. CrossRef
+
+213. Community acquired pneumonia. J Hosp Med 1:16 17, 2006. CrossRef
+
+214. Flaherty KR, Martinez FJ: Nonspecific interstitial pneumonia. Semin Respir Crit Care Med 27:652 658, 2006. CrossRef [PubMed: 17195141] 
+
+215. Lynch JP, 3rd, Saggar R, Weigt SS et al.: Usual interstitial pneumonia. Semin Respir Crit Care Med 27:634 651, 2006. CrossRef [PubMed: 17195140] 
+
+216. Leong JR, Huang DT: Ventilator associated pneumonia. Surg Clin North Am 86:1409 1429, 2006. CrossRef [PubMed: 17116455] 
+
+217. Agusti C, Rano A, Aldabo I et al.: Fungal pneumonia, chronic respiratory diseases and glucocorticoids. Med Mycol 44 Suppl:207 11, 2006. CrossRef
+
+218. Scannapieco FA: Pneumonia in nonambulatory patients: The role of oral bacteria and oral hygiene. J Am Dent Assoc 137 Suppl:21S  25S, 2006. CrossRef [PubMed: 17012732] 
+
+219. Medina Walpole AM, Katz PR: Nursing home acquired pneumonia. J Am Geriatr Soc 47:1005 1015, 1999. CrossRef [PubMed: 10443864] 
+
+
+
+
+220. Tang WK, Lum CM, Ungvari GS et al.: Health related quality of life in community dwelling men with pneumoconiosis. Respiration 73:203 208, 2006. [PubMed: 16195660] 
+
+221. Chong S, Lee KS, Chung MJ et al.: Pneumoconiosis: comparison of imaging and pathologic findings. Radiographics 26:59 77, 2006. CrossRef [PubMed: 16418244] 
+
+222. Attfield MD, Kuempel ED: Pneumoconiosis, coalmine dust and the PFR. Ann Occup Hyg 47:525 529, 2003. CrossRef [PubMed: 14530177] 
+
+223. Nicod LP: Recognition and treatment of idiopathic pulmonary fibrosis. Drugs 55:555 562, 1998. CrossRef [PubMed: 9561344] 
+
+224. Poole DC, Sexton WL, Farkas GA et al.: Diaphragm structure and function in health and disease. Med Sci Sports Exer. 29:738 54, 1997. CrossRef
+
+225. Patrick C: Spinal conditions, in Campbell SK, Vander Linden DW, Palisano RJ (eds): Physical Therapy for Children. St Louis, Saunders, 2006, pp 337 358.
+
+226. McKenzie RA: Manual correction of sciatic scoliosis. N Z Med J 76:194 199, 1972. [PubMed: 4508746] 
+
+227. Blum CL: Chiropractic and Pilates therapy for the treatment of adult scoliosis. J Manipulative Physiol Ther 25:E3, 2002. CrossRef [PubMed: 12021749] 
+
+228. Miller NH: Genetics of familial idiopathic scoliosis. Clin Orthop Rel Res 401:60 64, 2002. CrossRef
+
+229. Kane WJ: Scoliosis prevalence: A call for a statement of terms. Clin Orthop 126:43 46, 1977. [PubMed: 598138] 
+
+230. Miller NH: Cause and natural history of adolescent idiopathic scoliosis. Orthop Clin North Am 30:343 352, vii, 1999. CrossRef [PubMed: 10393760] 
+
+231. Dobbs MB, Weinstein SL: Infantile and juvenile scoliosis. Orthop Clin North Am 30:331 41, vii, 1999. CrossRef [PubMed: 10393759] 
+
+232. Greiner KA: Adolescent idiopathic scoliosis: radiologic decision making. Am Fam Physician 65:1817 1822, 2002. [PubMed: 12018804]
+
+
+233. Lonstein JE, Winter RB: Adolescent idiopathic scoliosis. Nonoperative treatment. Orthop Clin North Am 19:239 246, 1988. [PubMed: 3258653]
+
+
+234. Lenke LG: Lenke classification system of adolescent idiopathic scoliosis: treatment recommendations. Instr Course Lect 54:537 542, 2005. [PubMed: 15948478] 
+
+235. Lenke LG, Edwards CC, 2nd, Bridwell KH: The Lenke classification of adolescent idiopathic scoliosis: how it organizes curve patterns as a template to perform selective fusions of the spine. Spine 28:S199 S207, 2003.
+CrossRef [PubMed: 14560193] 
+
+
+
+
+236. Weinstein SL, Ponseti IV: Curve progression in idiopathic scoliosis. J Bone Joint Surg Am 65:447 455, 1983. [PubMed: 6833318] 
+
+237. Ponseti IV, Pedrini V, Wynne Davies R et al.: Pathogenesis of scoliosis. Clin Orthop Relat Res (120):268 280, 1976.
+
+238. Ponseti IV, Friedman B: Prognosis in idiopathic scoliosis. J Bone Joint Surg Am 32A:381 395, 1950. [PubMed: 15412180] 
+
+239. Gladman DD, Brubacher B, Buskila D et al.: Differences in the expression of spondyloarthropathy: a comparison between ankylosing spondylitis and psoriatic arthritis: genetic and gender effects. Clin Invest Med 16:1 7, 1993. [PubMed: 8467576] 
+
+240. Haslock I: Ankylosing spondylitis. Baillieres Clin Rheumatol 7:99, 1993. CrossRef [PubMed: 8519080] 
+
+241. Turek SL: Orthopaedics Principles and Their Application (ed 4). Philadelphia, JB Lippincott, 1984.
+
+242. Gran JT: An epidemiologic survey of the signs and symptoms of ankylosing spondylitis. Clin Rheumatol 4:161 169, 1985. CrossRef [PubMed: 3159533] 
+
+243. Calin A, Porta J, Fries JF et al.: Clinical history as a screening test for ankylosing spondylitis. JAMA 237:2613 2614, 1977. CrossRef [PubMed: 140252] 
+
+244. Cohen MD, Ginsurg WW: Late onset peripheral joint disease in ankylosing spondylitis. Arthritis Rheum 26:186 90, 1983. CrossRef [PubMed: 6600615] 
+
+245. Gladman DD: Clinical aspects of the spondyloarthropathies. Am J Med Sci 316:234 238, 1998. CrossRef [PubMed: 9766484] 
+
+246. Solak ZA, Goksel T, Telli CG et al. "Success of a smoking cessation program among smoking relatives of patients with serious smoking related pulmonary disorders." European addiction research 11(2): 57 61, 2005.
+CrossRef [PubMed: 15785065] 
+
+247. Mahler DA, Barlow PB, Matthay RA: Chronic obstructive pulmonary disease. Clin Geriatr Med 2:285 312, 1986. [PubMed: 3516366] 
+
+248. Mulroy J: Chronic obstructive pulmonary disease in women. Dimens Crit Care Nurs 24:1 18; quiz 19 20, 2005. CrossRef [PubMed: 15714066] 
+
+249. Ong KC, Ong YY: Cardiopulmonary exercise testing in patients with chronic obstructive pulmonary disease. Ann Acad Med Singapore 29:648 652, 2000. [PubMed: 11126703] 
+
+250. Balmes JR: Occupational contribution to the burden of chronic obstructive pulmonary disease. J Occup Environ Med 47:154 60, 2005. CrossRef [PubMed: 15706175] 
+
+251. Man SF, McAlister FA, Anthonisen NR et al.: Contemporary management of chronic obstructive pulmonary disease: clinical applications. JAMA. 290:2313 6, 2003.
+CrossRef [PubMed: 14600190] 
+
+252. Carter GT, Kilmer DD, Bonekat HW et al.: Evaluation of phrenic nerve and pulmonary function in hereditary motor and sensory neuropathy type
+
+
+
+1. Muscle Nerve 15:459 456, 1992.
+CrossRef [PubMed: 1565114] 
+
+253. Bolton CF: Clinical neurophysiology of the respiratory system. Muscle Nerve 16:809 818, 1993. CrossRef [PubMed: 8332132] 
+
+254. Chusid JG: Correlative Neuroanatomy & Functional Neurology (ed 19). Norwalk, Conn, Appleton Century Crofts, 1985, pp 144 148.
+
+255. Richard RL, Ward RS: Burns, in O'Sullivan SB, Schmitz TJ (eds): Physical Rehabilitation (ed 5). Philadelphia, FA Davis, 2007, pp 1091 1115.
+
+256. Cioffi WG: Inhalation injury, in Carrougher GJ (ed): Burn care and therapy. St Louis, CV Mosby, 1998, p 35.
+
+257. Wiles R: The views of women of above average weight about appropriate weight gain in pregnancy. Midwifery 14:254 260, 1998. CrossRef [PubMed: 10076321] 
+
+258. Lee HY, Zhao S, Fields PA et al.: Clinical use of relaxin to facilitate birth: reasons for investigating the premise. Ann N Y Acad Sci 1041:351 366, 2005.
+CrossRef [PubMed: 15956733] 
+
+259. Lubahn J, Ivance D, Konieczko E et al.: Immunohistochemical detection of relaxin binding to the volar oblique ligament. J Hand Surg [Am] 31:80  84, 2006.
+CrossRef [PubMed: 16443109] 
+
+260. Stephenson R, O'Connor L: Obstetric and Gynecologic Care in Physical Therapy (ed 2). Thorofare, NJ, Charles B Slack, 2000.
+
+261. Berg G, Hammar M, Moller Nielsen J et al.: Low back pain during pregnancy. Obstet Gynecol 71:71 75, 1988. [PubMed: 2962023] 
+
+262. Bullock JE, Jull GA, Bullock MI: The relationship of low back pain to postural changes during pregnancy. Aust J Physiother 33:10 17, 1987. CrossRef [PubMed: 25025456] 
+
+263. Moore K, Dumas GA, Reid JG: Postural changes associated with pregnancy and their relationship with low back pain. Clin Biomech (Bristol, Avon) 5:169 174, 1990.
+CrossRef [PubMed: 23916220] 
+
+264. Ostgaard HC, Andersson GBJ, Schultz AB et al.: Influence of some biomechanical factors on low back pain in pregnancy. Spine 18:61 65, 1993. CrossRef [PubMed: 8434326] 
+
+265. Franklin ME, Conner Kerr T: An analysis of posture and back pain in the first and third trimesters of pregnancy. J Orthop Sports Phys Ther 28:133 138, 1998.
+CrossRef [PubMed: 9742469] 
+
+266. Depledge J, McNair PJ, Keal Smith C et al.: Management of symphysis pubis dysfunction during pregnancy using exercise and pelvic support belts. Phys Ther 85:1290 1300, 2005. [PubMed: 16305268] 
+
+267. Leadbetter RE, Mawer D, Lindow SW: Symphysis pubis dysfunction: a review of the literature. J Matern Fetal Neonatal Med 16:349 354, 2004. CrossRef [PubMed: 15621554] 
+
+
+
+
+268. Owens K, Pearson A, Mason G: Symphysis pubis dysfunction a cause of significant obstetric morbidity. Eur J Obstet Gynecol Reprod Biol 105:143 146, 2002.
+CrossRef [PubMed: 12381476] 
+
+269. Allsop JR: Symphysis pubis dysfunction. Br J Gen Pract 47:256, 1997. [PubMed: 9196977] 
+
+270. Snow RE, Neubert AG: Peripartum pubic symphysis separation: a case series and review of the literature. Obstet Gynecol Surv 52:438 443, 1997. CrossRef [PubMed: 9219278] 
+
+271. Whitman JM: Pregnancy, low back pain, and manual physical therapy interventions. J Orthop Sports Phys Ther 32:314 317, 2002. CrossRef [PubMed: 12113465] 
+
+272. Mogren IM, Pohjanen AI: Low back pain and pelvic pain during pregnancy: prevalence and risk factors. Spine 30:983 991, 2005. CrossRef [PubMed: 15834344] 
+
+273. Pool Goudzwaard AL, Slieker ten Hove MC, Vierhout ME et al.: Relations between pregnancy related low back pain, pelvic floor activity and pelvic floor dysfunction. Int Urogynecol J Pelvic Floor Dysfunct 16:468 474, 2005.
+CrossRef [PubMed: 15803285] 
+
+274. Wang SM, Dezinno P, Maranets I et al.: Low back pain during pregnancy: prevalence, risk factors, and outcomes. Obstet Gynecol 104:65 70, 2004. CrossRef [PubMed: 15229002] 
+
+275. Fast A, Weiss L, Ducommun EJ et al.: Low back pain in pregnancy. Abdominal muscles, sit up performance and back pain. Spine 15:28 30, 1990. CrossRef [PubMed: 2139238] 
+
+276. Nilsson Wikmar L, Holm K, Oijerstedt R et al.: Effect of three different physical therapy treatments on pain and activity in pregnant women with pelvic girdle pain: a randomized clinical trial with 3, 6, and 12 months follow up postpartum. Spine 30:850 856, 2005.
+CrossRef [PubMed: 15834325] 
+
+277. Hall J, Cleland JA, Palmer JA: The effects of manual physical therapy and therapeutic exercise on peripartum posterior pelvic pain: Two case reports. J Man Manipulative Ther 13:94 102, 2005.
+CrossRef
+
+278. Fast A, Shapiro D, Ducommun EJ et al.: Low back pain in pregnancy. Spine 12:368 371, 1987. CrossRef [PubMed: 2956698] 
+
+279. Hainline B: Low back pain in pregnancy. Adv Neurol 64:65 76, 1994. [PubMed: 8291476] 
+
+280. Hodges SD, Eck JC, Humphreys SC: A treatment and outcomes analysis of patients with coccydynia. Spine J 4:138 140, 2004. CrossRef [PubMed: 15016390] 
+
+281. Ryder I, Alexander J: Coccydynia: a woman's tail. Midwifery 16:155 160, 2000. CrossRef [PubMed: 11151551] 
+
+282. Maigne JY, Lagauche D, Doursounian L: Instability of the coccyx in coccydynia. J Bone Joint Surg Br 82:1038 1041, 2000. CrossRef [PubMed: 11041598] 
+
+
+
+
+283. Boeglin ER, Jr.: Coccydynia. J Bone Joint Surg Br 73:1009, 1991. [PubMed: 1835457] 
+
+284. Wray CC, Easom S, Hoskinson J: Coccydynia. Aetiology and treatment. J Bone Joint Surg Br 73:335 338, 1991. [PubMed: 2005168] 
+
+285. Noble E: Essential Exercises for the Childbearing Year (ed 4). Harwich, Mass, New Life Images, 1995.
+
+286. Noronha A: Neurologic disorders during pregnancy and the puerperium. Clin Perinatol 12:695 713, 1985. [PubMed: 3902317] 
+
+287. Godfrey CM: Carpal tunnel syndrome in pregnancy. Can Med Assoc J 129:928, 1983. [PubMed: 6671179] 
+
+288. Graham JG: Neurological complications of pregnancy and anaesthesia. Clin Obstet Gynaecol 9:333 350, 1982. [PubMed: 7140117] 
+
+289. Lee DT, Chung TK: Postnatal depression: an update. Best Pract Res Clin Obstet Gynaecol 21: 183 191, 2006. CrossRef [PubMed: 17157072] 
+
+290. Howard L: Postnatal depression. Clin Evid:1919 1931, 2006.
+
+291. Howard L: Postnatal depression. Clin Evid:1764 1775, 2005.
+
+292. Cox J: Postnatal depression in fathers. Lancet 366:982, 2005. CrossRef [PubMed: 16168775] 
+
+293. Boissonnault JS, Stephenson R: The obstetric patient, in Boissonnault WG (ed): Primary Care for the Physical Therapist: Examination and Triage. St Louis, Elsevier Saunders, 2005, pp 239 270.
+
+294. Hanley J: The assessment and treatment of postnatal depression. Nurs Times 102:24 26, 2006. [PubMed: 16425751] 
+
+295. Mallikarjun PK, Oyebode F: Prevention of postnatal depression. J R Soc Health 125:221 226, 2005. CrossRef
+
+296. Lamondy AM: Managing hyperemesis gravidarum. Nursing 37:66 68, 2007.
+CrossRef [PubMed: 17273092] 
+
+297. Dodds L, Fell DB, Joseph KS et al.: Outcomes of pregnancies complicated by hyperemesis gravidarum. Obstet Gynecol 107:285 292, 2006. CrossRef [PubMed: 16449113] 
+
+298. Fell DB, Dodds L, Joseph KS et al.: Risk factors for hyperemesis gravidarum requiring hospital admission during pregnancy. Obstet Gynecol 107:277 284, 2006.
+CrossRef [PubMed: 16449112] 
+
+299. Loh KY, Sivalingam N: Understanding hyperemesis gravidarum. Med J Malaysia 60:394 399; quiz 400, 2005. [PubMed: 16379204] 
+
+300. Wise RA, Polito AJ, Krishnan V: Respiratory physiologic changes in pregnancy. Immunol Allergy Clin North Am 26:1 12, 2006. CrossRef [PubMed: 16443140] 
+
+301. Sadaniantz A, Kocheril AG, Emaus SP et al.: Cardiovascular changes in pregnancy evaluated by two dimensional and Doppler echocardiography.
+ J Am Soc Echocardiogr 5:253 258, 1992.	
+
+
+
+
+302. Atkins AF, Watt JM, Milan P et al.: A longitudinal study of cardiovascular dynamic changes throughout pregnancy. Eur J Obstet Gynecol Reprod Biol 12:215 224, 1981.
+CrossRef [PubMed: 7197647] 
+
+303. Chesley LC: Cardiovascular changes in pregnancy. Obstet Gynecol Annu 4:71 97, 1975. [PubMed: 1143718] 
+
+304. Capeless EL, Clapp JF: Cardiovascular changes in early phase of pregnancy. Am J Obstet Gynecol 161:1449 1453, 1989. CrossRef [PubMed: 2603897] 
+
+305. Walters WA, Lim YL: Changes in the maternal cardiovascular system during human pregnancy. Surg Gynecol Obstet 131:765 784, 1970. [PubMed: 4917850] 
+
+306. Urman BC, McComb PF: A biphasic basal body temperature record during pregnancy. Acta Eur Fertil 20:371 372, 1989. [PubMed: 2488983]
+
+
+307. Grant A, Mc BW: The 100 day basal body temperature graph in early pregnancy. Med J Aust 46:458 460, 1959. [PubMed: 13656007] 
+
+308. Siegler AM: Basal body temperature in pregnancy. Obstet Gynecol 5:830 832, 1955. [PubMed: 14384136] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

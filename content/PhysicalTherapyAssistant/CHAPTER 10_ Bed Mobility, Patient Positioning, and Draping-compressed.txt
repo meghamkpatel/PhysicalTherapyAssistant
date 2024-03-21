@@ -1,0 +1,844 @@
+
+
+
+Introduction to Physical Therapy and Patient Skills?
+
+CHAPTER 10: Bed Mobility, Patient Positioning, and Draping
+
+
+
+CHAPTER OBJECTIVES
+At the completion of this chapter, the reader will be able to:
+1. Understand the importance of bed mobility to prevent secondary complications
+2. Describe some of the precautions when positioning a patient
+3. Discuss the biomechanical principles behind correct body mechanics
+4. Describe some of the challenges facing a clinician while moving a patient or heavy object
+5. Describe some of the mechanical devices that can be used during bed mobility tasks
+6. List the 12 principles of good body mechanics
+7. Discuss the biomechanical principles and the integral elements of the motor control progression that can be implemented during a bed mobility tasks
+8. Demonstrate how to provide bed mobility to a dependent patient
+9. Demonstrate how to instruct a patient in bed mobility
+10. Describe the importance and the principles behind patient positioning
+11. Describe the importance and the principles behind patient draping
+OVERVIEW
+Bed mobility activities are designed to adjust the body position of a recumbent patient to prevent the development of joint contractures or skin breakdown. In contrast, depending on the patient's medical condition, such as after total joint replacement, there may be mobility restrictions or contraindications that affect bed mobility.
+
+
+
+
+CLINICAL PEARL 
+
+A number of medical conditions can result in mobility and position restrictions or contraindications. These include:
+Total hip arthroplasty (THA): the restrictions and contraindications following this surgical technique depends on the approach the surgeon used:
+For the posterolateral approach, this involves avoidance of hip flexion of the hip beyond 60 90 , 0  hip adduction and 0  of hip internal rotation.
+Following a lateral or anterolateral approach, the patient should avoid hip extension, external rotation, and adduction across midline.
+This patient population is prescribed a positioning device, a triangular foam cushion, which is strapped between the legs to keep the hip in an abducted position. It is important to remember that these range of motion restrictions apply in relation to both hip and trunk motion. For example, both lifting the knee while sitting or leaning forward at the waist result in hip flexion beyond 90 . From a clinical perspective, extra care must be taken when the patient is moving from supine to sitting to prevent both excessive hip flexion and excessive hip adduction.
+Hemiplegia: rolling from supine to sidelying on the hemiplegic side is relatively straightforward, but rolling to lie on the stronger side presents a greater challenge.
+Spinal cord injury (SCI): the functional ability of the patient who is post SCI depends on the level and degree of injury (Table 10 1). With respect to bed mobility, an injury at the level of the sixth cervical vertebra (C6) will typically allow a patient to achieve independent performance of bed mobility.
+
+
+TABLE 10 1
+Functional Outcomes Related to Level of Spinal Cord Injury
+
+
+
+Level of Lesion 
+
+
+Function/Motion 
+
+
+Care Needs 
+
+
+ADLs 
+
+
+Equipment Needs
+
+
+C1 C3
+Limited head/neck movement Rotate/flex neck (sternocleidomastoid)
+Extend neck (cervical paraspinals)
+Speech and swallowing (neck accessories)
+Total paralysis of trunk, upper and lower extremity
+24 hr care needs Able to direct care needs
+Ventilator dependent Impaired communication Dependent for all care needs Mobility:
+Power wheelchair Hoyer lift
+Adapted computer Bedside/portable ventilator
+Suction machine Specialty bed Hoyer
+Reclining shower chair
+
+
+C4
+Head and neck control (cervical paraspinals)
+Shoulder shrug (upper traps) Inspiration (diaphragm)
+Lack of shoulder control (deltoids)
+Paralysis of trunk, UE and LE
+Inability to cough, low
+24 hr care needs Able to direct care needs
+May or may not be vent dependent Improved communication
+Assisted cough
+Dependent for all care needs Mobility: Power wheelchair
+Hoyer lift
+Adapted computer Bedside/portable ventilator as needed Suction machine Specialty bed
+Hoyer
+Reclining shower chair
+
+
+
+
+
+
+
+respiratory reserve
+
+
+
+
+
+
+
+C5
+Shoulder control (deltoids) Elbow flexion (biceps/elbow flexors)
+Supinate hands (brachialis and brachioradialis)
+Lack elbow extension and hand pronation
+Paralysis of trunk and LE
+10 hr personal care need
+6 hr homemaking assistance
+Setup/equipment: eating, drinking, face wash and teeth Assisted cough
+Dependent for bowel, bladder and lower body hygiene Dependent for bed mobility and transfers
+Mobility:
+Hoyer or stand pivot
+Power wheelchair w/ hand controls Manual wheelchair
+Drive motor vehicle w/ hand controls
+Power and manual wheelchairs
+Adaptive splints/braces Page turners/computer adaptations
+
+
+
+
+C6
+Wrist extension (extensor carpi ulnaris and extensor carpi radialis longus/brevis)
+Arm across chest (clavicular pectoralis)
+Lack elbow extension (triceps) Lack wrist flexion
+Lack hand control Paralysis of trunk and LE
+6 hr personal care needs
+4 hr homemaking assistance
+Assisted cough
+Setup for feeding, bathing and dressing
+Independent bed mobility (if sufficient spinal rotation  approximately 66  can be performed), pressure relief, turns and skin assessment.
+May be independent for bowel/bladder care
+Independent slide board transfer Manual wheelchair Drive with adaptive equipment
+
+
+
+
+C7
+Elbow flexion and extension (biceps/triceps)
+Arm toward body (sternal pectoralis)
+Lack finger function Lack trunk stability
+6 hr personal care needs
+2 hr homemaking assistance
+More effective cough Fewer adaptive aids Independent w/ all ADLs
+May need adaptive aids for bowel care
+Manual wheelchair Transfers without adaptive equipment
+
+
+
+
+C8 T1
+Increased finger and hand strength
+Finger flexion (flexor digitorum) Finger extension (extensor communis)
+Thumb movement (pollicis longus and brevis) Separate fingers (interossei separates)
+4 hr personal care needs
+2 hr homemaking assistance
+Independent w/ or w/o assistive devices
+Assist w/ complex meal prep and home management
+Manual wheelchair
+
+
+
+
+T2 T6
+Normal motor function of head, neck, shoulders, arms, hands and fingers
+Increased use of intercostals Increase trunk control (erector spinae)
+3 hr personal care needs/homemaking
+Independent in personal care
+Manual wheelchair May have limited walking with extensive bracing
+Drive with hand controls
+
+
+
+
+T7 T12
+Added motor function Increased abdominal control Increased trunk stability
+2 hr personal care needs/homemaking
+Independent Improved cough
+Improved balance control
+Manual wheelchair May have limited walking with bracing Driving with hand
+
+
+
+
+Downloaded 2024 3 16 1:37 P Your IP is 155.33.135.27 CHAPTER 10: Bed Mobility, Patient Positioning, and Draping,
+ 2024 McGraw Hill. All Rights Reserved. Terms of Use   Privacy Policy   Notice   Accessibility
+
+
+Page 3 / 35
+
+
+
+
+
+
+
+controls
+
+
+L2 L5
+Added motor function in hips and knees
+L2 Hip flexors (iliopsoas)
+L3 Knee extensors (quadriceps) L4 Ankle dorsiflexors (tibialis anterior)
+L5 Long toe extensors (ext hallucis longus)
+May need 1 hr personal care/homemaking
+Independent
+Manual wheelchair
+May walk short distance with braces and assistive devices
+Driving with hand controls
+
+
+S1 S5
+Ankle plantar flexors (gastrocnemius)
+Various degrees of bowel, bladder, and sexual function Lower level equals greater function
+No personal or homemaker needs
+Independent
+Increased ability to walk with less adaptive/supportive devices
+Manual wheelchair for distance
+
+
+Bed mobility may be assisted by various types of equipment, with help from another individual or individuals, or performed independently by the patient. There are many occasions when a patient needs to be positioned by the clinician. Examples include when a patient has decreased sensation to pressure, or when the patient is unable to alter his or her position independently. Draping, or covering, a patient can be a natural consequence of positioning or can be performed to expose a particular body part for examination or an intervention, such as a manual technique.
+
+BODY MECHANICS
+Body mechanics refers to the way in which the clinician's body is positioned or aligned during tasks. Correct positioning and alignment places the center of mass (COM) of the clinician close to the patient (see Chapter 4), which increases the efficiency of movements and limits the stress and strain on musculoskeletal structures.
+Healthcare workers often experience musculoskeletal disorders (MSDs), total lost workday injury and illness incidence at a rate exceeding that of workers in construction, mining, and manufacturing.1 Most of these injuries are the result of lifting and transferring patients.2 These injuries incur very high direct costs in workers' compensation, medical treatment and vocational rehabilitation as well as indirect costs due to lost production, retraining, and sick or administrative time, the latter of which can be at least four times the direct cost.3,4
+
+The problem of lifting a patient is compounded by the increasing weight of patients to be lifted due to the obesity epidemic in the United States and the rapidly increasing number of older people who require assistance with their activities of daily living.5
+The physical demands when working in healthcare involve variations of forceful exertion, repetition, and stressful positions or postures. Holding,
+ pushing, or handling equipment can also involve these physical demands. A variety of individual factors also play an important role. Individuals who	
+
+
+
+are not in good physical condition tend to have more injuries. Previous trauma or certain medical conditions involving bones, joints, muscles, tendons, nerves, and blood vessels may also predispose individuals to injuries. Finally, some psychological factors may influence the reporting of injuries, pain thresholds, and even the speed or degree of healing.
+The amount of force involved can be determined as described in Chapter 4. An example is provided in Table 10 2.
+TABLE 10 2
+Calculating the Forces Involved When Preparing to Lift a Patient
+
+
+N, newtons.
+Therefore, before any activities involving lifting, pushing, or pulling, the clinician must decide whether the transfer is to be performed by a team, a mechanical device, or a combination of both.
+ Team. Choose the best body mechanics possible to accomplish the task with minimal effort and in a safe manner for everyone involved. The 12 principles of good body mechanics include:
+1. Plan ahead by estimating the load and clearing the path of travel.
+2. Stand as close to the load as is feasible. Being as close as possible to the person or object to be lifted or carried allows the combined COM to be maintained within the base of support (BOS). When the COM is centered within the BOS and near the body's midline, both balance and good postural alignment are easier to maintain.
+3. Use a BOS that is of the appropriate size and shape stand with the feet apart, with one foot slightly in front of the other, and the toes pointing slightly outward.
+4. Try to maintain normal spinal curvature. If the trunk is maintained in good alignment, the muscles only have to maintain this alignment, and do not have to work to extend the trunk during the lifting motion. Whenever possible the spine should be maintained in a neutral position. A simple method to determine pelvic neutral is to perform an anterior pelvic tilt and then a posterior pelvic tilt and to try and find the midpoint between the two [VIDEO 10 1]. Avoid twisting at the trunk, particularly when the trunk is flexed. Instead, pivot at the feet, or take several small steps to rotate the whole body.
+5. Whenever possible, lifting should be initiated from a squatting position. The depth of the squat should be deep enough to permit the clinician to reach the person or object to be lifted, but not so deep that the leg muscles are moved out of their power position for lifting and lowering. This type of squat is achieved by flexing the hips and knees, rather than by trunk flexion. The other advantage of this position is that it maintains the COM of the body close to the center of the BOS a shorter resistance lever arm requires less effort.
+6. When possible, push rather than pull an object, as pushing permits a larger BOS and a lower COM as well as making it easier to use the larger
+
+
+
+muscles more efficiently.
+7. Keep the combined COM of the clinician, equipment, and patient within the BOS by holding objects close.
+8. If possible, elevate the surface to waist height. A load close to the height of the COM conserves energy and maintains stability during the lift.
+9. Exhale during exertion to minimize any increase in intra abdominal pressure, which in turn can elevate blood pressure.
+10. Avoid rotation of the spine, particularly when the trunk is flexed, by moving the feet.
+11. Before lifting, gently contract the abdominal muscles. Contracting the muscles of the trunk before lifting may reduce the potential for injury.
+12. Know your own capabilities and do not attempt a task if there is any doubt about your ability to complete it safely.
+ Mechanical device. A mechanically assisted or "zero lift" transfer involves the transfer of an individual who is unable to provide minimal or any assistance.
+When moving large pieces of equipment, the clinician should be positioned behind the equipment or patient, facing in the direction of movement. This allows the clinician to:
+1. Determine a path free from obstruction
+2. Use a lifting or pushing motion
+3. Use larger muscles and body weight more efficiently during pushing or lifting
+VIDEO 10 1 Finding Pelvic Neutral 
+
+Play Video
+In all cases, plan movements and prepare the area to be used before starting. Use proper body mechanics and safety precautions.
+
+BED MOBILITY
+
+
+
+Bed mobility activities are an important component of progressively improving a patient's independence and safety within his or her abilities. Regardless of the level of dependence of the patient, the clinician must always use proper body mechanics while also guarding the patient. If at all possible, the height of the bed or mat should be adjusted to enhance comfort and safety. As with all activities involving physical exertion, the clinician should first assess whether any physical or mechanical assistance is required before attempting the activity. Mechanical assistance can include use of the bed rails, a draw sheet, or an overhead bar or frame in cases where the patient is unable to safely perform the activity without equipment.
+Whenever possible, the patient should be encouraged to participate both mentally and physically in the bed mobility activity. Patient involvement fosters independence and boosts problem solving. The most common bed mobility activities include turning from a supine to a sidelying position and returning; moving from a supine to prone position and returning; moving from a lying to a sitting position and returning; and moving in a variety of horizontal directions (upward, downward, side to side) and returning to the center of the bed. More advanced activities include scooting in supine and sitting and scooting on the edge of the bed. The bed mobility progression should incorporate biomechanical principles and the integral elements of the motor control progression (see Chapter 4):
+ Static stability
+ Dynamic stability
+ Controlled mobility
+ Uncontrolled mobility
+Closely associated with the motor control progression are the concepts of COM and BOS, which the clinician must consider with mobility activities. These concepts (see Chapter 4) include:
+ The greater the mass, the greater the stability.
+ The greater the friction, the greater the stability.  The larger the BOS, the greater the stability.
+ The lower the COM, the greater the stability.
+ The more the BOS is widened in the direction of the line of force, the greater the stability.
+From a clinical perspective, the concepts just listed can be applied when moving a patient. For example when pulling and sliding patient, the clinician places his or her COM as close to the patient's COM as possible, widens his or her feet to increase the BOS, and applies the force required to move the patient parallel to the surface of the bed, thereby reducing the energy required. Positioning the patient close to the clinician allows the muscles of the upper extremities to use short lever arms. Short lever arms can develop greater force than long lever arms, require less energy expenditure, and provide better patient control.
+Assisted Mobility
+
+Side to side Movement
+
+With the patient positioned in supine, the clinician folds the patient's arm across the chest (Figure 10 1) and then positions one forearm under the patient's neck, supporting the patient's head, and one forearm under the middle of the patient's back (Figure 10 2). The clinician then gently slides the patient's upper body and head closer to where the clinician is standing (Figures 10 3 and 10 4). Next, the clinician can either place his or her forearms under the patient's lower trunk and just distal to the pelvis, or can use the bed mat (Figure 10 5) before gently sliding that body segment in the same direction as previous (Figure 10 6). Finally, the clinician places his or her forearms under the thighs and legs of the patient (Figure 10 7) and gently slides them toward him or her (Figure 10 8).
+
+FIGURE  10 1
+
+
+Folding the patient's arm in preparation for movement
+
+
+
+
+FIGURE  10 2
+
+
+Clinician positions arms under the patient
+
+
+FIGURE  10 3
+
+
+Moving upper third of patient sideways in bed initial move
+
+
+
+
+FIGURE  10 4
+
+Moving upper third of patient sideways in bed end of move
+
+
+FIGURE  10 5
+
+
+Moving the middle third of the patient using the bed mat
+
+
+FIGURE  10 6
+
+
+End of the move using the bed mat
+
+
+
+
+FIGURE  10 7
+
+
+Moving the lower third of the patient start position
+
+
+FIGURE  10 8
+
+
+Moving the lower third of the patient end position
+
+
+
+
+Upward Movement
+
+This is one of the more difficult techniques and the one with the most potential for injury to the shoulders or lower back of the clinician. If the bed is adjustable, the portion that raises the head and trunk should be flat, and any pillows should be removed from under the patient's head and shoulders. Using the concept that the greater the friction, the greater the stability, the clinician flexes the patient's hips and knees so that only the feet rest flat on the bed. Depending on the level of dependence of the patient, the thighs may need to be supported with one or more pillows to maintain the position. The clinician and the assistant stand approximately opposite the patient's midchest level, facing toward the patient's head, and with the foot that is farthest from the bed in front of the other foot [VIDEO 10 2]. Using both arms, the lifting team grasps the bed mat and, keeping close to the patient's chest, the patient is slid upward approximately 6 inches. The technique is repeated until the required position is obtained.
+VIDEO 10 2 Moving Patient up the Bed using Draw Sheet 
+
+Play Video
+Downward Movement
+
+If the bed is adjustable, the portion that raises the head and trunk should be raised. The clinician and the assistant stand approximately opposite to the patient's waist or hips. Using both arms, the lifting team grasps the bed mat and, keeping close to the patient's waist, the patient is slid downward. The technique is repeated until the required position is obtained.
+Turning from Supine to Sidelying
+
+To turn the patient to the right, the clinician stands on the side of the bed to which the patient is turning, and the patient is positioned close to the edge of the left side of the bed. The right arm is abducted to approximately 45 , and the left lower extremity is crossed over the right lower extremity at the ankle. Using the right hand, the clinician grasps the patient's left hip while holding the patient's left hand against the same hip. The clinician's left hand is used to grasp the patient's left shoulder, and then the patient is rolled into the sidelying position.
+Turning from Supine to Prone
+
+The need to move a patient from supine to prone in a hospital bed does not occur frequently because of the design of the modern mattress. Indeed, given the design of the mattress, placing a patient prone is likely to be hazardous because of the potential for breathing problems. Therefore, the following description is more likely to be used when the patient is on a mat table. The patient is positioned toward one edge of the mat table so that a full rolling movement to the prone position can occur without the patient coming too near the opposite edge. To roll to the right side, the patient is first moved to the left side of the bed using the technique described in Side to Side Movement. To roll a patient toward the right side:
+ The patient's left lower extremity is crossed over the right lower extremity, with the left ankle resting on top of the right ankle.
+
+
+
+ The patient's right upper extremity is abducted, placing the hand under the right hip, palm facing upward against the hip, while the hand and forearm of the left upper extremity are placed across the abdomen.
+ The clinician stands on the side of the mat table to which the patient will be turned in this case, on the patient's right hand side.
+ To initiate the rolling, the clinician's hands are positioned under the patient's left shoulder and lower back. At the point when the patient reaches the halfway position of the roll, the clinician rotates the hands, positioning them on the anterior surface of the patient in order to control the second half of the roll.
+ At the completion of the roll, the head is repositioned first, placing it in a comfortable position facing to one side (normally toward the side of the roll direction) and ensuring that there is no pressure on the eyes, nose, or mouth. Where indicated, a pillow is placed under the trunk and adjusted as necessary (see Prone Position). The upper extremities are placed in a position of slight abduction approximately 20  to 30  and the feet are positioned approximately 6 to 8 inches apart. Generally speaking, rolling a patient from prone to supine is essentially the reverse of rolling the patient from supine to prone.
+Independent Mobility
+When performing these activities, it is important to instruct the patient to determine the body's position on the bed before any mobility activities are attempted. For example, depending on the width of the bed, it may be necessary for patient to adjust his or her position by moving forward or backward before attempting to roll. The following techniques may need to be modified based on the size of the patient and the patient's functional abilities.
+Scooting Upward
+
+If the bed is adjustable, the upper portion should be flat and the wheels should be locked. The patient is positioned in the hooklying position, with the heels close to the buttocks and the upper extremities beside the trunk. The patient is asked to elevate the pelvis using the lower extremities and to elevate the upper trunk by simultaneously pressing into the bed with the elbows and the back of the head, and then move upward by pressing down with the lower extremities and depressing the shoulders. The lower and upper extremities are then repositioned before successive movements are attempted. A number of other methods can be used to increase patient independence with moving up the bed. These methods are shown in [VIDEO 10 3, 10 4 and 10 5].
+VIDEO 10 3 Patient Assisting Moving up the Bed Part A
+
+Play Video
+VIDEO 10 4 Patient Assisting Moving up the Bed Part B
+
+
+
+Play Video
+VIDEO 10 5 Moving up the Bed using Trapeze 
+
+Play Video
+Before discharge from the hospital, it is important that the clinician review any of the bed mobility skills that have been taught to the patient [VIDEO 10 6]. In addition to those previously described, the following should also be reviewed as appropriate.
+VIDEO 10 6 Bed Mobility Training 
+
+
+
+Play Video
+
+Video Description
+
+In Video 10 6, a number of bed mobility skills are reviewed with the patient. These include:
+Hooklying. Hooklying, which is the supine position with the hips and knees flexed so that the feet are flat on the bed, is a basic bed mobility position from which other skills are derived.
+Bridging. From the hooklying position, the patient lifts the hips and lower back off the bed. This skill can be used to provide pressure relief while also allowing items such as bedpans and bed linens to be placed underneath the patient.
+Scooting in supine. This skill, which is a precursor for such skills as rolling and getting out of bed, allows the patient to move up, down, and sideways in the bed. Scooting is made easier by lowering the part of the bed to which the patient is moving. For example, if the patient is moving up the bed, it is easier when the head of the bed is lowered.
+Rolling. This skill can be used to relieve pressure on body tissues, but also to help with air exchange in the lungs. From a functional point of view, the skill allows objects such as linens, slings, and bedpans to be placed under the supine patient. To assist with rolling, the patient can use head rotation, trunk rotation, and motions of the upper and lower extremities.
+Supine to sitting. The sitting position in bed can either occur with the legs extended (long sitting), or with the hips and knees flexed (short sitting). Long sitting is useful for positional adjustments, or when a patient has undergone a total hip arthroplasty and is not permitted to flex the hip beyond 60 . Short sitting is typically used to sit on the side of the bed, before standing. To move from supine to sitting requires upper extremity strength in patients with mobility limitations.
+Sitting to supine. This skill is essentially the reverse of supine to sitting, and the patient uses an upper extremity to control the descent of the trunk into the sidelying position before lifting both lower extremities onto the bed.
+
+
+Side to side Movement
+
+Side to side movements are best performed with the patient supine. The patient is asked to assume the hooklying position and to have one upper extremity next to the trunk, and the other upper extremity abducted approximately 6 inches from the trunk. The patient is asked to perform a bridge and then move the trunk toward the side of the abducted upper extremity before lowering the trunk (see Video 10 6). The lower and upper extremities are then repositioned to either move again or for comfort. The activity is practiced so that the patient can move to both the right and the left side.
+Scooting Downward
+
+
+
+If the bed is adjustable, the upper portion should be raised slightly and the wheels should be locked. The patient is positioned in the hooklying position with the heels approximately 12 inches distal to the buttocks and the upper extremities positioned next to the trunk. The patient is asked to elevate the pelvis using the lower extremities and to elevate the upper trunk by simultaneously pushing into the bed with the elbows and the back of the head, before moving down with by pulling with the lower extremities (concentric knee flexion), simultaneously pushing up with the shoulders and pulling down with the elbows (concentric shoulder extension) or forearms (see Video 10 6). The lower and upper extremities are then repositioned for successive movements.
+Supine to Sidelying
+
+The patient is asked to move to one side of the bed. To roll toward the left, the patient simultaneously reaches across the chest with the right upper extremity and lifts the right lower extremity diagonally over the left lower extremity, then uses a combination of neck flexors and the abdominal muscles to roll onto the side, or alternatively uses the right hand to grasp the edge of the bed/bed rail to pull themselves into the sidelying position (see Video 10 6). Once in the sidelying position, the BOS is increased by flexing the lower extremities and by reaching back with the right upper extremity. The activity is practiced so that the patient can move into both right and left sidelying.
+Assuming Sitting
+
+Moving directly from supine to sitting places extreme amounts of torque through the patient's spine. The better techniques do not overstress the patient's spine.
+ Supine to long sitting: providing that the patient has enough strength, the long sitting position can be accomplished using a situp from a position propped up on the elbows (see Video 10 6). When minimal assistance is necessary, a trapeze bar can be used while the clinician provides assistance by placing an arm behind patient's back. In those situations where a trapeze bar is not available, the clinician's forearm can be used.
+ Supine to sitting: if the patient is independent, the patient flexes the hips and knees to 60  to 90  and then moves the lower legs over the edge of the bed while using the upper extremities to push down on the table and raise the trunk (see Video 10 6). When minimal assistance is necessary, the clinician grasps the patient's lower extremities and lowers them over the edge of the bed, and helps lift the upper trunk as necessary.
+
+
+VIDEO 10 7 Supine to Sit with Assistance 
+
+
+
+Play Video
+VIDEO 10 8 Supine to Sit Transfer 
+
+Play Video
+VIDEO 10 9 Sit to Supine Transfer 
+
+
+
+Play Video
+VIDEO 10 10 Status Post Total Hip Replacement Supine to Sit 
+
+Play Video
+Scooting in Sitting
+
+Perhaps the most important scoot in sitting is the sideways scoot, which can be used for a patient who is about to return to lying supine in bed. To perform a sideways scoot on the edge of the bed, the patient abducts the arm on the side to which he or she is moving, thus creating a space for the patient's hips to move to. The patient is then asked to push down with both hands into the bed using a fisted hand (less stressful to the wrist than using an open palm with the wrist extended), to depress the shoulders, and to raise the hips off the bed and over to the new position (see Video 10 6). This technique is repeated until the desired position is achieved. To scoot backward or forward in a sitting position, one of two techniques can be used based on the patient's upper extremity strength:
+ Good upper extremity strength: the patient is asked to lean the trunk slightly forward with the hands by the hips, and to press down into the bed. If the bed is at such a height that the patient's feet can touch the floor, this technique can be assisted by bringing the feet back toward the bed and pushing down on the feet while simultaneously pushing down with the upper extremities before the patient lifts the torso up and then either forward or backward.
+ Poor upper extremity strength: the patient is asked to scoot forward or backward by weight shifting to one side and then moving the opposite hip
+
+
+
+forward or backward and then repeating this maneuver on the other side until the desired position is achieved.
+PATIENT POSITIONING
+Body weight produces pressure to the skin, subcutaneous tissue, bone, and the circulatory, neural, and lymphatic systems. Patient positioning is considered when a patient with limited bed mobility is to be at rest for an extended period.
+
+CLINICAL PEARL 
+
+Deep venous thrombosis (DVT) and its sequela, pulmonary embolism, are the leading causes of preventable in hospital mortality in the United States.6 The Virchow triad, as first formulated (i.e., venous stasis, vessel wall injury, hypercoagulable state), is still the primary mechanism for the development of venous thrombosis.6 Hypercoagulable states include:
+Genetic: includes antithrombin C deficiency, protein C deficiency, and protein S deficiency.
+Acquired: includes postoperative, postpartum, prolonged bed rest or immobilization, severe trauma, cancer, congestive heart failure, obesity, advanced age, and prior thromboembolism.
+No single physical finding or combination of symptoms and signs is sufficiently accurate to establish the diagnosis of DVT.6 The following is a list outlining the most sensitive and specific physical findings in DVT6, 7, 8 and 9:
+Edema, principally unilateral
+Tenderness, if present, is usually confined to the calf muscles or over the course of the deep veins in the thigh. Pain and/or tenderness away from these areas is not consistent with venous thrombosis and usually indicates another diagnosis.
+Venous distention and prominence of the subcutaneous veins.
+Fever: Patients may have a fever, usually low grade.
+It is important to note that the Homan sign discomfort in the calf muscles on forced dorsiflexion of the foot with the knee straight which has been a time honored sign of DVT, is found in more than 50% of patients without DVT and is present in less than one third of patients with confirmed DVT, making it very nonspecific.
+Prophylactic treatment of DVT includes staying active and mobile whenever possible, medication (heparin, warfarin, aspirin, and dextran), and the use of mechanical modalities such as external pneumatic compression devices and compression stockings.
+
+
+When appropriate, the clinician should introduce themselves to the patient and explain the purpose of the planned treatment, including how the patient is to be positioned. Whenever possible, the patient should be encouraged to be an active participant. To prevent injury to the patient, the patient's body and extremities should always be totally supported on the mat or table with no partial portion of the body or extremities projecting beyond the surface. The most effective way to position a patient is to position the proximal components (the center of the patient's mass) first. For example, if the pelvis is positioned correctly, the position of the head and extremities often occurs naturally.
+Regular patient repositioning (at least every two hours when lying and every 10 minutes when sitting) is required for conditions including loss of or decreased sensory awareness, paralysis or inability to move independently, bowel and/or bladder incontinence, decreased skin integrity (friable), poor nutrition, severe weight loss (cachexia), impaired circulation, an inability to express or communicate discomfort, and a predisposition to contracture development (Table 10 3). In addition to the positioning of the patient, it is also necessary to inspect the patient's skin, especially over bony prominences (Table 10 4), before and immediately after the treatment session. It is also important to remove or reduce folds or wrinkles in the linen beneath the patient to avoid increased skin pressure.
+
+
+
+TABLE 10 3
+Soft Tissue Contracture Sites Associated with Prolonged Positioning
+
+Position 
+Contracture Sites
+Supine
+Shoulder internal rotators, extensors, and adductors
+Forearm, elbow, wrist, and fingers (depending on the upper extremity position used) Hip and knee flexors
+Hip external rotators Ankle plantarflexors
+Prone
+Neck rotators, left or right
+Shoulder internal/external rotators, extensors, and adductors
+Forearm, elbow, wrist, and fingers (depending on the upper extremity position used) Ankle plantarflexors
+Sidelying
+Shoulder adductors and internal rotators
+Forearm, elbow, wrist, and fingers (depending on the upper extremity position used) Hip adductors and internal rotators
+Hip and knee flexors
+Sitting
+Shoulder adductors, internal rotators, and extensors
+Forearm, elbow, wrist, and fingers (depending on the upper extremity position used) Hip adductors and internal rotators
+Hip and knee flexors
+
+TABLE 10 4
+Bony Prominences Associated with Pressure Ulcers
+
+Supine 
+Prone 
+Sidelying
+Seated 
+Occiput
+Forehead
+Ears
+Spine of scapula
+Spine of scapula
+Anterior portion of the acromion process
+Lateral portion of acromion process
+Vertebral spinous processes
+Inferior angle of scapula
+Anterior head of humerus
+Lateral head of humerus
+Ischial tuberosities
+Vertebral spinous processes
+Sternum
+Lateral epicondyle of humerus
+
+Medial epicondyle of humerus
+Anterior superior iliac spine
+Greater trochanter
+
+Posterior iliac crest
+Patella
+Head of fibula
+
+Sacrum
+Dorsum of foot
+Lateral malleolus
+
+Coccyx
+
+Medial malleolus
+
+
+
+
+
+
+The first time a patient is placed in a new position, it is recommended that the skin be checked after 5 to 10 minutes, and frequently thereafter, to determine tolerance for the new position.
+
+The goals of proper positioning are to:
+ Support, stabilize, and provide proper alignment of the axial and appendicular skeletal segments in a position that promotes efficient function of the body systems.
+Provide correct positioning for the administration of effective, efficient, and safe treatment procedures.
+Make the patient as comfortable as possible. However, it is worth remembering that the position of patient comfort may be the position that could lead to the development of a soft tissue contracture. A contracture is a limitation in joint motion caused by adaptive shortening in the soft tissue structures, including ligaments, tendons, joint capsule, and muscles. Generally speaking, positions of flexion are positions of comfort for example, hip flexion, knee flexion, and elbow flexion, all common sites for contractures.
+Position the patient based on current medical status. For example, it is worth remembering that patients with impaired cardiopulmonary systems do not tolerate prolonged positions and therefore require frequent monitoring.
+Prevent the development of secondary impairments such as deformities, edema, venous thrombosis, and/or pressure sores. Extra care must be taken with patients who are older, mentally incompetent, paralyzed, or agitated.
+
+
+
+
+Provide the patient access to stimulation from the environment.
+
+Before positioning a patient, the clinician should assemble the necessary devices that are going be used to support or stabilize the patient. Such devices include pillows, rolled towels, or commercially available devices (e.g., bolsters, foam wedges). The pillows or rolled towels can be used to support body parts. If a sensitive area must be relieved of pressure, the limb segment can be supported just proximal and just distal to the sensitive area. If this type of "bridging" position is used, pressure is typically increased and circulation is decreased on the adjacent areas, meaning that the time spent in this position must be reduced.
+
+Restraints, or safety straps, are often necessary to protect the patient from rolling or falling and to prevent injury. These devices are recommended for short term use only and should not be used to hinder or restrain the patient for several hours. An exception to this rule would be the use of protective positioning for the patient who:
+ Is comatose
+ Is mentally or physically incapable of maintaining a safe position  Is experiencing spasticity
+ Has extensive paralysis
+
+
+
+
+The clinician must be able to make a critical assessment of what is to be required and what the challenges will be before attempting the task. This includes clinician positioning for optimal body mechanics, appropriate adjustment of the bed height, control of the patient throughout the task, the application of appropriate contact with the patient, and communication with the rest of the rehabilitation team (e.g., establishing that any lifting will follow a "1, 2, 3" count). Depending on the patient setting, the clinician may also have to take into account the presence of any lines, leads, and tubes attached to the patient. Where possible, it is advisable to include the nursing team in such scenarios.
+Supine Position
+
+The patient is positioned with the shoulders parallel to the hips and the spine straight (Figure 10 9). The upper extremities may be elevated on pillows by the patient's side or folded on the chest (Figure 10 10) to help prevent edema. The hands should be positioned in the open position to prevent contractures. The hip should be positioned in neutral flexion and/or extension, or slightly flexed. A rolled towel can be used to maintain the hips in a neutral position. A small pillow or a cervical roll can be placed under the patient's head while avoiding excessive neck and upper back flexion or scapula abduction (rounded shoulders). A small pillow may also be placed behind the knees to relieve strain on the lower back and to prevent knee hyperextension. However, because this position encourages hip and knee flexion that may contribute to lower extremity contractures of the iliopsoas and hamstring muscles, this position should not be maintained for a prolonged period. To relieve pressure to the heel (calcaneus), one of two methods can be used:
+ A pillow can be placed under both legs (see Figure 10 9).
+ A small, rolled towel can be placed under the patient's ankles while avoiding knee hyperextension.
+
+FIGURE  10 9
+
+
+The supine position
+
+
+FIGURE  10 10
+
+
+Using supports for the upper extremities
+
+
+
+
+
+Prone Position
+
+The patient is positioned with the shoulders parallel to the hips and the spine straight. A small pillow or towel roll is placed under the patient's head, or the head is positioned to the left or right. The patient's upper extremities can be positioned in one of three ways:
+ In a T position with the arms overhead alongside the head (Figure 10 11). Placing the arms overhead increases the lumbar lordosis (see later).
+ Along the sides of the patient (Figure 10 12). A folded towel should be placed under each anterior shoulder area to adduct the scapula, reduce the stress of the interscapular muscles, and protect the head of the humerus.
+ With the hands under the head. It is worth remembering that if the upper extremities are positioned above shoulder height, there is an increased propensity for neurovascular compromise. Therefore this position should only be used when the patient has sensation in the arms, and when frequent testing for numbness or tingling can be performed.
+
+FIGURE  10 11
+
+
+Prone position with the upper extremities in a T position
+
+
+
+
+FIGURE  10 12
+
+
+Prone position with the upper extremities along the sides of the patient
+
+
+
+
+
+The amount of lordosis and kyphosis of the spine can be controlled using padding. For example, a pillow placed under the patient's lower abdomen will reduce lumbar lordosis (see Figure 10 11), whereas a pillow placed under the middle or upper chest or positioned lengthwise from the pelvis to the thorax can be used to maintain the lordosis. To avoid positioning the patient's ankles in plantarflexion, the patient's feet can be positioned over the end of the bed, or a pillow can be used under the anterior portion of the patient's ankles to relieve stress on the hamstring muscles (see Figure 10 11). The latter position should not be maintained for a prolonged period as it promotes knee flexion, which can contribute to the development of a contracture of the knee flexors (hamstrings).
+Sidelying Position
+
+The patient is initially positioned in the center of the bed, with the head, trunk, and pelvis aligned and both of the lower extremities flexed at the hip and knee. The head is supported by a pillow (Figure 10 13). The uppermost lower extremity is supported on one or two pillows and positioned slightly forward compared to the lowermost extremity to avoid excessive pull on the lower trunk. It is the lowermost lower extremity that provides stability to the patient's pelvis and lower trunk. The upper trunk can be rotated forward or backward:
+ If the patient is rotated backward, a pillow is placed behind the patient, and the uppermost upper extremity is extended and supported by that pillow (see Figure 10 13).
+If the patient is rotated forward, a pillow is placed in front of the patient and the uppermost upper extremity is flexed and supported by that pillow.
+
+FIGURE  10 13
+
+
+Sidelying position
+
+
+
+
+
+Sitting Position
+
+It is important that the seated patient be positioned in a chair with adequate support and stability for the trunk and lower extremities. The patient's upper extremities can be supported on pillows, the chair armrests, a lap board, or a pillow in the patient's lap. It is important to remember that the patient should not be left unguarded in the sitting position when he or she cannot maintain the position safely.
+
+
+
+
+In general, a patient who is unable to alter his or her body positions should not be positioned for more than 30 minutes in the sitting position.
+Preventative Positioning Based on Diagnosis
+
+Certain diagnoses require specific positioning guidelines to avoid secondary complications related to short term or prolonged positioning (Table 10  5).
+
+
+
+TABLE 10 5
+Preventative Positioning Based on Diagnosis
+
+Diagnosis
+Key Positions to Avoid 
+Recommendations 
+Hemiplegia
+Upper Extremity
+Shoulder adduction and internal rotation
+Elbow flexion
+Forearm supination or pronation Wrist, finger, or thumb flexion Finger and thumb adduction Lower Extremity
+Hip and knee flexion Hip external rotation Ankle plantarflexion Ankle inversion
+The upper extremity should be positioned in varying amounts of shoulder abduction and external rotation, elbow extension, slight wrist extension, thumb abduction and extension, and finger extension and slight abduction.
+The lower extremity should be positioned in varying amounts of hip and knee extension, hip abduction and internal rotation, and ankle dorsiflexion and eversion.
+The involved extremity must be exercised several times per day.
+The normal alignment of the patient's head and trunk should be maintained.
+The use of a sling to support the involved upper extremity should be avoided. Care should be taken when positioning the patient in sidelying on the affected side. For example the involved shoulder should be positioned slightly forward so that the scapula is protracted.
+Recovering and grafted burn areas
+Positions of comfort
+Flexion or adduction of most peripheral joints (if burn is located on the flexor or adductor surface of the joint)
+Prevention is the key once a contracture has developed, time, perseverance, and uncomfortable exercise will be necessary to return the joint to a normal position of functional use.
+Transfemoral amputation
+Hip flexion of the residual limb Hip abduction of the residual limb
+Sitting should be limited to no more than 40 minutes of each hour.
+In the standing or lying position, the residual limb should be maintained in extension (prone lying when the patient is recumbent).
+Transtibial amputation
+Hip and knee flexion Leg crossing
+Sitting should be limited to no more than 40 minutes of each hour.
+In the standing or lying position the residual limb should be maintained in extension (prone lying is recommended when the patient is recumbent).
+Total hip arthroplasty
+If a posterior lateral surgical approach was used, the following position should be avoided:
+Hip flexion beyond 60  to 90  Hip adduction beyond 0 
+Hip internal rotation beyond 0 
+
+Full sidelying is contraindicated.
+Supine positioning with an abduction wedge or pillow between the legs to prevent hip adduction. Specific attention must be given to the sacral area, which is vulnerable to skin breakdown.
+
+
+
+
+
+
+PATIENT DRAPING
+When working with patients, including transport and treatment, attention must be paid to appropriate draping or dress. Draping involves covering the patient with a sheet(s), gown, or towel(s). Draping a patient appropriately during a therapy session is a seemingly simple yet very important component of a patient's care. When moving a patient, advance planning is required to maintain appropriate draping during movement.
+The purposes of draping are to:
+ Expose or free a specific body segment for treatment. The patient should be draped with clean linen to expose only the areas or body parts to be treated, with the remainder of the patient's body covered to maintain modesty and warmth.
+ Provide the clinician with the necessary access to specific areas of the body for examination and intervention.
+ Absorb perspiration, water, and other various lubricants or to prevent the fluids from contacting the patient's clothing.
+ Provide warmth and protection and to maintain a comfortable body temperature. For example, when patients are not ambulating, standing, or otherwise bearing weight on their feet, socks or slippers should be worn to provide adequate warmth and protection.
+ Protect the skin and clothing from becoming soiled or damaged.  Protect vulnerable skin areas such as wounds, scars, or stumps.
+Before draping, all restrictive clothing, splints, or other devices that will interfere with the treatment should be removed.
+
+A patient's cultural, religious, or personal preferences may affect the clinician's ability to appropriately drape the patient to expose the necessary areas of skin or body parts. It is therefore important that, before positioning or draping the patient, the clinician determine whether the patient has specific cultural, religious based, or personal requests or preferences that would affect the draping process. Table 10 6 outlines some of the more common religious, cultural and ethnic preferences, although it is important to guard against stereotyping.
+
+
+
+TABLE 10 6
+Common Religious, Cultural, and Ethnic Preferences
+
+Religious, Cultural, or Ethnic Group
+Preference
+African and Caribbean
+South Asian (Indian subcontinent) Chinese
+Hindu women Muslim women Some Latino groups
+Strong preference for health care provider of the same sex
+Asian Chinese
+Romany traveler Orthodox Jewish women
+Bodily exposure embarrassment
+Some Mormons Rastafarian women
+Taboos against wearing garments previously worn by others or against taking off garments that should not be removed
+Traditional Egyptians Hindus
+Orthodox Jews
+Many North Americans Navajo women
+Children in many cultural or geographical groups
+Older individuals in some cultural or geographical groups
+Restrictions on touching
+
+
+Data from Mootoo JS: A guide to spiritual and cultural awareness. Nurs Stand 19:2 18, 2005.
+
+If draping becomes necessary, the clinician should inform the patient that clothing may need to be removed and the purpose of such removal, and obtain permission to proceed. The area to be treated must be exposed and have freedom of motion so that observation or palpation of the area can occur and so that the intervention can be performed effectively. It is important to stress that the body areas will be covered except for the area to be treated and that the amount of body area exposed and the length of time it is exposed will be kept to a minimum. Where possible, the patient should be educated on how to prepare themselves or be provided with an assistant of the same sex. The clinician should ask permission before entering the cubicle to ensure that the patient is appropriately draped. If, for whatever reason, the clinician needs to leave the treatment area, the patient should be dressed or draped so that the body is not unduly exposed. If the patient cannot remove items of clothing independently, the clinician must communicate clearly as to how he or she is going to provide assistance, and the clinician must proceed with a matter of fact and confident approach to help put the patient at ease, while observing the patient for any signs of discomfort or embarrassment.
+
+
+
+
+Only clean and previously unused linen and garments should be used for draping. At the conclusion of each treatment session, any soiled linen and garments must be properly disposed of. The clinician must wear gloves if body fluids have soiled the articles. A gown, sheet, or towel can be used to drape the patient's anterior chest and lower extremities while making sure not to restrict joint motion or access to the area to be treated.
+
+When sheets or blankets are used for draping, they should not be tucked in tightly at the foot of the bed, as this can place the ankles into a position of plantarflexion. The correct draping for a supine patient is depicted in Figure 10 14 for treatment of the upper extremity. Figure 10 15 demonstrates the correct draping of the lower extremities for a supine patient. If a lower extremity is to be moved for treatment and there is potential for the patient's perineum (groin) to be exposed, the area must be covered with a sheet or towel applied high in the groin and under the thigh to ensure that the area is covered fully (Figure 10 16). Different techniques can be used to drape the trunk. For example, if ultrasound is to be applied to the lower back with the patient in prone, the entire trunk is first covered with a sheet (Figure 10 17), then a towel is placed over the sheet (Figure 10 18), after which the sheet is withdrawn a sufficient amount (Figure 10 19) while simultaneously moving the towel over the treatment area (Figure 10 20).
+At the termination of the treatment session, the materials used for draping must be placed in the appropriate laundry basket and must not be used with another patient, however clean they may appear. If the treatment procedure has involved the use of lotions or gels, the clinician should provide the patient with a towel to remove any residue.
+
+FIGURE  10 14
+
+
+Correct draping for a supine patient for treatment of the upper extremity
+
+
+FIGURE  10 15
+
+
+
+
+Correct draping for a supine patient
+
+
+FIGURE  10 16
+
+
+Correct draping for a supine patient for treatment of the lower extremity
+
+
+FIGURE  10 17
+
+
+Draping the entire trunk with a sheet
+
+
+
+
+FIGURE  10 18
+
+
+Towel placed over the sheet
+
+
+FIGURE  10 19
+
+
+The sheet is withdrawn
+
+
+
+
+FIGURE  10 20
+
+The towel replaces the sheet
+
+
+REFERENCES
+
+1. Bureau of Labor Statistics: Incidence rates for nonfatal occupational injuries and illnesses involving days away from work per 10,000 full time workers by industry and selected events or exposures leading to injury or illness in 2006. Washington, DC, U.S. Department of Labor, 2007.
+
+2. White AH: Principles for physical management of work injuries, in Isenhagen S (ed): Work Injury. Gaithersburg, Md Aspen, 1988.
+
+3. Grandjean CK, McMullen PC, Miller KP et al.: Severe occupational injuries among older workers: demographic factors, time of injury, place and mechanism of injury, length of stay, and cost data. Nurs Health Sci 8:103 107, 2006.
+CrossRef [PubMed: 16764562] 
+
+4. Leigh JP, Waehrer G, Miller TR et al.: Costs of occupational injury and illness across industries. Scand J Work Environ Health 30:199 205, 2004. CrossRef [PubMed: 15250648] 
+
+5. Ogden CL, Carroll MD, Curtin LR et al.: Prevalence of overweight and obesity in the United States, 1999 2004. JAMA 295:1549 1555, 2006. CrossRef [PubMed: 16595758] 
+
+6. Motsch J, Walther A, Bock M et al.: Update in the prevention and treatment of deep vein thrombosis and pulmonary embolism. Curr Opin Anaesthesiol 19:52 58, 2006.
+CrossRef [PubMed: 16547433] 
+
+7. Bounameaux H, Reber Wasem MA: Superficial thrombophlebitis and deep vein thrombosis: a controversial association. Arch Intern Med 157:1822  1824, 1997.
+CrossRef [PubMed: 9290540] 
+
+8. Gorman WP, Davis KR, Donnelly R: ABC of arterial and venous disease. Swollen lower limb 1: general assessment and deep vein thrombosis. BMJ 320:1453 1456, 2000.
+CrossRef [PubMed: 10827054] 
+
+9. Aschwanden M, Labs KH, Engel H et al.: Acute deep vein thrombosis: early mobilization does not increase the frequency of pulmonary embolism.
+
+
+
+
+10. Arias I, Dankwort J, Douglas U et al.: Violence against women: the state of batterer prevention programs. J Law Med Ethics 30:157 165, 2002. [PubMed: 12508520] 
+
+11. Bemporad JR, Beresin E, Ratey JJ et al.: A psychoanalytic study of eating disorders: I. A developmental profile of 67 index cases. J Am Acad Psychoanal 20:509 531, 1992. [PubMed: 1291541] 
+
+12. Elton D, Stanley G: Cultural expectations and psychological factors in prolonged disability. Adv Behav Med 2:33 42, 1982.
+
+13. Sasano EM, Shepard KF: Sociocultural considerations in physical therapy education. Phys Ther 53:1269 1275, 1973. [PubMed: 4759709]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

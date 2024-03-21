@@ -1,0 +1,1495 @@
+
+
+
+Introduction to Physical Therapy and Patient Skills?
+
+CHAPTER 7: Correcting Movement Dysfunction
+
+
+
+CHAPTER OBJECTIVES
+At the completion of this chapter, the reader will be able to:
+1. List the factors that, when dysfunctional, can have a negative impact on movement
+2. Describe the various methods by which physical therapy can have a positive impact on movement dysfunction
+3. List three stages of learning according to Fitts and Posner
+4. Describe the differences between an open skill and a closed skill
+5. Describe the differences among the various types of practices
+6. Describe the types of feedback that can be provided by a patient and the advantages and disadvantages of each
+7. Discuss the importance of measuring functional outcomes
+8. Apply the various principles behind the provided patient example in a variety of situations
+OVERVIEW
+The correction of movement dysfunction requires a detailed analysis of the various components of movement. As described in Chapter 4, the production of movement is a complex process involving a number of interrelated systems and normal development of those systems. Each of these systems controls a number of critical components that work together to allow normal movement to occur. As described in Chapter 6, these critical components are subject to breakdown, resulting in movement dysfunction. These components include, but are not limited to:
+ Strength
+ Range of motion  Flexibility
+ Coordination
+ Proprioception  Pain
+ Balance
+ Cardiovascular endurance
+All of the listed components can be viewed as separate entities, with each having the potential to have a negative impact on movement if dysfunctional. The focus of physical therapy is to view the body as a whole and to determine the sum effect of each component breakdown on an individual's function. Movement without purpose and control is both inefficient and ineffective. Skilled performance requires cooperation among strength, endurance, speed, and accuracy. In addition, skilled performance is dependent on practice or experience.
+
+
+
+A trained physical therapist can observe a patient and determine a working hypothesis for the reason behind every abnormal movement observed. Once the diagnosis is correct, the intervention consists of methods to rehabilitate and retrain the dysfunctional structures.
+As the physical therapy student progresses through his or her studies, a wide array of tools and techniques will be learned that will enable the student to correctly diagnose a condition and then design an appropriate treatment plan. The goal of a therapeutic intervention is to maximize function and thereby minimize disability; however, accomplishing this goal requires an understanding of the path from disease to disability.1 Planning for the intervention begins with role performance, considering the best combination of remediation, adaptation, and compensation in order to promote the patient/client identified level of functioning to fulfill desired roles. Recovery of the patient/client can occur:
+ Spontaneously, without the benefit of any intervention
+ By force, where the functional gains occur through therapeutic intervention
+ Through adaptation attained by altering the methods or contexts within which the patient/client accomplishes a task
+The purpose of this chapter is to begin building a conceptual framework for a clinical approach to diagnosing and treating movement dysfunction.
+PHYSICAL THERAPY IMPACT
+The Guide has defined physical therapy as including "restoration, maintenance, and promotion of optimal physical function, optimal fitness and wellness, and optimal quality of life as it relates to movement and health." The purpose of the physical therapy intervention process is to achieve desired functional outcomes by reduction of existing impairments, prevention of secondary impairments, enhancement of functional ability, promotion of optimal health, and reduction of environmental challenges.2,3 Normally, this is achieved with a gradual progression of functional training and exercises, while avoiding further damage to an already compromised structure.4 Decisions about the intervention to restore functional homeostasis are custom designed from a blend of clinical experience and scientific data, and the answers to a few key questions (Table 7 1).
+TABLE 7 1
+Key Questions for Intervention Planning
+
+
+Data from Guide to physical therapist practice. Phys Ther 81:S13 S95, 2001.
+Physical therapists have at their disposal a battery of physical agents, electrotherapeutic modalities, and techniques for use during the various stages of healing. The necessary knowledge to perform an intervention includes3:
+
+
+ The temporal phases of tissue healing, common impairments in each phase, and stresses that tissues can safely tolerate during each phase  Movement characteristics, including amount of range, control, and capacity required for various functional activities
+ The range of available intervention strategies and procedures to promote these movement characteristics, and corresponding outcomes in varied patient populations
+ Sequencing of various interventions to challenge appropriately involved tissues and the whole patient: for example, being able to recognize the underlying tissue healing and balance disorders in a patient with diabetes mellitus and a recent hip fracture; the need for aerobic conditioning in assessing patients with low back dysfunction; and the importance of body mechanics education in prenatal and postnatal exercise classes
+ Intervention strategies to promote health and prevent secondary dysfunction
+The intervention is typically guided by short  and long term goals (see Chapter 5), which are dynamic, being altered as the patient's condition changes, and strategies with which to achieve those goals based on the stages of healing. Intervention strategies can be subdivided into active (direct) or passive (indirect), with the goal being to make the intervention as active as possible at the earliest opportunity.
+In general, the majority of goals for the patient fall into one of the following categories:
+ Decrease pain
+ Correct a structural imbalance  Improve muscle performance
+ Increase range of motion and flexibility  Improve balance
+ Minimize the effects of aging
+Physical Therapy Impact Pain
+
+Physical therapists can use several therapeutic interventions to manage pain. These include:
+ Transcutaneous electrical nerve stimulation (TENS). TENS has been used effectively for many years as a safe, noninvasive, drug free method of treatment for various chronic and acute pain syndromes. It was first introduced in the early 1950s to determine the suitability of patients with pain as candidates for the implantation of posterior (dorsal) column electrodes. Depending on the parameters of electrical stimuli applied, there are several modes of therapy, resulting in different contributions of hyperemic, muscle relaxing, and analgesic components of TENS. TENS has been shown to be effective in providing pain relief in the early stages of healing following surgery5, 6, 7, 8, 9 and 10 and in the remodeling phase and is frequently used to treat a number of pain conditions, including back pain, osteoarthritis, and fibromyalgia.11, 12, 13 and 14
+The percentage of patients who benefit from short term TENS pain intervention has been reported to range from 50% to 80%, and good long  term results with TENS have been observed in 6% to 44% of patients.11,13,15,16 However, most of the TENS studies rely solely on subjects' pain reports to establish efficacy and rarely on other outcome measures such as activity, socialization, or medication use.
+TENS units typically deliver symmetric or balanced asymmetric biphasic waves of 100  to 500 millisecond pulse duration, with zero net current to minimize skin irritation,17 and may be applied for extended periods.
+Three modes of action are theorized for the efficacy of this modality:
+1. Gate control mechanism. Spinal gating control through stimulation of the large, myelinated A alpha fibers inhibits transmission of the smaller pain transmitting unmyelinated C fibers and myelinated A delta fibers.9,18
+
+
+2. Endogenous opiate control. When subjected to certain types of electrical stimulation of the sensory nerves, there may be a release of enkephalin from local sites within the central nervous system and the release of ? endorphin from the pituitary gland into the cerebrospinal fluid.17,19,20 A successful application can produce an analgesic effect that lasts for several hours.
+3. Central biasing. Intense electrical stimulation, approaching a noxious level, of the smaller C or pain fibers produces a stimulation of the descending neurons.
+ Interferential current. Clinically, interferential current therapy is beneficial for treating painful conditions such as osteoarthritic pain. The potential mechanisms behind this pain control include an increase in blood flow, and the same mechanisms as TENS segmental inhibition and activation of descending inhibitory pathways.
+ Thermal modalities. These include moist heat packs, continuous ultrasound, and warm whirlpools. Thermal modalities generally involve the transfer of thermal energy. Five types of heat transfer exist:
+1. Convection occurs when a liquid or gas moves past a body part. An example of this type of heat transfer is a therapeutic whirlpool.
+2. Evaporation occurs when there is a change in state of a liquid to a gas and a resultant cooling takes place. An example of this type of heat transfer occurs during spray and stretch techniques.
+3. Conversion occurs when one form of energy is converted into another form. Examples of this type of heat transfer include ultrasound, long and shortwave diathermy.
+4. Radiation occurs when there is a transmission and absorption of electromagnetic waves. Examples include magnetic field therapy, microwave diathermy and infrared ray therapy.
+5. Conduction occurs when heat is transferred between two objects that are in contact with each other. An example of this type of heat transfer occurs with hydrocollator heating packs.
+Thermotherapy is used in the later stages of healing, because the deep heating of structures during the acute inflammatory stage may destroy collagen fibers and accelerate the inflammatory process.21 However, in the later stages of healing, an increase in blood flow to the injured area is beneficial.
+The physiologic effects of a local heat application include the following22, 23,24, 25 and 26:
+ Dissipation of body heat. This effect occurs through selective vasodilation and shunting of blood via reflexes in the microcirculation and regional blood flow.27
+ Decreased muscle spasm.27, 28, 29 and 30 The muscle relaxation probably results from a decrease in neural excitability on the sensory nerves, and hence gamma input.
+ Increased capillary permeability, cell metabolism, and cellular activity, which have the potential to increase the delivery of oxygen and chemical nutrients to the area, while decreasing venous stagnation.23,31
+ Increased analgesia through hyperstimulation of the cutaneous nerve receptors.
+ Increased tissue extensibility.27 This effect has obvious implications for the application of stretching techniques. The best results are obtained if heat is applied during the stretch and if the stretch is maintained until cooling occurs after the heat has been removed.
+ Cryotherapy. These include cold packs and ice massage. The use of ice, or cryotherapy, by itself33 or in conjunction with compression,34, 35, 36 and 37 has been demonstrated to be effective in minimizing the amount of exudate. Cryotherapy, which removes heat from the body, thereby decreasing the temperature of the body tissues, is the most commonly used modality for the intervention of acute musculoskeletal injuries.38, 39,40,41,42,43,44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60 and 61 Hocutt and colleagues34 demonstrated that cryotherapy started within 36 hours of
+	injury was statistically better than heat for complete and rapid recovery. Patients using cryotherapy within 36 hours of injury reached full activity in 
+
+
+an average of 13.2 days compared with an average 30.4 days for those initiating cryotherapy more than 36 hours after injury. Individuals who used heat required 33.3 days for return to full activity.34
+The physiologic effects of a local cold application are principally the result of vasoconstriction, reduced metabolic function,62 and reduced motor and sensory conduction velocities.63,64 These effects include the following:
+ A decrease in muscle and intra articular temperature. This decrease in muscle temperature65 and intra articular structures66, 67 and 68 occurs because of a decrease in local blood flow57,59,61,69,70 and appears to be most marked between the temperatures of 40 C and 25 C.71 Temperatures below 25 C, which typically occur after 30 minutes of cooling therapy, actually result in an increase in blood flow,71 with a consequent detrimental increase in hemorrhage and an exaggerated acute inflammatory response.64 The decrease in muscle and intra  articular temperature is maintained for several hours after removal of the cooling agent.72 A prolonged application of cold, however, can result in a sympathetically mediated reflex vasodilation in an attempt to rewarm the area, which may actually worsen the swelling.72,73
+ Local analgesia.30,33,38, 39, 40, 41 and 42 The four stages of analgesia achieved by cryotherapy are, in order of appearance, cold sensation, burning or aching, local analgesia, and then deep tissue vasodilation.34 It is worth remembering that the timing of the stages depends on the depth of penetration and varying thickness of adipose tissue.43 The patient should be advised as to these various stages, especially in light of the fact that the burning or aching phase occurs before the therapeutic phases.
+ Decreased muscle spasm.36,38,44, 45 and 46
+ Decrease in swelling.38,47,48
+ Decrease in nerve conduction velocity.49
+Manual therapy. Manual therapy techniques can range from simple massage to specific joint mobilizations. MT techniques have traditionally been used to produce a number of therapeutic alterations in pain and soft tissue extensibility through the application of specific external forces.50, 51, 52 and 53 Although it is generally agreed that manual techniques are beneficial for specific impairments, such as a restricted joint glide and adaptively shortened connective tissue, there is less agreement on which technique is the most effective. The decision about which approach or technique to use has traditionally been based on the clinician's belief, level of expertise, and decision making processes.
+Exercise. The hierarchy of exercise includes passive range of motion (PROM), active assisted range of motion (AAROM), active range of motion (AROM), and resisted exercises. To help relieve pain, PROM and AAROM exercises are typically used.
+Patient education. Patients can be educated on pain management techniques (relaxation, cognitive behavioral approaches, and biofeedback), positions and activities to avoid, and positions and activities to adopt.
+
+
+
+
+
+Physical Therapy Impact Malalignment
+
+The focus of a therapeutic intervention for posture and movement impairment syndromes is to alleviate symptoms and to play a significant role in educating the patient against habitual abuse. Interestingly, despite the widespread inclusion of postural correction in therapeutic interventions, there are limited experimental data to support its effectiveness. Therapeutic exercise programs for the correction of muscle imbalances traditionally focus on regaining the normal length of a muscle, so that good movement patterns can be achieved. The intervention of any muscle imbalance is divided into three stages:
+1. Restoration of normal length of the muscles. If the muscle activity is inhibited, the muscle should be stretched in the inhibitory phase. If the muscle is hypertonic, muscle energy techniques may be used to produce minimal facilitation and a minimal stretch. With true adaptive shortening of the muscle, stronger resistance is used to activate the maximum number of motor units, followed by vigorous stretching of the muscle.
+2. Strengthening of the muscles that have become inhibited and weak. Vigorous strengthening should be initially avoided to prevent substitutions and the reinforcement of poor patterns of movement.
+3. Establishing optimal motor patterns to secure the best possible protection to the joints and the surrounding soft tissues.
+In addition to using specific techniques to stretch and strengthen muscles, muscle energy, proprioceptive neuromuscular facilitation (PNF), and the incorporation of a more "wholistic" approach can often have a beneficial effect on postural dysfunction and movement impairment.
+
+There is a growing interest in the field of integrative care the blending of complementary or wholistic therapies with conventional medical practice. Wholistic approaches provide whole person care addressing people rather than diseases, caring rather than curing, using all possible therapeutic modalities rather than a limited few, and empowering patients wherever possible to use self care approaches and to be active participants in decisions regarding their health.
+Examples of these wholistic approaches, currently used in association with physical therapy, include the Alexander technique, Feldenkrais method,
+
+
+Trager psychophysical integration (TPI), Pilates, tai chi chuan (TCC), and yoga.
+Physical Therapy Impact Muscle Performance
+
+Before initiating an exercise program, it is necessary to conduct a needs analysis to evaluate the physical requirements and physical attributes of the patient. Determining the selection of exercise is dependent on the goals and objectives and the needs analysis. As with prescriptions for medications, a successful exercise prescription requires the correct balance between the dose (exercise variables) and the response (specific health or fitness adaptations).56 The dosage of an exercise refers to each particular patient's exercise capability and is determined by a number of variables (Table 7  2).57 For these variables to be effective, the patient must be compliant and be able to train without exacerbating the condition.58 Depending on the specific program design, resistance training is known to enhance muscular strength, power, or endurance and can provide a potent stimulus to the neuromuscular system. Other variables such as speed, balance, coordination, jumping ability, flexibility, and other measures of motor performance have also been positively enhanced by resistance training.59 It is worth remembering that when the individual trains for two different types of adaptations (e.g., aerobic fitness and strength), the training stimuli can interfere with one another and result in less improvement in one or both of the effects. For example, when strength loads are combined with aerobic training, the aerobic adaptation is not detrimentally affected, but there is a negative impact on strength development.60,61
+TABLE 7 2
+Resistive Exercise Variables
+
+Each exercise session should include a 5  to 15 minute warmup and a 5  to 15 minute cooldown period.  Warmup
+ Includes low intensity cardiorespiratory activities
+     Prevents the heart and circulatory system from being suddenly overloaded and prepares the soft tissues and joints  Cooldown
+ Includes low intensity cardiorespiratory activities and flexibility exercises
+ Helps prevent abrupt physiologic alterations that can occur with sudden cessation of strenuous exercise
+The type of exercise prescribed determines the type of warmup.62 The possible benefits of a warmup before physical activity are listed in Table 7 3. The most effective warmup consists of both general (walking, biking, jogging, and gentle resistive exercises) and specific (movements that are appropriate for the particular activity to be undertaken) exercises.62 The length of the warmup and cooldown sessions may need to be longer for deconditioned or older individuals.
+
+
+TABLE 7 3
+Possible Benefits of a Warmup before Physical Activity
+
+
+Data from Bahr R: Principles of injury prevention. In: Brukner P, Khan K (eds): Clinical Sports Medicine (ed 3). Sydney, McGraw Hill, 2007, pp 78 101; Stewart IB, Sleivert GG: The effect of warm up intensity on range of motion and anaerobic performance. J Orthop Sports Phys Ther 27:154 161, 1998; Rosenbaum D, Hennig EM: The influence of stretching and warm up exercises on Achilles tendon reflex activity. J Sports Sci 13:481 490, 1995; Green JP, Grenier SG, McGill SM: Low back stiffness is altered with warm up and bench rest: Implications for athletes. Med Sci Sports Exerc 34:1076 1081, 2002.
+Once the warmup is completed, it is recommended that a flexibility program be incorporated to increase joint movement and muscle extensibility.
+The initial exercise is prescribed at a level that the patient can perform, before progressing in difficulty. The early goals of exercise are concerned with increasing circulation, preventing atrophy, increasing protein synthesis, and reducing the level of metabolites.58
+The following factors should be considered with exercise prescriptions.
+ Frequency. Training frequency refers to the number of times exercise sessions are completed in a given period (e.g., the number of workouts per week). Optimal training frequency depends on several factors such as experience, training volume and status, intensity (see later), exercise selection, level of conditioning, recovery ability, and the number of muscle groups trained per workout session.
+ Repetitions. Initial selection of a starting resistance may require some trial and error to find the correct number of repetitions. For any given exercise, the amount of resistance selected should be sufficient to allow 3 to 9 repetitions per exercise for three sets with a recovery period between sets of 60 to 90 seconds. The American College of Sports Medicine recommends 8 to 12 repetitions per set to elicit improvements in muscular strength and endurance as well as muscle hypertrophy.63
+ Duration. Duration refers to the length of the exercise session. Physical conditioning occurs over a period of 15 to 60 minutes depending on the level of intensity. Average conditioning time is 20 to 30 minutes for moderate intensity exercise. However, individuals who are severely compromised are more likely to benefit from a series of short exercise sessions (3 to 10 minutes) spaced throughout the day.
+ Rest periods. In most functional exercises, fatigue of the muscle being exercised is the goal. However, fatigue may also occur because of lack of coordination, insufficient balance, poor motivation, or the addition of compensatory movements. In addition, fatigue may also be associated with specific clinical diseases, such as multiple sclerosis, cardiac disease, peripheral vascular dysfunction, and pulmonary diseases. Because fatigue is detrimental to performance, rest is an important component of any exercise progression. The rest period must be sufficient to allow for muscular recuperation and development while alleviating the potential for overtraining.64 In general, the heavier the loads lifted, the longer the rest period between sets. The rest period between sets can be determined by the time the breathing rate, or pulse, of the patient returns to the steady state.
+ Intensity. Intensity refers to the power output (rate of performing work) or how much effort is required to perform the exercise. In clinical terms,
+
+
+intensity refers to the weight or resistance lifted by the patient. It is now recognized that an individual's perception of effort (relative perceived exertion or RPE) is closely related to the level of physiologic effort.66,67 The Borg Scale is commonly used to help determine a patient's rate of perceived exertion (RPE), as an individual's perception of effort (relative perceived exertion) is closely related to the level of physiologic effort a high correlation exists between a person's RPE multiplied by 10, and their actual heart rate.66,67 For example, if a person's RPE is 15, then 15   10 = 150; so the heart rate should be approximately 150 beats per minute. A cardiorespiratory training effect can be achieved at a rating of "somewhat hard" or "hard" (13 to 16). Note that this calculation is only an approximation of heart rate, and the actual heart rate can vary quite a bit depending on age and physical condition. The original scale introduced by Borg67 rated exertion on a scale of 6 to 20, but a more recent one designed by Borg included a category (C) ratio (R) scale, the Borg CR10 Scale (Table 7 4).
+Speed of exercise. The speed of the exercise should depend on the imposed demands of an individual. In some cases, increasing the speed of an exercise following the initial phase of learning a particular exercise and developing proficiency in the performance of the exercise is beneficial.68 In addition, higher velocity training appears to improve peak power measures.59
+Variation. Variation in training is a fundamental principle that supports the need for alterations in one or more program variables over time to allow for the training stimulus to remain optimal (Table 7 5).59 The concept of variation has been rooted in program design universally for many years. The most commonly examined resistance training theory is periodization. Periodization is the systematic process of planned variations in a resistance training program over a specified training cycle to prevent overtraining and to perform at peak or optimum levels at the right time.69
+
+
+TABLE 7 4
+Rating of Perceived Exertion
+
+Traditional Scale
+Verbal Rating
+Revised 10 Grade Scale
+6
+No exertion at all
+0
+7
+Very, very light
+0.5
+8
+
+
+9
+Very light
+1.0
+10
+
+
+11
+Light
+
+12
+Fairly light
+2.0
+13
+Moderate
+3.0
+14
+Somewhat hard
+4.0
+15
+Hard (heavy)
+5.0
+16
+6.0
+
+17
+Very hard
+7.0
+18
+
+8.0
+19
+Very, very (extremely) hard
+9.0
+20
+Maximal (exhaustion)
+10.0
+
+
+Data from Borg GAV: Psychophysical basis of perceived exertion. Med Sci Sports Exerc 14:377 381, 1992; Borg's Perceived Exertion and Pain Scales. Champaign, IL: Human Kinetics; 1998.
+
+
+TABLE 7 5
+Types of Training That Incorporate Variation
+
+Circuit training
+Circuit training or cross training incorporates a wide variety of modes of training and uses high repetitions and low weight to provide a more general conditioning program aimed at improving body composition, muscular strength, and cardiovascular fitness.
+Interval training
+Interval training includes an exercise period followed by a prescribed rest interval. It is perceived to be less demanding than continuous training and tends to improve strength and power more than endurance.
+With appropriate spacing of work and rest intervals, a significant amount of high intensity work can be achieved and is greater than the amount of work accomplished with continuous training.
+The longer the work interval, the more the anaerobic system is stressed. The duration of the rest period is not important. In a short work interval, a work recovery ratio of 1:1 or 1:5 is appropriate to stress the aerobic system.
+
+
+
+Physical Therapy Impact ROM and Flexibility
+
+A variety of stretching techniques can be used to increase the extensibility of the soft tissues.
+
+Static Stretching
+
+Static stretching involves the application of a steady force for a sustained period (Table 7 6). The stretch should be performed at the point just shy of the pain, although some discomfort may be necessary to achieve results.70 Small loads applied for long periods produce greater residual lengthening than heavy loads applied for short periods.71 Weighted traction or pulley systems may be used for this type of stretching. It is important for the patient to realize that the initial session of stretching may increase symptoms.72 However, this increase in symptoms should be temporary, lasting for a couple of hours at most.73,74
+
+
+TABLE 7 6
+Static Stretching Guidelines
+
+
+Data from Assmussen E, Bonde Peterson F: Storage of elastic energy in skeletal muscle in man. Acta Physiol Scand 91:385 392, 1974; Bosco C, Komi PV: Potentiation of the mechanical behavior of the human skeletal muscle through prestretching. Acta Physiol Scand 106:467 472, 1979; Cavagna GA, Saibene FP, Margaria R: Effect of negative work on the amount of positive work performed by an isolated muscle. J Appl Physiol 20:157, 1965; Cavagna GA, Disman B, Margarai R: Positive work done by a previously stretched muscle. J Appl Physiol 24:21 32, 1968.
+
+Dynamic Stretching
+
+Dynamic stretching involves stretc hing using joint motions to increase or decrease the joint angle where the muscle crosses, thereby elongating the musculotendinous unit as the end ROM is obtained.75 Dynamic stretching is a specific warmup using activity specific movements to prepare the muscles by taking them through the movements used in a particular sport.75 Dynamic stretching does not incorporate end range ballistic movements but rather controlled movements through a normal range of motion.75
+There is some debate as to whether the static or dynamic method is better to stretch a muscle. Static stretching is considered the gold standard in flexibility training.76 However, recent studies have found that static stretching is not an effective way to reduce injury rates77,78 and may actually inhibit athletic performance.79 This is likely because the nature of static stretching is passive and does nothing to warm a muscle.80 More dynamic methods of stretching involve either a contraction of the antagonist muscle group, thus allowing the agonist to elongate naturally in a relaxed state, or eccentrically training a muscle through a full range of motion.76 The latter method would appear to address the problem that most injuries occur in the eccentric phase of activity.77 A study by Nelson76 that compared the immediate effect of static stretching, eccentric training, and no stretching/training on hamstring flexibility in high school and college athletes (75 subjects) found the flexibility gains in the eccentric training group to be significantly greater than in the static stretch group.
+Proprioceptive Neuromuscular Facilitation
+
+The PNF techniques of contract relax (CR), an agonist contraction (AC), or a contract relax agonist contraction sequence (CRAC) can be used to actively stretch soft tissues81:
+ Contract relax. CR stretching begins, as does static stretching, in that the clinician supports the patient and brings the limb to the end of range of motion until gentle stretching is felt. At that point, the clinician asks the patient to provide an isometric contraction of the muscle being stretched (the antagonist) for approximately 2 to 5 seconds, after which the patient is asked to relax the muscle. The clinician moves the limb passively into the new range until a limitation is again felt and repeats the procedure two to four times.
+ Agonist contraction. AC stretching uses the principle of reciprocal inhibition. The clinician moves the limb to the position of gentle stretch and asks the patient for a contraction of the muscle opposite the muscle being stretched (the antagonist). For example, when stretching the hamstring
+
+
+muscles, a simultaneous contraction of the quadriceps muscles can facilitate the stretch of the hamstrings. The contraction is held for 2 to 5 seconds, and the technique is repeated two to four times.
+ Contract relax agonist contraction. This technique combines the CR and AC stretches. The clinician takes the limb to the point of gentle stretch and performs a CR sequence (i.e., resistance applied against the muscle being stretched). After contracting the muscle being stretched, the patient is asked to relax this muscle while contracting the opposing muscle group (antagonist), thus facilitating the stretch. For example, when stretching the hamstring muscles, the hamstrings are brought to a position stretch, the hamstrings are contracted against resistance and then relaxed, and the quadriceps are contracted.
+The majority of studies have shown the PNF techniques to be the most effective for increasing ROM through muscle lengthening when compared to the static or slow sustained and the ballistic or bounce techniques,82, 83, 84, 85 and 86 although one study found them to be not necessarily better.87
+Other techniques that can assist in lengthening of contractile tissue through relaxation include the following:
+ The application of heat, which increases the extensibility of the shortened tissues, will allow the muscles to relax and lengthen more easily, reducing the discomfort of stretching. Heat without stretching has little or no effect on long term improvement in muscle flexibility, whereas the combination of heat and stretching produces greater long term gains in tissue length than stretching alone.
+ Massage, which increases local circulation to the muscle and reduces muscle spasm and stiffness.  Biofeedback, which teaches the patient to reduce the amount of tension in a muscle.
+Ballistic Stretching
+
+This technique of stretching uses bouncing movements to stretch a particular muscle. The muscle is stretched by momentum created from the bouncing movement of the body supplying the tensile force used for the stretch.75 The patient quickly relaxes the muscle when reaching the end of range of motion. This is performed in a cyclical bouncing motion and repeated several times, thus engaging the neurologic component called active resistance the contraction of muscles that resist elongation in the form of muscle reflex activity.75,88 In comparisons of the ballistic and static methods, two studies89,90 have found that both produce similar improvements in flexibility. However, the ballistic method appears to cause more residual muscle soreness or muscle strain than do techniques that incorporate relaxation.91, 92 and 93
+Further research is needed to determine the appropriate type of stretching for long lasting changes in flexibility. Researchers have reported that techniques using cyclic and sustained stretching for 15 minutes on five consecutive days increased hamstring muscle length, and that a significant percentage of the increased length was retained one week posttreatment.94 Other researchers have reported that using four consecutive knee flexor static stretches of 30 seconds, the new knee ROM was maintained for three minutes but had returned to prestretch levels after six minutes.95 A similar study using a sequence of five modified hold relax stretches reported producing significantly increased hamstring flexibility that lasted six minutes after the stretching protocol ended.96 The specific duration, frequency, and number of stretching repetitions vary in the literature. Evidence to date has shown that stretches are generally held anywhere from 10 to 60 seconds, with the research recommending that stretches be held between 15 and 30 seconds.75,97,98 In contrast, little research has been conducted on the number of repetitions of a stretch in an exercise session, although it has been determined that 80% of the length changes occur in the first four stretches of 30 seconds each.75,99 Current American College of Sports Medicine Guidelines recommend three to five repetitions for each stretching exercise.100
+Physical Therapy Impact Central Control
+
+Central control (see Chapter 6) refers to the regulation of the neuromusculoskeletal system. Central control provides the ability to perform voluntary, purposeful, and skilled movements or functional activities. Without central control, an individual is vulnerable to a number of secondary complications. The goals of the physical therapy intervention for such an individual include101:
+ The prevention of secondary impairments: proper positioning both in bed and in a chair/wheelchair is essential to prevent skin breakdown and contractures, improve pulmonary hygiene and circulation, and help modify muscle tone.102,103 The patient should be turned every two hours
+
+
+when in bed.
+ Improving arousal through sensory stimulation: multisensory stimulation involves the presentation of sensory stimulation in a highly structured and consistent manner.101 The following sensory systems are systematically stimulated: auditory, olfactory, gustatory, visual, tactile, kinesthetic, and vestibular.101
+ Patient and family education: to teach the family about the stages of recovery and what can be expected in the future.
+ Managing the effects of abnormal tone and spasticity: a wide variety of methods are available to the therapist to treat the adverse effects of abnormal tone.
+ Early transition to sitting postures: as soon as medically stable, the patient should be transferred to a sitting position and out of bed to wheelchair or chair. This transition may require the use of a tilt table.
+Neuromuscular rehabilitation (NMR) is a method of training the enhancement of unconscious motor responses, by stimulating both the afferent signals and the central mechanisms responsible for dynamic joint control.104 The aims of NMR are to improve the ability of the nervous system to generate a fast and optimal muscle firing pattern, to increase joint stability, to decrease joint forces, and to relearn movement patterns and skills.104 Before a neuromuscular training program is developed, the faulty movement pattern or absent motor skill must be identified.105 In addition, before beginning a neuromuscular training program, individuals must have adequate muscle strength to perform training exercises correctly. If weaknesses are present, training activities must begin at a more baseline level that includes weight training, technique instruction, and performing single plane versus multiplanar movements.105
+Physical Therapy Impact Aging
+
+Although aging is inevitable, its consequences are not necessarily inevitable. Intervention strategies to prevent disability from immobility should include the following, while monitoring vital signs:
+ Minimize duration of bed rest. Avoid strict bed rest unless absolutely necessary.  Be aware of possible adverse effects of medications.
+ Encourage the continuation of daily activities that the patient is able to perform as tolerated while avoiding overexertion.
+ Bathroom privileges or bedside commode
+ Let patient stand 30 to 60 seconds during transfers (bed to chair).  Encourage sitting up at a table for meals.
+ Encourage getting dressed in street clothes each day.
+Encourage daily exercises as a basis of good care. Exercises should emphasize: Balance and proprioception
+Strength and endurance Coordination and equilibrium Aerobic capacity
+Posture
+Design possible ways to enhance mobility through the use of assistive devices (e.g., walking aids, wheelchairs) and making the home accessible.
+
+
+ Ensure that a sufficient fluid intake is being maintained (1.5 to 2 liters fluid intake per day as possible), and adequate nutritional levels.  Encourage socialization with family, friends, or caregivers.
+ If the patient is bed bound, maintain proper body alignment and change positions every few hours. Pressure padding and heel protectors may be used to provide comfort and prevent pressure sores. An assessment should be made of the following:
+ Skin integrity
+ Protective sensations
+ Discriminatory sensations
+PATIENT INVOLVEMENT
+When designing a plan of care, it is important to consider the patient's stage of learning, the best approach in terms of the structure of the tasks, the type of practice to be used, and the type of feedback to be given.
+
+Stages of Motor Learning
+Fitts and Posner107 described three stages of motor learning: cognitive, associative, and autonomous.
+ Cognitive: this stage begins when the patient is first introduced to the motor task and is instructed on what to do. This stage requires great concentration, and performance is variable and filled with errors because the patient must determine the objective of the skill as well as the relational and environmental cues to control and regulate the movement. During this stage, the patient has a general idea of the movement required for the task but is not quite sure how to execute the task. In other words, the patient is concerned with what to do and how to do it. During this stage, the clinician should provide frequent and explicit positive feedback using a variety of forms of feedback (verbal, tactile, visual), and allow trial and error to occur within safe limits. During this stage, the patient often requires lots of assistance and may need to verbalize components of the task before performing it.
+ Associative: during this stage, the patient is less concerned about every detail of the task but is more concerned on how to do it. There is greater consistency with performance and fewer errors and conscious decisions about what to do become more automatic and less rushed. During this phase, the clinician should begin to increase the complexity of the task and should emphasize problem solving and learning from errors through internal feedback. Learning from errors is thought to promote generalization to similar motor tasks. In general the clinician gives less visual feedback and only moderate assistance.
+ Autonomous: the focus of this stage is how to perform the task well and is thus characterized by an efficient and nearly automatic kind of performance. At this stage, the motor skill has been learned and little cognitive effort is required to execute it, such that a motor skill can be performed while engaging in another task. For example, a patient is able to walk and talk without conscious thought. During this phase, the clinician should set up a series of progressively more difficult activities the patient can do independently, such as increasing the speed, distance, and complexity of the task.
+
+
+
+
+Litzinger and Osif108 organized individuals into four main types of learners, based on instructional strategies:
+1. Accommodators. This type looks for the significance of the learning experience. These learners enjoy being active participants in their learning and will ask many questions, such as, "What if?" and "Why not?"
+2. Divergers. This type is motivated to discover the relevancy of a given situation and prefers to have information presented in a detailed, systematic, and reasoned manner.
+3. Assimilators. This type is motivated to answer the question, "What is there to know?" These learners like accurate, organized delivery of information, and they tend to respect the knowledge of the expert. They are perhaps less instructor intensive than some other types of learners and will carefully follow prescribed exercises, provided a resource person is clearly available and able to answer questions.
+4. Convergers. This type is motivated to discover the relevancy, or "how," of a situation. The instructions given to this type of learner should be interactive, not passive.
+Another way of classifying learners that is frequently used incorporates three common learning styles:
+1. Visual. As the name suggests, the visual learner assimilates information by observation, using visual cues and information such as pictures, anatomic models, and physical demonstrations. Written materials can be used to provide detailed information but are made more user friendly with the inclusion of diagrams and illustrations.
+2. Auditory. Auditory learners prefer to learn by having things explained to them verbally. When providing verbal instructions, it is important to choose the vocabulary that is appropriate for the patient. The use of layman's terms are often preferable to using medical vocabulary.
+3. Tactile. Tactile learners, who learn through touch and interaction, are the most difficult of the three groups to teach. Close supervision is required with this group until they have demonstrated to the clinician that they can perform the exercises correctly and independently. PNF techniques, with their emphasis on physical and tactile cues, often work well with this group.
+A patient's learning style can be identified by asking how he or she prefers to learn. For example, some patients will prefer a simple handout with pictures and instructions; others will prefer to see the exercises demonstrated and then be supervised while they perform the exercises. Some may want to know why they are doing the exercises, which muscles are involved, why they are doing three sets of a particular exercise, and so on. Others will require less explanation. Whatever method is preferred, it is important that the clinician provide the information at a pace that the patient can digest. The most critical information should be provided first.
+If the clinician is unsure about the patient's learning style, it is recommended that each exercise first be demonstrated by the clinician, and then by the patient. The rationale and purpose behind each of the exercises must be given, as well as the frequency and intensity expected. Feedback is a critical component of learning (see Feedback), as is patient adherence to the program (see Chapter 5).
+Task Structure
+As outlined in Chapter 4, motor learning is contingent on the type of task to be learned and can be categorized as discrete, continuous, or serial109,110:
+Discrete: involves a task with a recognizable beginning and end for example, throwing a ball, or opening a door.
+Serial: involves a series of discrete movements that are combined in a particular sequence for example, getting dressed.
+Continuous: involves repetitive, uninterrupted movements that have no distinct beginning and ending. Examples include walking and cycling.
+
+
+Tasks can also be classified as open versus closed. An open skill involves temporal and spatial factors in an unpredictable environment. A closed skill also involves spatial factors, but only in a predictable environment. Using sports as an example, a closed skill could include shooting a foul shot in basketball. An everyday example of a closed skill is drinking from a cup. An example of an open skill in everyday life would be stepping onto a moving walkway, whereas in sports an open skill would involve throwing a touchdown pass. Whereas closed skills allow an individual to evaluate the environment and perform the movement without much modification, open skills require more cognitive processing and decision making in choosing and adjusting the movement.105 Open and closed skills can be viewed as a one dimensional continuum, where the perceptual and habitual nature of a task determines how closed or open a task is.
+
+Gentile111 expanded the popular one dimensional classification system of open and closed skills to combine an environmental context with the function of the action110,112:
+ The environmental (closed or open) context in which the task is performed. Regulatory conditions (other people, objects) in the environment may be either stationary (closed skills) or in motion (open skills).
+ The intertrial variability (absent or present) of the environment that is imposed on the task. When the environment in which a task is set is unchanging from one performance of a task to the next, intertrial variability is absent the environmental conditions are predictable. For example, walking on a flat surface involves predictable environmental conditions. Intertrial variability is present when the demands change from one attempt or repetition of the task to the next. For example, walking over varying terrain involves unpredictable environmental conditions.
+ The need for a person's body to remain stationary (stable) or to move (transport) during the task. Skills that require body transport are more complex than skills that require no body transport, as there are more variables to consider. For example, a body transport task could include walking in a crowded shopping mall.
+ The presence or absence of manipulation of objects during the task. When a person must manipulate an object, the skill increases in complexity because the person must do two things at once manipulate the object correctly, and adjust the body posture to fit the efficient movement of the object.
+Practice
+Practice, repeatedly performing a movement or series of movements in a task, is probably the single most important variable in learning a motor skill.110,112 The rate of improvement during any part of practice is linearly related on a logarithmic scale to the amount left to improve.109 This means that in the early phases of practice of a new task, performance improves rapidly, whereas after much practice, it improves more slowly. The various types of practice conditions for motor learning are as follows110:
+ Part versus whole practicing involves breaking a task down into interim steps before attempting the whole task.
+ Part practice. A task is broken down into separate components, and the individual components (usually the more difficult ones) are
+	practiced. After mastery of the individual components, the components are combined in a sequence so that the whole task can be practiced.	
+
+
+Although learning parts of a task may be helpful during early stages of learning, this approach does not facilitate learning the skill in the context in which it will be used.113,114
+ Whole practice. The entire task is performed from beginning to end and is not practiced in separate components. Research has shown that part versus whole training results in different kinematic profiles, with better movement quality obtained in whole task practice conditions.115
+ Blocked versus random.
+ Blocked. The same task, or series of tasks, is performed repeatedly under the same conditions and in a predictable order. For example, a patient could practice walking in a straight line along a flat surface.
+ Random. Variations of the same task are performed in random order. For example, a patient could practice walking on a variety of walking surfaces and in different directions. Random practice offers greater retention and transfer of skills.
+ Massed versus distributed.
+ Massed. Involves participation in a long bout of practice, where substantially less time is spent in rest compared to time spent practicing during the practice period. The disadvantages of this type of practice are that there is more potential for fatigue and an increased likelihood of a slight detriment for learning.109
+ Distributed. This type of practice, in which the amount of rest between trials is equal to or greater than the amount of time for a trial, involves participation in a series of practices throughout the day. The advantage of this type of practice is that the patient is able to reflect on his or her performance between practices. Distributed practice is considered superior to massed practice in contributing to motor learning.
+Feedback
+Second only to practice, feedback is considered the next most important variable that influences learning. The various types of feedback associated with motor learning are as follows110:
+ Intrinsic versus extrinsic (augmented).
+ Intrinsic. Intrinsic feedback is a natural part of a task.109 It can take the form of a sensory cue (proprioceptive, kinesthetic, tactile, visual, or auditory), or set of cues, inherent in the execution of the motor task. The feedback arises from within the learner and is derived from performance of the task. This type of feedback may immediately follow completion of a task, or may occur even before the task has been completed. This type of feedback is not under conscious control, but the clinician can facilitate it by structuring the task and environment to support effective movement patterns.
+ Extrinsic. Extrinsic feedback is supplemental feedback that is not normally an inherent part of the task. This type of feedback can include sensory cues from an external source (verbal, visual, or auditory). Unlike intrinsic feedback, the clinician can control the type, timing, and frequency of extrinsic feedback.
+Feedback about performance can be provided at a variety of times: Continuous versus intermittent.
+Continuous: is ongoing. This type of feedback improves skill acquisition more quickly during the initial stage of learning than intermittent feedback.
+Intermittent: occurs irregularly and randomly. Intermittent feedback has been shown to promote learning more effectively than continuous feedback.
+Immediate, delayed, and summary.
+Immediate: is given directly after a task is completed. This type of feedback is used most frequently during the cognitive (initial) stage of
+
+
+learning.
+ Delayed: is given after an interval of time elapses, allowing the learner to reflect on how well or poorly a task was done. This type of feedback promotes retention and the generalization of the learned skills.
+ Summary: is given about the average performance of several repetitions of the movement or task. This type of feedback is used most frequently during the associative stage of learning.
+Two other points, related to feedback and motor learning, are knowledge of results (KR) and knowledge of performance (KP):
+ KR: immediate, posttask, extrinsic feedback about the outcome of a motor task. This type of feedback is primarily reserved for instances when individuals are unable to generate this type of information for themselves, or when the information may serve as a motivational tool.109
+
+MEASUREMENT OF FUNCTIONAL OUTCOMES
+Outcomes measurement is a process that describes a systematic method to gauge the effectiveness and efficiency of an intervention in daily clinical practice.117 Effectiveness in this context refers to the outcome of an intervention during the rigors of ordinary and customary care delivery.117 The efficiency of an intervention is a factor of utilization (number of outpatient visits, length of inpatient stay) with the costs of care and outcome. The trend in using outcome measures in the decision making process is consistent with evidence informed practice and represents the final step in the evaluation of clinical performance.118 The clinician should be able to evaluate and choose the appropriate outcome measure for a specific patient population, because the caliber of information that an outcome measurement provides is a function of the sophistication, predictability, and accuracy of the tools or instruments used.119 Sensitivity and specificity are used to describe the accuracy of diagnostic tests (see Chapter 3). Sensitivity is the ability of the test to pick up what it is testing for, and specificity is the ability of the test to reject what it is not testing for.
+
+
+
+
+Measurement instruments must be able to detect change when it has occurred and to remain stable when change has not occurred.121 The more sophisticated, predictable, and accurate the measurement tool, the less chance there is for errors in measurement that make it difficult to ascertain whether true progress has occurred. In an effort to counteract the potential for these measurement errors, the term minimal detectable change has been introduced. Minimum detectable change (MDC) is defined as the minimum amount of change that exceeds measurement error.121 The MDC is a statistical measure of meaningful change and is related to an instrument's reliability.121 Although various methods for calculating the MDC have been proposed, consensus has yet to be reached as to what is the optimal method.122 Unfortunately, statistically significant change using the MDC may not indicate that the change is clinically relevant. The minimum clinically important difference (MCID) is a measure of clinical relevance and indicates the amount of change in scale points that must occur before the change may be considered meaningful.123 The sensitivity of the MCID is represented by the number of patients the outcome measure correctly identifies as having changed an important amount divided by all of the patients who truly changed an important amount.124 The specificity of the MCID is represented by the number of patients the outcome measure correctly identifies as not having changed an important amount divided by all of the patients who truly did not change an important amount.124 Although it is tempting to make the assumption that the minimum level of statistical change (MDC) would be less than or equal to the MCID, the relationship between the MDC and the MCID scores has yet to be determined.123
+In addition to these clinical and statistical measures, the success of an intervention is based on the perspective of the stakeholder.121,125 For example, to the patient, success may be considered as the relief of symptoms. To the payers of healthcare, a successful outcome is likely viewed as one that involved cost efficient patient management.121 Physical therapists tend to define good outcomes as the learning of long term management strategies, relief of symptoms, and improved function.125
+Part of the problem in designing a functional measurement tool is that function is highly individual, with multiple levels of difficulty and a high degree of specificity. The traditional outcome measurements have been divided into those that assess upper extremity function, those that assess lower extremity function, and those that measure the performance of basic and instrumental activities of daily living (BADLs and IADLs). Functional measurement tools for the upper extremity have involved an assessment of coordination and dexterity measurements, whereas functional measurements for the lower extremity have included the ability of the patient to perform sit to stand transfers, standing balance, ambulation, and stair negotiation. Some of the measurement tools that have been devised to assess the performance of BADLs and IADLs include:
+Physical Performance Test (PPT).126 The PPT is a performance based measure of both BADLs and IADLs that has been used to describe and monitor physical performance. The PPT takes about 10 minutes to administer. Scoring is based on the time taken to complete a series of usual daily tasks, such as writing a sentence, simulated eating, donning and doffing a jacket, turning 360  when standing, lifting a book, picking up a penny from the floor, and walking 50 feet.
+Functional Status Questionnaire (FSQ).127 The FSQ is a self report measure of physical, psychologic, and social role functions in patients who are ambulatory. The test takes about 15 minutes and has been found to have both construct and convergent reliability.127
+Sickness Impact Profile (SIP).128 The SIP is a widely used health status measure. It measures both physical and psychosocial outcomes from
+
+
+the patient's perspective. The SIP is composed of 136 items that address the following areas: ambulation, mobility, body care and movement, social interaction, communication, alertness, emotional behavior, sleep and rest, eating, work, home management, and recreation and pastime activities. The SIP questionnaire has been extensively and successfully tested for its internal consistency, external validity, responsiveness to changes over time, and test retest reliability in a wide range of clinical situations.129
+The FIM+FAM (Table 7 7). The Functional Independence Measure (FIM) is an 18 item, seven level ordinal scale intended to be sensitive to change in an individual over the course of a comprehensive inpatient medical rehabilitation program. The 12 items of the Functional Assessment Measure (FAM), not be confused with the Functional Rating Index,130 were developed as an adjunct to the FIM to specifically address the major functional areas that are relatively less emphasized in the FIM, including measures of cognition, such as community integration, emotional status, orientation, attention, reading and writing skills, and employability. The FIM+FAM scale was originally intended for patients with brain injury, but is useful in all rehabilitation settings.
+Patient Specific Functional Scale (PSFS)131 (Table 7 8). The PSFS is a patient specific outcome measure, which investigates functional status by asking the patient to nominate activities that are difficult to perform based on his or her condition and rate the level of limitation with each activity.132 The PSFS has been shown to be valid and responsive to change for patients with various clinical conditions, including knee pain,133 low back pain,131 neck pain,134 and cervical radiculopathy.132
+Short Musculoskeletal Function Assessment (SMFA)135 (Table 7 9). The SMFA consists of a 46 item questionnaire (see Table 7 9). The first 34 items refer to activities of daily living. The patient ranks his or her perceived difficulty or problems with these tasks to provide a dysfunction index. The 12 remaining items are ranked according to how much they bother the patient and provide the clinician with a bother index.
+
+
+TABLE 7 7
+The FIM+FAM 
+
+Self care
+1. Eating
+2. Grooming
+3. Bathing/showering
+4. Dressing upper body
+5. Dressing lower body
+6. Toileting
+7. Swallowing*
+Sphincters
+1. Bladder management
+2. Bowel management
+Mobility 
+1. Transfers: bed/chair/wheelchair
+2. Transfers: toilet
+3. Transfers: bathtub/shower
+4. Transfers: car*
+5. Locomotion: walking/wheelchair
+6. Locomotion: stairs
+7. Community mobility*
+Communication 
+1. Expression
+2. Comprehension
+3. Reading*
+4. Writing*
+5. Speech intelligibility*
+Psychosocial 
+1. Social interaction
+2. Emotional status*
+3. Adjustment to limitations*
+4. Employability*
+Cognition 
+1. Problem solving
+2. Memory
+3. Orientation*
+4. Attention*
+5. Safety judgment*
+*FAM items.
+Seven levels for each item
+Level Description
+7 Complete independence. Fully independent
+6 Modified independence. Requiring the use of a device but no physical help
+5 Supervision. Requiring only standby assistance or verbal prompting or help with set up
+4 Minimal assistance. Requiring incidental hands on help only (subject performs > 75% of the task) 3 Moderate assistance. Subject still performs 50 75% of the task
+2 Maximal assistance. Subject provides less than half of the effort (25 49%)
+1 Total assistance. Subject contributes < 25% of the effort or is unable to do the task.
+
+Do not leave any score blank.
+Score 1 if the subject does not perform the activity at all, or if no information is available. If function is variable, use the lower score
+
+
+Data from: Dickson, H. G. and F. Kohler (1999). "Functional independence measure (FIM)." Scand J Rehabil Med. 31(1): 63 64;
+Hamilton BB, Granger CV, Sherwin FS, et al. A uniform national data system for medical rehabilitation. In: Fuhrer MJ, editor. Rehabilitation Outcomes: analysis and measurement. Baltimore, MD: Brookes; 1987. pp. 137 47.
+Stineman MG, Jette A, Fiedler R, et al. Impairment specific dimensions within the Functional Independence Measure. Arch Phys Med Rehabil. 1997;78: 636 43.
+Hall KM, Mann N, High WM, et al. Functional measures after traumatic brain injury: ceiling effects of FIM, FIM+FAM, DRS and CIQ. J Head Trauma Rehabil. 1996; 11: 27  39.
+Turner Stokes L, Nyein K, Turner Stokes T, et al. The UK FIM+FAM: development and evaluation. Clin Rehabil. 1999; 13: 277 87.
+
+
+TABLE 7 8
+The Patient Specific Functional Scale. This Useful Questionnaire Can Be Used to Quantify Activity Limitation and Measure Functional Outcome for Patients with any Orthopedic Condition.
+
+TABLE 7 9
+Short Musculoskeletal Function Assessment (SMFA)
+
+
+
+INSTRUCTIONS
+
+
+We are interested in finding out how you are managing with your injury or arthritis this week. We would like to know about any problems you may be having with your daily activities because of your injury or arthritis.
+Please answer each question by putting a check in the box corresponding to the choice that best describes you.
+These questions are about how much difficulty you may be having this week with your daily activities because of your injury or arthritis.
+
+
+
+Not at All Difficult
+A Little Difficult
+Moderately Difficult
+Very Difficult
+Unable to Do 
+
+
+1. How difficult is it for you to get in or out of a low chair?
+?
+?
+?
+?
+?
+
+
+2. How difficult is it for you to open medicine bottles or jars?
+?
+?
+?
+?
+?
+
+
+3. How difficult is it for you to shop for groceries or other things?
+?
+?
+?
+?
+?
+
+
+4. How difficult is it for you to climb stairs?
+?
+?
+?
+?
+?
+
+
+5. How difficult is it for you to make a tight fist?
+?
+?
+?
+?
+?
+
+
+6. How difficult is it for you to get in or out of the bathtub or shower?
+?
+?
+?
+?
+?
+
+
+7. How difficult is it for you to get comfortable sleep?
+?
+?
+?
+?
+?
+
+
+8. How difficult is it for you to bend or kneel down?
+?
+?
+?
+?
+?
+
+
+
+
+
+
+
+
+
+
+
+
+
+9. How difficult is it for you to use buttons, snaps, hooks, or zippers?
+?
+?
+?
+?
+?
+
+
+
+
+10. How difficult is it for you to cut your own fingernails?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+
+
+
+11. How difficult is it for you to dress yourself?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+
+
+
+12. How difficult is it for you to walk?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+
+
+
+13. How difficult is it for you to get moving after you have been sitting or lying down?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+
+
+
+14. How difficult is it for you to go out by yourself?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+
+
+
+15. How difficult is it for you to drive?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+
+
+
+16. How difficult is it for you to clean yourself after going to the bathroom?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+
+
+
+17. How difficult is it for you to turn knobs or levers (for example, to open doors or to roll down car windows)?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+
+
+
+18. How difficult is it for you to write or type?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+
+
+
+19. How difficult is it for you to pivot?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+
+
+
+20. How difficult is it for you to do your usual physical recreational activities, such as bicycling, jogging, or walking?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+
+
+
+21. How difficult is it for you to do your usual leisure activities, such as hobbies, crafts, gardening, card playing, or going out with friends?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+
+
+
+22. How much difficulty are you having with sexual activity?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+
+
+
+23. How difficult is it for you to do light housework or yard work, such as dusting, washing dishes, or watering plants?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+
+
+
+24. How difficult is it for you to do heavy housework or yard work; such as washing floors, vacuuming, or mowing lawns?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+
+
+
+25. How difficult is it for you to do your usual work, such as a paid job, housework, or volunteer activities?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+
+
+
+The following questions ask how often you are experiencing problems this week because of your injury or arthritis.
+
+
+
+
+
+Not at All 
+A Little of the Time 
+Some of the Time 
+Most of the Time 
+All of the Time 
+
+
+
+
+26. How often do you walk with a limp?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+
+
+
+27. How often do you avoid using your painful limb(s) or back?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+
+
+
+28. How often does your leg lock or give way?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29. How often do you have problems with concentration?
+?
+?
+?
+?
+?
+
+
+30. How often does doing too much in one day affect what you do the next day?
+?
+?
+?
+?
+?
+
+
+31. How often do you act irritable toward those around you (for example, snap at people, give sharp answers, or criticize easily)?
+?
+?
+?
+?
+?
+
+
+32. How often are you tired?
+?
+?
+?
+?
+?
+
+
+33. How often do you feel disabled?
+?
+?
+?
+?
+?
+
+
+34. How often do you feel angry or frustrated that you have this injury or arthritis?
+?
+?
+?
+?
+?
+
+
+These questions are about how much you are bothered by problems you are having this week because of your injury or arthritis.
+
+
+
+Not at All Bothered 
+A Little Bothered 
+Moderately Bothered 
+Very Bothered 
+Extremely Bothered 
+
+
+35. How much are you bothered by problems using your hands, arms, or legs?
+?
+?
+?
+?
+?
+
+
+36. How much are you bothered by problems using your back?
+?
+?
+?
+?
+?
+
+
+37. How much are you bothered by problems doing work around your home?
+?
+?
+?
+?
+?
+
+
+38. How much are you bothered by problems with bathing, dressing, toileting, or other personal care?
+?
+?
+?
+?
+?
+
+
+39. How much are you bothered by problems with sleep and rest?
+?
+?
+?
+?
+?
+
+
+40. How much are you bothered by problems with leisure or recreational activities?
+?
+?
+?
+?
+?
+
+
+41. How much are you bothered by problems with your friends, family, or other important people in your life?
+?
+?
+?
+?
+?
+
+
+42. How much are you bothered by problems with thinking, concentrating, or remembering?
+?
+?
+?
+?
+?
+
+
+43. How much are you bothered by problems adjusting or coping with your injury or arthritis?
+?
+?
+?
+?
+?
+
+
+44. How much are you bothered by problems doing your usual work?
+?
+?
+?
+?
+?
+
+
+45. How much are you bothered by problems with feeling dependent on others?
+?
+?
+?
+?
+?
+
+
+46. How much are you bothered by problems with stiffness and pain?
+?
+?
+?
+?
+?
+
+
+
+Data from Swiontkowski MF, Engelberg R, Martin DP, et al: Short musculoskeletal function assessment questionnaire: validity, reliability, and responsiveness. J Bone
+
+
+Joint Surg 81A:1256 1258, 1999.
+Although these tests measure some of the components of function, they are not multidimensional. For example, they do not always address the patient's value system or the patient's overall physical performance in his or her own environment. It is very difficult to extrapolate examination results from the clinical outcomes of pain, strength, and range of motion to specific and meaningful changes in function and quality of life.
+It is now commonly agreed that a satisfactory outcome measure should include both subjective and objective measures of quality of life issues. Health related quality of life (HRQOL) represents the total effect of individual and environmental factors on an individual's function and health status, including physical, mental, pain, function, and satisfaction. The term health related quality of life is often used interchangeably with the terms functional status, health status, and health outcomes. The definitions of these terms however, might range from negatively valued aspects of life, such as death, to more positively valued aspects, such as social functioning or happiness.136, 137, 138, 139, 140, 141 and 142
+Traditionally HRQOL outcomes have been regarded as soft measures, as they have been perceived as subjective and easily influenced by a patient who exaggerates symptoms or disability. These patient influences are not limited to questionnaires, because mood, motivation, and other psychosocial issues can prejudice physiologic measurements such as range of motion, strength, and the ability to perform functional tasks.143 There are three general psychometric criteria that should be established in HRQOL measures before they are endorsed: reliability, validity, and responsiveness (the ability of the questionnaire to detect clinically relevant changes or differences, which varies depending on the type of question in the patient population being evaluated).
+Generic instruments have been designed in an attempt to evaluate HRQOL. The major advantage of generic instruments is that they deal with a variety of areas in any population regardless of the underlying disease.143 The SF 36 is perhaps the most well known of these generic tools:
+ 36 Item Short Form Health Survey (SF 36).144 The SF 36 is a general measure of health status, using a self report with eight subscales of health. The acute version of the test takes about 7 to 10 minutes to complete, is moderately easy to score, and asks questions about physical, social, emotional role, and physical role function; mental health; energy; pain; and general health perception. Previous research has shown that, compared with other generic instruments, the SF 36 is a reliable and valid generic measure of the health of patients.145 Although this test is a good tool for overall function, it is not specific to functional problems at specific joints, and it is recommended that it be used in conjunction with tests that are specific to the patient's dysfunctional joint.145
+Disease specific measures are questionnaires that concentrate on a region of primary interest that is generally relevant to the patient and clinician.143 As a result of this focus on a regional disease state, the likelihood of increased responsiveness is higher. Some examples of the primary focus of these instruments include populations (rheumatoid arthritis), symptoms (back pain), and function (activities of daily living).143 The disadvantage of a disease specific outcome is that general information is lost, and therefore, it is generally recommended that when evaluating patient outcomes, both a disease specific and generic outcome measure should be used.143
+Felce and Perry139 have proposed a model of HRQL that integrates subjective and objective indicators, reflecting a broad range of life domains, through an individual ranking of the relative importance of each domain (Figure 7 1). These domains are physical well being, material well being, social well being, development and activity, and emotional well being. The Felce and Perry model139 is designed to address the concern that objective data should not be interpreted without reference to personal autonomy, preferences, and concerns. It is critical that the outcome measures chosen by the physical therapist evaluate functional improvement as perceived by the patient.
+
+FIGURE 7 1
+
+
+A model of quality of life. (Reproduced with permission from Felce D, Perry J: Quality of life: Its definition and measurement. Res Dev Disabil 16:51 74, 1995.)
+
+
+
+Another example of a HQROL is Patrick's model of health promotion for people with disabilities,136 which depicts four broad planes of outcome: total environment, opportunity, disabling process, and quality of life (Figure 7 2).
+
+FIGURE 7 2
+
+
+Patrick's model.
+
+
+
+ Total environment. This plane includes the individual's biologic and genetic makeup, demographic characteristics (race, gender, age), lifestyle behaviors (smoking, exercise, diet, risk taking), health and social care systems, and physical and social characteristics of the environment.
+ Opportunity. This plane represents outcomes related to independent living, economic self sufficiency, equality of rights or status, and full participation in community life. Opportunity represents the interaction between the total environment of the individual at his or her particular stage of life course, and the disabling process.
+ Disabling process. This plane represents the theoretical progression from disease or injury to the restriction of activities. The disablement outcomes represented in this plane include disease or injury, impairment, functional limitation, and activity restriction or disability.
+ Quality of life. This plane represents a distinct outcome that includes people's perceptions of their position in life in the context of their particular culture and value system and in relation to their personal goals, expectations, standards, and concerns.
+According to Patrick, the elements within these planes do not constitute a linear or temporal process, in that they do not occur in an entirely unilateral direction.136 Patrick suggests that quality of life outcomes are influenced by the other three planes, and that the disabling process may be halted or reversed at any of the interaction points in the model. Under such a model, the intervention includes the restoration or maintenance of functional status, the promotion of opportunity, and alterations to the patient's environment and individual behavior.136
+PATIENT EXAMPLE PUTTING IT ALL TOGETHER
+Essential to any patient progression is a correct diagnosis and evaluation. It is a common belief in physical therapy that arriving at a correct diagnosis is more complicated and complex than designing an intervention plan. That said, intervention planning is not always a simple process, as there are many factors to consider based on the principles of motor development and motor learning. For example, the following have to be considered:
+ Practice schedule
+ Amount of practice  Type of task
+
+
+ Stage of the learner
+ Amount and type of feedback  Environmental influences
+This can be overwhelming for the novice physical therapist and can often deter the application of these theories into an intervention program. In addition, the conventional therapeutic objectives such as increasing flexibility and muscle strength and using appropriate postures are important, because contractures, weakness, and inadequate postural control all can be major obstacles to functional movement. However, rather than address these impairments as individual entities, they should be addressed according to how they affect participation in meaningful activities. For example, strengthening can be accomplished using one's body weight for resistance. Embedding repeated practice of standing up and sitting down into task  related activities (e.g., standing at the sink, applying makeup, attending a yoga class) leads to increased strength, skill, and decreased muscle stiffness.
+The following framework for goal directed training, based on the one designed by Mastos et al,146 is recommended to give the novice some guidance:  The first component of goal directed training is the selection of a meaningful goal.
+ The second component of goal directed training is to assess baseline performance.  The third component of goal directed training is to perform a task analysis.
+ The fourth component of goal directed training is to design an intervention.
+ The fifth component of goal directed training is to evaluate the outcome of the therapy goal.
+To best illustrate the application of these theories, the following patient example uses the preceding framework113:
+A 14 year old patient presents with a history of an acquired brain injury (ABI) from a motor vehicle accident (MVA) 4 years previously. The medical diagnosis on the prescription is given as "Moderate ABI."
+The patient history reveals that the patient is living at home and is receiving school based consultation from a physical therapist.
+The examination reveals that the patient has left sided spastic hemiplegia as a result of the ABI but is fortunately right handed; he requires the use of a powered wheelchair for community based activities.
+The patient and his parents are concerned that he seldom plays with classmates or friends, in part because of his limited motor skills. Based on these concerns, the patient and his parents, together with the school physical therapist, identified the functional goal of increasing the patient's playtime with appropriate friends in his neighborhood (first component of goal directed training). The patient's specific goal was to learn how to bowl so that he could go bowling with a group of neighborhood friends.
+To assess baseline performance (second component of goal directed training), the school physical therapist analyzed the patient's functional abilities with his right upper extremity (person), while sitting in his wheelchair in the bowling alley (environment), and performing the desired task (bowling). Because the patient had no difficulty grasping the bowling ball by inserting his fingers into the three holes but did have trouble releasing it, the therapist performed a task analysis of the motor skills required (third component of goal directed training) to release the ball in order to propel it down the lane. As it was also determined that there were no specific environmental constraints caused by the patient's wheelchair or with accessibility to the bowling alleys and lanes, the physical therapist decided to develop a motor learning based intervention program to assist with developing the ability to release the bowling ball. To accomplish this, the physical therapist developed the following initial therapy objective: "While sitting in his wheelchair in a specified 'practice lane' at the local bowling alley, the patient will release the bowling ball onto the lane independently four out of five times within an eight minute period with physical assistance and verbal cueing from his physical therapist."
+The intervention (fourth component of goal directed training) was based on Fitts and Posner's107 three stages of motor learning:
+In the first or cognitive stage, the physical therapist asked the patient to try to problem solve, or think through the necessary skills required to release the bowling ball. The physical therapist then provided both physical cueing and verbal instructions to facilitate the release of the ball.
+
+
+ In the second or associative stage, the physical therapist asked the patient to release the ball on the bowling alley without any added physical assistance from the physical therapist but with continued verbal cueing. The patient was allowed to make errors and to learn from those errors as he repeatedly attempted (practiced) releasing the ball onto the alley.
+ During the third stage of learning, the autonomous stage, the patient was able to consistently release the ball onto the alley without the need for verbal cueing from the physical therapist.
+The outcome of the initial specific therapy objective (fifth component of goal directed training) was evaluated independently by the physical therapist.
+THE FUTURE
+In the current era of increasing accountability for healthcare services, the issues of quality and access to healthcare are of overriding importance. Improvements in accountability must clearly include indicators of efficiency.143 The correct selection and application of standardized outcome measurement instruments is a fundamental component of the clinical decision making process. and Dobrzykowski121 recommend the following guidelines to assist the clinician in their selection:
+1. Select an instrument with known reliability, validity, and demonstrated sensitivity to change.
+2. Administer the instrument on intake, reassessment, and on discharge, and know the suggested time frame for repeat administration.
+3. Be familiar with the scoring procedure for the chosen instrument.
+4. Complete the scoring accurately.
+5. Document the health related quality of life (HRQOL) at intake, discharge, and when change in scores occur on the patient record.
+6. Understand the clinical meaning of the range of scores.
+7. Be familiar with the minimum detectable change (MDC) and the minimum clinically important difference (MCID) for the scale.
+8. Establish a treatment goal for change of the HRQOL score that is greater than the MDC or MCID for the instrument, if these are known.
+9. Assess changes in HRQOL scores and compare to the known MDC for the instrument to determine if true change has been made.
+10. Analyze outcomes to evaluate treatment effectiveness and efficiency.
+REFERENCES
+
+1. Shumway Cook A, Woollacott MH: A conceptual framework for clinical practice, in Shumway Cook A, Woollacott MH (eds): Motor control  Translating research into clinical practice. Philadelphia, Lippincott Williams & Wilkins, 2007, pp 137 153.
+
+2. Jette DU, Grover L, Keck CP: A qualitative study of clinical decision making in recommending discharge placement from the acute care setting. Phys Ther 83:224 236, 2003. [PubMed: 12620087] 
+
+3. Sullivan PE, Puniello MS, Pardasaney PK: Rehabilitation program development: clinical decision making, prioritization, and program integration, in Magee D, Zachazewski JE, Quillen WS (eds): Scientific foundations and principles of practice in musculoskeletal rehabilitation. St Louis, WB Saunders, 2007, pp 314 327.
+
+4. Hungerford DS, Lennox DW: Rehabilitation of the knee in disorders of the patellofemoral joint: Relevant biomechanics. Orthop Clin North Am 14:397 444, 1983. [PubMed: 6843975] 
+
+5. Smith MJ: Electrical stimulation for the relief of musculoskeletal pain. Phys Sports Med 11:47 55, 1983.
+
+
+CrossRef
+
+6. Goth RS et al. e: Electrical stimulation effect on extensor lag and length of hospital stay after total knee arthroplasty. Arch Phys Med Rehabil 75:957, 1994. [PubMed: 8085929] 
+
+7. Magora F, Aladjemoff L, Tannenbaum J et al.: Treatment of pain by transcutaneous electrical stimulation. Acta Anaesthesiol Scand 22:589 592, 1978.
+CrossRef [PubMed: 310231] 
+
+8. Mannheimer JS, Lampe GN: Clinical Transcutaneous Electrical Nerve Stimulation. Philadelphia, FA Davis, 1984, pp 440 445.
+
+9. Woolf CF: Segmental afferent fiber induced analgesia: transcutaneous electrical nerve stimulation (TENS) and vibration, in Wall PD, Melzack R (eds): Textbook of Pain. New York, Churchill Livingstone, 1989, pp 884 896.
+
+10. Smith MJ, Hutchins RC, Hehenberger D: Transcutaneous neural stimulation use in post operative knee rehabilitation. Am J Sports Med 11:75 82, 1983.
+CrossRef [PubMed: 6601917] 
+
+11. Long DM: Fifteen years of transcutaneous electrical stimulation for pain control. Stereotact Funct Neurosurg 56:2 19, 1991. CrossRef [PubMed: 1947498] 
+
+12. Fried T, Johnson R, McCracken W: Transcutaneous electrical nerve stimulation: its role in the control of chronic pain. Arch Phys Med Rehabil 65:228 31, 1984. [PubMed: 6231902]
+13. Eriksson MBE, Sj lund BH, Nielzen S: Long term results of peripheral conditioning stimulation as an analgesic measure in chronic pain. Pain 6:335 347, 1979.
+CrossRef [PubMed: 313551]
+14. Fishbain DA, Chabal C, Abbott A et al.: Transcutaneous electrical nerve stimulation (TENS) treatment outcome in long term users. Clin J Pain 12:201 214, 1996.
+CrossRef [PubMed: 8866161]
+15. Ishimaru K, Kawakita K, Sakita M: Analgesic effects induced by TENS and electroacupuncture with different types of stimulating electrodes on deep tissues in human subjects. Pain 63:181 187, 1995.
+CrossRef [PubMed: 8628583]
+16. Eriksson MBE, Sj lund BH, Sundb rg G: Pain relief from peripheral conditioning stimulation in patients with chronic facial pain. J Neurosurg 61:149 155, 1984.
+CrossRef [PubMed: 6610027]
+17. Murphy GJ: Utilization of transcutaneous electrical nerve stimulation in managing craniofacial pain. Clin J Pain 6:64 69, 1990. CrossRef [PubMed: 2135000]
+18. Melzack R: The gate theory revisited, in LeRoy PL (ed): Current Concepts in the Management of Chronic Pain. Miami, Symposia Specialists, 1977, pp 43 65.
+19. Salar G: Effect of transcutaneous electrotherapy on CSF beta endorphin content in patients without pain problems. Pain 10:169 172, 1981.
+
+
+
+
+20. Clement Jones V: Increased beta endorphin but not metenkephalin levels in human cerebrospinal fluid after acupuncture for recurrent pain. Lancet 8:946 948, 1980.
+CrossRef
+
+21. Feibel A, Fast A: Deep heating of joints: A reconsideration. Arch Phys Med Rehabil 57:513 514, 1976. [PubMed: 985053] 
+
+22. Clark D, Stelmach G: Muscle fatigue and recovery curve parameters at various temperatures. Res Q 37:468 479, 1966. [PubMed: 5232449]
+
+
+23. Baker R, Bell G: The effect of therapeutic modalities on blood flow in the human calf. J Orthop Sports Phys Ther 13:23, 1991. CrossRef [PubMed: 18796859] 
+
+24. Knight KL, Aquino J, Johannes SM et al.: A re examination of Lewis' cold induced vasodilation in the finger and ankle. Athl Training 15:248 250, 1980.
+
+25. Zankel H: Effect of physical agents on motor conduction velocity of the ulnar nerve. Arch Phys Med Rehabil 47:197 199, 1994.
+
+26. Abramson DI, Bell B, Tuck S: Changes in blood flow, oxygen uptake and tissue temperatures produced by therapeutic physical agents: effect of indirect or reflex vasodilation. Am J Phys Med 40:5 13, 1961. [PubMed: 13681128] 
+
+27. Frizzell LA, Dunn F: Biophysics of ultrasound, in Lehman JF (ed): Therapeutic Heat and Cold (ed 3). Baltimore, Williams & Wilkins, 1982, pp 353  385.
+
+28. Lehman JF, Masock AJ, Warren CG et al.: Effect of therapeutic temperatures on tendon extensibility. Arch Phys Med Rehabil 51:481 487, 1970. [PubMed: 5448112] 
+
+29. Kalenak A, Medlar CE, Fleagle SB et al.: Athletic injuries: heat vs cold. Am Fam Physician 12:131 34, 1975. [PubMed: 1199907] 
+
+30. Michlovitz SL: The use of heat and cold in the management of rheumatic diseases, in Michlovitz SL (ed): Thermal Agents in Rehabilitation. Philadelphia, FA Davis, 1990, pp 158 174.
+
+31. Barcroft H, Edholm OS: The effect of temperature on blood flow and deep temperature in the human forearm. J Physiol 102:5 20, 1943. CrossRef [PubMed: 16991588] 
+
+32. Griffin JG: Physiological effects of ultrasonic energy as it is used clinically. J Am Phys Ther Assoc 46:18, 1966.
+
+33. Knight KL: Cryotherapy: Theory, Technique, and Physiology. Chattanooga, TN, Chattanooga Corp, 1985.
+
+34. Hocutt JE, Jaffee R, Rylander R et al.: Cryotherapy in ankle sprains. Am J Sports Med 10:316 319, 1982. CrossRef [PubMed: 6814272] 
+
+35. Quillen WS, Rouillier LH: Initial management of acute ankle sprains with rapid pulsed pneumatic compression and cold. J Orthop Sports Phys Ther 4:39 43, 1981.
+CrossRef
+
+36. Starkey JA: Treatment of ankle sprains by simultaneous use of intermittent compression and ice packs. Am J Sports Med 4:142 143, 1976.
+
+
+
+
+37. Wilkerson GB: Treatment of ankle sprains with external compression and early mobilization. Phys Sports Med 13:83 90, 1985.
+
+38. McMaster WC, Liddle S, Waugh TR: Laboratory evaluation of various cold therapy modalities. Am J Sports Med 6:291 294, 1978. CrossRef [PubMed: 707689] 
+
+39. Daniel DM, Stone ML, Arendt DL: The effect of cold therapy on pain, swelling, and range of motion after anterior cruciate ligament reconstructive surgery. Arthroscopy 10:530 533, 1994.
+CrossRef [PubMed: 7999161] 
+
+40. Konrath GA, Lock T, Goitz HT et al.: The use of cold therapy after anterior cruciate ligament reconstruction. A prospective randomized study and literature review. Am J Sports Med 24:629 633, 1996.
+CrossRef [PubMed: 8883683] 
+
+41. Speer KP, Warren RF, Horowitz L: The efficacy of cryotherapy in the postoperative shoulder. J Shoulder Elbow Surg 5:62 68, 1996. CrossRef [PubMed: 8919444] 
+
+42. Knight KL: Cryotherapy in Sports Injury Management. Champaign, Ill, Human Kinetics, 1995.
+
+43. Kellett J: Acute soft tissue injuries: a review of the literature. Med Sci Sports Exerc 18:5, 1986. CrossRef
+
+44. McMaster WC: A literary review on ice therapy in injuries. Am J Sports Med 5:124 126, 1977. CrossRef [PubMed: 871181] 
+
+45. Hartviksen K: Ice therapy in spasticity. Acta Neurol Scand 3(Suppl):79 84, 1962. CrossRef
+
+46. Basset SW, Lake BM: Use of cold applications in the management of spasticity. Phys Ther Rev 38:333 334, 1958. [PubMed: 13553792]
+
+
+47. Lamboni P, Harris B: The use of ice, air splints, and high voltage galvanic stimulation in effusion reduction. Athl. Training 18:23 25, 1983.
+
+48. McMaster WC: Cryotherapy. Phys Sports Med 10:112 119, 1982. CrossRef
+
+49. Waylonis GW: The physiological effects of ice massage. Arch Phys Med Rehabil 48:42 47, 1967.
+
+50. Threlkeld AJ: The effects of manual therapy on connective tissue. Phys Ther 72:893 902, 1992. [PubMed: 1454865] 
+
+51. Maitland G: Vertebral Manipulation. Sydney, Butterworth, 1986.
+
+52. Kaltenborn FM: Manual Mobilization of the Extremity Joints: Basic Examination and Treatment Techniques (ed 4). Oslo, Olaf Norlis Bokhandel, Universitetsgaten, 1989.
+
+53. Jull GA, Janda V: Muscle and motor control in low back pain, in Twomey LT, Taylor JR (eds): Physical Therapy of the Low Back: Clinics in Physical Therapy. New York, Churchill Livingstone, 1987, pp 258 278.
+
+
+
+54. Voss DE, Ionta MK, Myers DJ: Proprioceptive Neuromuscular Facilitation: Patterns and Techniques (ed 3). Philadelphia, Harper & Row, 1985, pp 1  342.
+
+55. Pollard H, Ward G: A study of two stretching techniques for improving hip flexion range of motion. J Man Physiol Ther 20:443 447, 1997.
+
+56. Rhea MR, Alvar BA, Burkett LN et al.: A meta analysis to determine the dose response for strength development. Med Sci Sports Exerc 35:456 64, 2003.
+CrossRef [PubMed: 12618576] 
+
+57. Albert M: Concepts of muscle training, in Wadsworth C (ed): Orthopaedic Physical Therapy: Topic Strength and Conditioning Applications in Orthopaedics Home Study Course 98A. La Crosse, Wisc, Orthopaedic Section, APTA, Inc, 1998.
+
+58. Grimsby O, Power B: Manual therapy approach to knee ligament rehabilitation, in Ellenbecker TS (ed): Knee Ligament Rehabilitation. Philadelphia, Churchill Livingstone, 2000, pp 236 251.
+
+59. Pollock ML, Gaesser GA, Butcher JD et al.: The recommended quantity and quality of exercise for developing and maintaining cardiorespiratory and muscular fitness, and flexibility in healthy adults: American College of Sports Medicine Position Stand. Med Sci Sports Exerc 30:975 991, 1998. CrossRef [PubMed: 9624661] 
+
+60. Sporer BC, Wenger HA: Effects of aerobic exercise on strength performance following various periods of recovery. J Strength Cond Res 17:638  644, 2003. [PubMed: 14636098] 
+
+61. Wenger HA, McFadyen PF, Middleton L et al.: Physiological principles of conditioning for the injured and disabled, in Magee D, Zachazewski JE, Quillen WS (eds): Scientific Foundations and Principles of Practice in Musculoskeletal Rehabilitation. St Louis, WB Saunders, 2007, pp 357 374.
+
+62. Bahr R: Principles of injury prevention, in Brukner P, Khan K (eds): Clinical Sports Medicine (ed 3). Sydney, McGraw Hill, 2007, pp 78 101.
+
+63. Fleck SJ, Kraemer WJ: Designing resistance training programs (ed 2). Champaign, Ill, Human Kinetics Books, 1997.
+
+64. Simoneau GG, Bereda SM, Sobush DC et al.: Biomechanics of elastic resistance in therapeutic exercise programs. J Orthop Sports Phys Ther 31:16 24, 2001.
+CrossRef [PubMed: 11204792] 
+
+65. Shepley B, MacDougall JD, Cipriano N et al.: Physiological effects of tapering in highly trained athletes. J Appl Physiol 72:706 711, 1992. [PubMed: 1559951] 
+
+66. Borg GAV: Psychophysical basis of perceived exertion. Med Sci Sports Exerc 14:377 381, 1992.
+
+67. Borg GAV: Perceived exertion as an indicator of somatic stress. Scand J Rehabil Med 2:92 98, 1970. [PubMed: 5523831] 
+
+68. Canavan PK: Designing a rehabilitation program related to strength and conditioning, in Wilmarth MA (ed): Orthopaedic Physical Therapy: Topic  Strength and Conditioning Independent Study Course 15.3. La Crosse, Wisc, Orthopaedic Section, APTA, Inc, 2005.
+
+69. Pearson D, Faigenbaum A, Conley M et al.: The National Strength and Conditioning Association's basic guidelines for resistance training of athletes. Strength Cond 22:14 27, 2000.
+
+70. Joynt RL: Therapeutic exercise, in DeLisa JA (ed): Rehabilitation Medicine: Principles and Practice. Philadelphia, JB Lippincott, 1988, pp 346 371.
+
+71. Yoder E: Physical therapy management of nonsurgical hip problems in adults, in Echternach JL (ed): Physical Therapy of the Hip. New York,
+
+
+Churchill Livingstone, 1990, pp 103 137.
+
+72. Travell JG, Simons DG: Myofascial Pain and Dysfunction The Trigger Point Manual. Baltimore, Williams & Wilkins, 1983.
+
+73. Swezey RL: Arthrosis, in Basmajian JV, Kirby RL (eds): Medical Rehabilitation. Baltimore, Williams & Wilkins, 1984, pp 216 218.
+
+74. Kottke FJ: Therapeutic exercise to maintain mobility, in Kottke FJ, Stillwell GK, Lehman JF (eds): Krusen's Handbook of Physical Medicine and Rehabilitation. Baltimore, WB Saunders, 1982, pp 389 402.
+
+75. Wallman HW: Stretching and flexibility, in Wilmarth MA (ed): Orthopaedic Physical Therapy: Topic Strength and Conditioning Independent Study Course 15.3. La Crosse, Wisc, Orthopaedic Section, APTA, Inc, 2005.
+
+76. Nelson RT: A comparison of the immediate effects of eccentric training vs. static stretch on hamstring flexibility in high school and college athletes. North Am J Sports Phys Ther 1:56 61, 2006.
+
+77. Thacker SB, Gilchrist J, Stroup DF et al.: The impact of stretching on sports injury risk: a systematic review of the literature. Med Sci Sports Exerc 36:371 378, 2004.
+CrossRef [PubMed: 15076777] 
+
+78. Herbert RD, Gabriel M: Effects of stretching before and after exercising on muscle soreness and risk of injury: systematic review. BMJ 325:468, 2002. CrossRef [PubMed: 12202327] 
+
+79. Shrier I: Does stretching improve performance? A systematic and critical review of the literature. Clin J Sport Med 14:267 273, 2004. CrossRef [PubMed: 15377965] 
+
+80. Murphy DR: A critical look at static stretching: Are we doing our patient harm? Chiropractic Sports Med 5:67 70, 1991.
+
+81. Prentice WE: Impaired mobility: Restoring range of motion and improving flexibility, in Voight ML, Hoogenboom BJ, Prentice WE (eds): Musculoskeletal Interventions: Techniques for Therapeutic Exercise. New York, McGraw Hill, 2007, pp 165 180.
+
+82. Markos PD: Ipsilateral and contralateral effects of proprioceptive neuromuscular facilitation techniques on hip motion and electro myographic activity. Phys Ther 59:1366, 1979. [PubMed: 493351] 
+
+83. Holt LE, Travis TM, Okita T: Comparative study of three stretching techniques. Percep Motor Skills 31:611 616, 1970. CrossRef
+
+84. Tanigawa MC: Comparison of hold relax procedure and passive mobilization on increasing muscle length. Phys Ther 52:725 735, 1972. [PubMed: 5034102] 
+
+85. Sady SP, Wortman MA, Blanke D: Flexibility training: Ballistic, static or proprioceptive neuromuscular facilitation? Arch Phys Med Rehabil 63:261  263, 1982. [PubMed: 7082151] 
+
+86. Prentice WE: A comparison of static stretching and PNF stretching for improving hip joint flexibility. Athl Train 18:56 59, 1983.
+
+87. Hartley O'Brien SJ: Six mobilization exercises for active range of hip flexion. Res Q 51:625 635, 1980.
+
+88. Muir IW, Chesworth BM, Vandervoort AA: Effect of a static calf stretching exercise on the resistive torque during passive ankle dorsiflexion in healthy subjects. J Orthop Sports Phys Ther 29:106 113; discussion 114 115, 1999.
+CrossRef [PubMed: 10322585] 
+
+
+
+89. DeVries HA: Evaluation of static stretching procedures for improvement of flexibility. Res Q 33:222 229, 1962.
+
+90. Logan GA, Egstrom GH: Effects of slow and fast stretching on sacrofemoral angle. J Assoc Phys Ment Rehabil 15:85 89, 1961.
+
+91. Davies CT, White MJ: Muscle weakness following eccentric work in man. Pflugers Arch 392:168 171, 1981. CrossRef [PubMed: 7322843] 
+
+92. Friden J, Sjostrom M, Ekblom B: A morphological study of delayed muscle soreness. Experientia 37:506 507, 1981. CrossRef [PubMed: 7250326] 
+
+93. Hardy L: Improving active range of hip flexion. Res Q Exerc Sport 56:111 114, 1985. CrossRef
+
+94. Starring DT, Gossman MR, Nicholson GG, Jr. et al.: Comparison of cyclic and sustained passive stretching using a mechanical device to increase resting length of hamstring muscles. Phys Ther 68:314 20., 1988. [PubMed: 3347651] 
+
+95. Depino GM, Webright WG, Arnold BL: Duration of maintained hamstring flexibility after cessation of an acute static stretching protocol. J Athl Train 35:56 59, 2000. [PubMed: 16558609] 
+
+96. Spernoga SG, Uhl TL, Arnold BL et al.: Duration of maintained hamstring flexibility after a one time, modified hold relax stretching protocol. J Athl Train 36:44 48, 2001. [PubMed: 12937514] 
+
+97. Bandy WD, Irion JM, Briggler M: The effect of time and frequency of static stretching on flexibility of the hamstring muscles. Phys Ther 77:1090  1096, 1997. [PubMed: 9327823] 
+
+98. Roberts JM, Wilson K: Effect of stretching duration on active and passive range of motion in the lower extremity. Br J Sports Med. 33:259 263, 1999. CrossRef [PubMed: 10450481] 
+
+99. Taylor DC, Dalton JD, Jr., Seaber AV et al.: Viscoelastic properties of muscle tendon units. The biomechanical effects of stretching. Am J Sports Med 18:300 309, 1990.
+CrossRef [PubMed: 2372082] 
+
+100. American College of Sports Medicine Position Stand. The recommended quantity and quality of exercise for developing and maintaining cardiorespiratory and muscular fitness, and flexibility in healthy adults. Med Sci Sports Exerc 30:975 991, 1998.
+CrossRef [PubMed: 9624661] 
+
+101. Fulk GD: Traumatic brain injury, in O'Sullivan SB, Schmitz TJ (eds): Physical Rehabilitation (ed 5). Philadelphia, FA Davis, 2007, pp 895 935.
+
+102. de Jong LD, Nieuwboer A, Aufdemkampe G: Contracture preventive positioning of the hemiplegic arm in subacute stroke patients: a pilot randomized controlled trial. Clin Rehabil 20:656 667, 2006.
+CrossRef [PubMed: 16944823] 
+
+103. Chatterton HJ, Pomeroy VM, Gratton J: Positioning for stroke patients: a survey of physiotherapists' aims and practices. Disabil Rehabil 23:413  421, 2001.
+CrossRef [PubMed: 11400903] 
+
+ 104. Risberg MA, Mork M, Krogstad Jenssen H et al.: Design and implementation of a neuromuscular training program following anterior cruciate	
+
+
+ligament reconstruction. J Orthop Sports Phys Ther 31:620 631, 2001. CrossRef [PubMed: 11720295] 
+
+105. Chmielewski TL, Hewett TE, Hurd WJ et al.: Principles of neuromuscular control for injury prevention and rehabilitation, in Magee D, Zachazewski JE, Quillen WS (eds): Scientific Foundations and Principles of Practice in Musculoskeletal Rehabilitation. St Louis, WB Saunders, 2007, pp 375 387.
+
+106. Voight ML, Cook G, Blackburn TA: Functional lower quarter exercises through reactive neuromuscular training, in Bandy WD (ed): Current Trends for the Rehabilitation of the Athlete Home Study Course. La Crosse, Wisc, Sports Physical Therapy Section, APTA, Inc, 1997.
+
+107. Fitts PM, Posner MI: Human Performance. Belmont, CA, Brooks/Cole, 1967.
+
+108. Litzinger ME, Osif B: Accommodating diverse learning styles: Designing instruction for electronic information sources, in Shirato L (ed): What Is Good Instruction Now? Library Instruction for the 90s. Ann Arbor, Mich, Pierian Press, 1993, pp 26 50.
+
+109. Schmidt R, Lee T: Motor Control and Learning (ed 4). Champaign, Ill, Human Kinetics, 2005.
+
+110. Kisner C, Colby LA: Therapeutic exercise: Foundational concepts, in Kisner C, Colby LA (eds): Therapeutic Exercise. Foundations and Techniques (ed 5). Philadelphia, FA Davis, 2002, pp 1 36.
+
+111. Gentile AM: Skill acquisition: action, movement, and neuromotor processes, in Carr J, Shepherd R (eds): Movement Science: Foundations for Physical Therapy in Rehabilitation. Gaithersburg, Md, Aspen, 2000, pp 111 187.
+
+112. Magill RA: Motor learning and control: Concepts and applications (ed 8). New York, NY, McGraw Hill, 2007.
+
+113. Zwicker JG, Harris SR: A reflection on motor learning theory in pediatric occupational therapy practice. Can J Occup Ther 76:29 37, 2009. CrossRef [PubMed: 19341020] 
+
+114. Peck AC, Detweiler MC: Training concurrent multistep procedural tasks. Human Factors 42:379 389, 2000. CrossRef [PubMed: 11132799] 
+
+115. Ma HI, Trombly CA: The comparison of motor performance between part and whole tasks in elderly persons. Am J Occup Ther 55:62 67, 2001. CrossRef [PubMed: 11216368] 
+
+116. Mathiowetz V, Bass Haugen J: Assessing abilities and capacities: Motor behavior, in Radomski MV, Trombly Latham CA (eds): Occupational Therapy for Physical Dysfunction (ed 6). Baltimore, Md, Williams & Wilkins, 2008, pp 186 211.
+
+117. Salive ME, Mayfield JA, Weissman NW: Patient outcomes research teams and the agency for health care policy and research. Health Serv Res 25:697 708, 1990. [PubMed: 2254084] 
+
+118. Jette AM, Keysor JJ: Uses of evidence in disability outcomes and effectiveness research. Milbank Q 80:325 345, 2002. CrossRef [PubMed: 12101875] 
+
+119. Blair SJ, McCormick E, Bear Lehman J et al.: Evaluation of impairment of the upper extremity. Clin Orthop 221:42 58, 1987. [PubMed: 2955989]
+
+
+120. Van der Wurff P, Meyne W, Hagmeijer RHM: Clinical tests of the sacroiliac joint, a systematic methodological review. part 2: validity. Man Ther 5:89 96, 2000.
+ CrossRef [PubMed: 10903584]	
+
+
+
+121. Resnik L, Dobrzykowski E: Guide to outcome measurement for patients with low back pain syndromes. J Orthop Sports Phys Ther 33:307 318, 2003.
+CrossRef [PubMed: 12839205] 
+
+122. Hebert R, Spiegelhalter DJ, Brayne C: Setting the minimal metrically detectable change on disability rating scales. Arch Phys Med Rehabil 78:1305 1308, 1997.
+CrossRef [PubMed: 9421982] 
+
+123. Fritz JM, Irrgang JJ: A comparison of a modified Oswestry Low Back Pain Disability Questionnaire and the Quebec Back Pain Disability Scale. Phys Ther 81:776 788, 2001. [PubMed: 11175676] 
+
+124. Stratford PW: Invited commentary: Guide to outcome measurement for patients with low back pain syndromes. J Orthop Sports Phys Ther 33:317 318, 2003.
+CrossRef
+
+125. Grimmer K, Sheppard L, Pitt M et al.: Differences in stakeholder expectations in the outcome of physiotherapy management of acute low back pain. Int J Qual Health Care 11:155 162, 1999.
+CrossRef [PubMed: 10442846] 
+
+126. Reuben DB, Siu AL: Measuring physical function in community dwelling older persons: a comparison of self administered, interviewer administered, and performance based measures. J Am Geriatr Soc 43:17 23, 1995.
+CrossRef [PubMed: 7806733] 
+
+127. Tager IB, Swanson A, Satariano WA: Reliability of physical performance and self reported functional measures in an older population. J Gerontol 53:M295 M300, 1998.
+CrossRef
+
+128. de Bruin AF, de Witte LP, Stevens F et al.: Sickness Impact Profile: The state of the art of a generic functional status measure. Soc Sci Med 35:1003 1014, 1992.
+CrossRef [PubMed: 1411695] 
+
+129. Bergner M, Bobbitt RA, Carter WB et al.: The Sickness Impact Profile: Development and final revision of a health status measure. Med Care 19:787, 1981.
+CrossRef [PubMed: 7278416] 
+
+130. Feise RJ, Michael Menke J: Functional rating index: a new valid and reliable instrument to measure the magnitude of clinical change in spinal conditions. Spine 26:78 86; discussion 87, 2001.
+CrossRef [PubMed: 11148650] 
+
+131. Stratford P, Gill C, Westaway M et al.: Assessing disability and change on individual patients: a report of a patient specific measure. Physiother Can 47:258 263, 1995.
+CrossRef
+
+132. Cleland JA, Fritz JM, Whitman JM et al.: The reliability and construct validity of the Neck Disability Index and patient specific functional scale in patients with cervical radiculopathy. Spine 31:598 602, 2006.
+CrossRef [PubMed: 16508559] 
+
+
+
+133. Chatman AB, Hyams SP, Neel JM et al.: The Patient Specific Functional Scale: measurement properties in patients with knee dysfunction. Phys Ther 77:820 829, 1997. [PubMed: 9256870] 
+
+134. Westaway MD, Stratford PW, Binkley JM: The patient specific functional scale: validation of its use in persons with neck dysfunction. J Orthop Sports Phys Ther 27:331 338, 1998.
+CrossRef [PubMed: 9580892] 
+
+135. Swiontkowski MF, Engelberg R, Martin DP et al.: Short musculo skeletal function assessment questionnaire: validity, reliability, and responsiveness. J Bone Joint Surg 81A:1256 1258, 1999.
+
+136. Patrick DL: Rethinking prevention for people with disabilities. Part I: A conceptual model for promoting health. Am J Health Promot 11:257 260, 1997.
+CrossRef [PubMed: 10172932] 
+
+137. Barnett D: Assessment of quality of life. Am J Cardiol 67:41c 44c, 1991 CrossRef [PubMed: 2021119] 
+
+138. Carr A, Thompson P, Kirwan J: Quality of life measures. Br J Rheum 35:275 281, 1996. CrossRef
+
+139. Felce D, Perry J: Quality of life: its definition and measurement. Res Dev Disabil 16:51 74, 1995. CrossRef [PubMed: 7701092] 
+
+140. Krause JS, Bell. RB: Measuring quality of life and secondary conditions: Experiences with spinal cord injury, in Simeonsson RJ, McDevitt LN (eds): Issues in Disability and Health: The Role of Secondary Conditions and Quality of Life. Chapel Hill, University of North Carolina Press, 1999, pp 129 143.
+
+141. Patrick DL, Deyo RA: Generic and disease specific measures in assessing health status and quality of life. Med Care 27(suppl 3):217 232, 1989. CrossRef
+
+142. Simeonsson RJ, Leskinen M: Disability, secondary conditions and quality of life: Conceptual issues, in Simeonsson RJ, McDevitt LN (eds): Issues in Disability and Health: The Role of Secondary Conditions and Quality of Life. Chapel Hill, University of North Carolina Press, 1999, pp 51 72.
+
+143. Fisher C, Dvorak M: Orthopaedic research: What an orthopaedic surgeon needs to know, Orthopaedic Knowledge Update: Home Study Syllabus. Rosemont, Ill, American Academy of Orthopaedic Surgeons, 2005, pp 3 13.
+
+144. Ware JE, Jr., Snow KK, Kosinski M et al.: SF 36 Health Survey: Manual and Interpretation Guide. Boston, The Health Institute, 1993.
+
+145. Beaton DE, Richards RR: Measuring function of the shoulder. A cross sectional comparison of five questionnaires. J Bone Joint Surg 78A:882  890, 1996.
+
+146. Mastos M, Miller K, Eliasson AC et al.: Goal directed training: linking theories of treatment to clinical practice for improved functional activities in daily life. Clin Rehabil 21:47 55, 2007.
+CrossRef [PubMed: 17213241] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
