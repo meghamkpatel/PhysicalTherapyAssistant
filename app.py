@@ -30,25 +30,52 @@ def generate_openai_response(prompt, temperature=0.7):
     except Exception as e:
         return f"An error occurred: {str(e)}"
 
-def search_similar_documents(query, top_k=3):
+def search_similar_documents(query, top_k=5):
     """Search for top_k similar documents in Pinecone based on the query."""
-    model = OpenAIEmbeddings(model="text-embedding-3-large")
-    query_vector = OpenAIEmbeddings().embed_text(query)
-    results = index.query(query_vector, top_k=top_k)
-    return results["matches"]
+    query_vector = client.embeddings.create(
+        input=query,
+        model="text-embedding-3-small"
+    )
+    vector = query_vector.data[0].embedding
+    results = index.query(vector=vector, top_k=top_k, include_metadata=True)
+    contexts = [
+        x['metadata']['text'] for x in results['matches']
+    ]
+    return contexts
+
+def generate_prompt(query):
+    prompt_start = (
+        "Answer the question based on the context below.\n\n"+
+        "Context:\n"
+    )
+    prompt_end = (
+        f"\n\nQuestion: {query}\nAnswer:"
+    )
+    similar_docs = search_similar_documents(user_input)
+    # append contexts until hitting limit 3750
+    for i in range(1, len(similar_docs)):
+        if len("\n\n---\n\n".join(similar_docs[:i])) >= 3750:
+            prompt = (
+                prompt_start +
+                "\n\n---\n\n".join(similar_docs[:i-1]) +
+                prompt_end
+            )
+            break
+        elif i == len(similar_docs)-1:
+            prompt = (
+                prompt_start +
+                "\n\n---\n\n".join(similar_docs) +
+                prompt_end
+            )
+    return prompt
 
 st.title("PhysioPhrame")
 
 user_input = st.text_input("You: ", "")
 
 if user_input:
-    # Generate a response using OpenAI
-    bot_response = generate_openai_response(user_input)
-    
-    # Optionally search for similar documents
-    #similar_docs = search_similar_documents(user_input)
-    #similar_docs_text = "\n\n".join([doc["metadata"]["text"] for doc in similar_docs])
+    finalprompt = generate_prompt(user_input)
+    bot_response = generate_openai_response(finalprompt)
 
     # Display the chatbot's response and similar documents
     st.text_area("Aidin:", value=bot_response, height=150)
-    #st.text_area("Similar Documents:", value=similar_docs_text, height=150)

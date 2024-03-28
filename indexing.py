@@ -14,6 +14,7 @@ pc = Pine(api_key=os.environ.get("PINECONE_API_KEY"))
 
 # Name of your Pinecone index
 index_name = "physical-therapy"
+index = pc.Index(index_name)
 
 # Path to the directory containing your documents
 directory = 'content/PhysicalTherapyAssistant'
@@ -39,7 +40,19 @@ embeddings = OpenAIEmbeddings()
 
 # Utilize Cone (langchain_community's wrapper for Pinecone) to store text documents
 # along with their embeddings into the Pinecone index specified
-vector_store = Cone.from_texts(text_documents, embeddings, index_name=index_name)
-
+####vector_store = Cone.from_texts(text_documents, embeddings, index_name=index_name)
 # At this point, your documents are processed to generate embeddings
 # and stored in a Pinecone vector store for future retrieval and similarity search.
+
+# Process and store each document chunk with metadata
+for i, text in enumerate(text_documents):
+    # Generate embeddings for the text
+    vector = embeddings.embed_query(text)
+    # Include the original text as metadata
+    metadata = {"original_text": text}
+    # Upsert the document into Pinecone
+    index.upsert(vectors=[{
+        "id": f"doc_{i}", 
+        "values": vector, 
+        "metadata": metadata
+    }]

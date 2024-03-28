@@ -7,15 +7,30 @@ import pandas as pd
 import io
 import os
 from dotenv import load_dotenv
+from pinecone import Pinecone
 from openai import OpenAI
+from langchain_openai import OpenAIEmbeddings
+
+load_dotenv()
 
 # Initialize OpenAI client
+pinecone_api_key = os.getenv("PINECONE_API_KEY")
+pc = Pinecone(api_key=pinecone_api_key)
 client = OpenAI()
 
-# Your chosen model
-#MODEL = "gpt-3.5-turbo-16k" # Legacy
-MODEL = "gpt-3.5-turbo-1106" # Latest model
-#MODEL = "gpt-4-1106-preview"
+# Specify your Pinecone index name
+index_name = "physical-therapy"
+index = pc.Index(index_name)
+
+# GPT Model
+MODEL = "gpt-3.5-turbo-1106" 
+
+def search_similar_documents(query, top_k=3):
+    """Search for top_k similar documents in Pinecone based on the query."""
+    model = OpenAIEmbeddings(model="text-embedding-3-large")
+    query_vector = OpenAIEmbeddings().embed_text(query)
+    results = index.query(query_vector, top_k=top_k)
+    return results["matches"]
 
 # Initialize session state variables
 if "session_id" not in st.session_state:
@@ -31,12 +46,7 @@ if "retry_error" not in st.session_state:
     st.session_state.retry_error = 0
 
 # Set up the page
-st.set_page_config(page_title="Enter title here")
-st.sidebar.title("Title")
-st.sidebar.divider()
-st.sidebar.markdown("Your name", unsafe_allow_html=True)
-st.sidebar.markdown("Assistant GPT")
-st.sidebar.divider()
+st.set_page_config(page_title="Physio Phrame")
 
 # File uploader for CSV, XLS, XLSX
 uploaded_file = st.file_uploader("Upload your file", type=["csv", "xls", "xlsx"])
@@ -104,7 +114,8 @@ if prompt := st.chat_input("How can I help you?"):
         message_data["file_ids"] = [st.session_state.file_id]
 
     st.session_state.messages = client.beta.threads.messages.create(**message_data)
-
+    similar_docs = search_similar_documents(prompt)
+    
     st.session_state.run = client.beta.threads.runs.create(
         thread_id=st.session_state.thread.id,
         assistant_id=st.session_state.assistant.id,
