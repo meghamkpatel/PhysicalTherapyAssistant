@@ -43,7 +43,7 @@ embeddings = OpenAIEmbeddings()
 # Store each document chunk with metadata in Pinecone
 for i, text in enumerate(text_documents):
     vector = embeddings.embed_query(text)  # Generate text embeddings
-    metadata = {"original_text": text}  # Prepare metadata
+    metadata = {"text": text}  # Prepare metadata
     # Upsert document into Pinecone with metadata
     index.upsert(vectors=[{
         "id": f"doc_{i}", 
