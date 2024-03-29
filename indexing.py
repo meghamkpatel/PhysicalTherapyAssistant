@@ -1,58 +1,52 @@
 import os
 from dotenv import load_dotenv
-from pinecone import Pinecone as Pine, ServerlessSpec
+from pinecone import Pinecone as Pine
 from langchain_community.vectorstores import Pinecone as Cone
 from langchain_community.document_loaders import DirectoryLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_openai import OpenAIEmbeddings
 
-# Load environment variables, particularly for Pinecone API key
+# Load environment variables
 load_dotenv()
 
-# Initialize Pinecone with your API key
+# Initialize Pinecone
 pc = Pine(api_key=os.environ.get("PINECONE_API_KEY"))
 
-# Name of your Pinecone index
+# Specify Pinecone index name
 index_name = "physical-therapy"
 index = pc.Index(index_name)
 
-# Path to the directory containing your documents
+# Directory with documents
 directory = 'content/PhysicalTherapyAssistant'
 
 def load_docs(directory):
-    """Loads documents from a specified directory using DirectoryLoader."""
+    """Load documents from the specified directory."""
     loader = DirectoryLoader(directory)
     return loader.load()
 
 def split_docs(documents, chunk_size=500, chunk_overlap=20):
-    """Splits loaded documents into chunks of specified size and overlap."""
+    """Split documents into chunks for processing."""
     text_splitter = RecursiveCharacterTextSplitter(chunk_size=chunk_size, chunk_overlap=chunk_overlap)
     return text_splitter.split_documents(documents)
 
-# Load documents and split them into manageable chunks
+# Load and split documents
 documents = load_docs(directory)
 docs = split_docs(documents)
-# Extract text content from each document chunk
 text_documents = [doc.page_content for doc in docs]
 
-# Initialize embeddings object - OpenAIEmbeddings
+# Initialize embeddings generator
 embeddings = OpenAIEmbeddings()
 
-# Utilize Cone (langchain_community's wrapper for Pinecone) to store text documents
-# along with their embeddings into the Pinecone index specified
-####vector_store = Cone.from_texts(text_documents, embeddings, index_name=index_name)
-# At this point, your documents are processed to generate embeddings
-# and stored in a Pinecone vector store for future retrieval and similarity search.
+# The following commented line is kept for context; it appears unused in this script.
+# vector_store = Cone.from_texts(text_documents, embeddings, index_name=index_name)
 
-# Process and store each document chunk with metadata
+# Store each document chunk with metadata in Pinecone
 for i, text in enumerate(text_documents):
-    # Generate embeddings for the text
-    vector = embeddings.embed_query(text)
-    # Include the original text as metadata
-    metadata = {"original_text": text}
-    # Upsert the document into Pinecone
+    vector = embeddings.embed_query(text)  # Generate text embeddings
+    metadata = {"original_text": text}  # Prepare metadata
+    # Upsert document into Pinecone with metadata
     index.upsert(vectors=[{
         "id": f"doc_{i}", 
         "values": vector, 
         "metadata": metadata
-    }]
+    }])

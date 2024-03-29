@@ -8,65 +8,61 @@ from langchain_openai import OpenAIEmbeddings
 # Load environment variables
 load_dotenv()
 
-# Initialize OpenAI and Pinecone
+# Initialize services
 pinecone_api_key = os.getenv("PINECONE_API_KEY")
 pc = Pinecone(api_key=pinecone_api_key)
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
-# Specify your Pinecone index name
+# Pinecone index configuration
 index_name = "physical-therapy"
 index = pc.Index(index_name)
 
+# Initialize or load message history
+if 'message_history' not in st.session_state:
+    st.session_state.message_history = []
+
 def generate_openai_response(prompt, temperature=0.7):
-    """Generate a response using OpenAI based on the given prompt."""
+    """Generates a response from OpenAI based on a structured prompt."""
     try:
-        response = client.chat.completions.create(model="gpt-3.5-turbo",  # You can change this to a different model if needed
-        messages=[
-            {"role": "system", "content": "You are an assistant designed to support physical therapists by offering quick access to information on possible diagnoses, suggesting appropriate tests for accurate diagnosis, highlighting important considerations during patient assessment, and serving as a database for physical therapy knowledge. This tool is intended for use by physical therapists and healthcare professionals, not patients. Your guidance should facilitate the identification of potential conditions based on symptoms and clinical findings, recommend evidence-based tests and measures for diagnosis, and provide key observations that physical therapists should consider when evaluating patients. Always emphasize the importance of professional judgment and the necessity of individualized patient evaluation. Your advice is based on up-to-date physical therapy practices and evidence-based research. Remember, you are here to augment the expertise of physical therapists by providing quick, relevant, and research-backed information to assist in patient care. Do not offer medical diagnoses but rather support the decision-making process with actionable insights and references to authoritative sources when applicable."},
-            {"role": "user", "content": prompt}
-        ])
-        # Extract the text of the first (and in this case, only) completion
+        response = client.chat.completions.create(
+            model="gpt-3.5-turbo",
+            messages=[
+                {"role": "system", "content": "You are an assistant designed to support physical therapists..."},
+                {"role": "user", "content": prompt}
+            ] + [
+                {"role": "user" if msg['sender'] == 'You' else "assistant", "content": msg['content']}
+                for msg in st.session_state.message_history
+            ]
+        )
         return response.choices[0].message.content
     except Exception as e:
         return f"An error occurred: {str(e)}"
 
 def search_similar_documents(query, top_k=5):
-    """Search for top_k similar documents in Pinecone based on the query."""
+    """Searches for documents in Pinecone that are similar to the query."""
     query_vector = client.embeddings.create(
         input=query,
         model="text-embedding-3-small"
     )
     vector = query_vector.data[0].embedding
     results = index.query(vector=vector, top_k=top_k, include_metadata=True)
-    contexts = [
-        x['metadata']['text'] for x in results['matches']
-    ]
+    contexts = [x['metadata']['text'] for x in results['matches']]
     return contexts
 
 def generate_prompt(query):
-    prompt_start = (
-        "Answer the question based on the context below.\n\n"+
-        "Context:\n"
-    )
-    prompt_end = (
-        f"\n\nQuestion: {query}\nAnswer:"
-    )
-    similar_docs = search_similar_documents(user_input)
-    # append contexts until hitting limit 3750
-    for i in range(1, len(similar_docs)):
-        if len("\n\n---\n\n".join(similar_docs[:i])) >= 3750:
-            prompt = (
-                prompt_start +
-                "\n\n---\n\n".join(similar_docs[:i-1]) +
-                prompt_end
-            )
+    """Generates a comprehensive prompt including contexts from similar documents."""
+    prompt_start = "Answer the question based on the context below.\n\nContext:\n"
+    prompt_end = f"\n\nQuestion: {query}\nAnswer:"
+    similar_docs = search_similar_documents(query)
+    
+    # Compile contexts into a single prompt, respecting character limits
+    prompt = prompt_start
+    for doc in similar_docs:
+        if len(prompt + doc + prompt_end) < 3750:
+            prompt += "\n\n---\n\n" + doc
+        else:
             break
-        elif i == len(similar_docs)-1:
-            prompt = (
-                prompt_start +
-                "\n\n---\n\n".join(similar_docs) +
-                prompt_end
-            )
+    prompt += prompt_end
     return prompt
 
 st.title("PhysioPhrame")
@@ -74,8 +70,17 @@ st.title("PhysioPhrame")
 user_input = st.text_input("You: ", "")
 
 if user_input:
-    finalprompt = generate_prompt(user_input)
-    bot_response = generate_openai_response(finalprompt)
+    # Add user's message to history
+    st.session_state.message_history.append({"sender": "You", "content": user_input})
 
-    # Display the chatbot's response and similar documents
-    st.text_area("Aidin:", value=bot_response, height=150)
+    final_prompt = generate_prompt(user_input)
+    bot_response = generate_openai_response(final_prompt)
+    
+    # Add Aidin's response to history
+    st.session_state.message_history.append({"sender": "Aidin", "content": bot_response})
+
+    # Display chat messages from history on app rerun
+    for message in st.session_state.message_history:
+        role = "user" if message["sender"] == "You" else "assistant"
+        with st.chat_message(role):
+            st.markdown(message["content"])
