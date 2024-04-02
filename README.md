@@ -9,6 +9,16 @@ PhysioPhrame is a domain-specific application designed to assist physical therap
 - **Real-time Response Generation**: Generates responses in real-time, offering quick access to information without navigating through traditional databases.
 - **Chat History**: Maintains a session-based chat history for the continuity of interaction, enhancing the user experience by keeping track of the conversation flow.
 
+## Supplementary Scripts and Their Roles
+### PDF to Text Conversion (`pdftotxt.py`)
+To ensure the application's semantic search engine has access to a broad range of resources, the `pdftotxt.py` script plays a pivotal role in preprocessing. It transforms PDF documents into text files, making the content available for further processing. This step is vital for extracting meaningful information from PDFs, a common format in medical documentation and research papers.
+
+### Data Indexing (`indexing.py`)
+The `indexing.py` script is at the heart of populating the vector database, setting the stage for the application's semantic search capabilities. It processes and chunks text documents into digestible segments, generates embeddings using LLM, and indexes them along with metadata in Pinecone. This meticulous organization facilitates the efficient retrieval of semantically similar content, underpinning the application's quick and relevant responses.
+
+### Enhancing Interactivity with PTAssistant (`PTAssistant.py`)
+Building on the foundation laid by the core application, `PTAssistant.py` explores the capabilities of the OpenAI Assistant API to further refine user interactions. This script exemplifies how advanced AI models can be leveraged to not only understand but also anticipate user queries, offering nuanced and context-aware responses. It marks a significant advancement in making the application not just a tool but a conversational partner, capable of guiding users through complex information with ease.
+
 ## How to Run
 
 ### Prerequisites
