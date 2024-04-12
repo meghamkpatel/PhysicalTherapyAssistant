@@ -20,7 +20,7 @@ index = pc.Index(index_name)
 # Initialize or load message history
 if 'message_history' not in st.session_state:
     st.session_state.message_history = []
-
+    
 def generate_openai_response(prompt, temperature=0.7):
     """Generates a response from OpenAI based on a structured prompt."""
     try:
