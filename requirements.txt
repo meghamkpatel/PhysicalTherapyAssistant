@@ -4,5 +4,6 @@ pandas
 pydeck
 streamlit
 openai
-dotenv
-pinecone
+python-dotenv
+pinecone-client
+langchain_openai
