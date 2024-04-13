@@ -9,9 +9,9 @@ from langchain_openai import OpenAIEmbeddings
 load_dotenv()
 
 # Initialize services
-pinecone_api_key = os.getenv("PINECONE_API_KEY")
+pinecone_api_key = st.secrets["PINECONE_API_KEY"]
 pc = Pinecone(api_key=pinecone_api_key)
-client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
 
 # Pinecone index configuration
 index_name = "physical-therapy"
