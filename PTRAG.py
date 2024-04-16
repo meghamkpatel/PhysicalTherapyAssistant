@@ -5,7 +5,9 @@ import os
 from dotenv import load_dotenv
 import io
 from pinecone import Pinecone
-import pdfplumber
+from PyPDF2 import PdfReader
+from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain_openai import OpenAIEmbeddings
 import docx
 from PIL import Image
 import pytesseract
@@ -30,27 +32,15 @@ def submit():
     st.session_state.user_input = st.session_state.widget
     st.session_state.widget = ''
 
-#st.chat_input('user:', key='widget', on_change=submit, value=st.session_state.user_input)
-
-
-# Function to process images using OCR
-def image_to_text(image):
-    text = pytesseract.image_to_string(image)
-    return text
-
 # Function to process PDF files
 def pdf_to_text(file):
+    
+    pdf_reader = PdfReader(file)
     text = ""
-    with pdfplumber.open(file) as pdf:
-        for page in pdf.pages:
-            text += page.extract_text() or ""  # Ensure no None is added
-    return text
+    for page in pdf_reader.pages:
+        text += page.extract_text()
 
-# Function to process DOCX files
-def docx_to_text(file):
-    doc = docx.Document(file)
-    text = [p.text for p in doc.paragraphs if p.text]
-    return "\n".join(text)
+    return text
 
 def clear_text_input():
     st.session_state.text_input = ''
@@ -60,33 +50,9 @@ def clear_text_input():
 index_name = "physical-therapy"
 index = pc.Index(index_name)
 
-# # File uploader
-# uploaded_file = st.file_uploader("Upload your file", type=["docx", "pdf", "jpeg", "png"])
-
-# if uploaded_file is not None:
-#     file_type = uploaded_file.type
-#     try:
-#         if file_type == "application/pdf":
-#             text_data = pdf_to_text(uploaded_file)
-#         elif file_type == "application/vnd.openxmlformats-officedocument.wordprocessingml.document":
-#             text_data = docx_to_text(uploaded_file)
-#         elif file_type in ["image/jpeg", "image/png"]:
-#             image = Image.open(uploaded_file)
-#             text_data = image_to_text(image)
-
-#         # Display extracted text
-#         #st.text_area("Extracted Text", text_data, height=300)
-
-#         # Convert text to JSON and upload to OpenAI
-#         json_data = json.dumps({"text": text_data}, indent=4)
-#         file_stream = io.BytesIO(json_data.encode('utf-8'))  # Use BytesIO for binary data
-#         file_response = client.files.create(file=file_stream, purpose='assistants')
-#         st.session_state.file_id = file_response.id
-
-#         st.download_button("Download Text as JSON", data=json_data, file_name="text_data.json", mime="application/json")
-#     except Exception as e:
-#         st.error(f"An error occurred: {e}")
-
+# File uploader
+uploaded_file = st.file_uploader("Upload your file", type="pdf")
+text_data = ""
 
 # Initialize or load message history
 if 'message_history' not in st.session_state:
@@ -95,11 +61,12 @@ if 'message_history' not in st.session_state:
 def generate_openai_response(prompt, temperature=0.7):
     """Generates a response from OpenAI based on a structured prompt."""
     try:
+        full_prompt = f"{prompt}\n\nAdditional Docs: {text_data}"
         response = client.chat.completions.create(
             model="gpt-3.5-turbo",
             messages=[
                 {"role": "system", "content": "You are an assistant designed to support physical therapists by offering quick access to information on possible diagnoses, suggesting appropriate tests for accurate diagnosis, highlighting important considerations during patient assessment, and serving as a database for physical therapy knowledge. This tool is intended for use by physical therapists and healthcare professionals, not patients. Your guidance should facilitate the identification of potential conditions based on symptoms and clinical findings, recommend evidence-based tests and measures for diagnosis, and provide key observations that physical therapists should consider when evaluating patients. Always emphasize the importance of professional judgment and the necessity of individualized patient evaluation. Your advice is based on up-to-date physical therapy practices and evidence-based research. Remember, you are here to augment the expertise of physical therapists by providing quick, relevant, and research-backed information to assist in patient care. Do not offer medical diagnoses but rather support the decision-making process with actionable insights and references to authoritative sources when applicable."},
-                {"role": "user", "content": prompt}
+                {"role": "user", "content": full_prompt}
             ] + [
                 {"role": "user" if msg['role'] == 'You' else "assistant", "content": msg['content']}
                 for msg in st.session_state.message_history
@@ -142,6 +109,10 @@ user_input = st.chat_input("What is up?") #st.session_state.user_input
 if user_input:
     # Add user's message to history
     st.session_state.message_history.append({"role": "user", "content": user_input})
+
+    if uploaded_file is not None:
+        text_data = pdf_to_text(uploaded_file)
+        uploaded_file = None  # Clear out the uploaded file
 
     final_prompt = generate_prompt(user_input)
     bot_response = generate_openai_response(final_prompt)

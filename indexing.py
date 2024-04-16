@@ -37,9 +37,6 @@ text_documents = [doc.page_content for doc in docs]
 # Initialize embeddings generator
 embeddings = OpenAIEmbeddings()
 
-# The following commented line is kept for context; it appears unused in this script.
-# vector_store = Cone.from_texts(text_documents, embeddings, index_name=index_name)
-
 # Store each document chunk with metadata in Pinecone
 for i, text in enumerate(text_documents):
     vector = embeddings.embed_query(text)  # Generate text embeddings
