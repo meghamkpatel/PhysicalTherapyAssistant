@@ -1,49 +1,25 @@
-import json
 import streamlit as st
-from openai import OpenAI
-import os
-from dotenv import load_dotenv
-import io
-from pinecone import Pinecone
-import pdfplumber
+import pytest
+from PyPDF2 import PdfReader
+from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain_openai import OpenAIEmbeddings
 import docx
-from PIL import Image
-import pytesseract
+from pinecone import Pinecone
+from langchain_community.document_loaders import DirectoryLoader
 
-# Initialize services
+# Initialize Pinecone and OpenAI services
 pinecone_api_key = st.secrets["PINECONE_API_KEY"]
 pc = Pinecone(api_key=pinecone_api_key)
-client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
 
-st.set_page_config(
-    page_title="PhysioPhrame",
-    page_icon=":rocket:",
-    layout="wide",
-)
-
-st.title("PhysioPhrame")
-
-if 'user_input' not in st.session_state:
-    st.session_state.user_input = ''
-
-def submit():
-    st.session_state.user_input = st.session_state.widget
-    st.session_state.widget = ''
-
-#st.chat_input('user:', key='widget', on_change=submit, value=st.session_state.user_input)
-
-
-# Function to process images using OCR
-def image_to_text(image):
-    text = pytesseract.image_to_string(image)
-    return text
+# Initialize embeddings generator
+embeddings = OpenAIEmbeddings()
 
 # Function to process PDF files
 def pdf_to_text(file):
+    pdf_reader = PdfReader(file)
     text = ""
-    with pdfplumber.open(file) as pdf:
-        for page in pdf.pages:
-            text += page.extract_text() or ""  # Ensure no None is added
+    for page in pdf_reader.pages:
+        text += page.extract_text()
     return text
 
 # Function to process DOCX files
@@ -52,108 +28,87 @@ def docx_to_text(file):
     text = [p.text for p in doc.paragraphs if p.text]
     return "\n".join(text)
 
-def clear_text_input():
-    st.session_state.text_input = ''
-
-
-# Pinecone index configuration
-index_name = "physical-therapy"
-index = pc.Index(index_name)
-
-# # File uploader
-# uploaded_file = st.file_uploader("Upload your file", type=["docx", "pdf", "jpeg", "png"])
-
-# if uploaded_file is not None:
-#     file_type = uploaded_file.type
-#     try:
-#         if file_type == "application/pdf":
-#             text_data = pdf_to_text(uploaded_file)
-#         elif file_type == "application/vnd.openxmlformats-officedocument.wordprocessingml.document":
-#             text_data = docx_to_text(uploaded_file)
-#         elif file_type in ["image/jpeg", "image/png"]:
-#             image = Image.open(uploaded_file)
-#             text_data = image_to_text(image)
-
-#         # Display extracted text
-#         #st.text_area("Extracted Text", text_data, height=300)
-
-#         # Convert text to JSON and upload to OpenAI
-#         json_data = json.dumps({"text": text_data}, indent=4)
-#         file_stream = io.BytesIO(json_data.encode('utf-8'))  # Use BytesIO for binary data
-#         file_response = client.files.create(file=file_stream, purpose='assistants')
-#         st.session_state.file_id = file_response.id
-
-#         st.download_button("Download Text as JSON", data=json_data, file_name="text_data.json", mime="application/json")
-#     except Exception as e:
-#         st.error(f"An error occurred: {e}")
-
-
-# Initialize or load message history
-if 'message_history' not in st.session_state:
-    st.session_state.message_history = []
+# Function to push uploaded file to Pinecone
+def push_to_pinecone(file):
+    if file.type == "pdf":
+        text = pdf_to_text(file)
+    elif file.type == "docx":
+        text = docx_to_text(file)
     
-def generate_openai_response(prompt, temperature=0.7):
-    """Generates a response from OpenAI based on a structured prompt."""
-    try:
-        response = client.chat.completions.create(
-            model="gpt-3.5-turbo",
-            messages=[
-                {"role": "system", "content": "You are an assistant designed to support physical therapists by offering quick access to information on possible diagnoses, suggesting appropriate tests for accurate diagnosis, highlighting important considerations during patient assessment, and serving as a database for physical therapy knowledge. This tool is intended for use by physical therapists and healthcare professionals, not patients. Your guidance should facilitate the identification of potential conditions based on symptoms and clinical findings, recommend evidence-based tests and measures for diagnosis, and provide key observations that physical therapists should consider when evaluating patients. Always emphasize the importance of professional judgment and the necessity of individualized patient evaluation. Your advice is based on up-to-date physical therapy practices and evidence-based research. Remember, you are here to augment the expertise of physical therapists by providing quick, relevant, and research-backed information to assist in patient care. Do not offer medical diagnoses but rather support the decision-making process with actionable insights and references to authoritative sources when applicable."},
-                {"role": "user", "content": prompt}
-            ] + [
-                {"role": "user" if msg['role'] == 'You' else "assistant", "content": msg['content']}
-                for msg in st.session_state.message_history
-            ]
-        )
-        return response.choices[0].message.content
-    except Exception as e:
-        return f"An error occurred: {str(e)}"
+    vector = embeddings.embed_query(text)
+    metadata = {"text": text}
+    index_name = "physical-therapy"
+    index = pc.Index(index_name)
+    index.upsert(vectors=[{
+        "id": f"doc_{file.name}", 
+        "values": vector, 
+        "metadata": metadata
+    }])
 
-def search_similar_documents(query, top_k=5):
-    """Searches for documents in Pinecone that are similar to the query."""
-    query_vector = client.embeddings.create(
-        input=query,
-        model="text-embedding-3-small"
-    )
-    vector = query_vector.data[0].embedding
-    results = index.query(vector=vector, top_k=top_k, include_metadata=True)
-    contexts = [x['metadata']['text'] for x in results['matches']]
-    return contexts
-
-def generate_prompt(query):
-    """Generates a comprehensive prompt including contexts from similar documents."""
-    prompt_start = "Answer the question based on the context below.\n\nContext:\n"
-    prompt_end = f"\n\nQuestion: {query}\nAnswer:"
-    similar_docs = search_similar_documents(query)
+# Mock file upload function for testing
+def mock_file_upload(file_path):
+    class MockFile:
+        def __init__(self, file_path):
+            self.name = file_path.split("/")[-1]
+            self.type = file_path.split(".")[-1]
     
-    # Compile contexts into a single prompt, respecting character limits
-    prompt = prompt_start
-    for doc in similar_docs:
-        if len(prompt + doc + prompt_end) < 3750:
-            prompt += "\n\n---\n\n" + doc
-        else:
-            break
-    prompt += prompt_end
-    return prompt
+    return MockFile(file_path)
 
+# Process file for testing
+def process_file(file):
+    if file.type == "pdf":
+        return pdf_to_text(file)
+    elif file.type == "docx":
+        return docx_to_text(file)
 
-user_input = st.chat_input("What is up?") #st.session_state.user_input
+# Generate bot response for testing
+def generate_bot_response(user_input):
+    return "Bot response for: " + user_input
 
-if user_input:
-    # Add user's message to history
-    st.session_state.message_history.append({"role": "user", "content": user_input})
-
-    final_prompt = generate_prompt(user_input)
-    bot_response = generate_openai_response(final_prompt)
+# Unit Test Example: Text Extraction from PDF
+def test_pdf_to_text():
+    test_file_path = "test_file.pdf"
+    expected_text = "Sample text extracted from PDF."
     
-    # Add Aidin's response to history
-    st.session_state.message_history.append({"role": "assistant", "content": bot_response})
+    with open(test_file_path, "rb") as file:
+        extracted_text = pdf_to_text(file)
+    
+    assert extracted_text == expected_text, f"Expected text: {expected_text}, Actual text: {extracted_text}"
 
-    # Clear text input
-    clear_text_input()
+# Integration Test Example: File Upload and Processing
+def test_file_upload_and_processing():
+    test_file_path = "sample_file.pdf"
+    
+    uploaded_file = mock_file_upload(test_file_path)
+    processed_text = process_file(uploaded_file)
+    
+    assert processed_text is not None, "File processing failed."
 
-    # Display chat messages from history on app rerun
-    for message in st.session_state.message_history:
-        role = "user" if message["role"] == "user" else "assistant"
-        with st.chat_message(role):
-            st.markdown(message["content"])
+# UI Test Example: Chatbot Interaction
+def test_chatbot_interaction():
+    user_input = "What is up?"
+    bot_response = generate_bot_response(user_input)
+    
+    assert bot_response is not None, "Chatbot response generation failed."
+
+# Main Streamlit Application
+def main():
+    st.title("PhysioPhrame")
+    
+    # Sidebar for file uploading
+    filetoimport = st.sidebar.file_uploader("Upload file to push into Pinecone", type=["pdf", "docx"])
+    
+    if filetoimport:
+        push_to_pinecone(filetoimport)
+        st.sidebar.success(f"File {filetoimport.name} uploaded and processed!")
+    
+    # User input for chat
+    user_input = st.chat_input("What is up?")
+    
+    if user_input:
+        bot_response = generate_bot_response(user_input)
+        st.chat_message("Assistant", bot_response)
+
+# Run Streamlit application
+if __name__ == "__main__":
+    main()
