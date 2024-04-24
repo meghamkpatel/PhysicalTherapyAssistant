@@ -52,8 +52,52 @@ Building on the foundation laid by the core application, `PTAssistant.py` explor
 
 5. Open the provided URL in your web browser to interact with the application. Input your queries related to physical therapy, and PhysioPhrame will assist you with relevant information.
 
-### Testing
-Test the application thoroughly with various natural language queries to evaluate its performance. Ensure that the system returns relevant and accurate responses.
+## Testing and Evaluation
+
+### PhysioPhrame Testing and Evaluation Notebook
+
+To ensure the reliability and effectiveness of PhysioPhrame, a comprehensive testing and evaluation process has been conducted using the `PhysioPhrame_Testing_and_Evaluation.ipynb` Colab notebook. This notebook focuses on implementing Retrieval-Augmented Generation (RAG) with Langchain and OpenAI to assess the application's performance in answering questions based on a provided transcription.
+
+#### Retrieval-Augmented Generation (RAG) with Langchain and OpenAI
+
+The notebook is structured into various sections, each serving a specific purpose in the evaluation process:
+
+**Introduction**: The notebook sets the context by explaining the objective of creating a chatbot capable of answering questions based on a transcription.
+
+**Section 1: Load and Split Transcription**
+- Imports necessary libraries.
+- Loads environment variables, including the OpenAI API key.
+- Reads and splits the transcription text into manageable chunks for processing.
+
+**Section 2: Compute Similarity and Find Relevant Chunks**
+- Initializes OpenAI embeddings.
+- Defines a function to compute embeddings for a given question and find the most similar chunk from the transcription.
+
+**Section 3: Create a Knowledge Base and Generate Test Set**
+- Constructs a knowledge base from the transcription chunks.
+- Generates a test set comprising 20 questions to evaluate the chatbot's performance.
+
+**Section 4: Evaluate the Model on the Test Set**
+- Initializes the OpenAI model for evaluation.
+- Defines an answer function to generate responses based on the context and question.
+- Evaluates the model's performance on the generated test set and knowledge base.
+
+**Summary and Results**
+- Displays the evaluation report to provide insights into the model's performance, highlighting its strengths and areas for improvement.
+
+#### Summary and Results
+
+The evaluation report provides a detailed analysis of how well the model performed on the test set. It offers valuable insights into the chatbot's ability to comprehend and respond to queries based on the provided transcription.
+
+```python
+print(report)
+```
+
+By examining this report, stakeholders can gauge the effectiveness of PhysioPhrame in handling natural language queries related to physical therapy, ensuring that the application meets the intended objectives and delivers accurate and relevant information to its users.
+
+Through rigorous testing and evaluation, PhysioPhrame aims to establish itself as a reliable and efficient tool for physical therapists and healthcare professionals, enhancing their decision-making process and improving patient care outcomes.
+
+
 
 ---
 

@@ -71,6 +71,18 @@ uploaded_file = st.file_uploader("Upload your file", type="pdf")
 # File uploader
 text_data = ""
 
+def get_suggested_questions(query, top_k=5):
+    """Fetches suggested questions based on the user's query."""
+    # Here you can use your own logic or model to generate suggested questions
+    # For demonstration purposes, I'm returning some hardcoded suggested questions
+    return [
+        "What are the common treatments for back pain?",
+        "How do I treat a sprained ankle?",
+        "What exercises can help with knee pain?",
+        "What are the symptoms of arthritis?",
+        "How do I improve posture?"
+    ]
+
 # Initialize or load message history
 if 'message_history' not in st.session_state:
     st.session_state.message_history = []
@@ -127,6 +139,15 @@ def generate_openai_response(prompt, temperature=0.7):
 # User input for chat
 user_input = st.chat_input("Ask me a question")
 
+# Display suggested questions
+suggested_questions = get_suggested_questions(user_input)
+if suggested_questions:
+    st.write("Suggested Questions:")
+    for question in suggested_questions:
+        if st.button(question):
+            user_input = question
+
+
 if user_input:
     # Add user's message to history
     st.session_state.message_history.append({"role": "user", "content": user_input})
@@ -149,3 +170,5 @@ if user_input:
         role = "user" if message["role"] == "user" else "assistant"
         with st.chat_message(role):
             st.markdown(message["content"])
+
+    
