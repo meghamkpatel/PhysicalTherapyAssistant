@@ -1,5 +1,7 @@
 # PhysioPhrame
 
+Link to the app: [https://physicaltherapyassistant-bbxcbhlrxm9de3yd7szjnz.streamlit.app/](https://physicaltherapyassistant-bbxcbhlrxm9de3yd7szjnz.streamlit.app/)
+
 ## Description
 PhysioPhrame is a domain-specific application designed to assist physical therapists and healthcare professionals by providing quick access to information through natural language queries. Leveraging the power of Large Language Models (LLM) for semantic understanding and a vector database for efficient data storage and retrieval, PhysioPhrame offers an innovative way to access a wealth of physical therapy knowledge. Whether you're looking for possible diagnoses, appropriate tests, or key considerations during patient assessment, PhysioPhrame is your go-to assistant.
 
