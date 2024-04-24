@@ -17,12 +17,15 @@ index_name = "physical-therapy"
 index = pc.Index(index_name)
 
 # Directory with documents
-directory = 'content/PhysicalTherapyAssistant'
+directory = 'content/Surgery'
 
 def load_docs(directory):
     """Load documents from the specified directory."""
     loader = DirectoryLoader(directory)
-    return loader.load()
+    documents = loader.load()
+    for doc in documents:
+        doc.page_content = doc.page_content.replace('\n', ' ')
+    return documents
 
 def split_docs(documents, chunk_size=500, chunk_overlap=20):
     """Split documents into chunks for processing."""
